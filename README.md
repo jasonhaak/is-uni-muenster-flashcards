@@ -7,12 +7,10 @@ Note: All flashcards are written in German. Specific terms may appear in English
 1. [Purpose of This Repository](#purpose-of-this-repository)
 2. [Included Modules](#included-modules)
 3. [How to Use](#how-to-use)
-4. [Important Notice on Maintenance](#important-notice-on-maintenance)
-5. [Contact & Support](#contact--support)
-6. [Bachelor in Wirtschaftsinformatik](#bachelor-in-wirtschaftsinformatik)
-7. [Donations](#donations)
-8. [How to Contribute](#how-to-contribute)
-9. [Author & Licence](#author--licence)
+4. [Contact & Support](#contact--support)
+5. [Donations](#donations)
+6. [How to Contribute](#how-to-contribute)
+7. [Author & Licence](#author--licence)
 
 ## Purpose of This Repository
 This repository provides a comprehensive set of Anki flashcards that include:
@@ -32,15 +30,8 @@ This repository provides a comprehensive set of Anki flashcards that include:
 2. Download the relevant `.apkg` file(s) from this repository
 3. Import the deck into Anki via *File → Import* or drag and drop
 
-## Important Notice on Maintenance
-While contributions are welcome, this repository is not actively maintained.
-If you spot errors or have improvements, please feel free to submit corrections via pull requests. I will review and merge fixes, but do not guarantee active development or ongoing support.
-
 ## Contact & Support
 For questions, suggestions, or corrections: Open an [issue](https://github.com/jasonhaak/is-uni-muenster-flashcards/issues) or submit a Pull Request.
-
-## Bachelor in Wirtschaftsinformatik
-A separate Anki deck collection for the **Bachelor in Wirtschaftsinformatik** at the University of Münster is also available: [WI-Flashcards](https://github.com/jasonhaak/wi-uni-muenster-flashcards)
 
 ## Donations
 If you find these flashcards helpful and want to buy me a coffee, you can donate me via PayPal:
@@ -50,6 +41,7 @@ If you find these flashcards helpful and want to buy me a coffee, you can donate
 </a>
 
 ## How to Contribute
+While contributions are welcome, this repository is not actively maintained. I will review and merge fixes, but do not guarantee ongoing support.
 If you want to contribute flashcards, corrections or improvements, please follow this workflow to ensure consistency.
 
 ### Prerequisites
