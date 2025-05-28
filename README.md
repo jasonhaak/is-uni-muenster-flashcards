@@ -1,4 +1,4 @@
-# Anki Flashcards – Information Systems Bachelor @ University of Münster
+# Anki Flashcards – Information Systems Master @ University of Münster
 [![en](https://img.shields.io/badge/language-en-green.svg)](https://github.com/jasonhaak/is-uni-muenster-flashcards/blob/main/README.md)
 [![de](https://img.shields.io/badge/language-de-red.svg)](https://github.com/jasonhaak/is-uni-muenster-flashcards/blob/main/README-de.md)
 
