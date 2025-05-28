@@ -25,14 +25,10 @@ Dieses Repository stellt eine Sammlung von Anki-Karteikarten bereit, die folgend
 - Zusätzliches Material aus Lehrbüchern und weiteren wissenschaftlichen Quellen
 
 ## Kurse
-- **BWL1**: Einführung in die Betriebswirtschaftslehre (WS 22/23) – Klein, Branger, Schneider
-- **BWL2**: Grundlagen des Rechnungswesens (SS 23) – Kajüter
-- **BWL3**: Operations Management (WS 23/24) – Hellingrath
-- **BWL4**: Grundlagen des Marketings (WS 22/23) – Wiesel
-- **INFO2**: Datenstrukturen und Algorithmen (SS 23) – Linsen
-- **QM4**: Datenanalyse (SS 24) und Simulation (SS 23) – Terveer (SS 24), Schönberger (SS 23)
-- **VWL**: Einführung in die Volkswirtschaftslehre (WS 22/23) – Sieg
-- **WI6**: Digital Business (WS 22/23) – Stockinger
+- **BPM3:** Enterprise Architecture Management (SS 25) – Kalla  
+- **MDB3:** Network Economics (SS 25) – Haines  
+- **MDB5:** Digital Innovation and Sustainable Development (SS 25) – Püchel  
+- **MDB6:** Strategic IT/IS Management & Cases (SS 25) – Teubner  
 
 ## Nutzung
 1. Installiere [Anki](https://apps.ankiweb.net/) auf deinem Gerät
@@ -40,7 +36,7 @@ Dieses Repository stellt eine Sammlung von Anki-Karteikarten bereit, die folgend
 3. Importiere die Decks über *Datei → Importieren* oder per Drag-and-Drop in Anki
 
 ## Kontakt & Support
-Bei Fragen, Anregungen oder Korrekturen: Eröffne ein [Issue](https://github.com/jasonhaak/wi-uni-muenster-flashcards/issues) oder stelle einen Pull Request.
+Bei Fragen, Anregungen oder Korrekturen: Eröffne ein [Issue](https://github.com/jasonhaak/is-uni-muenster-flashcards/issues) oder stelle einen Pull Request.
 
 ## Spenden
 Wenn dir diese Karteikarten bei deinem Studium helfen und du dieses Projekts unterstützen möchtest, kannst du über PayPal spenden:
