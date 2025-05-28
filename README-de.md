@@ -2,7 +2,7 @@
 [![en](https://img.shields.io/badge/sprache-en-green.svg)](https://github.com/jasonhaak/is-uni-muenster-flashcards/blob/main/README.md)
 [![de](https://img.shields.io/badge/sprache-de-red.svg)](https://github.com/jasonhaak/is-uni-muenster-flashcards/blob/main/README-de.md)
 
-Willkommen in diesem Repository mit Anki-Karteikarten für den Masterstudiengang Information Systems an der Universität Münster.
+Willkommen in diesem Repository mit Anki-Karteikarten für den Masterstudiengang Informations Systems an der Universität Münster.
 
 > Hinweis: Alle Karteikarten sind auf Deutsch verfasst. Fachbegriffe können in Englisch auftreten, jedoch sind Erklärungen, Definitionen und Kontexte ausschließlich in deutscher Sprache.
 
