@@ -1,6 +1,6 @@
 # Anki Flashcards – Information Systems Master @ University of Münster
-[![en](https://img.shields.io/badge/language-en-green.svg)](https://github.com/jasonhaak/is-uni-muenster-flashcards/blob/main/README.md)
-[![de](https://img.shields.io/badge/language-de-red.svg)](https://github.com/jasonhaak/is-uni-muenster-flashcards/blob/main/README-de.md)
+[![en](https://img.shields.io/badge/Language-en-green.svg)](https://github.com/jasonhaak/is-uni-muenster-flashcards/blob/main/README.md)
+[![de](https://img.shields.io/badge/Language-de-red.svg)](https://github.com/jasonhaak/is-uni-muenster-flashcards/blob/main/README-de.md)
 
 Welcome to this repository containing Anki flashcards for the Master in Information Systems at the University of Münster.
 
@@ -46,8 +46,7 @@ If you find these flashcards helpful and want to buy me a coffee, you can donate
 </a>
 
 ## How to Contribute
-While contributions are welcome, this repository is not actively maintained. I will review and merge fixes, but do not guarantee ongoing support.
-If you want to contribute flashcards, corrections or improvements, please follow this workflow to ensure consistency.
+While contributions are welcome, this repository is not actively maintained. I will review and merge fixes, but do not guarantee ongoing support. If you want to contribute flashcards, corrections or improvements, please follow this workflow to ensure consistency.
 
 ### Step-by-Step Contribution Guide
 1. Fork this repository
