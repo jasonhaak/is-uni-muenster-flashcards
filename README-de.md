@@ -4,7 +4,7 @@
 
 Willkommen in diesem Repository mit Anki-Karteikarten für den Masterstudiengang Information Systems an der Universität Münster.
 
-> Hinweis: Alle Karteikarten sind auf Deutsch verfasst. Fachbegriffe können in Englisch auftreten, jedoch sind Erklärungen, Definitionen und Kontexte ausschließlich in deutscher Sprache.
+> Hinweis: Alle Karteikarten wurden ursprünglich auf Deutsch verfasst. Falls eine englische Version vorliegt, handelt es sich dabei um KI-übersetzte Karteikarten.
 
 > Hinweis: Einzelne Karteikarten können in mehreren Decks vorkommen, da die Organisation themenbasiert erfolgt und nicht strikt nach einzelnen Veranstaltungen. Dadurch kann es sein, dass eine Karte sowohl in _Kurs 1_ als auch in _Kurs 2_ enthalten ist. Ebenso kann ergänzendes Material aus verwandten Veranstaltungen in einem Deck enthalten sein.
 
@@ -25,10 +25,9 @@ Dieses Repository stellt eine Sammlung von Anki-Karteikarten bereit, die folgend
 - Zusätzliches Material aus Lehrbüchern und weiteren wissenschaftlichen Quellen
 
 ## Kurse
-- **BPM3:** Enterprise Architecture Management (SS 25) – Kalla  
-- **MDB3:** Network Economics (SS 25) – Haines  
-- **MDB5:** Digital Innovation and Sustainable Development (SS 25) – Püchel  
-- **MDB6:** Strategic IT/IS Management & Cases (SS 25) – Teubner  
+- **MDB6:** Strategic IT/IS Management & Cases (SS 25) – Teubner
+	- **de**: Originales Deck auf Deutsch
+	- **en**: KI-übersetztes Deck auf Englisch
 
 ## Nutzung
 1. Installiere [Anki](https://apps.ankiweb.net/) auf deinem Gerät
@@ -57,7 +56,7 @@ Obwohl Contributions willkommen sind, wird dieses Repository nicht aktiv gepfleg
    - Als `.txt` über „Notizen exportieren“
      - Exportformat: „Notizen mit unformatiertem Text (`.txt`)“
      - Einstellungen: HTML und Medienpfade einschließen
-5. Lege einen neuen Ordner mit dem Namen `MODUL-SEMESTER` an (z. B. `BWL1-WS-23-24`)
+5. Lege einen neuen Ordner mit dem Namen `MODUL-SEMESTER` an (z. B. `BWL1-WS-23-24`)
 6. Füge die `.txt`-Datei und `.apkg`-Datei in den Ordner ein
 7. Bearbeite die `README.md` und füge dein Deck hinzu
 8. Committe die Änderungen mit einer sinnvollen Nachricht
