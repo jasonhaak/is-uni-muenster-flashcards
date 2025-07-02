@@ -30,7 +30,7 @@ This repository provides a comprehensive set of Anki flashcards that include:
 	- **en**: AI-translated deck in English
 
 ## How to Use
-1. Download and install [Anki](https://apps.ankiweb.net/)
+1. Download and install [Anki](https://apps.ankiweb.net/#downloads) or use it in the [browser](https://ankiweb.net/about)
 2. Download the relevant `.apkg` file(s) from this repository
 3. Import the deck into Anki via *File → Import* or drag and drop
 
