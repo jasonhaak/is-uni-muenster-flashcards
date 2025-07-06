@@ -1,0 +1,16 @@
+Title: Flash Cards for this Course
+
+Hi everyone,
+
+for this course, I’ve created an Anki flashcard deck that covers all the essential content from the lectures.
+
+You can download the deck and find all relevant information here:
+https://github.com/jasonhaak/is-uni-muenster-flashcards/releases
+
+Two versions are available:
+- de: Original deck in German
+- en: AI-translated deck in English (not manually reviewed)
+
+Notice: This deck is not affiliated with the lecturers, the institute or the university.
+
+Hope it helps with your preparation!
