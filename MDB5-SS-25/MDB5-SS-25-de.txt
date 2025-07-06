@@ -1,0 +1,643 @@
+#separator:tab
+#html:true
+"<p>{{c1::Control Strategy}} besteht aus:</p>
+<ul>
+<li>{{c2::Laissez-Faire Control}}</li>
+<li>{{c2::Preemptive Control}}</li>
+<li>{{c2::Stewardship Control}}</li>
+</ul>"	
+"Frage:<br />
+Was sind typische Spannungen im Kontext digitaler Nachhaltigkeit?"	Zielkonflikte zwischen ökologischen, sozialen und ökonomischen Interessen (z. B. Effizienzsteigerung vs. Datenschutz, wirtschaftliches Wachstum vs. Ressourcenverbrauch).
+"wahr oder falsch:<br />
+Sharing Value bedeutet, dass das Unternehmen nachhaltige Gewinne maximiert."	"falsch:<br />
+Sharing Value fokussiert auf gerechte Verteilung von geschaffenen Werten und aktive Einbindung der Stakeholder in die Wertschöpfung."
+"Frage:<br />
+Was bedeutet Maintaining Value im Kontext nachhaltiger Geschäftsmodelle?"	Die Sicherung und Wiederherstellung der Integrität natürlicher Ressourcen sowie der Funktionalität menschengemachter Artefakte über Lebenszyklen hinweg.
+"wahr oder falsch:<br />
+Unlocking Value bedeutet, nachhaltige Werte innerhalb der Organisation selbst zu optimieren."	"falsch:<br />
+Unlocking Value zielt auf das Freisetzen ungenutzter Nachhaltigkeitspotenziale an den Schnittstellen zu Märkten und Konsumenten ab."
+"Frage:<br />
+Welche Rolle spielt Reflexivität im Digital Social Innovation Framework?"	Reflexivität hilft Akteuren, ihre eigene Position innerhalb von Machtstrukturen zu verstehen und Handlungen entsprechend sozial verantwortlich auszurichten.
+"wahr oder falsch:<br />
+Das Digital Social Innovation-Framework ignoriert systemische Ursachen gesellschaftlicher Probleme."	"falsch:<br />
+Ein zentrales Ziel des Digital Social Innovation-Frameworks ist die Systemveränderung, insbesondere durch die Beseitigung ausbeuterischer Institutionen und den Aufbau transformativer Strukturen."
+"wahr oder falsch:<br />
+Digital Social Innovation basiert primär auf technologischer Exzellenz."	"falsch:<br />
+Digital Social Innovation priorisiert soziale Innovationen, wobei digitale Technologien als Enabler sozialer Wirkung dienen, nicht umgekehrt."
+"wahr oder falsch:<br />
+Digital Social Innovation-Initiativen sollten stets die technologisch fortschrittlichste Lösung einsetzen."	"falsch:<br />
+Das Prinzip des ""technoficing"" beschreibt den bewussten Einsatz angemessener, nicht notwendigerweise hochentwickelter Technologien, um sozialen Nutzen effizient zu erzielen."
+"Frage:<br />
+Warum ist Reflexivität ein zentrales Element in Sensemaking Support Systems?"	Weil sie Nutzer dazu befähigt, eigene Annahmen zu hinterfragen und alternative Sichtweisen im kollektiven Diskurs zu integrieren.
+"Frage:<br />
+Was ist das Ziel von Sensemaking Support Systems in Transformationskontexten?"	Das Ziel ist es, die kollektive Fähigkeit zur Sinnkonstruktion angesichts von Unsicherheit, Ambiguität und Komplexität zu stärken, um nachhaltige Handlungsfähigkeit zu ermöglichen.
+"Frage:<br />
+Welche drei Kernfunktionen sollen Sensemaking Support Systems ermöglichen?"	"<ul>
+<li>Exploration alternativer Zukünfte</li>
+<li>kollektives Lernen</li>
+<li>Reframing existierender Narrative</li>
+</ul>"
+"Frage:<br />
+Welche Herausforderungen im Nachhaltigkeitskontext adressieren Sensemaking Support Systems?"	"<ul>
+<li>Ambiguität und Unsicherheit über Systemveränderungen</li>
+<li>kognitive Überlastung in komplexen Entscheidungssituationen</li>
+<li>Konfligierende Werte und Interessen</li>
+</ul>"
+"wahr oder falsch:<br />
+Sensemaking Support System sollen die Anzahl an Perspektiven minimieren, um Entscheidungsfindung zu vereinfachen."	"falsch:<br />
+Sensemaking Support System sollen multiperspektivische Sichtweisen sichtbar machen, um tiefere kollektive Deutungsprozesse zu ermöglichen."
+"wahr oder falsch:<br />
+Sensemaking Support Systems zielen darauf ab, Entscheidungen automatisiert zu treffen."	"falsch:<br />
+Sensemaking Support Systems zielen nicht auf Entscheidungsautomatisierung, sondern darauf ab, individuelle und kollektive Deutungsprozesse in komplexen Umweltsituationen zu unterstützen."
+"Frage:<br />
+Was ist das Hauptziel von Impact Measurement and Valuation im Unternehmenskontext?"	Die Monetarisierung von sozialen und ökologischen Auswirkungen, um diese in finanzielle Entscheidungs- und Steuerungsprozesse zu integrieren.
+"Frage:<br />
+Was unterscheidet Impact Measurement and Valuation von klassischem CSR-Reporting?"	Impact Measurement and Valuation bewertet nicht nur qualitative Nachhaltigkeitsziele, sondern monetarisiert sie und integriert sie in Kernelemente der unternehmerischen Wertschöpfung und strategischen Steuerung.
+"Frage:<br />
+Was versteht man unter Impact Measurement and Valuation?"	Impact Measurement and Valuation ist ein Set von Methoden zur Identifikation, Messung, Monetarisierung und Steuerung sozialer und ökologischer Auswirkungen unternehmerischer Tätigkeiten.
+"wahr oder falsch:<br />
+Der größte Vorteil von Impact Measurement and Valuation liegt in seiner Verwendung als Marketinginstrument."	"falsch:<br />
+IMV soll primär dazu dienen, soziale und ökologische Auswirkungen systematisch zu verstehen und in interne Managementprozesse zu integrieren, nicht bloß Kommunikation zu erleichtern."
+"wahr oder falsch:<br />
+Impact Measurement and Valuation ist ein rein technisches Instrument zur ESG-Integration."	"falsch:<br />
+Bei Impact Measurement and Valuation handelt es sich um ein zutiefst politisches und normatives Konstrukt, das über technische Fragen hinausgeht."
+"wahr oder falsch:<br />
+Impact Measurement and Valuation ist ein Synonym für Nachhaltigkeitsberichterstattung nach GRI."	"falsch:<br />
+Impact Measurement and Valuation geht über Berichterstattung hinaus und beinhaltet zusätzlich die Monetarisierung und Integration sozialer und ökologischer Auswirkungen in unternehmerische Entscheidungsprozesse."
+"wahr oder falsch:<br />
+Impact Measurement and Valuation ist vor allem in Unternehmen relevant, die schon stark digitalisiert sind."	"falsch:<br />
+Impact Measurement and Valuation gewinnt zunehmend auch bei traditionellen Industrien an Bedeutung, besonders dort, wo soziale und ökologische Auswirkungen erheblich sind."
+"Frage:<br />
+Was ist Technological Turbulence?"	Technological Turbulence beschreibt die Geschwindigkeit des technologischen Wandels innerhalb einer Industrie.
+"Frage:<br />
+Wie trägt Digital Orientation zur Pollution Prevention bei?"	Durch digitale Produkte, Fernwartung, IoT-gestützte Emissionsreduktion und virtualisierte Prozesse wie Homeoffice und Videokonferenzen.
+"Frage:<br />
+Wie unterstützt Digital Orientation das Ziel der Sustainable Development?"	Durch Förderung grüner Innovation, Cloud-Computing, Big Data für ökologische Entscheidungen und Infrastruktur für digitale Geschäftsmodelle.
+"wahr oder falsch:<br />
+Technological Turbulence schwächt den Zusammenhang zwischen digitaler Orientierung und Umweltperformance."	"falsch:<br />
+Technologische Turbulenz verstärkt den positiven Zusammenhang, da digital orientierte Firmen besser auf Veränderungen reagieren können."
+"Frage:<br />
+Was versteht man unter Digital Orientation?"	Digital Orientation ist die strategische Ausrichtung eines Unternehmens auf digitale Technologien zur Erreichung von Wettbewerbsvorteilen.
+"wahr oder falsch:<br />
+Digital Orientation hat keinen nachweisbaren Einfluss auf die Umweltperformance eines Unternehmens."	"falsch:<br />
+Digital Orientation hat einen signifikanten und positiven Einfluss auf die Umweltperformance, insbesondere in technologisch turbulenten Branchen."
+"Frage:<br />
+Wie werden Corporate Carbon Performance gemessen?"	Durch Carbon Intensity (CO2-Emissionen relativ zu Umsatz) und der durchschnittlichen Carbon Intensity (jährliche Veränderung dieser Intensität).
+"Frage:<br />
+Wie wirkt Corporate Social Responsibility risikomindernd?"	Corporate Social Responsibility reduziert sowohl direkte Risiken (z. B. durch Umweltprogramme) als auch indirekte Risiken durch vertrauensvolle Stakeholderbeziehungen und verbesserte Frühwarnsysteme.
+"wahr oder falsch:<br />
+Corporate Social Responsibility-Maßnahmen wie Spenden haben keinen Effekt auf die Innovationsfähigkeit."	"falsch:<br />
+Corporate Social Responsibility kann Innovationsfähigkeit fördern, da breitere Stakeholder-Beziehungen neue Wissensquellen und Lernprozesse initiieren."
+"<p>Treibhausgas-Emissionen bestehen aus:</p>
+<ol>
+<li>{{c1::direkte Emissionen}}</li>
+<li>{{c1::indirekte Emissionen durch Energie}}</li>
+<li>{{c1::indirekte Emissionen durch die Value Chain}}</li>
+</ol>"	
+"Beispiel:<br />
+Sustainability Data Management"	"<ul>
+<li>Tesla: Nutzt Echtzeitdaten, um die Umwelteinflüsse der Produkte nachvollziehen zu können</li>
+<li>Unilever: Benutzt eine Nachhaltigkeitsplattform namens ""EcoVadis"", um Nachhaltigkeitsdaten von Providern zu monitoren</li>
+</ul>"
+"<p>Ein digitales Produkt besitzt folgende Eigenschaften:</p>
+<ul>
+<li>{{c1::Economies of Scale}}</li>
+<li>{{c1::Immaterialität}}</li>
+<li>{{c1::kritische Masse}}</li>
+<li>{{c1::Lock-in-Effekt}}</li>
+<li>{{c1::Netzwerkeffekte}}</li>
+<li>{{c1::Wechselkosten}}</li>
+</ul>"	
+"{{c1::\(\text{Earth Overshood Day}\)}} \(=\) {{c2::\(\frac{\text{Earth&#039;s Biocapacity} }{\text{Humanity&#039;s Ecological Footprint} } \cdot 365\)}}"	
+"Beispiel:<br />
+Digital Agriculture"	"<ul>
+<li>Drohnen zur präzisen Platzierung von Samen</li>
+<li>GPS-Signale zur Steuerung von Fahrzeugen</li>
+</ul>"
+"<p>Digital Agriculture besteht aus:</p>
+<ul>
+<li>{{c1::Digital Farming}}</li>
+<li>{{c1::Precision Farming}}</li>
+<li>{{c1::Smart Farming}}</li>
+</ul>"	
+"wahr oder falsch:<br />
+Hybrid Decision-Making bedeutet eine Entscheidung unter Ausschluss nicht-finanzieller Ziele."	"falsch:<br />
+Hybrid Decision-Making kombiniert finanzielle und nicht-finanzielle Ziele und berücksichtigt mehrere Stakeholder-Interessen."
+"wahr oder falsch:<br />
+Hybrid Decision-Making-Strategien führen automatisch zu einem ausgewogenen Interessenausgleich zwischen Shareholdern und Stakeholdern."	"falsch:<br />
+Obwohl sie beides berücksichtigen, hängt die tatsächliche Balance von internen Machtverhältnissen, institutioneller Einbettung und politischer Durchsetzbarkeit ab."
+{{c1::Hybrid Decision-Making}} ist {{c2::eine Decision-Making-Strategie, in welcher der Fokus auf finanzielle Aspekte und nicht-finanzielle Aspekte liegt}}.	
+{{c1::Social Responsibility Decision-Making}} ist {{c2::eine Decision-Making-Strategie, in welcher der Fokus auf den Beitrag einer Organisation zur Gesellschaft liegt}}.	
+{{c1::Profit Oriented Decision-Making}} ist {{c2::eine Decision-Making-Strategie, in welcher der Fokus auf der Maximierung des Gewinnes liegt, um den Shareholder-Wert zu erhöhen}}.	
+"wahr oder falsch:<br />
+Decision-Making-Strategien beziehen sich auf operative Prozesskontrolle."	"falsch:<br />
+Decision-Making-Strategien betreffen strategische Zielsetzungen und Stakeholder-Interessen im Entscheidungsprozess."
+{{c1::Eine Decision-Making Strategy (Decision-Making-Strategie)}} ist {{c2::eine Digital Governance Strategy, in welcher Ziele bei der Entscheidungsfindung berücksichtigt werden}}.	
+"<p>{{c1::Decision-Making Strategy}} besteht aus:</p>
+<ul>
+<li>{{c2::Hybrid Decision-Making}}</li>
+<li>{{c2::Profit Oriented Decision-Making}}</li>
+<li>{{c2::Social Responsibility Decision-Making}}</li>
+</ul>"	
+"Frage:<br />
+Inwiefern kann eine Stewardship-Control-Strategie in volatilen Märkten effektiver sein als Preemptive oder Laissez-Faire?"	Stewardship-Ansätze kombinieren Flexibilität und Resilienz durch adaptive Governance, balancieren Sicherheitsbedenken mit Innovationsförderung und schaffen Vertrauen bei Stakeholdern in unsicheren, dynamischen Kontexten.
+"wahr oder falsch:<br />
+Stewardship Control ist ein Hybrid-Ansatz zwischen Preemptive Control und Laissez-Faire Control."	wahr
+{{c1::Stewardship Control}} ist {{c2::eine Control Strategy der Digital Governance Strategy, in welcher einerseits die Innovation, aber auch die Sicherheit berücksichtigt wird}}. {{c1::Stewardship Control}} ist ein Hybrid-Ansatz zwischen {{c3::Preemptive Control}} und {{c3::Laissez-Faire Control}}.	
+"Beispiel:<br />
+Preemptive Control"	"<ul>
+<li>General Data Protection Regulation der EU</li>
+</ul>"
+"Frage:<br />
+Warum ist eine ausschließlich Preemptive Digital Governance  Strategy langfristig nicht nachhaltig in technologiegetriebenen Märkten?"	Sie reduziert Agilität, Innovationskapazität und Anpassungsfähigkeit an emergente Technologien, erzeugt Reaktanz bei Stakeholdern und ist kostenintensiv bei geringem Nutzen in frühen Innovationsphasen.
+"Frage:<br />
+Was kennzeichnet eine Preemptive Control Strategy?"	Ein Governance-Ansatz mit präventiven Regulierungen zur Risikovermeidung,.
+"wahr oder falsch:<br />
+Eine Preemptive Control Strategy in der Digital Governance maximiert Innovationsfähigkeit bei gleichzeitiger Minimierung von Compliance-Risiken."	"falsch:<br />
+Preemptive Control priorisiert Risikominimierung durch proaktive Regulierung, kann aber Innovationsfähigkeit einschränken und administrative Lasten erhöhen."
+{{c1::Preemptive Control}} ist {{c2::eine Control Strategy der Digital Governance Strategy, in welcher präventive Maßnahmen genutzt werden, um Risiken zu vermeiden oder Risiken zu mindern}}.	
+"Beispiel:<br />
+Laissez-Faire Control"	"<ul>
+<li>Open Source Development</li>
+</ul>"
+"wahr oder falsch:<br />
+Laissez-Faire Control bedeutet, dass digitale Governance auf präventiven Regeln und Sicherheitsvorkehrungen basiert."	"falsch:<br />
+Laissez-Faire Control ist ein marktbasierter Ansatz mit minimaler Regulierung und Kontrolle, wie etwa in Open-Source-Entwicklungen."
+"wahr oder falsch:<br />
+Laissez-Faire Control-Ansätze können unter bestimmten Voraussetzungen ein höheres Innovationspotenzial bieten als regulierte Modelle."	"wahr:<br />
+Die geringe Regulierung und offene Marktstruktur ermöglichen experimentelle Technologien und schnelle Entwicklungszyklen, bergen aber hohe Risiken in Bezug auf Ethik, Sicherheit und Governance."
+{{c1::Laissez-Faire Control}} ist {{c2::eine Control Strategy der Digital Governance Strategy, in welcher kaum Einflussnahme auf die Kontrolle geschieht}}.	
+"wahr oder falsch:<br />
+Digital Governance Strategien verfolgen entweder eine kontroll-basierte Strategie oder einen Decision-Making-Strategie."	wahr
+{{c1::Digital Governance Strategy}} ist {{c2::ein Strategie Ansätze zur Durchsetzung von Regeln für die effizienten Erbringung von digitalen Dienstleistungen}}.	
+"wahr oder falsch:<br />
+Digital Responsibility ist auf gesetzliche Pflichten begrenzt und hat keine normative Dimension."	"falsch:<br />
+Digital Responsibility geht über gesetzliche Anforderungen hinaus und basiert auf normativen Prinzipien für eine gerechte, nachhaltige digitale Gesellschaft."
+{{c1::Digital Responsibility}} ist {{c2::die Bemühungen von Stakeholdern einen Beitrag zu einer nachhaltigen, integrativeren, faireren und wertebasierten digitalen Gesellschaft zu leisten, die über die gesetzlichen Mindestanforderungen hinausgeht}}.	
+"wahr oder falsch:<br />
+Corporate Governance umfasst ausschließlich die Managementstruktur und unternehmensinterne Entscheidungsprozesse."	"falsch:<br />
+Corporate Governance umfasst auch Regeln, Praktiken und Beziehungen zu internen und externen Stakeholdern eines Unternehmens."
+{{c1::Corporate Governance}} ist {{c2::die Menge an Praktiken, Regeln, Entscheidungsprozesse, Managementstrukturen und Beziehungen zu internen und externen Stakeholdern eines Unternehmens}}.	
+"Frage:<br />
+Was unterscheidet Science-Based Targets von herkömmlichen Emissionszielen?"	SBTs basieren auf Klimawissenschaft und sind an den Zielen des Pariser Klimaabkommens ausgerichtet. Sie sind ambitionierter, langfristiger, schließen Offsets aus und zielen auf absolute Reduktionen ab.
+"wahr oder falsch:<br />
+Science-Based Targets wurden bisher umfassend empirisch auf ihre finanzielle Wirkung untersucht."	"falsch:<br />
+Zu Science-Based Targets gibt es erst erste empirischen Studien, die die Wirkung von Science-Based Targets auf die finanzielle Performance von Unternehmen systematisch analysieren."
+{{c1::Ein Science-Based Target (SBT)}} ist {{c2::ein freiwillig einzuhaltendes Emissionsziel im Einklang mit dem 1,5-Grad-Ziel}}.	
+"Frage:<br />
+An wem ist ein Emission Report gerichtet?"	an externe Dritte wie Investoren oder Geschäftspartner
+{{c1::Der Emissions Report}} ist {{c2::ein Report über die Ergebnisse der Berechnung von Treibhausgas-Emissionen}}.	
+{{c1::Eine indirekte Emission durch die Value Chain}} ist {{c2::eine indirekte Emission durch Bestandteile der Wertschöpfungskette}}.	
+{{c1::Eine indirekte Emission durch Energie}} ist {{c2::eine indirekte Emission durch die Erzeugung von Energie, welche durch ein Unternehmen konsumiert wird}}.	
+{{c1::Eine direkte Emission}} ist {{c2::eine Emission, die direkt durch ein Unternehmen und seine Ressourcen erzeugt wird}}.	
+{{c1::Das GHG Protocol}} ist {{c2::ein Standard für das GHG Accounting}}.	
+{{c1::GHG Accounting}} ist {{c2::das Reporting von Treibhausgas-Emissionen}}. {{c1::Im GHG Accounting}} werden verschiedene Gase in {{c3::CO2-Äquivalente}} konvertiert, um eine verbesserte Vergleichbarkeit zu bieten.	
+{{c1::Ein Sustainability Audit}} ist {{c2::die Auditierung des Sustainability Reports in Bezug auf die Daten und Evidenz}}.	
+Das Sustainability Audit kann als {{c1::ein vollständiges Audit}} oder {{c1::ein limitiertes Audit mit Begrenzung auf wichtigste Themen und KPIs}} durchgeführt werden.	
+"{{c1::Das verpflichtende Sustainability Reporting}} könnte die Digital Maturity erhöhen, indem {{c2::Datenmanagement und Datennutzung}} dadurch erzwungenermaßen gefördert werden.<br />
+{{c1::{{c2::<img src=""2025-Bild-Puechel-Regulation-Driven_Twin_Transformation.png"" alt=""""><br />
+Regulation-Driven Twin Transformation}}}}"	
+"{{c1::Ein Digital Maturity Model}} ist {{c2::ein Modell über die Digital Maturity, um den derzeitigen Zustand und die Kapazitäten einer Organisation im Bezug zur digitalen Transformation zu verstehen}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Puechel-Digital_Maturity_Model.png"" alt=""""><br />
+Digital Maturity Model}}}}"	
+{{c1::Digital Maturity}} ist {{c2::der Status einer digitalen Transformation und kombiniert technologische Aspekte mit Aspekten der Geschäftstransformation}}.	
+{{c1::Die Global Reporting Initiative}} ist {{c2::ein Reporting Framework für Standards im Bezug zum Sustainability Reporting}}.	
+{{c1::Die Corporate Sustainability Reporting Directive (CSRD)}} ist {{c2::ein Gesetz der EU über die verpflichtende Abgabe eines Sustainability Reports}}. {{c1::Die CSRD}} enthält Einflüsse von einem Unternehmen auf {{c3::die Umwelt}}, {{c3::den Klimawandel}}, {{c3::die Gesellschaft}} und {{c3::die Sustainability Governance}}.	
+"Frage:<br />
+Wie kann KI für Sustainable Reporting genutzt werden?"	KI kann eingesetzt werden, um bestimmte Berichtsanforderungen vorab zu definieren. Dies spart Zeit vor und während der Interaktion mit verschiedenen Stakeholdern.
+{{c1::Ein Sustainability Report (Nachhaltigkeitsbericht, Sustainability Reporting)}} ist {{c2::ein nicht-finanzieller, transparenter Bericht über die ESG Performance für Shareholder}}.	
+{{c1::Sustainability Governance}} ist {{c2::die Governance der ESG-Verantwortlichkeiten durch eine datenbasierte, transparente und nachvollziehbare Methode}}, welche {{c3::die Entwicklung und Implementierung von Leitfäden, Prozessen und System}} beinhaltet.	
+"<p>Faktoren der Sustainability Governance sind:</p>
+<ul>
+<li>{{c1::Sustainability Data Management}}</li>
+<li>{{c1::klar definierte Rollen und Verantwortungen}}</li>
+<li>{{c1::nachhaltige Unternehmenskultur}}</li>
+<li>{{c1::Nachhaltigkeit als Teil der Entscheidungsprozesse}}</li>
+<li>{{c1::SMART Sustainability Goals}}</li>
+</ul>"	
+{{c1::Wechselkosten}} sind {{c2::Kosten, welche bei einem Wechsel einer Software oder eines Providers anfallen}}.	
+{{c1::Die kritische Masse in der Economies of Scale}} ist {{c2::die Menge an Nutzern, bei welcher die Anzahl an Nutzern exponentiell steigt}}.	
+{{c1::Die Immaterialität von Software}} ist {{c2::die Immaterialität, dass Software auf ein beliebiges Medium gespeichert und transportiert werden kann}}.	
+{{c1::Digital Social Entrepreneurship}} ist {{c2::eine Form des Social Entrepreneurship, welches digitale Technologien als Bestandteil in das Business Model integriert}}.	
+{{c1::Social Entrepreneurship (soziales Unternehmertum)}} ist {{c2::das unternehmerische Denken und Handeln zum Wohle der Gesellschaft}}. Der Erfolg von {{c1::sozialem Unternehmertum}} wird nicht allein anhand finanzieller Gewinne bewertet, sondern vielmehr anhand {{c3::des sozialen Nutzens}}.	
+"<p>Probleme bei der Berechnung des ökologischen Fußabdruckes sind:</p>
+<ul>
+<li>{{c1::unklare Kalkulation}}</li>
+<li>{{c1::zu hoher Fokus auf den individuellen Konsum anstatt auf die gesamte Gesellschaft}}</li>
+</ul>"	
+"<p>Auswirkungen des hohen Stromverbrauches von KI sind:</p>
+<ul>
+<li>ökonomische Auswirkungen<ul>
+<li>{{c1::signifikanter Energieverbrauch}}</li>
+<li>{{c1::Treibhausgas-Emission}}</li>
+<li>{{c1::verminderte Luftqualität}}</li></ul></li>
+<li>soziale Auswirkungen<ul>
+<li>{{c2::Druck auf den Wohnungsmarkt}}</li>
+<li>{{c2::öffentliche Subventionierung}}</li>
+<li>{{c2::steigende Strompreise}}</li></ul></li>
+</ul>"	
+"Beispiel:<br />
+Strategien zur Reduktion von Emissionen bei der KI-Inferenz"	"<ul>
+<li>Anpassung der Promptlänge und Ausgabelänge</li>
+<li>Einsatz kleinerer Modelle bei einfachen Aufgaben</li>
+<li>Nutzung emissionsarmer Cloud-Regionen</li>
+</ul>"
+"Frage:<br />
+Welche KI-Aufgaben verursachen die höchsten Emissionen?"	Image Generation und Image Captioning, gefolgt von Text Generation und Summarization.
+"wahr oder falsch:<br />
+Textklassifikation durch KIs ist energieintensiver als Textgenerierung."	"falsch:<br />
+Textklassifikation gehört zu den energieeffizientesten Aufgaben, während Textgenerierung ein Vielfaches an Energie benötigt."
+{{c1::KI}} besitzt durch {{c2::das Training mit spezieller Hardware, einen hohen Wasser- und Kühlungsbedarf sowie robuster Infrastruktur}} einen hohen Energieverbrauch. Dieser übersteigt das bis zu {{c3::50}}-fache des normalen Verbrauches von traditionellen Cloud Services.	
+Transparency through Data ist {{c2::die Schaffung von Transparenz durch Daten, insbesondere in Bezug zur Nachhaltigkeit und damit verbundenen Kennzahlen, dem Monitoring und Reporting}}.	
+{{c1::Die Twin Transformation}} ist {{c2::die Ausrichtung von Digitalisierung an der Nachhaltigkeit}}.	
+"<p>Folgen von digitaler Transformation sind:</p>
+<ul>
+<li>{{c1::Agilität in Planung und Prozesse}}</li>
+<li>{{c1::Auswirkung durch Datenerhebung und Monitoring verstehen}}</li>
+<li>{{c1::Momentum aufbauen}}</li>
+<li>{{c1::Remote-Tätigkeit}}</li>
+</ul>"	
+"Frage:<br />
+Was sind die drei Value Functions von Business Models for Sustainability?"	"<ol>
+<li>Maintaining Value</li>
+<li>Unlocking Value</li>
+<li>Sharing Value</li>
+</ol>"
+"wahr oder falsch:<br />
+Ein nachhaltiges Geschäftsmodell muss lediglich ökologische Vorteile bieten, um als nachhaltig zu gelten."	"falsch:<br />
+Ein nachhaltiges Geschäftsmodell muss ökologische und/oder soziale sowie ökonomische Werte schaffen und zwischen diesen balancieren."
+"wahr oder falsch:<br />
+Sustainable Business Models unterscheiden sich von konventionellen Geschäftsmodellen hauptsächlich durch ihre Aktivitäten."	"falsch:<br />
+Sustainable Business Models unterscheiden sich nicht nur durch einzelne Aktivitäten, sondern durch die systematische Organisation von Aktivitäten entlang spezifischer Design Themes und Value Functions."
+{{c1::Ein Business Model for Sustainability}} ist {{c2::ein Businessmodell, welches zur ökologischen Wertschöpfung, ökonomischen Wertschöpfung oder sozialen Wertschöpfung beiträgt, den Wert erhält, ihn schafft oder mit anderen teilt}}.	
+"Frage:<br />
+Warum ist Corporate Sustainability Communication ein performatives Instrument?"	Weil Kommunikation nicht nur rückblickend dokumentiert, sondern Zukunft formt, Identifikation schafft und Veränderung initiiert, also die Organisation in die Umsetzung spricht.
+"Frage:<br />
+Was sind Gründe für negative Effekte bei zu viel Corporate Sustainability Talk (Overcommunication)"	"<ul>
+<li>Kognitive Überforderung interner Akteure</li>
+<li>Skepsis und Identitätsverlust bei Stakeholdern</li>
+<li>Zielkonflikte zwischen ökonomischer und CS-Logik</li>
+</ul>"
+"Frage:<br />
+Wie wirkt Stakeholder Monitoring auf Corporate Sustainability Communication?"	Intensives Monitoring verstärkt sowohl die positiven Effekte moderaten Corporate Sustainability Communication als auch die negativen Effekte von Überkommunikation.
+"wahr oder falsch:<br />
+Mehr Kommunikation über Nachhaltigkeit (Corporate Sustainability Talk) führt immer zu mehr Umsetzung (Corporate Sustainability Walk)."	"falsch:<br />
+Corporate Sustainability Communication zeigt eine invers-U-förmige Beziehung: Bis zu einem gewissen Punkt fördert Corporate Sustainability Talk die Umsetzung, danach kann Überkommunikation diese hemmen."
+{{c1::Corporate Sustainability Communication}} ist {{c2::die Kommunikation über organisatorischen Änderungen der Nachhaltigkeit in einem Unternehmen}}.	
+Die Corporate Sustainability Communication kann dabei Treiber von nachhaltigen Änderungen sein, da {{c2::diese eine Motivation sowie einen Stakeholder-Druck erzeugt}}.	
+{{c1::Eine Sustainability Balanced Scorecard (SBSC)}} ist {{c2::eine Balanced Scorecard, welche um die Nachhaltigkeits-Dimension erweitert wurde}}. Diese kann sowohl als Bestandteil einer bestehenden {{c2::Balanced Scorecard}}, sowie auch als eigener Faktor integriert werden.	
+"<p>Arten der Spannung sind:</p>
+<ul>
+<li>{{c1::Design-Spannungen: Widersprüchliche Ziele beim Systemdesign (z. B. Transparenz vs. Datenschutz)}}</li>
+<li>{{c2::Prozess-Spannungen: Spannungen bei der Entscheidungsfindung und im Betrieb (z. B. kurzfristige Gewinne vs. langfristige Ziele)}}</li>
+<li>{{c3::Spannungen hinsichtlich der Auswirkungen: Kompromisse zwischen beabsichtigten und unbeabsichtigten Auswirkungen auf die Nachhaltigkeit}}</li>
+<li>{{c4::Spannungen in der Unternehmensführung: Konflikte in Bezug auf Regeln, Eigentumsverhältnisse und Kontrolle (z. B. Zentralisierung vs. Dezentralisierung)}}</li>
+</ul>"	
+"Frage:<br />
+Welche Bedeutung besitzen Spannungen für digitale Technologien im Bezug zu Nachhaltigkeit?"	Digitale Technologien sind nicht neutral: Sie können sowohl die Nachhaltigkeit fördern als auch beeinträchtigen. Daher ist ein effektives Spannungsmanagement entscheidend für eine echte Wirkung.
+{{c1::Eine Spannung (Tension)}} ist {{c2::ein anhaltender Widerspruch zwischen konkurrierenden Elementen, der ein Kompromiss oder eine Integration erfordert}}.	
+{{c1::Greenwashing}} ist {{c2::die irreführen oder falsche Behauptung eines Unternehmens über die Umweltvorteile eines Produktes oder einer Dienstleistung, bei welcher Verbraucher getäuscht werden}}.	
+"<p>Digitale Einflussfaktoren der Kreislaufwirtschaft in der Textilindustrie sind:</p>
+<ul>
+<li>{{c1::Aufrechterhaltung des Materialkreislaufs}}</li>
+<li>{{c1::Reduzierung der Rohstoffgewinnung}}</li>
+<li>{{c1::Verlängerung der Produktlebensdauer}}</li>
+<li>{{c1::Vermeidung von Abfall durch Design}}</li>
+</ul>"	
+Die Kleidungsindustrie ist ressourcenintensiv und verbraucht eine hohe Anzahl an Ressourcen, wie {{c1::Wasser}}, und erzeugt dabei hohe Mengen an {{c1::Emissionen}}.	
+"wahr oder falsch:<br />
+Digital Product Passports fördern ausschließlich ökologische Ziele und haben keine negativen Folgen."	"falsch:<br />
+Sie können auch negative soziale und ökonomische Effekte verursachen, z. B. Arbeitsplatzverlust oder Datenschutzprobleme."
+{{c1::Ein digitaler Produktpass (Digital Product Passport)}} ist {{c2::ein eingebetteter digitaler Träger in einem Produkt, welcher Informationen über die Herkunft, das Material und weitere Punkte zum Produkt enthält}}.	
+{{c1::Die Cellulose Gap}} ist {{c2::ein Mangel an Zellulose, ausgelöst durch eine steigende Nachfrage an Baumwollprodukten}}.	
+Es existiert eine Korrelation zwischen der Strategic Corporate Social Responsibility und der finanzieller Leistungsfähigkeit von einem Unternehmen, in welcher die Strategic CSR {{c1::die Reputation}}, {{c1::die Stakeholder-Beziehung}}, {{c1::die Risikominderung}} und {{c1::die Innovation}} fördert.	
+"wahr oder falsch:<br />
+Strategic Corporate Social Responsibility basiert auf einem normativen, moralisch motivierten Verständnis von Corporate Social Responsibility."	"falsch:<br />
+Strategic Corporate Social Responsibility folgt einem positivistischen, kausal-analytischen Konzeptionsansatz, bei dem nur empirisch belegte Wirkmechanismen berücksichtigt werden."
+"wahr oder falsch:<br />
+Strategic Corporate Social Responsibility ist definiert als jegliche Corporate Social Responsibility-Maßnahme, die positive gesellschaftliche Effekte erzielt."	"falsch:<br />
+Strategic Corporate Social Responsibility umfasst nur jene Corporate Social Responsibility-Aktivitäten, die einen kausalen positiven Einfluss auf die finanzielle Performance eines Unternehmens haben."
+{{c1::Strategic Corporate Social Responsibility (Strategic CSR)}} ist {{c2::ein Teilbereich der Corporate Social Responsibility, in welcher die wert-generierende Corporate Social Responsibility von der nicht-strategischen Corporate Social Responsibility gentrennt wird}}.	
+{{c1::Die ESG Performance}} ist {{c2::die Messung der ESG-Aktivitäten durch den Bloomberg ESG Score}}.	
+"Frage:<br />
+Wie unterscheidet sich der Einfluss digitaler Transformation auf ESG in Industriebranchen?"	Er ist in weniger umweltbelastenden Branchen stärker ausgeprägt als in stark umweltbelastenden Branchen.
+"wahr oder falsch:<br />
+Die digitale Transformation wirkt in allen Unternehmensphasen gleich stark auf ESG."	"falsch:<br />
+Der Effekt ist am stärksten in der Reifephase, schwächer im Wachstum und in der Rezession."
+"wahr oder falsch:<br />
+Digitale Transformation wirkt sich unabhängig von äußeren Rahmenbedingungen gleich stark auf ESG-Performance aus."	"falsch:<br />
+Der Einfluss digitaler Transformation auf ESG-Performance wird durch externe Faktoren wie formale und informelle Umweltregulierungen moderiert, wobei informelle eine stärkere Wirkung haben."
+Es existiert eine Korrelation zwischen {{c1::digitaler Transformation}} und {{c2::ESG Performance}}, in welcher eine höhere digitale Transformation die ESG Performance erhöht. Eine {{c3::gesellschaftlich-getriebene Regulatorik}} treibt dabei die digitale Transformation stärker an, als eine {{c3::staatlich-getriebene Regulatorik}}.	
+"Frage:<br />
+Was beschreibt der Begriff ""Dual Environmental Regulation"" im Kontext der ESG-Forschung?"	Er beschreibt das gleichzeitige Wirken formaler (gesetzlich verankerter) und informeller (sozial getriebener) Umweltregulierungen auf das Verhalten von Unternehmen.
+"Frage:<br />
+Wie wird Community-Driven Regulation in der Dual Environmental Regulation umgesetzt?"	"<ul>
+<li>Awareness für Umweltverschmutzung</li>
+<li>Bildung für Maßnahmen</li>
+</ul>"
+"Frage:<br />
+Wie wird Government-Driven Regulation in der Dual Environmental Regulation umgesetzt?"	"<ul>
+<li>Anreize</li>
+<li>Regulatoriken</li>
+</ul>"
+{{c1::Die Dual Environmental Regulation}} ist {{c2::die formelle (von einer Regierung angetriebene) und die informelle (von einer Gesellschaft angetriebene) Regulierung der Umwelt}}.	
+Es existiert eine Korrelation zwischen {{c1::Umweltbilanz}} und {{c2::finanziellen Erfolg}}, in welcher {{c3::eine niedrigere CO2-Bilanz}} zu einem {{c3::höheren Return of Assets und Tobin's Q}} führt.	
+{{c1::Die Instrumental Stakeholder Theory}} ist {{c2::eine Theorie, dass Organisationen einen Vorteil besitzen, wenn diese mit Stakeholdern zusammenarbeiten}}.	
+{{c1::Corporate Digital Innovative Performance}} ist {{c2::die Fähigkeit eines Unternehmens, digitale Technologien zu nutzen, um neue Produkte, Dienstleistungen, Prozesse oder Geschäftsmodelle zu entwickeln}}.	
+"<p>{{c1::Die Corporate Digital Innovative Performance}} kann gemessen werden durch:</p>
+<ul>
+<li>{{c2::Einnahmen aus digitalen Kanälen}}</li>
+<li>{{c3::Geschwindigkeit und Umfang der digitalen Einführung}}</li>
+<li>{{c4::Grad der digitalen Kundenbindung}}</li>
+<li>{{c5::Investitionen in die Forschung von digitalen Technologien}}</li>
+<li>{{c6::neue digitale Produkte oder Dienstleistungen, die auf den Markt gebracht wurden}}</li>
+<li>{{c7::Nummer an Projekten mit Bezug zur Digitalisierung und Technologien}}</li>
+<li>{{c8::Patente im Zusammenhang mit digitaler Innovation}}</li>
+</ul>"	
+"<p>Die Corporate Digital Innovative Performance besteht aus:</p>
+<ul>
+<li>{{c1::Digitalisierung interner Prozesse}}</li>
+<li>{{c1::Einführung neuer Technologien}}</li>
+<li>{{c1::Initiativen zur digitalen Transformation}}</li>
+</ul>"	
+"Frage:<br />
+Was sind Tools für das Corporate Sustainable Performance Monitoring?"	"<ul>
+<li>ESG Rating</li>
+<li>GRI Standards</li>
+<li>SDG Alignment</li>
+</ul>"
+{{c1::Corporate Sustainable Performance}} ist {{c2::die Fähigkeit eines Unternehmens, seine Werte im Bereich ESG zu überwachen, wahrzunehmen und gleichzeitig finanziellen Erfolg zu erzielen}}.	
+"<p>Die Corporate Sustainable Performance kann gemessen werden durch:</p>
+<ul>
+<li>{{c1::Governance-Kennzahlen}}</li>
+<li>{{c1::sozialen Kennzahlen}}</li>
+<li>{{c1::Umweltkennzahlen}}</li>
+</ul>"	
+Im Rahmen der Planetary Boundaries und in Bezug zu der Resource-Based View müssen {{c1::natürliche Ressourcen}} {{c2::limitiert}} werden, um {{c3::innovative Ressourceneffizienz zu erzwingen}}. {{c3::Die Ressourceneffizienz}} kann durch digitale Technologien unterstützt werden.	
+Im Rahmen der Planetary Boundaries und in Bezug zu der Stakeholder-Theorie muss {{c1::die Umwelt}} als {{c2::ein Stakeholder}} berücksichtigt werden. Ebenfalls muss es ein Anliegen {{c2::der bestehenden Stakeholder}} sein, {{c1::die Umwelt}} als {{c2::Stakeholder}} zu berücksichtigen.	
+"wahr oder falsch:<br />
+Die Financial Materiality betrachtet, welche finanziellen Kosten auftreten, die durch Umweltschäden oder Gesellschaftseinflüsse entstehen, die eine Organisation verursacht."	"falsch:<br />
+Financial Materiality betrachtet, wie die Umwelt, spezifisch Probleme in Bezug zu den ESG, und die Gesellschaft die Finanzen und den Wert einer Organisation beeinflussen."
+"wahr oder falsch:<br />
+Die Financial Materiality wird von externen Umweltproblemen beeinflusst."	wahr
+{{c1::Financial Materiality}} ist {{c2::eine Dimension der Double Materiality, wie die Umwelt, spezifisch Probleme in Bezug zu den ESGs und die Gesellschaft die Finanzen und den Wert einer Organisation beeinflussen}}.	
+"wahr oder falsch:<br />
+Die Impact Materiality wird von externen Umweltproblemen beeinflusst."	"falsch:<br />
+Bei der Impact Materiality werden die Einflüsse einer Organistaion auf die Umwelt und Gesellschaft betrachtet."
+{{c1::Impact Materiality}} ist {{c2::eine Dimension der Double Materiality, wie eine Organisation die Umwelt und die Gesellschaft beeinflusst}}.	
+"wahr oder falsch:<br />
+Die Double Materiality betrachtet die Financial Materiality und die Value Materiality."	"falsch:<br />
+Die Double Materiality betrachtet die Financial Materiality und die Impact Materiality."
+{{c1::Double Materiality (doppelte Wesentlichkeit)}} ist {{c2::ein Konzept des Nachhaltigkeits-Reporting, welches die Dimensionen der Financial Materiality und der Impact Materiality inkludiert}}.	
+"<p>Herausforderungen von Digital Innovation in Bezug zu Nachhaltigkeit sind:</p>
+<ul>
+<li>{{c1::Abhängigkeiten}}</li>
+<li>{{c1::Datenschutz und Sicherheit}}</li>
+<li>{{c1::Digital Divide}}</li>
+<li>{{c1::E-Waste}}</li>
+<li>{{c1::Ressourcenintensität}}</li>
+</ul>"	
+"Beispiel:<br />
+Digitalisation"	"<ul>
+<li>Nutzung von digitalen Rechnungen</li>
+<li>Umwandlung von gedruckten Zeitschriften in digitale Zeitschriften</li>
+</ul>"
+{{c1::Digitisation (Digitiztation)}} ist {{c2::die Umwandlung von analogen Informationen in digitalen Informationen}}.	
+{{c1::Eine Sustainable Business Model Innovation}} ist {{c2::das Redesign eines Businessmodells zur Integration von Aspekten der Nachhaltigkeit in das Businessmodell}}. Der Fokus in {{c1::der Sustainable Business Model Innovation}} verschiebt sich dadurch von {{c3::einer linearen Value Creation}} zu {{c3::einer regenerativen Value Creation}}, wodurch dies zu {{c4::einem kompetitiven Vorteil}} wird.	
+"<p>Die Sustainable Business Model Innovation besteht aus:</p>
+<ul>
+<li>{{c1::Integration der Kreislaufwirtschaft}}</li>
+<li>{{c1::technologischer Nachhaltigkeit}}</li>
+<li>{{c1::Verhaltensveränderungen}}</li>
+</ul>"	
+{{c1::Eine Doughnut Economy}} ist {{c2::ein Modell, in welchen Planetary Boundaries und soziale Aspekte verbunden werden}}. Dies bietet ein Framework für {{c3::nachhaltiges Decision-Making}}.	
+"wahr oder falsch:<br />
+Wirtschaftliche Nachhaltigkeit die wichtigste Dimension für den Erfolg digitaler Transformation dar."	"falsch:<br />
+Nicht nur wirtschaftliche Nachhaltigkeit, sondern eine Bewertung entlang der Triple Bottom Line (ökonomisch, sozial, ökologisch) ist notwendig."
+{{c1::Die Triple Bottom Line}} ist {{c2::ein Konzept, dass Organisationen nicht nur nach dem ökonomischen Einfluss, sondern auch nach dem sozialen Einfluss und ökologischen Einfluss gemessen werden sollen}}.	
+Im Rahmen {{c1::der Tripe Bottom Line}} müssen Organisationen {{c2::CO2-Neutralität}}, {{c2::den Schutz von Biodiversität}} und {{c2::Prinzipien der Circular Economy}} in ihr Business Model integrieren.	
+{{c1::Die Shareholder-Theorie}} ist {{c2::eine Theorie, dass eine Organisation die Interessen der Shareholder berücksichtigen muss}}.	
+{{c1::Die Stakeholder-Theorie}} ist {{c2::eine Theorie, dass eine Organisation alle Interessen der Stakeholder berücksichtigen muss}}.	
+{{c1::Planetary Boundaries}} sind {{c2::neun festgelegte Grenzen, welche, bei Überschreitung einen irreversiblen Umweltschaden erzeugen würden}}.	
+"<p>Die Planetary Boundaries bestehen aus:</p>
+<ul>
+<li>{{c1::Aerosolbelastung der Atmosphäre}}</li>
+<li>{{c2::Biodiversität}}</li>
+<li>{{c3::biogeochemische Flüsse (Stickstoff und Phosphor)}}</li>
+<li>{{c4::chemische Verunreinigung}}</li>
+<li>{{c5::Frischwasser-Verfügbarkeit}}</li>
+<li>{{c6::Klimawandel}}</li>
+<li>{{c7::neue Stoffe (Schadstoffe, Kunststoffe etc.)}}</li>
+<li>{{c8::Ozon-Schicht}}</li>
+<li>{{c9::Veränderung der Landsysteme}}</li>
+<li>{{c10::Versäuerung der Ozeane}}</li>
+</ul>"	
+{{c1::Digital Sustainability}} ist {{c2::eine Menge an Aktivitäten, die durch Technologie das Sustainable Development fördern}}.	
+{{c1::Das ESG (Environmental Social Governance)}} ist {{c2::ein Framework zur Evaluierung der Nachhaltigkeit von Organisationen}}.	
+"<p>Interne Driver von Sustainable Development sind:</p>
+<ul>
+<li>{{c1::Invention und Wachstum}}</li>
+<li>{{c1::Kostenreduktion}}</li>
+<li>{{c1::nachhaltiges Bestehen des Business Model}}</li>
+<li>{{c1::Risikomanagement}}<br />
+{{c1::<img src=""2025-Bild-Puechel-Internal_and_External_Drivers_fo_Sustainable_Development.png"" alt=""""><br />
+Internal and External Drivers of Sustainable Development}}</li>
+</ul>"	
+"<p>Externe Driver von Sustainable Development sind:</p>
+<ul>
+<li>{{c1::Brand Reputation}}</li>
+<li>{{c1::Marktnachfrage}}</li>
+<li>{{c1::Regulationen}}</li>
+<li>{{c1::Stakeholder-Erwartungen}}<br />
+{{c1::<img src=""2025-Bild-Puechel-Internal_and_External_Drivers_fo_Sustainable_Development.png"" alt=""""><br />
+Internal and External Drivers of Sustainable Development}}</li>
+</ul>"	
+"{{c1::Der Sustainable Development Goal Compass (SDG Compass)}} ist {{c2::ein Framework für Unternehmen, das es ermöglicht, Nachhaltigkeit in den Mittelpunkt ihrer Geschäftsstrategie zu rücken}}. {{c1::Der SDG Compass}} unterstützt Unternehmen, {{c2::ihre Strategien an den SDGs auszurichten und ihre Beiträge zu messen und zu verwalten}}.<br />
+{{c1::{{c2::<img src=""2015-BIld-Sustainable_Development_Goal_Compass.png"" alt=""""><br />
+Sustainable Development Goal Compass}}}}"	
+"<p>{{c6::Der SDG Compass}} besteht aus mehreren Schritten:</p>
+<ol>
+<li>{{c1::Understanding the SDGs}}: {{c1::Unternehmen lernen die SDGs kennen}}.</li>
+<li>{{c2::Defining Priorities}}: {{c2::Unternehmen definieren ihre Prioritäten basierend auf einer Bewertung ihrer positiven und negativen, aktuellen und potenziellen Auswirkungen auf die SDGs entlang ihrer Wertschöpfungsketten}}.</li>
+<li>{{c3::Setting Goals}}: {{c3::Unternehmen setzen Ziele, die mit den SDGs in Einklang stehen, um die Führungsebene zu verpflichten und die Leistung im gesamten Unternehmen zu verbessern}}.</li>
+<li>{{c4::Integrating}}: {{c4::Nachhaltigkeit wird in das Kerngeschäft und die Unternehmensführung integriert sowie in alle Unternehmensfunktionen eingebettet. Unternehmen engagieren sich zunehmend in Partnerschaften zur Verfolgung gemeinsamer Ziele oder zur Bewältigung systemischer Herausforderungen}}.</li>
+<li>{{c5::Reporting and Communicating}}: {{c5::Unternehmen nutzen die SDGs, um Informationen über ihre Nachhaltigkeitsleistung mit gemeinsamen Indikatoren und Prioritäten zu berichten und in ihre Kommunikation mit Stakeholdern einzubeziehen}}.</li>
+</ol>"	
+{{c1::Green IS}} ist {{c2::die Reduzierung von ökologischen Einflüssen durch die Nutzung von IT zu Erreichung von Nachhaltigkeitszielen}}.	
+{{c1::Green IT}} ist {{c2::die Reduzierung von ökologischen Einflüssen durch IT zur nachhaltigen Nutzung von Ressourcen, Energie, durch die Reduzierung von Emissionen und das Recycling}}.	
+"<p>Green IT entsteht durch:</p>
+<ul>
+<li>{{c1::Lebenszyklusmanagement von Geräten}}</li>
+<li>{{c1::umweltfreundliches Rechenzentrumsmanagement}}</li>
+<li>{{c2::umweltfreundliche Softwareentwicklung}}</li>
+<li>{{c2::Virtualisierung und Optimierung von Cloud-Computing}}</li>
+</ul>"	
+"Frage:<br />
+Was bedeutet der SDG 1 ""No Poverty""?"	Es bedeutet, Armut in allen ihren Formen und überall zu beenden.
+"Frage:<br />
+Was bedeutet der SDG 2 ""Zero Hunger""?"	Es bedeutet, den Hunger zu beenden, Ernährungssicherheit und eine bessere Ernährung zu erreichen sowie eine nachhaltige Landwirtschaft zu fördern.
+"Frage:<br />
+Was bedeutet der SDG 3 ""Good Health and Well-being""?"	Es bedeutet, ein gesundes Leben für alle Menschen jeden Alters zu gewährleisten und ihr Wohlergehen zu fördern.
+"Frage:<br />
+Was bedeutet der SDG 4 ""Quality Education""?"	Es bedeutet, inklusive, gleichberechtigte und hochwertige Bildung zu gewährleisten und Möglichkeiten des lebenslangen Lernens für alle zu fördern.
+"Frage:<br />
+Was bedeutet der SDG 5 ""Gender Equality""?"	Es bedeutet, Geschlechtergleichstellung zu erreichen und alle Frauen und Mädchen zur Selbstbestimmung zu befähigen.
+"Frage:<br />
+Was bedeutet der SDG 6 ""Clean Water and Sanitation""?"	Es bedeutet, Verfügbarkeit und nachhaltige Bewirtschaftung von Wasser und Sanitärversorgung für alle zu gewährleisten.
+"Frage:<br />
+Was bedeutet der SDG 7 ""Affordable and Clean Energy""?"	Es bedeutet, Zugang zu bezahlbarer, verlässlicher, nachhaltiger und moderner Energie für alle zu sichern.
+"Frage:<br />
+Was bedeutet der SDG 8 ""Decent Work and Economic Growth""?"	Es bedeutet, dauerhaftes, inklusives und nachhaltiges Wirtschaftswachstum, produktive Vollbeschäftigung und menschenwürdige Arbeit für alle zu fördern.
+"Frage:<br />
+Was bedeutet der SDG 9 ""Industry, Innovation and Infrastructure""?"	Es bedeutet, eine widerstandsfähige Infrastruktur aufzubauen, inklusive und nachhaltige Industrialisierung zu fördern und Innovationen zu unterstützen.
+"Frage:<br />
+Was bedeutet der SDG 10 ""Reduced Inequality""?"	Es bedeutet, Ungleichheit innerhalb von und zwischen Staaten zu verringern.
+"Frage:<br />
+Was bedeutet der SDG 11 ""Sustainable Cities and Communities""?"	Es bedeutet, Städte und Siedlungen inklusiv, sicher, widerstandsfähig und nachhaltig zu gestalten.
+"Frage:<br />
+Was bedeutet der SDG 12 ""Responsible Consumption and Production""?"	Es bedeutet, nachhaltige Konsum- und Produktionsmuster sicherzustellen.
+"Frage:<br />
+Was bedeutet der SDG 13 ""Climate Action""?"	Es bedeutet, umgehend Maßnahmen zur Bekämpfung des Klimawandels und seiner Auswirkungen zu ergreifen.
+"Frage:<br />
+Was bedeutet der SDG 14 ""Life Below Water""?"	Es bedeutet, Ozeane, Meere und Meeresressourcen im Sinne nachhaltiger Entwicklung zu erhalten und nachhaltig zu nutzen.
+"Frage:<br />
+Was bedeutet der SDG 15 ""Life on Land""?"	Es bedeutet, Landökosysteme zu schützen, wiederherzustellen und ihre nachhaltige Nutzung zu fördern, Wälder nachhaltig zu bewirtschaften, Wüstenbildung zu bekämpfen sowie Landdegradation zu stoppen und umzukehren und den Biodiversitätsverlust zu beenden.
+"Frage:<br />
+Was bedeutet der SDG 16 ""Peace, Justice and Strong Institutions""?"	Es bedeutet, friedliche und inklusive Gesellschaften für nachhaltige Entwicklung zu fördern, allen Menschen Zugang zur Justiz zu ermöglichen und effektive, rechenschaftspflichtige und inklusive Institutionen auf allen Ebenen aufzubauen.
+"Frage:<br />
+Was bedeutet der SDG 17 ""Partnerships for the Goals""?"	Es bedeutet, die Umsetzungsmittel zu stärken und die globale Partnerschaft für nachhaltige Entwicklung mit neuem Leben zu füllen.
+"wahr oder falsch:<br />
+SDG 1 behandelt nur absolute Armut, nicht relative Armut."	"falsch:<br />
+SDG 1 adressiert sowohl absolute als auch relative Armut, einschließlich sozialer Absicherungssysteme."
+"wahr oder falsch:<br />
+SDG 2 hat keine Überschneidungen mit SDG 12, da es sich nur um Hunger und Ernährungssicherheit kümmert."	"falsch:<br />
+SDG 2 und SDG 12 überschneiden sich im Bereich nachhaltiger landwirtschaftlicher Produktions- und Konsummuster."
+"wahr oder falsch:<br />
+SDG 3 fokussiert ausschließlich auf Bekämpfung von Krankheiten in Entwicklungsländern."	"falsch:<br />
+SDG 3 gilt global und beinhaltet Gesundheitssystemstärkung, Prävention und Wohlergehen in allen Ländern."
+"wahr oder falsch:<br />
+SDG 4 beinhaltet nur den Zugang zu Grundbildung und keine Hochschulbildung."	"falsch:<br />
+SDG 4 umfasst alle Bildungsstufen, inklusive Hochschulbildung, technischer Bildung und lebenslangem Lernen."
+"wahr oder falsch:<br />
+SDG 5 betrifft ausschließlich die Gleichstellung von Frauen und Männern im Bildungswesen."	"falsch:<br />
+SDG 5 umfasst alle Formen der Geschlechtergleichstellung, auch in Wirtschaft, Politik, Gesellschaft sowie Schutz vor Gewalt."
+"wahr oder falsch:<br />
+SDG 6 bezieht sich ausschließlich auf den Zugang zu Trinkwasser und schließt sanitäre Einrichtungen aus."	"falsch:<br />
+SDG 6 umfasst sowohl den Zugang zu sauberem Trinkwasser als auch zu sanitären Einrichtungen und Hygienediensten."
+"wahr oder falsch:<br />
+SDG 7 zielt auch auf den Ausbau erneuerbarer Energien ab, nicht nur auf Zugang zu Energie."	wahr
+"wahr oder falsch:<br />
+SDG 8 bezieht sich ausschließlich auf Wirtschaftswachstum in Entwicklungsländern."	"falsch:<br />
+SDG 8 gilt global und adressiert Wirtschaftswachstum sowie menschenwürdige Arbeit in allen Ländern."
+"wahr oder falsch:<br />
+SDG 8 ist nicht mit SDG 9 verbunden, da Wirtschaftswachstum und Industrie getrennte Ziele sind."	"falsch:<br />
+SDG 8 (Wirtschaftswachstum) und SDG 9 (Industrie, Innovation, Infrastruktur) sind eng verknüpft, da Industrialisierung Wirtschaftswachstum fördert."
+"wahr oder falsch:<br />
+SDG 9 zielt darauf ab, Innovationen ausschließlich im Technologiesektor zu fördern."	"falsch:<br />
+SDG 9 fördert Innovationen in allen Sektoren, einschließlich Infrastruktur und nachhaltiger Industrialisierung."
+"wahr oder falsch:<br />
+SDG 10 fordert die Reduzierung von Einkommensungleichheit innerhalb von Ländern, nicht jedoch zwischen Ländern."	"falsch:<br />
+SDG 10 adressiert sowohl Ungleichheiten innerhalb von Ländern als auch zwischen Ländern."
+"wahr oder falsch:<br />
+SDG 11 behandelt auch die Verbesserung von städtischen Siedlungen in ländlichen Gebieten."	wahr
+"wahr oder falsch:<br />
+SDG 12 beinhaltet Maßnahmen, um nachhaltigen Tourismus zu fördern."	wahr
+"wahr oder falsch:<br />
+SDG 13 fordert ausschließlich die Verringerung von CO-Emissionen, ohne auf Anpassungsmaßnahmen an den Klimawandel einzugehen."	"falsch:<br />
+SDG 13 beinhaltet sowohl Maßnahmen zur Minderung von Emissionen als auch Anpassungsmaßnahmen an die Folgen des Klimawandels."
+"wahr oder falsch:<br />
+SDG 14 bezieht sich auf die nachhaltige Nutzung von Landökosystemen."	"falsch:<br />
+SDG 14 betrifft Ozeane, Meere und Meeresressourcen; Landökosysteme werden in SDG 15 behandelt."
+"wahr oder falsch:<br />
+SDG 15 behandelt ausschließlich den Schutz von Wäldern."	"falsch:<br />
+SDG 15 betrifft alle Landökosysteme, einschließlich Wüsten, Böden, Biodiversität und Landdegradation."
+"wahr oder falsch:<br />
+SDG 16 beinhaltet Maßnahmen gegen Korruption und Bestechung."	wahr
+"wahr oder falsch:<br />
+SDG 17 enthält konkrete Zielvorgaben für die internationale Zusammenarbeit im Technologietransfer."	wahr
+"wahr oder falsch:<br />
+SDG 17 fokussiert sich ausschließlich auf die Finanzierung nachhaltiger Entwicklung."	"falsch:<br />
+SDG 17 umfasst neben Finanzierung auch Technologie, Kapazitätsaufbau, Handel und Partnerschaften zur Umsetzung aller Ziele."
+{{c1::Sustainable Development Goals (SDG)}} sind {{c2::17 Punkte, welche von den vereinten Nationen festgelegt wurden, um globale Nachhaltigkeit bis 2030 zu erreichen}}.	
+"<p>Die Sustainable Development Goals bestehen aus:</p>
+<ol>
+<li>{{c1::No Poverty}}</li>
+<li>{{c2::Zero Hunger}}</li>
+<li>{{c3::Good Health and Well-being}}</li>
+<li>{{c4::Quality Education}}</li>
+<li>{{c5::Gender Equality}}</li>
+<li>{{c6::Clean Water and Sanitation}}</li>
+<li>{{c7::Affordable and Clean Energy}}</li>
+<li>{{c8::Decent Work and Economic Growth}}</li>
+<li>{{c9::Industry, Innovation and Infrastructure}}</li>
+<li>{{c10::Reduced Inequality}}</li>
+<li>{{c11::Sustainable Cities and Communities}}</li>
+<li>{{c12::Responsible Consumption and Production}}</li>
+<li>{{c13::Climate Action}}</li>
+<li>{{c14::Life Below Water}}</li>
+<li>{{c15::Life on Land}}</li>
+<li>{{c16::Peace, Justice and Strong Institutions}}</li>
+<li>{{c17::Partnerships for the Goals}}</li>
+</ol>"	
+"<p>{{c1::Nachhaltigkeit}} besteht aus:</p>
+<ul>
+<li>{{c2::ökologische Nachhaltigkeit}}</li>
+<li>{{c2::ökonomische Nachhaltigkeit}}</li>
+<li>{{c2::soziale Nachhaltigkeit}}<br />
+{{c1::{{c2::<img src=""2025-Bild-Puechel-Conceptions_of_Sustainabilities.png"" alt=""""><br />
+Konzepte der Nachhaltigkeit}}}}</li>
+</ul>"	
+{{c1::Sustainable Development}} ist {{c2::die Praxis zur Erreichung von Nachhaltigkeit durch Aktivitäten}}.	
+"Beispiel:<br />
+wirtschaftliche Nachhaltigkeit"	"<ul>
+<li>Prozessvirtualisierung</li>
+</ul>"
+{{c1::Wirtschaftliche Nachhaltigkeit (Economic Sustainability)}} ist {{c2::die Nachhaltigkeit durch langfristiges Wachstum}}.	
+"Beispiel:<br />
+soziale Nachhaltigkeit"	"<ul>
+<li>Menschenrechte</li>
+<li>Steigerung des Gesundheitswesen in ländlichen Gegenden durch Tele-Medizin</li>
+<li>Ungleichheiten reduzieren</li>
+</ul>"
+{{c1::Soziale Nachhaltigkeit (Social Sustainability)}} ist {{c2::die Nachhaltigkeit durch die Entwicklung von sozialen Strukturen, ohne zukünftige Generationen damit zu beeinträchtigen}}.	
+{{c1::Eine Balanced Scorecard (BSC)}} ist {{c2::ein Konzept zur Messung, Dokumentation und Steuerung der Aktivitäten in einer Organisation}}.	
+Bestandteile der Balanced Scorecard sind {{c1::durch Ursachen-Wirkungs-Ketten}} miteinander verknüpft und ermöglichen die Verfolgung von {{c2::vorlaufenden (Treiber) als auch nachlaufenden (Ergebnis) Indikatoren}}.	
+"<p>{{c1::Eine Balanced Scorecard}} besteht aus:</p>
+<ul>
+<li>{{c2::Customer}}</li>
+<li>{{c2::Financial}}</li>
+<li>{{c2::Internal Process}}</li>
+<li>{{c2::Learning and Growth}}</li>
+</ul>"	
+"{{c1::Ein indirekter Netzwerkeffekt}} ist {{c2::eine Netzwerkexternalität mit einer Wertsteigerung für bestimmte Nutzergruppen oder bestimmte Produkte bei steigender Nutzeranzahl und Nutzerqualität}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Puechel-Direkter_Netzwerkeffekt_und_indirekter_Netzwerkeffekt.png"" alt=""""><br />
+Direkter Netzwerkeffekt und indirekter Netzwerkeffekt}}}}"	
+"{{c1::Ein direkter Netzwerkeffekt}} ist {{c2::eine Netzwerkexternalität mit einer Wertsteigerung für alle Nutzer bei steigender Anzahl der Nutzer}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Puechel-Direkter_Netzwerkeffekt_und_indirekter_Netzwerkeffekt.png"" alt=""""><br />
+Direkter Netzwerkeffekt und indirekter Netzwerkeffekt}}}}"	
+{{c1::Ökologische Nachhaltigkeit (Environmental Sustainability)}} ist {{c2::die Reduzierung des Konsums von natürlichen Ressourcen und die Steigerung der Gesundheit der Erde}}.	
+{{c1::Kreislaufwirtschaft (Circular Economy Theory)}} ist {{c2::ein Modell, in welchem Güter wiederverwendet werden. In der Kreislaufwirtschaft liegt der Fokus auf Reduktion, Wiedernutzung und Recycling}}.	
+"<p>{{c1::Faktoren der Kreislaufwirtschaft}} sind:</p>
+<ul>
+<li>{{c2::erweiterte Herstellerverantwortung}}</li>
+<li>{{c2::Produkte/Materialien überflüssig machen}}</li>
+<li>{{c2::Produktnutzung intensivieren}}</li>
+<li>{{c2::Recycling}}</li>
+<li>{{c2::Recht auf Reparatur &amp; Reparatur von Produkten}}</li>
+<li>{{c2::Wiederverwertung von Teilen aus alten Produkten}}</li>
+</ul>"	
+{{c1::Digitalisierung}} ist {{c2::die Nutzung von digitalen Technologien zur Veränderung von Geschäftsmodellen}}.	
+"Frage:<br />
+Was ist die Kritik an bestehender Information Systems-Forschung zur digitalen Transformation in Bezug zu Nachhaltigkeit?"	Dass sie zu stark auf wirtschaftliche Nachhaltigkeit fokussiert ist und soziale sowie ökologische Nachhaltigkeit vernachlässigt, obwohl diese für eine ganzheitliche Transformation entscheidend sind.
+{{c1::Die digitale Transformation}} ist {{c2::die Nutzung neuer digitaler Technologien, um wesentliche organisatorische Verbesserungen zu ermöglichen}}.	
+{{c1::Der Skaleneffekt (Economies of Scale)}} ist {{c2::der Effekt die Senkung der Einzelkosten pro produziertes Gut bei Erhöhung der Produktion}}.	
+{{c1::Der Skaleneffekt}} tritt auf, da {{c2::der Anteil an fixen Kosten im Vergleich zu den variablen Kosten bei steigender Produktion sinkt}}.	
+{{c1::Die ressourcenbasierte Sicht (Resource-Based View)}} ist {{c2::eine Sicht der Strategie, welche davon ausgeht, dass ein kompetitiver Vorteil durch einzigartige Ressourcen erzeugt wird}}.	
+{{c1::Digital Innovation}} ist {{c2::ein Gut, Prozess oder Geschäftsmodell}}, welches {{c3::als neu wahrgenommen wird}}, {{c3::fundamentale Änderungen beinhaltetet}} und {{c3::in oder durch IT verkörpert wird}}. {{c1::Digital Innovation}} erzeugen durch {{c4::Digitalisierung}} eine neue Form vom Wert.	
+"<p>{{c1::Digital Innovation}} ist getrieben durch {{c2::Generativität}}, welche folgende Eigenschaften benötigt:</p>
+<ul>
+<li>{{c3::Homogenität der Daten}}</li>
+<li>{{c3::Programmierbarkeit und Änderbarkeit}}</li>
+<li>{{c3::aus sich selbst verweisend und aufbauend, meist in Ebenen}}</li>
+</ul>"	
+{{c1::Ein Lock-In-Effekt (Vendor Lock-In)}} ist {{c2::der erschwerte Systemwechsel durch produktpolitische oder marketingbasierte Maßnahmen}} durch {{c3::die Erhöhung der Kosten eines Systemwechsels}}.	
