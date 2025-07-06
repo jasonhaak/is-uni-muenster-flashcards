@@ -1,479 +1,285 @@
 #separator:tab
 #html:true
-"Example:<br />
-Compliance Frameworks"	"<ul>
-<li>CMMI</li>
-<li>COBIT</li>
-<li>ITIL</li>
-<li>PMBOK</li>
-<li>PRINCE2</li>
-</ul>"
-"True or false:<br />
-The costs of cyberattacks have increased significantly in the period 2018 - 2023 and are expected to continue growing."	true
-"Example:<br />
-Threat Vectors"	"<ul>
-<li>Advanced Persistent Threat</li>
-<li>Cyber Espionage</li>
-<li>Double Extortion</li>
-<li>Insider Threat</li>
-<li>Ransomware</li>
-<li>Triple Extortion</li>
-</ul>"
-{{c1::The ISO/IEC 19770}} is {{c2::a standard for IT Asset Management}}.	
-{{c1::The ISO 22301}} is {{c2::a standard for Business Continuity Management}}.	
-{{c1::The ISO 15489}} is {{c2::a standard for Records Management}}.	
-{{c1::The Cybersecurity Legislation}} are {{c2::legal regulations and political measures of the EU aimed at ensuring the security of information systems}}.	
-{{c1::The NIST Cybersecurity Framework}} is {{c2::a governance framework for cybersecurity}}.	
+The {{c1::Information Infrastructure Strategy}} is about {{c2::what is to be implemented in the Information Infrastructure}}.	
+"{{c1::The IT/IS strategy process}} consists of several steps:<br />
+{{c2::IT/IS strategy}} -> {{c3::IT/IS architecture}} -> {{c4::IT/IS projects}} -> {{c5::Information Infrastructure}}"	
+"{{c1::The lifecycle of information management}} consists of:<br />
+{{c2::1. Management of information demand}}<br />
+{{c2::2. Management of information sources}}<br />
+{{c2::3. Management of information resources}}<br />
+{{c3::4. Management of information supply}}<br />
+{{c3::5. Management of information demand}}<br />
+{{c3::6. Management of information usage}}<br />
+{{c1::{{c2::{{c3::<img src=""2023-Bild-Krcmar-Erweiterter_Lebenszyklus_der_Informationswirtschaft.png"" alt=""""><br />
+Extended lifecycle of information}}}}}}"	
+{{c1::An IT Duopoly}} is {{c2::a governance archetype in which IT leadership and another group make decisions}}.	
+{{c1::An IT Monarchy}} is {{c2::a governance archetype in which the IT leadership level makes decisions}}.	
+{{c1::Business Monarchy}} is {{c2::a governance archetype in which the executive level makes decisions}}.	
+{{c1::An IT Principle}} is {{c2::a rule or guideline for the use of IT}}.	
+{{c1::A Multiple Provider Relation}} is {{c2::a relationship between a provider and a client for outsourcing}}.	
+{{c1::A Single Provider Alliance}} is {{c2::a relationship between one provider and multiple clients for outsourcing}}.	
+{{c1::A Multiple Provider Relation}} is {{c2::a relationship between multiple providers and one client for outsourcing}}.	
+{{c1::A Multiple Provider Alliance}} is {{c2::a relationship between multiple providers and multiple clients for outsourcing}}.	
+{{c1::Cybersecurity}} is prioritized in top management as one of the most important and significant aspects of IT.	
+"{{c1::The Business Impact Analysis}} is {{c2::the analysis of a cyberattack and its effects on business functions}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Teubner-Business_Impact_Analysis.png"" alt=""""><br />
+Business Impact Analysis}}}}"	
+{{c1::The Threat Scenario Analysis}} is {{c2::the analysis of potential cyber threats}}.	
+"<p>{{c1::The Threat Scenario Analysis}} consists of several steps:</p>
+<ol>
+<li>{{c2::Threat Actor}}: {{c2::Who might have an interest in attacking the organization?}}</li>
+<li>{{c2::Motivation}}: {{c2::Why is there interest?}}</li>
+<li>{{c2::Where}}: {{c2::Which components are being attacked?}}</li>
+<li>{{c2::How}}: {{c2::Which threat vectors are being used?}}</li>
+</ol>"	
+"{{c1::Net Cyberrisk}} is {{c2::a metric for identifying the extent of the risk from cyberattacks}}. {{c1::Net Cyberrisk}} is calculated by:<br />
+{{c1::\(\text{Net Cyberrisk}\)}} \(=\) {{c3::\(\text{Number of threat actors} \cdot \text{Intensity of attack vector} \cdot \text{Size of attack surface}\)}}"	
+{{c1::The information security triad (CIA Triad)}} consists of {{c2::Confidentiality, Integrity, and Availability as key values of information security}}.	
+{{c1::IS Security}} is {{c2::the protection of technologies, information systems, and users from damage and unauthorized access}}.	
+{{c1::Triple Extortion}} is {{c2::a double extortion where not only is the organization extorted, but the data is also used elsewhere}}.	
+{{c1::Double Extortion}} is {{c2::a cyberattack in which data is decrypted, sensitive information is extracted, and the organization is blackmailed}}.	
+{{c1::Cyber Espionage}} is {{c2::espionage by political, military, or economic actors to obtain sensitive information}}.	
+{{c1::An Insider Threat}} is {{c2::a threat vector initiated by a person within the organization acting as a threat actor}}. {{c1::An Insider Threat}} is usually carried out by {{c3::employees or former employees}}.	
+{{c1::A Threat Surface}} is {{c2::the total of all vulnerabilities or access points in software or an organization through which a threat actor can gain access to the information infrastructure}}.	
+{{c1::A Threat Vector}} is {{c2::the method or source through which a threat actor can gain access to carry out a cyberattack}}. {{c1::The Threat Vector}} includes {{c3::the method and means of a cyberattack}}.	
+{{c1::A Threat Actor}} is {{c2::a person or group that deliberately carries out cyberattacks}}.	
+{{c1::A threat in cybersecurity}} is {{c2::an event or condition that can potentially cause damage to an organization's information system}}.	
 "{{c1::The BSI Standard}} is {{c2::a set of cybersecurity standards from the Federal Office for Information Security}}.<br />
 {{c1::{{c2::<img src=""2025-Bild-Teubner-IT-Grundschutz-Methodik.png"" alt=""""><br />
-IT-Grundschutz-Methodik}}}}"	
-{{c1::A threat in cybersecurity}} is {{c2::an event or condition that can potentially cause damage to an organization's information system}}.	
-{{c1::A threat actor}} is {{c2::a person or group that deliberately carries out cyberattacks}}.	
-{{c1::A threat vector}} is {{c2::the possibility or source through which a threat actor can gain access to carry out a cyberattack}}. {{c1::The threat vector}} includes {{c3::the method and means of a cyberattack}}.	
-{{c1::A threat surface}} is {{c2::the total of all vulnerabilities or access points in software or an organization through which a threat actor can gain access to the information infrastructure}}.	
-{{c1::An insider threat}} is {{c2::a threat vector conducted by a person inside an organization as a threat actor}}. {{c1::An insider threat}} is mostly carried out by {{c3::employees or former employees}}.	
-{{c1::Cyber espionage}} is {{c2::espionage by political, military, or economic actors to obtain sensitive information}}.	
-{{c1::Double extortion}} is {{c2::a cyberattack in which data is decrypted, sensitive information is extracted, and the organization is then extorted}}.	
-{{c1::Triple extortion}} is {{c2::a double extortion where not only is the organization extorted, but the data is also used elsewhere}}.	
-{{c1::IS-Security}} is {{c2::the protection of technologies, information systems, and users against the effects of damage and unauthorized access}}.	
-{{c1::The information security triad (CIA triad)}} is {{c2::Confidentiality, Integrity, and Availability as key values of information security}}.	
-"{{c1::The net cyberrisk}} is {{c2::a metric to identify the extent of risk from cyberattacks}}. {{c1::The net cyberrisk}} is calculated by:<br />
-{{c1::\(\text{Net Cyberrisk}\)}} \(=\) {{c3::\(\text{Number of Threat Actors} \cdot \text{Intensity of Attack Vectors} \cdot \text{Size of Attack Surface}\)}}"	
-{{c1::The threat scenario analysis}} is {{c2::the analysis of possible cyber threats}}.	
-"<p>{{c1::The threat scenario analysis}} consists of several steps:</p>
-<ol>
-<li>{{c2::Threat actor}}: {{c2::Who would have an interest in attacking the organization?}}</li>
-<li>{{c2::Motivation}}: {{c2::Why does this interest exist?}}</li>
-<li>{{c2::Where}}: {{c2::Which components are attacked?}}</li>
-<li>{{c2::How}}: {{c2::Which threat vectors are used?}}</li>
-</ol>"	
-"{{c1::The business impact analysis}} is {{c2::the analysis of a cyberattack and its effects on business functions}}.<br>
-{{c1::{{c2::<img src=""2025-Bild-Teubner-Business_Impact_Analysis.png"" alt=""""><br>
-Business Impact Analysis}}}}"	
-{{c1::Cybersecurity}} is prioritized in top management as one of the most important and significant IT topics.	
-{{c1::A multiple provider alliance}} is {{c2::a relationship between multiple providers for multiple clients for outsourcing}}.	
-{{c1::A multiple provider relation}} is {{c2::a relationship between multiple providers for one client for outsourcing}}.	
-{{c1::A single provider alliance}} is {{c2::a relationship between one provider for multiple clients for outsourcing}}.	
-{{c1::A single provider relation}} is {{c2::a relationship between one provider for one client for outsourcing}}.	
-"true or false:<br />
-Most governance domains have a Federal archetype."	true
-"true or false:<br />
-Most governance domains have a Feudal archetype."	false
-"true or false:<br />
-IT Investment mostly has a Business Monarchy archetype."	true
-"true or false:<br />
-IT Investment mostly has an IT Monarchy archetype."	false
-"true or false:<br />
-Architecture Committees often replace or supplement IT/IS Leadership Committees for architectural decisions."	true
-"true or false:<br />
-Architecture Committees are mostly responsible for infrastructural and architectural decisions."	true
-"true or false:<br />
-Business-IT Relationship Managers promote mutual understanding and problem awareness between IT and business."	true
-"true or false:<br />
-In highly process-oriented organizations, Process Teams with IT Representatives are used to prepare decisions for application support."	true
-"true or false:<br />
-IT/IS Leadership Committees consist exclusively of technical IT professionals and do not make architectural decisions."	false
-"true or false:<br />
-IT/IS Leadership Committees are used in less than 50% of organizations."	"false:<br />
-They are used in 85% of organizations."
-"true or false:<br />
-Joint Business-IT Leadership Councils coordinate decisions on application development only without regard to business needs."	"false:<br />
-Decisions are made with regard to business needs."
-"true or false:<br />
-Joint Business-IT Leadership Councils are a typical feature of organizations using a duopoly model between business and IT to make coordinated decisions."	true
-"true or false:<br />
-Process Teams with IT Representatives are preferred in product-oriented companies."	"false:<br />
-They are often used in process-oriented companies."
-"true or false:<br />
-Senior Management Committees often serve as leadership bodies for IT principles or investment decisions."	true
-"true or false:<br />
-Senior Management Committees play a role in only about 50% of the studied cases in IT/IS governance."	"false:<br>
-They play a role in 90% of the studied cases."
-{{c1::Security Analyst}} is a profession in which {{c2::IT systems and information resources are protected from misuse and fraud, and their security concepts are planned and regularly revised}}.	
-{{c1::Warehouse Administrator (Database Administrator)}} is a profession in which {{c2::hardware solutions and software solutions for storing and managing company-wide data are implemented and maintained}}.	
-{{c1::Network Administrator}} is a profession in which {{c2::networks are built, maintained, and expanded}}.	
-{{c1::Data Network Architect (Telecommunications Network Architect)}} is a profession in which {{c2::computer networks and telecommunications networks are designed, developed, and managed}}.	
-{{c1::Systems Administrator}} is a profession in {{c2::which specific software platforms such as web systems, mail systems, or groupware systems are managed}}.	
-{{c1::Help Desk Agent}} is a profession in which {{c2::end users are supported in the use of information systems and helped with IT disruptions}}.	
-{{c1::Support Engineer}} is a profession in which {{c2::IT disruptions in the second support level are resolved through workarounds and problems are solved long-term}}.	
-{{c1::A Data Analyst (Data Scientist)}} is a profession in which {{c2::data analyses are conducted and company-wide data models are created}}.	
-{{c1::Web Editor}} is a profession in which {{c2::content for internet and intranet pages is editorially prepared, often with a technical or journalistic background}}.	
-{{c1::Documentation Specialist}} is a profession responsible for {{c2::the indexing, management, and retrieval of technical documents and information}}.	
-{{c1::IT Consultant}} is a profession in which {{c2::companies are advised and supported in analyzing IT problems and developing suitable solutions}}.	
-{{c1::IT Controller}} is a profession in which {{c2::the IT management level is supported with key figures for planning and decision-making}}.	
-{{c1::IT Trainer}} is a profession in which {{c2::users are trained and further educated in IT skills}}.	
-{{c1::IT/IS Director}} is a profession in which {{c2::as head of the IT/IS department, one reports directly to the top management}}.	
-{{c1::Head of IT Infrastructure}} is a profession in which {{c2::the planning, operation, and maintenance of computer networks and telecommunications networks are undertaken}}.	
-{{c1::Head of Data Centre}} is a profession in which {{c2::the operation of a data center is managed}}.	
-{{c1::Head of Systems Development}} is a profession in which {{c2::system development is managed}}.	
-{{c1::Head of User Service}} is a profession in which {{c2::user support and the helpdesk area are managed}}.	
-{{c1::Head of Information &amp; Documentation}} is a profession in which a department for technical documentation and information research is managed}}.	
-{{c1::Portfolio Manager}} is a profession in which {{c2::the IT/IS investment portfolio is controlled with a focus on benefit realization and risk management}}.	
-{{c1::Programme Manager}} is a profession in which {{c2::the business success of IT programs is responsible}}.	
-{{c1::Project Manager}} is a profession in which projects are managed from planning to completion, including resource management, time management, and personnel management}}.	
-{{c1::Risk Manager}} is a profession in which {{c2::the planning and control of IT risks is undertaken}}.	
-{{c1::Data Protection Officer}} is a profession in which {{c2::compliance with data protection regulations is monitored and responsible handling of personal data in the company is ensured}}.	
-{{c1::A Quality &amp; Security Manager}} is {{c2::a profession in which quality standards and security standards for IT systems are defined and implemented independently}}.	
-{{c1::A Centralized IT/IS Governance}} is {{c2::a governance model for IT/IS governance in which decision-making takes place in a central IT unit}}.	
-{{c1::A Decentralized IT/IS Governance}} is {{c2::a governance model for IT/IS governance in which decision-making takes place in many IT units}}.	
-"<p>Advantages of Centralized IT/IS Governance are:</p>
-<ul>
-<li>{{c1::Expertise and specialization}}</li>
-<li>{{c1::Control over IT resources}}</li>
-<li>{{c1::Standardization}}</li>
-</ul>"	
-"<p>Advantages of Decentralized IT/IS Governance are:</p>
-<ul>
-<li>{{c1::Responsibility for business requirements}}</li>
-<li>{{c1::Understanding of local business and users}}</li>
-</ul>"	
-{{c1::The MIT Framework}} is {{c2::an IT/IS governance framework with governance domains and governance archetypes}}.	
-"<p>{{c1::The MIT Framework}} consists of five governance domains:</p>
-<ol>
-<li>{{c2::IT Principles: rules and policies for the use of IT}}</li>
-<li>{{c2::IT Architecture: technical conditions and standards}}</li>
-<li>{{c2::IT Infrastructure Strategies: decisions about the IT infrastructure}}</li>
-<li>{{c2::Business Application Needs: required and prioritized applications}}</li>
-<li>{{c2::IT Investment and Prioritization: budgeting and selection of IT investments}}</li>
-</ol>"	
-"<p>{{c1::The MIT Framework}} consists of six governance archetypes:</p>
-<ol>
-<li>{{c2::Business Monarchy: top management makes decisions}}</li>
-<li>{{c2::IT Monarchy: IT leadership makes decisions}}</li>
-<li>{{c2::Federal: joint decision by central IT and business units}}</li>
-<li>{{c2::IT Duopoly: IT leadership and another group make decisions}}</li>
-<li>{{c2::Feudal: individual business units decide autonomously}}</li>
-<li>{{c2::Anarchy: individuals or small groups decide autonomously}}</li>
-</ol>"	
-{{c1::COBIT}} is {{c2::a framework for IT governance created by the ISACA organization}}.	
-"<p>Types of decision-making bodies in IT/IS governance are:</p>
+IT Baseline Protection Methodology}}}}"	
+{{c1::The NIST Cybersecurity Framework}} is {{c2::a governance framework for cybersecurity}}.	
+{{c1::Cybersecurity Legislation}} refers to {{c2::legal regulations and political measures by the EU aimed at ensuring the security of information systems}}.	
+{{c1::ISO 15489}} is {{c2::a standard for records management}}.	
+{{c1::ISO 22301}} is {{c2::a standard for business continuity management}}.	
+{{c1::ISO/IEC 19770}} is {{c2::a standard for IT asset management}}.	
+{{c1::ISO 31000}} is {{c2::a standard for identifying and resolving cybersecurity risks}}.	
+{{c1::ISO/IEC 27000}} is {{c2::a set of standards to ensure IT security}}.	
+{{c1::Regulation}} is {{c2::a part of legislation and includes the implementation of rules or laws}}.	
+{{c1::Legislation}} is {{c2::the process by which a legislative body can enact rules or laws}}.	
+"{{c1::IT Compliance}} is {{c2::the state in which all third-party requirements relevant to a company's IT are demonstrably met}}. In {{c1::IT Compliance}}, the focus is particularly on {{c3::complying with external regulations, laws, and guidelines}} to {{c4::ensure the legal alignment of IT}}.<br>
+{{c1::{{c2::{{c3::{{c4::<img src=""2025-Bild-Teubner-IT_Compliance.png"" alt=""""><br>
+IT Compliance}}}}}}}}"	
+{{c1::Compliance Management}} is {{c2::the ongoing process of compliance to adhere to applicable laws and regulations}}. The goal of {{c1::Compliance Management}} is {{c3::to avoid violations and their negative consequences such as penalties, damages, or reputational loss}}.	
+"<p>Types of decision-making bodies in IT/IS governance include:</p>
 <ul>
 <li>{{c1::Architecture Committee}}</li>
 <li>{{c1::Business-IT Relationship Managers Committee}}</li>
 <li>{{c1::Executive/Senior Management Committee}}</li>
 <li>{{c1::IT/IS Leadership Committee}}</li>
 <li>{{c1::Joint Business-IT Leadership Council}}</li>
-<li>{{c1::Process Teams with IT Representatives}}</li>
+<li>{{c1::Process Teams wit IT Representatives}}</li>
 </ul>"	
-{{c1::Compliance Management}} is {{c2::the continuous process of compliance to adhere to applicable laws and regulations}}. The goal of {{c1::Compliance Management}} is to {{c3::avoid violations and their negative consequences such as penalties, damages, or loss of reputation}}.	
-"{{c1::IT Compliance}} is {{c2::the state in which all third-party requirements relevant to a company’s IT are demonstrably fulfilled}}. In {{c1::IT Compliance}} it is particularly about {{c3::complying with external requirements, laws, and regulations}} to ensure {{c4::the lawful alignment of IT}}.<br />
-{{c1::{{c2::{{c3::{{c4::<img src=""2025-Bild-Teubner-IT_Compliance.png"" alt=""""><br />
-IT Compliance}}}}}}}}"	
-{{c1::Legislation}} is {{c2::the process through which a legislative body can establish rules or laws}}.	
-{{c1::Regulation}} is {{c2::a part of legislation and includes the implementation of rules or laws}}.	
-{{c1::ISO/IEC 27000}} is {{c2::a set of standards to ensure IT security}}.	
-{{c1::ISO 31000}} is {{c2::a standard for identifying and addressing cybersecurity risks}}.	
-"Example:<br />
-Information Function Strategy"	"<ul>
-<li>Determination of skills needed for the Information Infrastructure</li>
-<li>People who maintain the Information Infrastructure</li>
-</ul>"
-"Example:<br />
-Information Infrastructure Strategy"	"<ul>
-<li>Technologies that are needed</li>
-</ul>"
-"Example:<br />
-Outtasking"	"<ul>
-<li>Software development</li>
-<li>Hardware maintenance</li>
-</ul>"
-"Example:<br />
-Cloudsourcing"	"<ul>
-<li>Applications as a Service</li>
-<li>Functions as a Service</li>
-<li>Infrastructure as a Service</li>
-<li>Platforms as a Service</li>
-</ul>"
-"{{c1::An IT/IS Strategy}} is {{c2::a strategy about information and communication technology in an organization to achieve long-term competitiveness and success}}.<br />
-{{c1::{{c2::<img src=""2025-Bild-Teubner-IT-IS_Strategy_Model.png"" alt=""""><br />
-IT/IS Strategy Model}}}}"	
-{{c1::The IT/IS Strategy}} enables {{c2::the Information Infrastructure Strategy and the Business Strategy}} to influence each other.	
-An IT/IS Strategy can be driven by {{c1::the current state or a target state}}.	
-"<p>{{c1::Concepts of IT/IS Strategy}} are:</p>
+{{c1::COBIT}} is {{c2::a framework for IT governance developed by the ISACA organization}}.	
+{{c1::The MIT Framework}} is {{c2::an IT/IS governance framework with governance domains and governance archetypes}}.	
+"<p>{{c1::The MIT Framework}} consists of five governance domains:</p>
+<ol>
+<li>{{c2::IT Principles: Rules and guidelines for the use of IT}}</li>
+<li>{{c2::IT Architecture: Technical conditions and standards}}</li>
+<li>{{c2::IT Infrastructure Strategies: Decisions about IT infrastructure}}</li>
+<li>{{c2::Business Application Needs: Required and prioritized applications}}</li>
+<li>{{c2::IT Investment and Prioritization: Budgeting and selection of IT investments}}</li>
+</ol>"	
+"<p>{{c1::The MIT Framework}} consists of six governance archetypes:</p>
+<ol>
+<li>{{c2::Business Monarchy: Executive level makes decisions}}</li>
+<li>{{c2::IT Monarchy: IT leadership level makes decisions}}</li>
+<li>{{c2::Federal: Joint decision-making between central IT and business units}}</li>
+<li>{{c2::IT Duopoly: IT leadership and another group make decisions}}</li>
+<li>{{c2::Feudal: Individual business units decide autonomously}}</li>
+<li>{{c2::Anarchy: Individuals or small groups decide autonomously}}</li>
+</ol>"	
+"<p>Advantages of Decentralized IT/IS Governance:</p>
 <ul>
-<li>{{c2::the use of IT to support business strategies}}</li>
-<li>{{c2::a master plan for the development of the Information Infrastructure}}</li>
-<li>{{c2::a plan for the IT unit of an organization}}</li>
-<li>{{c2::a fundamental attitude or mindset regarding the role of IT in an organization}}</li>
+<li>{{c1::Responsibility over business requirements}}</li>
+<li>{{c1::Understanding of local business and users}}</li>
 </ul>"	
-{{c1::The Information Function Strategy (Derivative IT/IS Strategy Domain)}} is {{c2::the strategy for fulfilling the Information Functions for the Information Infrastructure}}. The {{c1::Information Function Strategy}} is about {{c3::how the Information Infrastructure should be implemented}}.	
-"<p>The Information Functions Strategy consists of:</p>
+"<p>Advantages of Centralized IT/IS Governance:</p>
 <ul>
-<li>{{c1::Organizing the Information Function}}</li>
-<li>{{c1::Outsourcing}}</li>
-<li>{{c1::Staffing}}</li>
-<li>{{c1::Control, evaluation, and decision-making of IT}}</li>
+<li>{{c1::Expertise and specialization}}</li>
+<li>{{c1::Control over IT resources}}</li>
+<li>{{c1::Standardization}}</li>
 </ul>"	
-The {{c1::Information Infrastructure Strategy}} is about {{c2::what should be implemented in the Information Infrastructure}}.	
-"{{c1::The IT/IS Strategy Process}} consists of several steps:<br />
-{{c2::IT/IS Strategy}} -&gt; {{c3::IT/IS Architecture}} -&gt; {{c4::IT/IS Projects}} -&gt; {{c5::Information Infrastructure}}"	
-{{c1::A Target Architecture}} is {{c2::a blueprint of a future Information Infrastructure for implementing an IT/IS Strategy}}.	
-{{c1::A Program}} is {{c2::a set of projects to achieve a higher goal}}. {{c1::Programs}} are used to {{c3::coordinate multiple projects that may be dependent on each other}}.	
-"Program management consists of several steps:<br />
-{{c1::Identification}} -&gt; {{c2::Set-Up}} -&gt; {{c3::Execution}} -&gt; {{c4::Closure}}"	
-"{{c1::The IT/IS Investment Funnel}} is {{c2::the process of investing in IT and IS}}.<br />
-{{c1::{{c2::<img src=""2025-Bild-Teubner-IT-IS_Investment_Funnel.png"" alt=""""><br />
-IT/IS Investment Funnel}}}}"	
-{{c1::The IT/IS Investment Funnel}} can be driven {{c2::top-down through strategy}} or {{c2::bottom-up through operational tasks}}.	
-"{{c1::The IT/IS Investment Funnel}} consists of several steps:<br />
-{{c2::Investment Proposal}} -&gt; {{c3::Business Cases}} -&gt; {{c4::Investment Portfolio}}"	
-A large part of the IT/IS budget is used for {{c1::adaptation and maintenance of the Information Infrastructure}} and only a small part is used for investing in {{c1::IT/IS Strategy and Innovation}}.	
-{{c1::A Master Plan}} is {{c2::a concretization of how an IT/IS Strategy should be developed}}.	
-{{c1::Backsourcing}} is {{c2::insourcing after outsourcing}}.	
-{{c1::Outtasking}} is {{c2::outsourcing of tasks related to the Information Functions}}.	
-{{c1::Cloudsourcing}} is {{c2::outsourcing by using cloud infrastructure}}.	
-"<p>{{c1::Problematic domains for IT outsourcing}} are:</p>
+{{c1::Decentralized IT/IS Governance}} is {{c2::a governance model for IT/IS governance in which decision-making takes place in many IT units}}.	
+{{c1::Centralized IT/IS Governance}} is {{c2::a governance model for IT/IS governance in which decision-making takes place in a central IT unit}}.	
+{{c1::A Quality & Security Manager}} is {{c2::a role that independently defines and implements quality and security standards for IT systems}}.	
+{{c1::Data Protection Officer}} is a role in which {{c2::compliance with data protection regulations is monitored and responsible handling of personal data in the company is ensured}}.	
+{{c1::Risk Manager}} is a role in which {{c2::planning and control of IT risks is carried out}}.	
+{{c1::Project Manager}} is a role in which projects are managed from planning to completion, including resource, time, and personnel management}}.	
+{{c1::Programme Manager}} is a role in which {{c2::the business success of IT programs is ensured}}.	
+{{c1::Portfolio Manager}} is a role in which {{c2::the IT/IS investment portfolio is managed with a focus on value realization and risk control}}.	
+{{c1::Head of Information & Documentation}} is a role in which a department for technical documentation and information research is managed}}.	
+{{c1::Head of User Service}} is a role in which {{c2::user support and the help desk area is managed}}.	
+{{c1::Head of Systems Development}} is a role in which {{c2::systems development is managed}}.	
+{{c1::Head of Data Centre}} is a role in which {{c2::the operation of a data center is managed}}.	
+{{c1::Head of IT Infrastructure}} is a role in which {{c2::planning, operation, and maintenance of computer and telecommunications networks is carried out}}.	
+{{c1::IT/IS Director}} is a role in which {{c2::the IT/IS department head reports directly to top management}}.	
+{{c1::IT Trainer}} is a role in which {{c2::users are trained and educated in IT competencies}}.	
+{{c1::IT Controller}} is a role in which {{c2::the IT leadership is supported with key figures for planning and decision-making}}.	
+{{c1::IT Consultant}} is a role in which {{c2::companies are advised and supported in analyzing IT problems and developing suitable solutions}}.	
+{{c1::Documentation Specialist}} is a role in which {{c2::technical documents and information are indexed, managed, and retrieved}}.	
+{{c1::Web Editor}} is a role in which {{c2::content for internet and intranet pages is editorially prepared, often with a technical or journalistic background}}.	
+{{c1::A Data Analyst (Data Scientist)}} is a role in which {{c2::data analyses are conducted and company-wide data models are created}}.	
+{{c1::Support Engineer}} is a role in which {{c2::IT disruptions in the second support level are resolved with workarounds and long-term solutions}}.	
+{{c1::Help Desk Agent}} is a role in which {{c2::end users are supported in the use of information systems and helped with IT issues}}.	
+{{c1::Systems Administrator}} is a role in {{c2::which specific software platforms like web systems, mail systems, or groupware systems are managed}}.	
+{{c1::Data Network Architect (Telecommunications Network Architect)}} is a role in which {{c2::computer and telecommunications networks are designed, developed, and managed}}.	
+{{c1::Network Administrator}} is a role in which {{c2::networks are set up, maintained, and expanded}}.	
+{{c1::Warehouse Administrator (Database Administrator)}} is a role in which {{c2::hardware and software solutions for storing and managing company-wide data are implemented and maintained}}.	
+{{c1::Security Analyst}} is a role in which {{c2::IT systems and information resources are protected from abuse and fraud, and their security concepts are planned and regularly revised}}.	
+{{c1::Business Intelligence Developer}} is a role in which {{c2::big data and business intelligence solutions are designed and implemented}}.	
+{{c1::Multimedia Developer}} is a role in which {{c2::multimedia applications are designed and developed}}.	
+{{c1::Web Developer}} is a role in which {{c2::user interfaces and websites are designed and web applications are developed}}.	
+{{c1::DevOps Engineer}} is a role in which {{c2::responsibility is taken for the development, deployment, and adaptation of application systems}}.	
+{{c1::Test Engineer}} is a role in which {{c2::software applications are tested and evaluated}}.	
+"<p>Challenges in managing IT roles include:</p>
 <ul>
-<li>{{c2::Development of IT/IS Strategy}}</li>
-<li>{{c2::Information Architecture}}</li>
-<li>{{c2::IT/IS Portfolio Management}}</li>
-<li>{{c2::Management of Innovations}}</li>
-<li>{{c2::Vendor Contracting}}</li>
+<li>{{c1::high demand for IT specialists}}</li>
+<li>{{c2::management skills for managing IT competencies}}</li>
+<li>{{c3::employee training required}}</li>
+<li>{{c4::shifting skill requirements}}</li>
 </ul>"	
-{{c1::Onshoring}} is {{c2::outsourcing in the same region or country}}.	
-{{c1::Offshoring}} is {{c2::outsourcing in a foreign region or country}}.	
-{{c1::Nearshoring}} is {{c2::outsourcing with a company that has cultural similarities to the customer}}.	
-"Outsourcing can occur through {{c1::the free market, joint ventures, or participations}}. Outsourcing can be done by one or more organizations to one or more organizations.<br />
-{{c1::<img src=""2025-Bild-Teubner-Outsourcing-Arten.png"" alt=""""><br />
-Different types of outsourcing regarding ownership and region}}"	
-{{c1::Client-Provider Arrangements in Outsourcing}} are {{c2::the relationships between clients and providers in building the business relationship for outsourcing}}.	
-"<p>{{c1::Client-Provider Arrangements in Outsourcing}} consist of:</p>
+{{c1::Software Developer}} is a role in which {{c2:: programming is done}}.	
+{{c1::Software Architect}} is a role in which {{c2::software architecture is defined}}.	
+{{c1::Requirements Engineer}} is a role in which {{c2::requirements are analyzed and translated into IT applications}}.	
+{{c1::System Analyst}} is a role in which {{c2::business problems are analyzed and recommendations for IS requirements are made}}.	
+{{c1::Business Analyst}} is a role in which {{c2::business problems are translated into IT solutions}}.	
+{{c1::Corporate Governance}} is {{c2::the mechanism by which a company is strategically managed and controlled in a specific context}}.	
+{{c1::Corporate Governance}} ensures that {{c2::management fulfills its leadership and control tasks while considering the interests of stakeholders and shareholders}}.	
+{{c1::A Project Office}} is {{c2::an organizational unit responsible for controlling and reporting on a project and supporting project management}}. {{c1::A Project Office}} always refers to {{c3::one project}} and is only valid for that.	
+{{c1::A Project Committee}} is {{c2::a committee of stakeholders that oversees a project in terms of time, quality, and budget}}. {{c1::A Project Committee}} always refers to {{c3::one project}} and is only valid for that.	
+{{c1::A Project Management Office (PMO)}} is {{c2::a management office that supports project management}}.	
+{{c1::A Portfolio and Program Management Office}} is {{c2::a management office that supports portfolio and program management}}.	
+{{c1::A Steering Committee}} is {{c2::a committee that evaluates, reviews, and manages existing investments and projects}}. {{c1::The Steering Committee}} reports to {{c3::executive management}}.	
+{{c1::An Investment Committee}} is {{c2::a committee that manages the financing of investments and projects}}.	
+{{c1::Blending of Information Functions}} is {{c2::the organization of information functions based on various factors for centralizing or decentralizing the information functions}}.	
+"<p>Disadvantages of decentralization of information functions:</p>
 <ul>
-<li>Multiple Provider Alliance</li>
-<li>Multiple Provider Relation</li>
-<li>Single Provider Alliance</li>
-<li>Single Provider Relation</li>
+<li>{{c1::creation of redundancies}}</li>
+<li>{{c1::difficulty in enforcing guidelines}}</li>
+<li>{{c1::optimization of individual departments rather than the entire organization}}</li>
 </ul>"	
-"<p>Factors of sourcing are:</p>
+"<p>Advantages of decentralization of information functions:</p>
+<ul>
+<li>{{c1::better transfer of knowledge into the information functions}}</li>
+<li>{{c1::cost allocation to individual departments}}</li>
+</ul>"	
+{{c1::Decentralization of Information Functions}} is {{c2::the division of information functions into more than one organizational unit}}.	
+"<p>Disadvantages of centralization of information functions:</p>
+<ul>
+<li>{{c1::lack of flexibility in adapting to business requirements}}</li>
+<li>{{c1::silo mentality}}</li>
+</ul>"	
+"<p>Advantages of centralization of information functions:</p>
+<ul>
+<li>{{c1::economies of scale}}</li>
+<li>{{c1::easier enforcement of guidelines}}</li>
+<li>{{c1::sharing of staff experience and expertise}}</li>
+</ul>"	
+{{c1::Centralization of Information Functions}} is {{c2::organizing all information functions in one organizational unit}}.	
+{{c1::A Call for Tenders}} is {{c2::a request for submission of offers and proposals}}.	
+"<p>{{c1::A Call for Tenders}} consists of:</p>
+<ul>
+<li>{{c2::selection criteria}}</li>
+<li>{{c2::reason and motivation for the call}}</li>
+<li>{{c2::current and desired state}}</li>
+<li>{{c2::limiting factors}}</li>
+</ul>"	
+"<p>{{c1::Phases of Outsourcing}} are:</p>
+<ol>
+<li>{{c2::Analysis of the information infrastructure and information functions}}</li>
+<li>{{c3::Definition of goals, procedures, and arrangements for outsourcing}}</li>
+<li>{{c4::Preparation of offers and proposals}}</li>
+<li>{{c5::Evaluation of offers and proposals}}</li>
+<li>{{c6::Contract negotiation}}</li>
+<li>{{c7::Knowledge transfer and relationship building}}<br />
+{{c1::{{c2::{{c3::{{c4::{{c5::{{c6::{{c7::<img src=""2025-Bild-Teubner-Phasen_des_Outsourcings.png"" alt=""""><br />
+Phases of Outsourcing}}}}}}}}}}}}}}</li>
+</ol>"	
+"<p>Factors of sourcing include:</p>
 <ul>
 <li>{{c1::Commoditization}}</li>
 <li>{{c1::Capabilities}}</li>
 <li>{{c1::Integration}}</li>
 <li>{{c1::Competitive relevance}}</li>
 <li>{{c1::Cost efficiency through market providers}}</li>
-<li>{{c1::Criticality for the organization}}</li>
+<li>{{c1::Criticality to the organization}}</li>
 <li>{{c1::Market capacity}}</li>
 <li>{{c1::Risks in the business relationship}}</li>
 <li>{{c1::Risks in operational activities}}</li>
-<li>{{c1::Scaling effects}}</li>
+<li>{{c1::Economies of scale}}</li>
 </ul>"	
-"<p>{{c1::Phases of Outsourcing}} are:</p>
-<ol>
-<li>{{c2::Analysis of the Information Infrastructure and the Information Functions}}</li>
-<li>{{c3::Definition of goals, handling, and arrangements for outsourcing}}</li>
-<li>{{c4::Preparation of offers and estimates}}</li>
-<li>{{c5::Evaluation of offers and estimates}}</li>
-<li>{{c6::Contract negotiation}}</li>
-<li>{{c7::Knowledge transfer and relationship building}}<br />
-{{c1::{{c2::{{c3::{{c4::{{c5::{{c6::{{c7::<img src=""2025-Bild-Teubner-Phasen_des_Outsourcings.png"" alt=""""><br />
-Phases of Outsourcing}}}}}}}}}}}}}}</li>
-</ol>"	
-{{c1::A Call for Tenders}} is {{c2::a request for submission of offers and estimates}}.	
-"<p>{{c1::A Call for Tenders}} consists of:</p>
+{{c1::Client-provider arrangements in outsourcing}} are {{c2::the relationships between clients and providers in establishing the business relationship for outsourcing}}.	
+"<p>{{c1::Client-provider arrangements in outsourcing}} include:</p>
 <ul>
-<li>{{c2::Selection criteria}}</li>
-<li>{{c2::Reason and motivation for the call}}</li>
-<li>{{c2::Current state and target state}}</li>
-<li>{{c2::Limiting factors}}</li>
+<li>Multiple Provider Alliance</li>
+<li>Multiple Provider Relation</li>
+<li>Single Provider Alliance</li>
+<li>Single Provider Relation</li>
 </ul>"	
-{{c1::Centralization of Information Functions}} is {{c2::the organization of all Information Functions within one organizational subunit}}.	
-"<p>Advantages of centralizing Information Functions are:</p>
+"Outsourcing can occur via {{c1::the free market, joint ventures, or shareholdings}}. Outsourcing may involve one or more organizations outsourcing to one or more organizations.<br>
+{{c1::<img src=""2025-Bild-Teubner-Outsourcing-Arten.png"" alt=""""><br>
+Different types of outsourcing regarding ownership and region}}"	
+{{c1::Nearshoring}} is {{c2::outsourcing to a company with cultural similarities to the client}}.	
+{{c1::Offshoring}} is {{c2::outsourcing to a foreign region or country}}.	
+{{c1::Onshoring}} is {{c2::outsourcing within the same region or country}}.	
+"<p>{{c1::Problematic domains for IT outsourcing}} include:</p>
 <ul>
-<li>{{c1::Economy of scale}}</li>
-<li>{{c1::Easier enforcement of guidelines}}</li>
-<li>{{c1::Sharing of experiences and competencies of personnel}}</li>
+<li>{{c2::Development of IT/IS strategy}}</li>
+<li>{{c2::Information architecture}}</li>
+<li>{{c2::IT/IS portfolio management}}</li>
+<li>{{c2::Management of innovation}}</li>
+<li>{{c2::Vendor contracting}}</li>
 </ul>"	
-"<p>Disadvantages of centralizing Information Functions are:</p>
+{{c1::Cloudsourcing}} is {{c2::outsourcing through the use of cloud infrastructure}}.	
+{{c1::Outtasking}} is {{c2::outsourcing of tasks related to information functions}}.	
+{{c1::Backsourcing}} is {{c2::insourcing after outsourcing}}.	
+{{c1::A master plan}} is {{c2::a concretization of how an IT/IS strategy is to be developed}}.	
+A large portion of the IT/IS budget is used for {{c1::adaptation and maintenance of the information infrastructure}}, and only a small portion is used for investment in {{c1::IT/IS strategy and innovation}}.	
+"{{c1::The IT/IS Investment Funnel}} is {{c2::the process of investing in IT and IS}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Teubner-IT-IS_Investment_Funnel.png"" alt=""""><br />
+IT/IS Investment Funnel}}}}"	
+{{c1::The IT/IS Investment Funnel}} may be driven {{c2::top-down through strategy}} or {{c2::bottom-up through operational tasks}}.	
+"{{c1::The IT/IS Investment Funnel}} consists of several steps:<br />
+{{c2::Investment Proposal}} -> {{c3::Business Cases}} -> {{c4::Investment Portfolio}}"	
+"Program management consists of several steps:<br />
+{{c1::Identification}} -> {{c2::Set-Up}} -> {{c3::Execution}} -> {{c4::Closure}}"	
+{{c1::A program}} is {{c2::a set of projects aimed at achieving a higher goal}}. {{c1::Programs}} are used to {{c3::coordinate multiple projects that may be interdependent}}.	
+{{c1::A target architecture}} is {{c2::a blueprint of a future information infrastructure for implementing an IT/IS strategy}}.	
+{{c1::The Information Function Strategy (Derivative IT/IS Strategy Domain)}} is {{c2::the strategy for fulfilling information functions for the information infrastructure}}. {{c1::The Information Function Strategy}} is about {{c3::how the information infrastructure should be implemented}}.	
+"<p>The Information Functions Strategy consists of:</p>
 <ul>
-<li>{{c1::Lack of flexibility to adapt to business requirements}}</li>
-<li>{{c1::Silo mentality}}</li>
+<li>{{c1::Organization of the information function}}</li>
+<li>{{c1::Outsourcing}}</li>
+<li>{{c1::Staffing}}</li>
+<li>{{c1::Control, evaluation, and decision-making in IT}}</li>
 </ul>"	
-{{c1::Decentralization of Information Functions}} is {{c2::the division of Information Functions into more than one organizational subunit}}.	
-"<p>Advantages of decentralizing Information Functions are:</p>
+"<p>{{c1::Concepts of IT/IS strategy}} include:</p>
 <ul>
-<li>{{c1::Better transfer of knowledge into the Information Functions}}</li>
-<li>{{c1::Cost allocation to individual departments}}</li>
+<li>{{c2::using IT to support business strategies}}</li>
+<li>{{c2::a master plan for developing the information infrastructure}}</li>
+<li>{{c2::a plan for the IT unit of an organization}}</li>
+<li>{{c2::a fundamental mindset regarding the role of IT in an organization}}</li>
 </ul>"	
-"<p>Disadvantages of decentralizing Information Functions are:</p>
+"{{c1::An IT/IS strategy}} is {{c2::a strategy regarding information and communication technology in an organization to achieve long-term competitiveness and success}}.<br>
+{{c1::{{c2::<img src=""2025-Bild-Teubner-IT-IS_Strategy_Model.png"" alt=""""><br>
+IT/IS Strategy Model}}}}"	
+{{c1::The IT/IS strategy}} enables {{c2::the information infrastructure strategy and the business strategy}} to influence each other.	
+An IT/IS strategy can be driven by {{c1::the current state or a target state}}.	
+"<p>Roles of information infrastructure in organizations include:</p>
 <ul>
-<li>{{c1::Formation of redundancies}}</li>
-<li>{{c1::More difficult enforcement of guidelines}}</li>
-<li>{{c1::Optimization of individual departments instead of the entire organization}}</li>
+<li>{{c1::Backbone}}: {{c1::Linking functions and processes with the information system}}</li>
+<li>{{c2::Foundation}}: {{c2::Basis for information provision as a shared service for all users}}</li>
 </ul>"	
-{{c1::Blending of Information Functions}} is {{c2::the organization of Information Functions based on various factors for centralization or decentralization of Information Functions according to those factors}}.	
-{{c1::An Investment Committee}} is {{c2::a committee that controls the financing of investments and projects}}.	
-{{c1::A Steering Committee}} is {{c2::a committee that evaluates, reviews, and controls existing investments and projects}}. {{c1::The Steering Committee}} reports to {{c3::the management}}.	
-{{c1::A Portfolio and Program Management Office}} is {{c2::a management office that supports portfolio management and program management}}.	
-{{c1::A Project Management Office (PMO)}} is {{c2::a management office that supports project management}}.	
-{{c1::A Project Committee}} is {{c2::a committee of stakeholders that monitors a project regarding time, quality, and budget}}. {{c1::A Project Committee}} is always related to {{c3::one project}} and valid only for it.	
-{{c1::A Project Office}} is {{c2::an organizational unit that takes over controlling and reporting of a project and supports project management}}. {{c1::A Project Office}} is always related to {{c3::one project}} and valid only for it.	
-{{c1::Corporate Governance}} is {{c2::the mechanism by which a company is strategically directed, managed, and controlled in a specific context}}.	
-{{c1::Corporate Governance}} ensures that {{c2::management performs its leadership and control tasks while considering the interests of stakeholders and shareholders}}.	
-{{c1::Business Analyst}} is a profession in which {{c2::business problems are translated into IT solutions}}.	
-{{c1::System Analyst}} is a profession in which {{c2::business problems are analyzed and recommendations for IS requirements are given}}.	
-{{c1::Requirements Engineer}} is a profession in which {{c2::requirements are analyzed and translated into corresponding IT applications}}.	
-{{c1::Software Architect}} is a profession in which {{c2::the architecture of software is defined}}.	
-{{c1::Software Developer}} is a profession in which {{c2::programming is done}}.	
-"<p>Challenges in managing IT professions are:</p>
-<ul>
-<li>{{c1::High demand for IT specialists}}</li>
-<li>{{c2::Management skills for managing IT capabilities}}</li>
-<li>{{c3::Training of employees necessary}}</li>
-<li>{{c4::Shift of requirements for needed skills}}</li>
-</ul>"	
-{{c1::Test Engineer}} is a profession in which {{c2::software applications are reviewed and evaluated}}.	
-{{c1::DevOps Engineer}} is a profession in which {{c2::responsibility for development, deployment, and adaptation of application systems is assumed}}.	
-{{c1::Web Developer}} is a profession in which {{c2::user interfaces and websites are designed as well as internet-based applications developed}}.	
-{{c1::Multimedia Developer}} is a profession in which {{c2::multimedia applications are designed and created}}.	
-{{c1::Business Intelligence Developer}} is a profession in which {{c2::Big Data solutions and Business Intelligence solutions are conceptualized and implemented}}.	
-"Example:<br />
-IT Outsourcing"	"<ul>
-<li>Application Development</li>
-<li>Cloud Services</li>
-<li>Data Centers</li>
-<li>Desktop Services</li>
-<li>IT Security</li>
-<li>Telecommunication Systems</li>
-<li>Maintenance</li>
-</ul>"
-"Example:<br />
-Information Infrastructure"	"<ul>
-<li>Databases</li>
-<li>Hardware</li>
-<li>Network</li>
-<li>Software</li>
-</ul>"
-"Example:<br />
-Application Platform"	"<ul>
-<li>Database systems with database functions</li>
-</ul>"
-{{c1::Authenticity (Authentication)}} is {{c2::the verification of the digital identity of a user and an unaltered sender during communication to decide which permissions the user possesses}}.	
-{{c1::Confidentiality}} is {{c2::the protection against unauthorized access to confidential information}}.	
-{{c1::Integrity}} is {{c2::the protection against manipulation, alteration, or falsification of computer systems, data, and information}}.	
-{{c1::Availability}} is {{c2::the assurance that users can access provided data and services at the intended times through the intended channels}}.	
-{{c1::IT Security}} is {{c2::the protection of the information infrastructure and systems from damage and the impact of unauthorized access}}.	
-"{{c1::A Bimodal IT (bimodal IT)}} is {{c2::the establishment of a digital IT alongside an existing traditional IT}}.<br />
-{{c1::{{c2::<img src=""2023-Bild-Stockhinger-Bimodal_IT.png"" alt=""""><br />
-Types of Bimodal IT}}}}"	
-{{c1::Information}} is {{c2::an intangible asset that has a meaningful connection to data in the form of action-determining knowledge for decision-making about past, present, and future events, facts, processes, and conditions}}.	
-Information is not consumed even with {{c1::multiple uses}} and can therefore be reused.	
-{{c1::Outsourcing}} is {{c2::the delegation of resources and functions outside an organization}}.	
-{{c1::A Project}} is {{c2::an undertaking to achieve a defined goal with a defined budget and timeframe}}. {{c1::A Project}} is isolated from other {{c1::projects}}.	
-{{c1::Compliance}} is {{c2::the entirety of all organizational measures aimed at conducting business activities in accordance with legal requirements}}.	
-"{{c1::Information Management (IM)}} is {{c2::a sub-area of organizational leadership tasked with ensuring the best possible use of the information resource for organizational goals}}. This is enabled through {{c4::the development and management of an information infrastructure}}. {{c1::Information Management}} is an essential part of {{c3::corporate management}}.<br />
-{{c1::{{c2::{{c3::<img src=""2023-Bild-Krcmar-Struktur_des_Informationsmanagements.png"" alt=""""><br />
-Structure of Information Management}}}}}}"	
-{{c1::An Information System (IS)}} is {{c2::a level of information management and a socio-technical system that includes human and machine subsystems}}. {{c1::An Information System}} is used for {{c3::optimal provision of information and communication according to economic criteria}}.	
-"{{c1::IT/IS Governance}} is {{c2::the design and distribution of decisions and levels of information management to control the information function}}. {{c1::IT/IS Governance}} ensures that {{c2::the final goals are achieved}}.<br />
-{{c1::{{c2::<img src=""2023-Bild-Krcmar-Struktur_des_Informationsmanagements.png"" alt=""""><br />
-Structure of Information Management}}}}<br />
-{{c1::{{c2::<img src=""2025-Bild-Teubner-IT-IS_Governance_in_der_Unternehmensgovernance.png"" alt=""""><br />
-IT/IS Governance in Corporate Governance}}}}"	
-"{{c1::The Information Economy Lifecycle}} consists of:<br />
-{{c2::1. Management of Information Demand}}<br />
-{{c2::2. Management of Information Sources}}<br />
-{{c2::3. Management of Information Resources}}<br />
-{{c3::4. Management of Information Supply}}<br />
-{{c3::5. Management of Information Demand}}<br />
-{{c3::6. Management of Information Usage}}<br />
-{{c1::{{c2::{{c3::<img src=""2023-Bild-Krcmar-Erweiterter_Lebenszyklus_der_Informationswirtschaft.png"" alt=""""><br />
-Extended Lifecycle of Information}}}}}}"	
-{{c1::Insourcing}} is {{c2::the retention of resources and functions within an organization}}.	
-{{c1::An Information Resource}} is {{c2::a reusable information source that must be maintained and preserved as part of information quality management}}.	
-{{c1::The IT/IS Portfolio}} is {{c2::the systematic listing and analysis of an organization's information systems}}. {{c1::The IS Portfolio}} supports {{c3::investment decisions}} for the {{c3::identification of projects that maximize value for an organization}}.	
-The IT/IS Portfolio is usually structured according to {{c2::costs, benefits, and risks}}.	
-{{c1::Technical Infrastructure}} is {{c2::the set of required infrastructure needed for the installation and use of software applications}}.	
-{{c1::The technical infrastructure}} forms the basis of {{c2::technical functionalities}} and thus has a {{3::permanent character}}.	
-"<p>A technical infrastructure consists of:</p>
-<ol>
-<li>{{c1::Application Platforms}}</li>
-<li>{{c1::System Software}}</li>
-<li>{{c1::Hardware}}</li>
-</ol>"	
-{{c1::An Application (Application Software)}} is {{c2::software that provides functions for users}}.	
-"{{c1::The IS/IT Strategy Process}} is {{c2::a model representing the influencing factors and activities of strategy definition}}.<br />
-{{c1::{{c2::<img src=""2023-Bild-Krcmar-IS$IT-Strategieprozess.png"" alt=""""><br />
-IS/IT Strategy Process}}}}"	
-{{c1::IT Outsourcing}} is {{c2::the outsourcing of individual IT tasks or all IT tasks of an organization to a legally affiliated company}}.	
-{{c1::IT Outsourcing}} particularly occurs for {{c2::non-specific applications}}. If {{c2::an IT/IS function is strategically important}}, it should {{c3::not be outsourced}}.	
-"<p>{{c1::Reasons for IT Outsourcing}} include:</p>
-<ul>
-<li>{{c2::Concentration of existing resources on the core business}}</li>
-<li>{{c2::Cost reduction}}</li>
-<li>{{c2::Utilization of technology and access to IT know-how with low investment costs}}</li>
-<li>{{c2::Utilization of knowledge from specialists and specialized expertise}}</li>
-<li>{{c2::Reduction of production costs}}</li>
-<li>{{c2::Reduction of problems related to IT personnel}}</li>
-<li>{{c2::Reduction of uncertainty regarding IT}}</li>
-<li>{{c2::Faster resolution of IT-related problems}}</li>
-<li>{{c2::Overcoming bottlenecks within IT}}</li>
-<li>{{c2::Conversion of IT costs from fixed costs to variable costs}}</li>
-<li>{{c2::Improvement of service quality}}</li>
-</ul>"	
-"<p>{{c1::Risks of IT Outsourcing}} include:</p>
-<ul>
-<li>{{c2::Fraud}}</li>
-<li>{{c2::Rigid dependency on the outsourcing provider's technology}}</li>
-<li>{{c2::Uncontrollable pricing}}</li>
-<li>{{c2::Loss of flexibility regarding requirements}}</li>
-<li>{{c2::Loss of decision-making power regarding data and technology}}</li>
-<li>{{c2::Loss of IT competencies}}</li>
-<li>{{c2::Hidden costs}}</li>
-</ul>"	
-"{{c1::Information Security}} is {{c2::the appropriate protection of all information in an organization}}. {{c1::Information Security}} is implemented as a combination of {{c3::communication privacy}} and {{c3::data privacy}}.<br />
-{{c1::{{c2::{{c3::<img src=""2025-Bild-Teubner-Feld_der_Informationssicherheit.png"" alt=""""><br />
-Field of Information Security}}}}}}"	
-"{{c1::Security in Cybersecurity}} is {{c2::protection against intentional cyberattacks and protection against unintentional events}}.<br />
-{{c1::{{c2::<img src=""2023-Bild-Krcmar-Risiko,_Sicherheit_und_Vertrauen.png"" alt=""""><br />
-Risk, Security, and Trust}}}}"	
-"{{c1::A Risk in Cybersecurity}} is {{c2::a possible deviation from the target due to future system states considering possible courses of action}}.<br />
-{{c1::{{c2::<img src=""2023-Bild-Krcmar-Risiko,_Sicherheit_und_Vertrauen.png"" alt=""""><br />
-Risk, Security, and Trust}}}}"	
-"{{c1::Trust in Cybersecurity}} is {{c2::the voluntary provision of a risky advance without explicit safeguards and controls}}.<br />
-{{c1::{{c2::<img src=""2023-Bild-Krcmar-Risiko,_Sicherheit_und_Vertrauen.png"" alt=""""><br />
-Risk, Security, and Trust}}}}"	
-{{c1::Cybersecurity}} is {{c2::the combination of IT security and IS security to expand the concept of security into cyberspace}}.	
-{{c1::Information Work}} is {{c2::the task of supplying information to users and organizations}}.	
-"{{c1::Information Infrastructure (IIS)}} is {{c2::an ICT infrastructure for consolidating information}}.<br />
-{{c1::{{c2::<img src=""2014-Bild-Teubner-Klein-Integrated_IIS.png"" alt=""""><br />
-Layer model of an integrated Information Infrastructure}}}}"	
-{{c1::Infrastructure in Strategy}} is {{c2::a shared and scalable resource at the organizational level}} that supports {{c3::various business processes and business functions}}.	
-"<p>Challenges of Big Data are:</p>
-<ul>
-<li>{{c1::Compliance}}</li>
-<li>{{c1::Creation of new tasks, processes, and responsibilities}}</li>
-<li>{{c1::Transformation of data}}</li>
-</ul>"	
-"<p>Goals of Information Management are:</p>
-<ul>
-<li>regarding organizational goals: {{c1::information supply}}</li>
-<li>regarding corporate goals: {{c1::ensuring efficient use of information}}</li>
-<li>{{c1::implementation of an Information Infrastructure}}</li>
-</ul>"	
-"<p>{{c2::Tasks in Information Resource Management}} are:</p>
-<ul>
-<li>{{c2::Data Quality Management}}</li>
-<li>{{c2::Data Backup}}</li>
-<li>{{c2::Enterprise Data Modeling}}</li>
-<li>{{c2::Enterprise Information Integration}}</li>
-<li>{{c2::Information Compliance}}</li>
-</ul>"	
-"<p>{{c1::Tasks in Application Systems Management}} are:</p>
-<ul>
-<li>{{c2::Application Architecture Management}}</li>
-<li>{{c2::Business Software Engineering}}</li>
-<li>{{c2::Enterprise Application Integration}}</li>
-<li>{{c2::Integration of Software Applications}}</li>
-</ul>"	
-"<p>{{c1::Tasks in Technical Infrastructure Management}} are:</p>
-<ul>
-<li>{{c2::Identity and Access Management}}</li>
-<li>{{c2::Network Security}}</li>
-<li>{{c2::Standardization}}</li>
-<li>{{c2::Virtualization}}</li>
-</ul>"	
-{{c1::An Information Function}} is {{c2::a task for planning, creating, executing, and maintaining the Information Infrastructure in an organization}}. {{c1::Information Functions}} represent a cross-organizational function that {{c3::supports other business functions in value creation}}.	
-"<p>{{c1::Factors of Information Functions}} are:</p>
+{{c1::Technology Emergence}} is {{c2::a view of IT as driven by social influences and organizational processes and a response to social needs}}.	
+{{c1::Technology Determinism}} is {{c2::a view of IT as an objective component that has a deterministic influence on organizations}}.	
+{{c1::An Application Platform}} is {{c2::a component of technical infrastructure providing generic software functions used by application systems}}. {{c1::Application platforms}} provide functions that {{c3::may not necessarily be used directly by a user}}.	
+{{c1::System Software}} is {{c2::software for integration, operation, and control of hardware}}.	
+"{{c1::An Application System (AS)}} is {{c2::a technical system in the form of an application that solves a business problem through orchestration of software and hardware}}.<br>
+{{c1::{{c2::<img src=""2014-Bild-Teubner-Klein-Applikationssystem_im_Schichtenmodell.png"" alt=""""><br>
+Application system in layer model}}}}"	
+{{c1::The POSC classification}} is {{c2::a categorization of management tasks into Planning, Organization, Staffing, and Controlling}}.	
+{{c1::An Information Function}} is {{c2::a task for planning, developing, executing, and maintaining the information infrastructure in an organization}}. {{c1::Information Functions}} are cross-organizational functions that {{c3::support other business functions in value creation}}.	
+"<p>{{c1::Factors of information functions}} include:</p>
 <ul>
 <li>{{c2::business-related}}<ul>
 <li>{{c2::responding to requirements}}</li>
@@ -481,7 +287,7 @@ Layer model of an integrated Information Infrastructure}}}}"
 <li>{{c2::providing vision}}</li></ul></li>
 <li>{{c3::provider-related}}<ul>
 <li>{{c3::managing external providers}}</li>
-<li>{{c3::providing information for purchasing and sourcing}}</li></ul></li>
+<li>{{c3::providing information on purchasing and sourcing}}</li></ul></li>
 <li>{{c4::technology-related}}<ul>
 <li>{{c4::building a flexible technical infrastructure}}</li>
 <li>{{c4::providing new and existing technologies}}</li></ul></li>
@@ -492,16 +298,261 @@ Layer model of an integrated Information Infrastructure}}}}"
 <li>{{c1::Tasks in Information Resource Management}}</li>
 <li>{{c1::Tasks in Technical Infrastructure Management}}</li>
 </ul>"	
-{{c1::The POSC Classification}} is {{c2::a categorization of management tasks into Planning, Organization, Staffing, and Controlling}}.	
-"{{c1::An Application System (AS)}} is {{c2::a technical system in the form of an application that solves a business problem through the orchestration of software and hardware}}.<br />
-{{c1::{{c2::<img src=""2014-Bild-Teubner-Klein-Applikationssystem_im_Schichtenmodell.png"" alt=""""><br />
-Application System in the Layer Model}}}}"	
-{{c1::System Software}} is {{c2::software for integration, commissioning, and control of hardware}}.	
-{{c1::An Application Platform}} is {{c2::a component of the technical infrastructure that provides generic software functions used by application systems}}. {{c1::Application platforms}} provide functions that {{c3::do not necessarily have to be directly used by a user}}.	
-{{c1::Technology Determinism}} is {{c2::a perspective on IT that it is an objective component that has a deterministic influence on organizations}}.	
-{{c1::Technology Emergence}} is {{c2::a perspective on IT that it is driven by social influences and organizational processes as a response to social needs}}.	
-"<p>Roles of Information Infrastructure in organizations are:</p>
+"<p>{{c1::Tasks in Technical Infrastructure Management}} include:</p>
 <ul>
-<li>{{c1::Backbone}}: {{c1::linking functions and processes with the information system}}</li>
-<li>{{c2::Base}}: {{c2::foundation for information supply as a shared service for all users}}</li>
+<li>{{c2::Identity and Access Management}}</li>
+<li>{{c2::Network Security}}</li>
+<li>{{c2::Standardization}}</li>
+<li>{{c2::Virtualization}}</li>
 </ul>"	
+"<p>{{c1::Tasks in Application Systems Management}} include:</p>
+<ul>
+<li>{{c2::Application Architecture Management}}</li>
+<li>{{c2::Business Software Engineering}}</li>
+<li>{{c2::Enterprise Application Integration}}</li>
+<li>{{c2::Integration of software applications}}</li>
+</ul>"	
+"<p>{{c2::Tasks in Information Resource Management}} include:</p>
+<ul>
+<li>{{c2::Data Quality Management}}</li>
+<li>{{c2::Data Backup}}</li>
+<li>{{c2::Enterprise Data Modeling}}</li>
+<li>{{c2::Enterprise Information Integration}}</li>
+<li>{{c2::Information Compliance}}</li>
+</ul>"	
+"<p>Goals of information management include:</p>
+<ul>
+<li>In relation to organizational goals: {{c1::information provision}}</li>
+<li>In relation to corporate goals: {{c1::ensuring efficient use of information}}</li>
+<li>{{c1::implementation of an information infrastructure}}</li>
+</ul>"	
+"<p>Challenges of Big Data include:</p>
+<ul>
+<li>{{c1::Compliance}}</li>
+<li>{{c1::Creation of new tasks, processes, and responsibilities}}</li>
+<li>{{c1::Data transformation}}</li>
+</ul>"	
+{{c1::Infrastructure in strategy}} is {{c2::a shared and scalable resource at the organizational level}} that supports {{c3::various business processes and business functions}}.	
+"{{c1::Information Infrastructure (IIS)}} is {{c2::an ICT infrastructure for the consolidation of information}}.<br />
+{{c1::{{c2::<img src=""2014-Bild-Teubner-Klein-Integrated_IIS.png"" alt=""""><br />
+Layer model of an integrated Information Infrastructure}}}}"	
+{{c1::Information Work}} is {{c2::the task of providing information to users and organizations}}.	
+{{c1::Cybersecurity}} is {{c2::the combination of IT security and IS security to extend the concept of security into cyberspace}}.	
+"{{c1::Trust in cybersecurity}} is {{c2::the voluntary undertaking of a risky preliminary action without explicit security and control measures}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Krcmar-Risiko,_Sicherheit_und_Vertrauen.png"" alt=""""><br />
+Risk, Security, and Trust}}}}"	
+"{{c1::A risk in cybersecurity}} is {{c2::a potential deviation from targets due to future system states, taking into account possible courses of action}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Krcmar-Risiko,_Sicherheit_und_Vertrauen.png"" alt=""""><br />
+Risk, Security, and Trust}}}}"	
+"{{c1::Security in cybersecurity}} is {{c2::the protection against intentional cyberattacks and against unintentional incidents}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Krcmar-Risiko,_Sicherheit_und_Vertrauen.png"" alt=""""><br />
+Risk, Security, and Trust}}}}"	
+"{{c1::Information security}} is {{c2::the appropriate protection of all information in an organization}}. {{c1::Information security}} is implemented as a combination of {{c3::communication privacy}} and {{c3::data privacy}}.<br />
+{{c1::{{c2::{{c3::<img src=""2025-Bild-Teubner-Feld_der_Informationssicherheit.png"" alt=""""><br />
+Field of Information Security}}}}}}"	
+"<p>{{c1::Risks of IT outsourcing}} include:</p>
+<ul>
+<li>{{c2::Fraud}}</li>
+<li>{{c2::Rigid dependency on the outsourcing provider’s technology}}</li>
+<li>{{c2::Uncontrollable pricing}}</li>
+<li>{{c2::Loss of flexibility in meeting requirements}}</li>
+<li>{{c2::Loss of decision-making ability regarding data and technology}}</li>
+<li>{{c2::Loss of IT competencies}}</li>
+<li>{{c2::Hidden costs}}</li>
+</ul>"	
+"<p>{{c1::Reasons for IT outsourcing}} include:</p>
+<ul>
+<li>{{c2::Focusing existing resources on the core business}}</li>
+<li>{{c2::Cost reduction}}</li>
+<li>{{c2::Use of technology and access to IT know-how with low investment costs}}</li>
+<li>{{c2::Use of knowledge from experts and specialized expertise}}</li>
+<li>{{c2::Reduction of production costs}}</li>
+<li>{{c2::Reduction of issues related to IT personnel}}</li>
+<li>{{c2::Reduction of uncertainty regarding IT}}</li>
+<li>{{c2::Faster resolution of IT-related problems}}</li>
+<li>{{c2::Overcoming IT bottlenecks}}</li>
+<li>{{c2::Conversion of IT costs from fixed to variable costs}}</li>
+<li>{{c2::Improvement in service quality}}</li>
+</ul>"	
+{{c1::IT outsourcing}} is {{c2::the outsourcing of individual IT tasks or all IT tasks of an organization to a legally affiliated company}}.	
+{{c1::IT outsourcing}} is mainly applied for {{c2::non-specific applications}}. If {{c2::an IT/IS function is strategically important}}, it should {{c3::not be outsourced}}.	
+"{{c1::The IS/IT strategy process}} is {{c2::a model representing the influencing factors and activities of strategy definition}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Krcmar-IS$IT-Strategieprozess.png"" alt=""""><br />
+IS/IT Strategy Process}}}}"	
+{{c1::An application (application software)}} is {{c2::software that provides functions for users}}.	
+{{c1::Technical infrastructure}} is {{c2::the set of prerequisite infrastructure needed to install and use software applications}}.	
+{{c1::The technical infrastructure}} provides the foundation for {{c2::technical functionalities}} and therefore has a {{c3::permanent character}}.	
+"<p>A technical infrastructure consists of:</p>
+<ol>
+<li>{{c1::Application Platforms}}</li>
+<li>{{c1::System Software}}</li>
+<li>{{c1::Hardware}}</li>
+</ol>"	
+{{c1::The IT/IS portfolio}} is {{c2::the systematic listing and analysis of the information systems in an organization}}. {{c1::The IS portfolio}} supports {{c3::investment decisions}} for {{c3::identifying projects that maximize organizational value}}.	
+The IT/IS portfolio is typically built based on criteria of {{c2::cost, benefit, and risk}}.	
+{{c1::An information resource}} is {{c2::a reusable source of information that must be maintained as part of information quality management}}.	
+{{c1::Insourcing}} is {{c2::the retention of resources and functions within an organization}}.	
+"<p>{{c1::ITIL 4}} consists of four dimensions to ensure a holistic approach to service management:</p>
+<ul>
+<li>{{c2::Information and technologies}}</li>
+<li>{{c2::Organizations and people}}</li>
+<li>{{c2::Partners and suppliers}}</li>
+<li>{{c2::Value streams and processes}}</li>
+</ul>"	
+"{{c1::ITIL (Information Technology Infrastructure Library)}} is {{c2::an integrated process and role description for the planning, creation, monitoring, and control of high-quality and cost-effective IT products and services}}. {{c1::ITIL}} is the standard in the field of {{c3::service management}}.<br />
+{{c1::{{c2::{{c3::<img src=""2023-Bild-Krcmar-ITIL.png"" alt=""""><br />
+The ITIL}}}}}}"	
+"{{c1::IT/IS Governance}} is {{c2::the structuring and distribution of decision-making and levels of information management to control the information function}}. {{c1::IT/IS Governance}} ensures that {{c2::the ultimate goals are achieved}}.<br>
+{{c1::{{c2::<img src=""2023-Bild-Krcmar-Struktur_des_Informationsmanagements.png"" alt=""""><br>
+Structure of Information Management}}}}<br>
+{{c1::{{c2::<img src=""2025-Bild-Teubner-IT-IS_Governance_in_der_Unternehmensgovernance.png"" alt=""""><br>
+IT/IS Governance in Corporate Governance}}}}"	
+{{c1::An information system (IS)}} is {{c2::a level of information management and a socio-technical system that includes both human and machine subsystems}}. {{c1::An information system}} is used for {{c3::optimal provision of information and communication according to economic criteria}}.	
+"{{c1::Information Management (IM)}} is {{c2::a part of organizational leadership tasked with ensuring the best possible use of information resources for organizational objectives}}. This is enabled through {{c4::the development and management of an information infrastructure}}. {{c1::Information management}} is an essential component of {{c3::corporate management}}.<br />
+{{c1::{{c2::{{c3::<img src=""2023-Bild-Krcmar-Struktur_des_Informationsmanagements.png"" alt=""""><br />
+Structure of Information Management}}}}}}"	
+{{c1::Compliance}} is {{c2::the sum of all organizational measures aimed at conducting business activities in accordance with legal requirements}}.	
+{{c1::A project}} is {{c2::an endeavor to achieve a defined goal with a defined budget and time frame}}. {{c1::A project}} is isolated from other {{c1::projects}}.	
+{{c1::Outsourcing}} is {{c2::the relocation of resources and functions outside of an organization}}.	
+Outsourcing should not be performed for {{c1::strategic functions or highly specific functions}}.	
+{{c1::Information}} is {{c2::an intangible asset that represents meaningful connections to data in the form of action-relevant knowledge for decision-making about past, present, and future events, circumstances, processes, and conditions}}.	
+Information is not consumed even with {{c1::multiple uses}} and can therefore be reused.	
+"{{c1::Bimodal IT}} is {{c2::the setup of a digital IT in parallel with an existing traditional IT}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Stockhinger-Bimodal_IT.png"" alt=""""><br />
+Types of Bimodal IT}}}}"	
+{{c1::IT security}} is {{c2::the protection of the information infrastructure and systems from damage and the effects of unauthorized access}}.	
+{{c1::Availability}} is {{c2::ensuring that users can access provided data and services via intended means at intended times}}.	
+{{c1::Integrity}} is {{c2::protection against manipulation, alteration, and falsification of computer systems, data, and information}}.	
+{{c1::Confidentiality}} is {{c2::protection against unauthorized access to confidential information}}.	
+{{c1::Authenticity}} is {{c2::the verification of a user's digital identity and the unaltered origin of communications to determine user permissions}}.	
+"True or false:<br />
+IT Service Management is fast and flexible."	"False:<br>
+IT Service Management is slow and stable."
+"True or false:<br />
+IT Service Management is suited for Mode 2 in Bimodal IT, which drives innovation."	"False:<br>
+IT Service Management is bureaucratic but very stable. It is suited for Mode 1."
+"Question:<br />
+What is an IT service?"	"<ul>
+<li>A set of functions and resources</li>
+<li>Free from technical decisions</li>
+<li>Guaranteed performance at a specific price</li>
+</ul>"
+"True or false:<br />
+Combining IT Service Management with agility is sensible and easy to implement."	"False:<br />
+Both approaches follow different and opposing principles. IT Service Management aims to control IT, while agility aims to create more freedom."
+"Example:<br />
+Compliance Framework"	"<ul>
+<li>CMMI</li>
+<li>COBIT</li>
+<li>ITIL</li>
+<li>PMBOK</li>
+<li>PRINCE2</li>
+</ul>"
+"Example:<br />
+Information Infrastructure Strategy"	"<ul>
+<li>Technologies that are required</li>
+</ul>"
+"True or false:<br />
+The Information Infrastructure Strategy describes how IT functions are implemented."	"False:<br />
+It describes what is implemented. How something is implemented is defined in the Information Function Strategy."
+"Question:<br />
+What risks can arise in a Multiple Provider Alliance outsourcing model?"	"<ul>
+<li>High coordination complexity between providers</li>
+<li>Inconsistent service-level agreements</li>
+<li>Shifting of responsibility between providers in case of problems</li>
+</ul>"
+"Example:<br />
+Threat Vector"	"<ul>
+<li>Advanced Persistent Threat</li>
+<li>Cyber Espionage</li>
+<li>Double Extortion</li>
+<li>Insider Threat</li>
+<li>Ransomware</li>
+<li>Triple Extortion</li>
+</ul>"
+"True or false:<br>
+The cost of cyberattacks increased significantly between 2018 and 2023 and is expected to grow further."	True
+"True or false:<br>
+Architecture Committees often replace or complement IT/IS Leadership Committees in architectural decisions."	True
+"True or false:<br>
+Architecture Committees are mostly responsible for infrastructural and architectural decisions."	True
+"True or false:<br>
+Business-IT Relationship Managers promote mutual understanding and problem awareness between IT and business."	True
+"True or false:<br />
+In highly process-oriented organizations, Process Teams with IT Representatives are used to prepare application support decisions."	True
+"True or false:<br />
+IT/IS Leadership Committees consist only of technical IT experts and do not make architectural decisions."	False
+"True or false:<br />
+IT/IS Leadership Committees are used in less than 50% of organizations."	"False:<br>
+They are used in 85% of organizations."
+"True or false:<br />
+Joint Business-IT Leadership Councils coordinate application development decisions without regard to business needs."	"False:<br />
+Decisions are made with consideration of business needs."
+"True or false:<br />
+Joint Business-IT Leadership Councils are a typical feature of organizations that use a duopoly model between business and IT for coordinated decision-making."	True
+"True or false:<br />
+Process Teams with IT Representatives are primarily used in product-oriented companies."	"False:<br />
+They are commonly used in process-oriented companies."
+"True or false:<br />
+Senior Management Committees often act as the governing body for IT principles or investment decisions."	True
+"True or false:<br />
+Senior Management Committees only play a role in about 50% of cases in IT/IS governance."	"False:<br />
+They play a role in 90% of the examined cases."
+"Question:<br />
+Which IT/IS governance archetypes in the MIT Framework allow autonomous decision-making within individual business units?"	"<ul>
+<li>Anarchy</li>
+<li>Feudal</li>
+</ul>"
+"Question:<br />
+What are the two key factors in determining the governance archetype within an organization according to the MIT Framework?"	"<ul>
+<li>The number of decision-makers involved</li>
+<li>The organizational distribution of decision rights (centralized vs. decentralized responsibility)</li>
+</ul>"
+"True or false:<br />
+Most governance domains use a Federal archetype."	True
+"True or false:<br />
+Most governance domains use a Feudal archetype."	False
+"True or false:<br />
+IT investment typically follows a Business Monarchy archetype."	True
+"True or false:<br />
+IT investment typically follows an IT Monarchy archetype."	False
+"Question:<br />
+What is an investment committee in the context of IT/IS governance?"	A body that decides on the financing of IT investments and projects.
+"Example:<br />
+Cloudsourcing"	"<ul>
+<li>Applications as a Service</li>
+<li>Functions as a Service</li>
+<li>Infrastructure as a Service</li>
+<li>Platforms as a Service</li>
+</ul>"
+"Example:<br />
+Outtasking"	"<ul>
+<li>Software development</li>
+<li>Hardware maintenance</li>
+</ul>"
+"Example:<br />
+Information Function Strategy"	"<ul>
+<li>Determining the skills needed for the Information Infrastructure</li>
+<li>People who maintain the Information Infrastructure</li>
+</ul>"
+"Example:<br />
+Application Platform"	"<ul>
+<li>Database systems with database functions</li>
+</ul>"
+"Example:<br />
+Information Infrastructure"	"<ul>
+<li>Databases</li>
+<li>Hardware</li>
+<li>Network</li>
+<li>Software</li>
+</ul>"
+"Example:<br />
+IT Outsourcing"	"<ul>
+<li>Application development</li>
+<li>Cloud services</li>
+<li>Data centers</li>
+<li>Desktop services</li>
+<li>IT security</li>
+<li>Telecommunication systems</li>
+<li>Maintenance</li>
+</ul>"

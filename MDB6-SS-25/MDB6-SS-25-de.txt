@@ -1,12 +1,64 @@
 #separator:tab
 #html:true
+"wahr oder falsch:<br />
+IT-Service Management ist schnell und flexibel."	"falsch:<br>
+IT-Service Management ist langsam und stabil."
+"wahr oder falsch:<br />
+IT-Service Management bietet sich in einer Bimodal IT für den Mode 2 an, welcher Innovation erzeugt."	"falsch:<br>
+IT-Service Management ist bürokratisch, aber dafür sehr stabil. Es bietet sich für den Mode 1 an."
+"Frage:<br />
+Was ist ein IT-Service?"	"<ul>
+<li>eine Menge an Funktionen und Ressourcen</li>
+<li>frei von technischen Entscheidungen</li>
+<li>garantierte Leistung zu einem spezifischen Preis</li>
+</ul>"
+"wahr oder falsch:<br />
+Eine Verbindung von IT-Service Management und Agilität ist sinnvoll und einfach umsetzbar."	"falsch:<br />
+Beide Ansätze verfolgen unterschiedliche und gegensätzliche Prinzipien. IT-Service Management verfolgt einen Ansatz über die Kontrolle von IT, während Agilität mehr Freiheit schaffen möchte."
+"Beispiel:<br />
+Compliance-Framework"	"<ul>
+<li>CMMI</li>
+<li>COBIT</li>
+<li>ITIL</li>
+<li>PMBOK</li>
+<li>PRINCE2</li>
+</ul>"
+"Beispiel:<br />
+ Information Infrastructure Strategy"	"<ul>
+<li>Technologien, die benötigt werden</li>
+</ul>"
+"wahr oder falsch:  <br />
+In der Information Infrastructure Strategy geht es darum, wie IT-Funktionen umgesetzt werden."	"falsch:  <br />
+Sie beschreibt, was umgesetzt wird. Wie etwas umgesetzt wird, wird in der Information Function Strategy behandelt."
+Bei {{c1::der Information Infrastructure Strategie}} geht es um, {{c2::was in der Information Infrastructure umgesetzt werden soll}}.	
+"{{c1::Der IT/IS-Strategieprozess}} besteht aus mehreren Schritten:<br />
+{{c2::IT/IS-Strategie}} -&gt; {{c3::IT/IS-Architektur}} -&gt; {{c4::IT/IS-Projekte}} -&gt; {{c5::Information Infrastructure}}"	
+"{{c1::Der Lebenszyklus der Informationswirtschaft}} besteht aus:<br />
+{{c2::1. Management der Informationsnachfrage}}<br />
+{{c2::2. Management der Informationsquellen}}<br />
+{{c2::3. Management der Informationsressourcen}}<br />
+{{c3::4. Management des Informationsangebots}}<br />
+{{c3::5. Management der Informationsnachfrage}}<br />
+{{c3::6. Management der Informationsverwendung}}<br />
+{{c1::{{c2::{{c3::<img src=""2023-Bild-Krcmar-Erweiterter_Lebenszyklus_der_Informationswirtschaft.png"" alt=""""><br />
+Erweiterter Lebenszyklus der Informationen}}}}}}"	
+{{c1::Ein IT Duopoly}} ist {{c2::ein Governance-Archetype, in welchem die IT-Führung und eine andere Gruppe Entscheidungen trifft}}.	
+{{c1::Eine IT Monarchy}} ist {{c2::ein Governance-Archetype, in welchem die IT-Führungsebene Entscheidungen trifft}}.	
+{{c1::Business Monarchy}} ist {{c2::ein Governance-Archetype,  in welchem die Führungsebene Entscheidungen trifft}}.	
+{{c1::Ein IT Principle (IT-Prinzip)}} ist {{c2::eine Regel oder Richtlinie vom Einsatz von IT}}.	
 {{c1::Eine Multiple Provider Relation}} ist {{c2::eine Beziehung zwischen einem Provider für einen Client zum Outsourcing}}.	
 {{c1::Eine Single Provider Alliance}} ist {{c2::eine Beziehung zwischen einem Provider für mehrere Clients zum Outsourcing}}.	
 {{c1::Eine Multiple Provider Relation}} ist {{c2::eine Beziehung zwischen mehreren Providern für einen Client zum Outsourcing}}.	
+"Frage:  <br />
+Welche Risiken können bei einem Multiple Provider Alliance Outsourcing-Modell auftreten."	"<ul>
+<li>hohe Koordinationskomplexität zwischen Providern</li>
+<li>inkonsistente Service-Level-Agreements</li>
+<li>Verlagerung von Verantwortung zwischen Providern bei Problemen</li>
+</ul>"
 {{c1::Eine Multiple Provider Alliance}} ist {{c2::eine Beziehung zwischen mehreren Providern für mehrere Clients zum Outsourcing}}.	
 {{c1::Cybersecurity}} wird im Top Management als einer der wichtigsten und bedeutungsvollsten Punkte von IT priorisiert.	
-"{{c1::Die Business Impact Analysis}} ist {{c2::die Analyse von einer Cyberattacke und deren Auswirkungen auf die Geschäftsfunktionen}}.<br>
-{{c1::{{c2::<img src=""2025-Bild-Teubner-Business_Impact_Analysis.png"" alt=""""><br>
+"{{c1::Die Business Impact Analysis}} ist {{c2::die Analyse von einer Cyberattacke und deren Auswirkungen auf die Geschäftsfunktionen}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Teubner-Business_Impact_Analysis.png"" alt=""""><br />
 Business Impact Analysis}}}}"	
 {{c1::Die Threat Scenario Analysis}} ist {{c2::die Analyse von möglichen Cyber-Gefahren}}.	
 "<p>{{c1::Die Threat Scenario Analysis}} besteht aus mehreren Schritten:</p>
@@ -24,7 +76,7 @@ Business Impact Analysis}}}}"
 {{c1::Double Extortion}} ist {{c2::ein Cyberangriff, bei welcher Daten entschlüsselt, sensible Informationen entnommen und damit eine Organisation erpresst wird}}.	
 {{c1::Cyber-Spionage (Cyber Espionage)}} ist {{c2::die Spionage durch politische Akteure, militärische Akteure oder wirtschaftliche Akteure, um sensible Informationen zu erlangen}}.	
 {{c1::Ein Insider Threat}} ist {{c2::ein Threat Vector, welcher durch eine Person innerhalb einer Organisation als Threat Actor durchgeführt wird}}. {{c1::Ein Insider Threat}} wird meist durch {{c3::Mitarbeitende oder ehemalige Mitarbeitende}} durchgeführt.	
-{{c1.:Ein Threat Surface (Angriffsfläche)}} ist {{c2::die Menge aller Schwachstellen oder Zugangspunkte in einer Software oder einer Organisation, über die ein Threat Actor ein Zugang zur Information Infrastructure erhalten kann}}.	
+{{c1::Ein Threat Surface (Angriffsfläche)}} ist {{c2::die Menge aller Schwachstellen oder Zugangspunkte in einer Software oder einer Organisation, über die ein Threat Actor ein Zugang zur Information Infrastructure erhalten kann}}.	
 "Beispiel:<br />
 Threat Vector"	"<ul>
 <li>Advanced Persistent Threat</li>
@@ -44,14 +96,6 @@ Die Kosten von Cyberangriffen sind im Zeitraum 2018 - 2023 stark gestiegen und w
 IT-Grundschutz-Methodik}}}}"	
 {{c1::Das NIST Cybersecurity Framework}} ist {{c2::ein Governance-Framework für Cybersecurity}}.	
 {{c1::Die Cybersecurity Legislation}} sind {{c2::gesetzliche Regelungen und politische Maßnahmen der EU, die darauf abzielen, die Sicherheit von Informationssystemen zu gewährleisten}}.	
-"Beispiel:<br />
-Compliance-Framework"	"<ul>
-<li>CMMI</li>
-<li>COBIT</li>
-<li>ITIL</li>
-<li>PMBOK</li>
-<li>PRINCE2</li>
-</ul>"
 {{c1::Die ISO 15489}} ist {{c2::eine Norm für das Records Management}}.	
 {{c1::Die ISO 22301}} ist {{c2::eine Norm für das Business Continuity Management}}.	
 {{c1::Die ISO/IEC 19770}} ist {{c2::eine Norm für das IT Asset Management}}.	
@@ -82,12 +126,12 @@ Entscheidungen werden mit Rücksicht auf Geschäftsbedürfnisse geschlossen."
 "wahr oder falsch:<br />
 Joint Business-IT Leadership Council sind ein typisches Merkmal von Organisationen, die ein Duopol-Modell zwischen Business und IT nutzen, um koordinierte Entscheidungen zu treffen."	wahr
 "wahr oder falsch:<br />
-Process Teams with IT Representatives werden bevorzugt in produkt-orientierten Unternehmen eingesetzt."	"falsch:<br>
+Process Teams with IT Representatives werden bevorzugt in produkt-orientierten Unternehmen eingesetzt."	"falsch:<br />
 Sie werden häufig in prozess-orientierten Unternehmen genutzt."
 "wahr oder falsch:<br />
 Senior Management Committees dienen häufig als Führungsgremium für IT-Prinzipien oder Investitionsentscheidungen."	wahr
 "wahr oder falsch:<br />
-Senior Management Committees spielen nur in etwa 50 % der untersuchten Fälle eine Rolle in der IT/IS-Governance."	"falsch:<br>
+Senior Management Committees spielen nur in etwa 50 % der untersuchten Fälle eine Rolle in der IT/IS-Governance."	"falsch:<br />
 Sie spielen in 90 % der untersuchten Fälle eine Rolle."
 "<p>Arten von Entscheidungsgremien in der IT/IS-Governance sind:</p>
 <ul>
@@ -99,6 +143,16 @@ Sie spielen in 90 % der untersuchten Fälle eine Rolle."
 <li>{{c1::Process Teams wit IT Representatives}}</li>
 </ul>"	
 {{c1::COBIT}} ist {{c2::ein von der ISACA-Organisation erstelltes Framework zur IT-Governance}}.	
+"Frage:<br />
+Welche IT/IS-Governance-Archetypen im MIT Framework ermöglichen eine autonome Entscheidungsfindung innerhalb einzelner Geschäftseinheiten?"	"<ul>
+<li>Anarchy</li>
+<li>Feudal</li>
+</ul>"
+"Frage:  <br />
+Welche zwei Faktoren sind entscheidend für die Bestimmung des Governance-Archetyps innerhalb einer Organisation gemäß MIT Framework?"	"<ul>
+<li>die Anzahl der beteiligten Entscheidungsträger</li>
+<li>die organisatorische Verteilung der Entscheidungsrechte (zentrale vs. dezentrale Verantwortung)</li>
+</ul>"
 "wahr oder falsch:<br />
 Die meisten Governance-Domänen besitzen einen Federal-Archetype."	wahr
 "wahr oder falsch:<br />
@@ -118,8 +172,8 @@ IT-Investment besitzt meist eine IT Monarchy-Archetype."	falsch
 </ol>"	
 "<p>{{c1::Das MIT Framework}} besteht aus sechs Governance-Archetypen:</p>
 <ol>
-<li>{{c2::Business Monarchy: Top-Management trifft Entscheidungen}}</li>
-<li>{{c2::IT Monarchy: IT-Führung trifft Entscheidungen}}</li>
+<li>{{c2::Business Monarchy: Führungsebene trifft Entscheidungen}}</li>
+<li>{{c2::IT Monarchy: IT-Führungsebene trifft Entscheidungen}}</li>
 <li>{{c2::Federal: Gemeinsame Entscheidung von zentraler IT und Geschäftsbereichen}}</li>
 <li>{{c2::IT Duopoly: IT-Führung und eine andere Gruppe trifft Entscheidungen}}</li>
 <li>{{c2::Feudal: Einzelne Geschäftsbereiche entscheiden autonom}}</li>
@@ -132,9 +186,9 @@ IT-Investment besitzt meist eine IT Monarchy-Archetype."	falsch
 </ul>"	
 "<p>Vorteile von Centralized IT/IS Governance sind:</p>
 <ul>
-<li>{{c1.:Expertise und Spezialisierung}}</li>
-<li>{{c1.:Kontrolle über IT-Ressourcen}}</li>
-<li>{{c1.:Standardisierung}}</li>
+<li>{{c1::Expertise und Spezialisierung}}</li>
+<li>{{c1::Kontrolle über IT-Ressourcen}}</li>
+<li>{{c1::Standardisierung}}</li>
 </ul>"	
 {{c1::Eine Decentralized IT/IS Governance}} ist {{c2::ein Governance-Modell für die IT/IS-Governance, in welcher das Decision-Making in vielen IT-Stellen stattfindet}}.	
 {{c1::Eine Centralized IT/IS Governance}} ist {{c2::ein Governance-Modell für die IT/IS-Governance, in welcher das Decision-Making in einer zentralen IT-Stelle stattfindet}}.	
@@ -175,7 +229,7 @@ IT-Investment besitzt meist eine IT Monarchy-Archetype."	falsch
 <li>{{c3::Training von Mitarbeitern notwendig}}</li>
 <li>{{c4::Verschiebung der Anforderungen an benötigte Fähigkeiten}}</li>
 </ul>"	
-{{c1::Software Developer}} ist ein Beruf, in welchem{{c2:: programmiert wird}}.	
+{{c1::Software Developer}} ist ein Beruf, in welchem {{c2:: programmiert wird}}.	
 {{c1::Software Architect}} ist ein Beruf, in welchem {{c2::die Architektur einer Software definiert werden}}.	
 {{c1::Requirements Engineer}} ist ein Beruf, in welchem {{c2::Anforderungen analysiert und diese in entsprechende IT-Anwendungen übersetzt werden}}.	
 {{c1::System Analyst}} ist ein Beruf, in welchem {{c2::Geschäftsprobleme analysiert und Handlungsempfehlungen für IS-Anforderungen gestellt werden}}.	
@@ -187,6 +241,8 @@ IT-Investment besitzt meist eine IT Monarchy-Archetype."	falsch
 {{c1::Ein Project Management Office (PMO)}} ist {{c2::ein Management Office, welches das Projektmanagement unterstützt}}.	
 {{c1::Ein Portfolio- und Programm-Management Office}} ist {{c2::ein Management Office, welches das Portfoliomanagement und Programmmanagement unterstützt}}.	
 {{c1::Ein Steering-Komitee}} ist {{c2::ein Komitee, welches bestehende Investitionen und Projekte evaluiert, prüft und steuert}}. {{c1::Das Steering-Komitee}} berichtet an {{c3::die Geschäftsführung}}.	
+"Frage:  <br />
+Was ist ein Investment-Komitee im Kontext der IT/IS-Governance?"	Ein Gremium, das über die Finanzierung von IT-Investitionen und Projekten entscheidet.
 {{c1::Ein Investment-Komitee}} ist {{c2::ein Komitee, welches die Finanzierung von Investments und Projekten steuert}}.	
 {{c1::Das Blending von Information Functions}} ist {{c2::die Organisation der Information Functions anhand von verschiedenen Faktoren zur Zentralisierung der Information Functions oder Dezentralisierung der Information Functions anhand der Faktoren}}.	
 "<p>Nachteile der Dezentralisierung von Information Functions sind:</p>
@@ -208,7 +264,7 @@ IT-Investment besitzt meist eine IT Monarchy-Archetype."	falsch
 </ul>"	
 "<p>Vorteile der Zentralisierung von Information Functions sind:</p>
 <ul>
-<li>{{c1::Economy of Scale}}</li>
+<li>{{c1::Economies of Scale}}</li>
 <li>{{c1::einfachere Durchsetzung von Vorgaben}}</li>
 <li>{{c1::Teilen von Erfahrungen und Kompetenzen des Personals}}</li>
 </ul>"	
@@ -294,13 +350,6 @@ IT/IS Investment Funnel}}}}"
 {{c1::Identifikation}} -&gt; {{c2::Set-Up}} -&gt; {{c3::Durchführung}} -&gt; {{c4::Abschluss}}"	
 {{c1::Ein Programm}} ist {{c2::eine Menge an Projekten zur Erreichung von einem höheren Ziel}}. {{c1::Programme}} werden genutzt, um {{c3::mehrere Projekte, welche möglicherweise abhängig voneinander sind, zu koordinieren}}.	
 {{c1::Eine Target Architektur}} ist {{c2::ein Blueprint einer zukünftigen Information Infrastructur zur Umsetzung einer IT/IS-Strategie}}.	
-"{{c1::Der IT/IS-Strategieprozess}} besteht aus mehreren Schritten:<br />
-{{c2::IT/IS-Strategie}} -&gt; {{c3::IT/IS-Architektur}} -&gt; {{c4::IT/IS-Projekte}} -&gt; {{c5::Information Infrastructure}}"	
-"Beispiel:<br />
- Information Infrastructure Strategy"	"<ul>
-<li>Technologien, die benötigt werden</li>
-</ul>"
-Bei {{c1::der Information Infrastructure Strategie}} geht es um, {{c2::was in der Information Infrastructure umgesetzt werden soll}}.	
 "Beispiel:<br />
 Information Function Strategy"	"<ul>
 <li>Bestimmung von Fähigkeiten, die für die Information Infrastructure benötigt werden</li>
@@ -325,7 +374,7 @@ Information Function Strategy"	"<ul>
 {{c1::{{c2::<img src=""2025-Bild-Teubner-IT-IS_Strategy_Model.png"" alt=""""><br />
 IT/IS Strategy Model}}}}"	
 {{c1::Die IT/IS-Strategie}} ermöglicht es, dass {{c2::die Information Infrastructure Strategy und die Business Strategy}} sich gegenseitig beeinflussen.	
-Eine IT/IS-Strategie kann durch {{c1::den Ist-Zustand oder einen Soll-Zustand }}getrieben werden.	
+Eine IT/IS-Strategie kann durch {{c1::den Ist-Zustand oder einen Soll-Zustand}} getrieben werden.	
 "<p>Rollen von Information Infrastructure in Organisationen sind:</p>
 <ul>
 <li>{{c1::Backbone}}: {{c1::Verknüpfung von Funktionen und Prozessen mit dem Informationssystem}}</li>
@@ -337,7 +386,7 @@ Eine IT/IS-Strategie kann durch {{c1::den Ist-Zustand oder einen Soll-Zustand }}
 Application Platform"	"<ul>
 <li>Datenbanksysteme mit Datenbankfunktionen</li>
 </ul>"
-{{c1::Eine Application Platform (Applikationsplattform)}} ist {{c2::ein Bestandteil der technischen Infrastruktur und stellt generische Softwarefunktionen bereit, welche von Applikationssystemen genutzt werden}}. {{c1.:Applikationsplattformen}} stellt Funktionen bereit, welche {{c3::nicht zwingend durch einen Nutzer direkt genutzt werden können}}.	
+{{c1::Eine Application Platform (Applikationsplattform)}} ist {{c2::ein Bestandteil der technischen Infrastruktur und stellt generische Softwarefunktionen bereit, welche von Applikationssystemen genutzt werden}}. {{c1::Applikationsplattformen}} stellt Funktionen bereit, welche {{c3::nicht zwingend durch einen Nutzer direkt genutzt werden können}}.	
 {{c1::System Software}} ist {{c2::Software zur Integrierung, Inbetriebnahme und Kontrolle von Hardware}}.	
 "{{c1::Ein Applikationssystem (Application System, AS)}} ist {{c2::ein technisches System im Form einer Applikation, welche durch die Orchestrierung von Software und Hardware ein Geschäftsproblem löst}}.<br />
 {{c1::{{c2::<img src=""2014-Bild-Teubner-Klein-Applikationssystem_im_Schichtenmodell.png"" alt=""""><br />
@@ -463,7 +512,7 @@ IT-Outsourcing"	"<ul>
 IS/IT-Strategieprozess}}}}"	
 {{c1::Eine Applikation (Application Software, Applikationssoftware)}} ist {{c2::eine Software zur Bereitstellung von Funktionen für Nutzer}}.	
 {{c1::Technische Infrastruktur (Technical Infrastructure)}} ist {{c2::die Menge an vorausgesetzten Infrastruktur, die zur Installation und Nutzung einer Softwareanwendungen benötigt werden}}.	
-{{c1::Die technische Infrastruktur}} stellt die Grundlagen {{c2::der technischen Funktionalitäten}} dar und hat dadurch einen {{3::dauerhaften Charakter}}.	
+{{c1::Die technische Infrastruktur}} stellt die Grundlagen {{c2::der technischen Funktionalitäten}} dar und hat dadurch einen {{c3::dauerhaften Charakter}}.	
 "<p>Eine technische Infrastruktur besteht aus:</p>
 <ol>
 <li>{{c1::Application Platforms}}</li>
@@ -474,15 +523,16 @@ IS/IT-Strategieprozess}}}}"
 Das IT/IS-Portfolio wird üblicherweise nach Kriterien {{c2::der Kosten, des Nutzen und der Risiken}} aufgebaut.	
 {{c1::Eine Informationsressource}} ist {{c2::eine mehrfach verwendbare Informationsquelle, die im Rahmen des Informationsqualitätsmanagement zu pflegen und instand zu halten ist}}.	
 {{c1::Insourcing}} ist {{c2::die Beibehaltung von Ressourcen und Funktionen in einer Organisation}}.	
-"{{c1::Der Lebenszyklus der Informationswirtschaft}} besteht aus:<br />
-{{c2::1. Management der Informationsnachfrage}}<br />
-{{c2::2. Management der Informationsquellen}}<br />
-{{c2::3. Management der Informationsressourcen}}<br />
-{{c3::4. Management des Informationsangebots}}<br />
-{{c3::5. Management der Informationsnachfrage}}<br />
-{{c3::6. Management der Informationsverwendung}}<br />
-{{c1::{{c2::{{c3::<img src=""2023-Bild-Krcmar-Erweiterter_Lebenszyklus_der_Informationswirtschaft.png"" alt=""""><br />
-Erweiterter Lebenszyklus der Informationen}}}}}}"	
+"<p>{{c1::ITIL 4}} besteht aus vier Dimensionen, um einen ganz-einheitlichen Ansatz für das Service Management sicherzustellen:</p>
+<ul>
+<li>{{c2::Informationen und Technologien}}</li>
+<li>{{c2::Organisationen und Personen}}</li>
+<li>{{c2::Partner und Lieferanten}}</li>
+<li>{{c2::Werteströme und Prozesse}}</li>
+</ul>"	
+"{{c1::Die ITIL (Information Technology Infrastructure Library)}} ist {{c2::eine integrierte Prozessbeschreibung und Rollenbeschreibung für die Planung, Erstellung, Überwachung und Steuerung hochwertiger und wirtschaftlicher IT-Produkte und Services}}. {{c1::Die ITIL}} ist der Standard im Bereich {{c3::des Service Management}}.<br />
+{{c1::{{c2::{{c3::<img src=""2023-Bild-Krcmar-ITIL.png"" alt=""""><br />
+Die ITIL}}}}}}"	
 "{{c1::IT/IS-Governance}} ist {{c2::die Gestaltung und Verteilung der Entscheidungen und Ebenen des Informationsmanagements zur Steuerung der Information Function}}. {{c1::IT/IS-Governance}} stellt sicher, dass {{c2::die finalen Ziele erreicht werden}}.<br />
 {{c1::{{c2::<img src=""2023-Bild-Krcmar-Struktur_des_Informationsmanagements.png"" alt=""""><br />
 Struktur des Informationsmanagements}}}}<br />
@@ -495,6 +545,7 @@ Struktur des Informationsmanagements}}}}}}"
 {{c1::Compliance}} ist {{c2::die Gesamtheit aller organisatorischen Maßnahmen, die darauf abzielen, Geschäftstätigkeiten in Einklang mit gesetzlichen Vorgaben durchzuführen}}.	
 {{c1::Ein Projekt}} ist {{c2::ein Vorhaben zur Erreichung von einem definierten Ziel mit einem definierten Budget und Zeitrahmen}}. {{c1::Ein Projekt}} ist isoliert von anderen {{c1::Projekten}}.	
 {{c1::Outsourcing}} ist {{c2::die Auslagerung von Ressourcen und Funktionen außerhalb einer Organisation}}.	
+Outsourcing sollte nicht für {{c1::strategische Funktionen oder hochspezifische Funktionen}} durchgeführt werden.	
 {{c1::Eine Information}} ist {{c2::ein immaterielles Gut, welches eine bedeutungsvolle Bindung zu Daten in Form von handlungsbestimmenden Kenntnissen für die Entscheidungsfindung von vergangenen, gegenwärtigen und zukünftigen Ereignissen, Sachverhalten, Vorgängen und Zuständen beinhaltet}}.	
 Eine Information wird auch bei {{c1::mehrfacher Nutzung}} nicht verbraucht und kann daher wiederverwendet werden.	
 "{{c1::Eine Bimodal IT (bimodale IT)}} ist {{c2::der Aufbau von einer digitalen IT, parallel zu einer bestehenden traditionellen IT}}.<br />
