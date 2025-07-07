@@ -25,7 +25,7 @@ Dieses Repository stellt eine Sammlung von Anki-Karteikarten bereit, die folgend
 - Zusätzliches Material aus Lehrbüchern und weiteren wissenschaftlichen Quellen
 
 ## Kurse
-- **MDB5:**: Digital Innovation and Sustainable Development (SS 25) - Püchel
+- **MDB5:**: Digital Innovation and Sustainable Development (SS 25) – Püchel
 	- **de**: Originales Deck auf Deutsch
 	- **en**: KI-übersetztes Deck auf Englisch
 - **MDB6**: Strategic IT/IS Management & Cases (SS 25) – Teubner
