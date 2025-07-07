@@ -25,7 +25,7 @@ This repository provides a comprehensive set of Anki flashcards that include:
 - Additional material from textbooks and other academic sources
 
 ## Included Modules
-- **MDB5:**: Digital Innovation and Sustainable Development (SS 25) - Püchel
+- **MDB5:**: Digital Innovation and Sustainable Development (SS 25) – Püchel
 	- **de**: Original deck in German
 	- **en**: AI-translated deck in English
 - **MDB6**: Strategic IT/IS Management & Cases (SS 25) – Teubner
