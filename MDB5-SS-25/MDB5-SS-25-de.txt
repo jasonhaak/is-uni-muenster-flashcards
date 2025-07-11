@@ -62,10 +62,10 @@ IMV soll primär dazu dienen, soziale und ökologische Auswirkungen systematisch
 Impact Measurement and Valuation ist ein rein technisches Instrument zur ESG-Integration."	"falsch:<br />
 Bei Impact Measurement and Valuation handelt es sich um ein zutiefst politisches und normatives Konstrukt, das über technische Fragen hinausgeht."
 "wahr oder falsch:<br />
-Impact Measurement and Valuation ist ein Synonym für Nachhaltigkeitsberichterstattung nach GRI."	"falsch:<br />
+Impact Measurement and Valuation ist ein Synonym für Nachhaltigkeitsberichterstattung nach GRI."	"falsch:<br>
 Impact Measurement and Valuation geht über Berichterstattung hinaus und beinhaltet zusätzlich die Monetarisierung und Integration sozialer und ökologischer Auswirkungen in unternehmerische Entscheidungsprozesse."
 "wahr oder falsch:<br />
-Impact Measurement and Valuation ist vor allem in Unternehmen relevant, die schon stark digitalisiert sind."	"falsch:<br />
+Impact Measurement and Valuation ist vor allem in Unternehmen relevant, die schon stark digitalisiert sind."	"falsch:<br>
 Impact Measurement and Valuation gewinnt zunehmend auch bei traditionellen Industrien an Bedeutung, besonders dort, wo soziale und ökologische Auswirkungen erheblich sind."
 "Frage:<br />
 Was ist Technological Turbulence?"	Technological Turbulence beschreibt die Geschwindigkeit des technologischen Wandels innerhalb einer Industrie.
@@ -227,7 +227,7 @@ Wie kann KI für Sustainable Reporting genutzt werden?"	KI kann eingesetzt werde
 </ul>"	
 "<p>Auswirkungen des hohen Stromverbrauches von KI sind:</p>
 <ul>
-<li>ökonomische Auswirkungen<ul>
+<li>ökologische Auswirkungen<ul>
 <li>{{c1::signifikanter Energieverbrauch}}</li>
 <li>{{c1::Treibhausgas-Emission}}</li>
 <li>{{c1::verminderte Luftqualität}}</li></ul></li>
@@ -612,8 +612,8 @@ Bestandteile der Balanced Scorecard sind {{c1::durch Ursachen-Wirkungs-Ketten}} 
 "{{c1::Ein indirekter Netzwerkeffekt}} ist {{c2::eine Netzwerkexternalität mit einer Wertsteigerung für bestimmte Nutzergruppen oder bestimmte Produkte bei steigender Nutzeranzahl und Nutzerqualität}}.<br />
 {{c1::{{c2::<img src=""2025-Bild-Puechel-Direkter_Netzwerkeffekt_und_indirekter_Netzwerkeffekt.png"" alt=""""><br />
 Direkter Netzwerkeffekt und indirekter Netzwerkeffekt}}}}"	
-"{{c1::Ein direkter Netzwerkeffekt}} ist {{c2::eine Netzwerkexternalität mit einer Wertsteigerung für alle Nutzer bei steigender Anzahl der Nutzer}}.<br />
-{{c1::{{c2::<img src=""2025-Bild-Puechel-Direkter_Netzwerkeffekt_und_indirekter_Netzwerkeffekt.png"" alt=""""><br />
+"{{c1::Ein direkter Netzwerkeffekt}} ist {{c2::eine Netzwerkexternalität mit einer Wertsteigerung für alle Nutzer bei steigender Anzahl der Nutzer}}.<br>
+{{c1::{{c2::<img src=""2025-Bild-Puechel-Direkter_Netzwerkeffekt_und_indirekter_Netzwerkeffekt.png"" alt=""""><br>
 Direkter Netzwerkeffekt und indirekter Netzwerkeffekt}}}}"	
 {{c1::Ökologische Nachhaltigkeit (Environmental Sustainability)}} ist {{c2::die Reduzierung des Konsums von natürlichen Ressourcen und die Steigerung der Gesundheit der Erde}}.	
 {{c1::Kreislaufwirtschaft (Circular Economy Theory)}} ist {{c2::ein Modell, in welchem Güter wiederverwendet werden. In der Kreislaufwirtschaft liegt der Fokus auf Reduktion, Wiedernutzung und Recycling}}.	

@@ -56,8 +56,8 @@ The sustainability audit can be conducted as {{c1::a full audit}} or {{c1::a lim
 "{{c1::Mandatory sustainability reporting}} could increase digital maturity by {{c2::enforcing data management and data usage}}.<br />
 {{c1::{{c2::<img src=""2025-Bild-Puechel-Regulation-Driven_Twin_Transformation.png"" alt=""""><br />
 Regulation-Driven Twin Transformation}}}}"	
-"{{c1::A Digital Maturity Model}} is {{c2::a model of digital maturity to understand the current state and capabilities of an organization regarding digital transformation}}.<br />
-{{c1::{{c2::<img src=""2025-Bild-Puechel-Digital_Maturity_Model.png"" alt=""""><br />
+"{{c1::A Digital Maturity Model}} is {{c2::a model of digital maturity to understand the current state and capabilities of an organization regarding digital transformation}}.<br>
+{{c1::{{c2::<img src=""2025-Bild-Puechel-Digital_Maturity_Model.png"" alt=""""><br>
 Digital Maturity Model}}}}"	
 {{c1::Digital Maturity}} is {{c2::the status of digital transformation, combining technological aspects with aspects of business transformation}}.	
 {{c1::The Global Reporting Initiative}} is {{c2::a reporting framework for standards related to sustainability reporting}}.	
@@ -84,7 +84,7 @@ Digital Maturity Model}}}}"
 </ul>"	
 "<p>Impacts of high energy consumption of AI are:</p>
 <ul>
-<li>economic impacts<ul>
+<li>ecological impacts<ul>
 <li>{{c1::significant energy consumption}}</li>
 <li>{{c1::greenhouse gas emissions}}</li>
 <li>{{c1::reduced air quality}}</li></ul></li>
@@ -217,8 +217,8 @@ Internal and External Drivers of Sustainable Development}}</li>
 {{c1::<img src=""2025-Bild-Puechel-Internal_and_External_Drivers_fo_Sustainable_Development.png"" alt=""""><br />
 Internal and External Drivers of Sustainable Development}}</li>
 </ul>"	
-"{{c1::The Sustainable Development Goal Compass (SDG Compass)}} is {{c2::a framework for companies to place sustainability at the center of their business strategy}}. {{c1::The SDG Compass}} helps companies {{c2::align their strategies with the SDGs and measure and manage their contributions}}.<br />
-{{c1::{{c2::<img src=""2015-BIld-Sustainable_Development_Goal_Compass.png"" alt=""""><br />
+"{{c1::The Sustainable Development Goal Compass (SDG Compass)}} is {{c2::a framework for companies to place sustainability at the center of their business strategy}}. {{c1::The SDG Compass}} helps companies {{c2::align their strategies with the SDGs and measure and manage their contributions}}.<br>
+{{c1::{{c2::<img src=""2015-BIld-Sustainable_Development_Goal_Compass.png"" alt=""""><br>
 Sustainable Development Goal Compass}}}}"	
 "<p>{{c6::The SDG Compass}} consists of several steps:</p>
 <ol>
@@ -346,7 +346,7 @@ Which challenges in the sustainability context do Sensemaking Support Systems ad
 <li>Conflicting values and interests</li>
 </ul>"
 "True or false:<br />
-Sensemaking Support Systems aim to minimize the number of perspectives to simplify decision-making."	"False:<br />
+Sensemaking Support Systems aim to minimize the number of perspectives to simplify decision-making."	"False:<br>
 Sensemaking Support Systems aim to reveal multiple perspectives to enable deeper collective sensemaking processes."
 "True or false:<br />
 Sensemaking Support Systems aim to automate decisions."	"False:<br>
@@ -401,7 +401,7 @@ Digital Agriculture"	"<ul>
 <li>GPS signals for vehicle navigation</li>
 </ul>"
 "True or false:<br />
-Hybrid Decision-Making means making decisions while excluding non-financial goals."	"False:<br />
+Hybrid Decision-Making means making decisions while excluding non-financial goals."	"False:<br>
 Hybrid Decision-Making combines financial and non-financial goals and considers multiple stakeholder interests."
 "True or false:<br />
 Hybrid Decision-Making strategies automatically lead to a balanced reconciliation of shareholder and stakeholder interests."	"False:<br />
