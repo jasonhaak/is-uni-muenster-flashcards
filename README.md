@@ -25,7 +25,7 @@ This repository provides a comprehensive set of Anki flashcards that include:
 - Additional material from textbooks and other academic sources
 
 ## Included Modules
-- **MDB5:**: Digital Innovation and Sustainable Development (SS 25) – Püchel
+- **MDB5:**: Digital Innovation and Sustainable Development (SS 25) - Püchel
 	- **de**: Original deck in German
 	- **en**: AI-translated deck in English
 - **MDB6**: Strategic IT/IS Management & Cases (SS 25) – Teubner
@@ -44,7 +44,7 @@ For questions, suggestions, or corrections: Open an [issue](https://github.com/j
 If you find these flashcards helpful and want to buy me a coffee, you can donate me via PayPal:
 
 <a href="https://www.paypal.com/paypalme/jasonhaak01">
-  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" width="300"/>
+  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" height="80"/>
 </a>
 
 ## How to Contribute
