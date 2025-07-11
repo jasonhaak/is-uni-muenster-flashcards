@@ -25,7 +25,7 @@ Dieses Repository stellt eine Sammlung von Anki-Karteikarten bereit, die folgend
 - Zusätzliches Material aus Lehrbüchern und weiteren wissenschaftlichen Quellen
 
 ## Kurse
-- **MDB5:**: Digital Innovation and Sustainable Development (SS 25) - Püchel
+- **MDB5:**: Digital Innovation and Sustainable Development (SS 25) – Püchel
 	- **de**: Originales Deck auf Deutsch
 	- **en**: KI-übersetztes Deck auf Englisch
 - **MDB6**: Strategic IT/IS Management & Cases (SS 25) – Teubner
@@ -44,7 +44,7 @@ Bei Fragen, Anregungen oder Korrekturen: Eröffne ein [Issue](https://github.com
 Wenn dir diese Karteikarten bei deinem Studium helfen und du mich mit einem Kaffee unterstützen möchtest, kannst du über PayPal spenden:
 
 <a href="https://www.paypal.com/paypalme/jasonhaak01">
-  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" height="80"/>
+  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" width="300"/>
 </a>
 
 ## Contribution
