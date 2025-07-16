@@ -1,0 +1,780 @@
+#separator:tab
+#html:true
+"Example:<br />
+Products with strong network effect influence on reservation price"	"<ul>
+<li>Payment systems (e.g., PayPal, Apple Pay)</li>
+<li>Communication platforms (e.g., Zoom, Slack)</li>
+<li>Multiplayer games or gaming platforms</li>
+<li>Social networks (e.g., Facebook, WhatsApp)</li>
+</ul>"
+"True or false:<br />
+In a network with positive network effects, every equilibrium is socially optimal."	"False:<br>
+An equilibrium may be individually stable without achieving maximum social welfare (e.g., when too few users join to realize full network utility)."
+"True or false:  <br />
+Network effects lead some users to be willing to pay more than they would without network effects."	True
+"True or false:  <br />
+Network effects lead consumers to make decisions independently of how many others use the product."	"False:  <br />
+With network effects, perceived value (and thus purchase decision) strongly depends on how many others are expected to use the product."
+"Question:  <br />
+What does evolutionary game theory examine in comparison to classical game theory?"	Evolutionary game theory examines which strategies prevail or disappear over time in populations, based on their fitness or relative success, without assuming rational calculation by actors.
+"True or false:  <br />
+In evolutionary game theory, non-optimal behaviors can also prevail in the long run."	"True:  <br />
+What matters is not optimal rationality, but relative reproduction rate or success stability within an environment or population."
+"True or false:<br />
+In a symmetric coordination game with two equilibria, evolutionary game theory can predict that both strategies may be stable."	True
+"True or false:<br />
+The Wright-Fisher model consists of a fixed-size model population in which each new generation is formed by random sampling (with replacement) from the previous generation's genes."	True
+"True or false:<br />
+The Wright-Fisher model has no random sampling but deterministic generational inheritance."	"False:<br />
+The Wright-Fisher model is stochastic. Each new generation arises through random sampling with replacement from the previous generation."
+"Question:<br />
+What does Metcalfe's Law describe?"	Metcalfe's Law states that the value of a communication network is proportional to the square of its number of users.
+"True or false:<br />
+In the SIRS model, after infection, objects can be immune for a time but may become reinfected later."	True
+"True or false:<br />
+In the SIRS model, objects are immune after infection."	"False:<br />
+This applies to the SIR model."
+"True or false:<br />
+In the SIRS model, objects are not immune after infection and can be reinfected."	"False:<br />
+This applies to the SIS model."
+"Question:  <br />
+Why do epidemics often occur in waves?"	Because infection rates oscillate: after high infection phases, temporary immunity or behavioral change occurs, followed by renewed susceptibility (e.g., due to immunity loss or behavior change), leading to new waves.
+"True or false:<br />
+Oscillation of disease infections synchronizes across networks and borders."	True
+"True or false:<br />
+In the SIS model, after infection, objects can be immune for a period and then reinfected."	"False:<br />
+This applies to the SIRS model."
+"True or false:<br />
+In the SIS model, objects are immune after infection."	"False:<br />
+This applies to the SIR model."
+"True or false:<br />
+In the SIS model, objects are not immune after infection and can be reinfected."	True
+"True or false:<br />
+In the SIR model, objects can be immune for a period after infection and then reinfected."	"False:<br />
+This applies to the SIRS model."
+"True or false:<br />
+In the SIR model, objects are immune after infection."	True
+"True or false:<br />
+In the SIR model, objects are not immune after infection and can be reinfected."	"False:<br />
+This applies to the SIS model."
+"True or false:<br />
+Modeling infections in a network involves randomization."	True
+"True or false:<br />
+Contacts in a contact network are transient and exist only for a certain time."	True
+"Question:<br />
+What is the consequence of asymmetric information about thresholds in a network regarding collective action?"	Due to asymmetric information about thresholds—where a node only knows the thresholds of its neighbors—collective action is limited or not performed, even if possible.
+"True or false:<br />
+Central institutions can help generate knowledge and overcome threshold information asymmetries in a network."	True
+"Question:<br />
+How is the threshold \(p\) calculated at which a node switches to behavior \(a\)?"	\(p \geq \frac{b}{(a + b)}\), where \(a\) and \(b\) are the payoffs for matching behavior.
+"Question:<br />
+How can pluralistic ignorance be overcome?"	By deliberately spreading information about actual expectations and willingness of others (e.g., through gatekeepers or transparent signals).
+"Question:<br />
+How can pluralistic ignorance prevent a cascade?"	By individuals wrongly believing that others are not willing to act. This leads to inaction, even when internal support exists.
+"Example:<br />
+Collective action"	"<ul>
+<li>Protests</li>
+</ul>"
+"True or false:<br />
+Collective action occurs only if enough participants are present."	True
+"Question:<br />
+Why is a cascade usually stopped and becomes incomplete?"	A cascade is usually stopped by clusters, local bridges, and homophily, turning it into an incomplete cascade. The threshold for adoption may also be a reason.
+"Example:<br />
+Incomplete cascade"	"<ul>
+<li>Android and Apple</li>
+<li>Civic initiatives</li>
+</ul>"
+"True or false:<br />
+A testimonial from satisfied neighbors acts as a private signal and can prevent cascades."	"False:<br />
+A testimonial is a public signal that builds trust and lowers the adoption threshold. It can promote, not prevent, cascades."
+"True or false:<br />
+A cascade can be stopped if the next cluster has a higher density than \((1 - \text{threshold})\)."	True
+"Question:<br />
+When does diffusion occur in a network?"	Diffusion of an object occurs when a majority of nodes or members of a population adopt the object.
+"True or false:<br />
+Diffusion in a network is usually stopped by homophily as an incomplete cascade."	True
+"True or false:<br />
+Diffusion in a network is usually stopped by local bridges as a complete cascade."	"False:<br />
+Diffusion is usually stopped by homophily as an incomplete cascade."
+"Question:  <br />
+What does Long Tail mean in the context of the power-law distribution?"	The long tail of the distribution refers to a large number of rare options. Their visibility can be increased through targeted promotion (e.g., algorithms, recommendations).
+"Question:<br />
+Which measure most effectively supports the long-tail strategy in digital markets?"	Personalized recommendation systems that also highlight less popular products and suggest them to users with niche interests.
+"True or false:  <br />
+The long-tail strategy aims to make only the top products more successful."	"False:  <br />
+It aims to make the large mass of niche products more visible and economically viable."
+"True or false:<br />
+Company recommendation systems are designed to suggest users less popular but relevant products, making niche products more visible."	True
+"True or false:<br />
+In preferential attachment, new nodes benefit equally from existing node connections."	"False:<br />
+New nodes prefer to connect to already well-connected nodes, leading to an unequal, scale-free network structure."
+"True or false:<br />
+Preferential attachment means new nodes randomly and evenly attach to existing nodes."	"False:<br />
+Preferential attachment is not about equal distribution. New nodes connect with higher probability to highly connected nodes (the rich get richer)."
+"Example:<br />
+Power law"	"<ul>
+<li>Music downloads</li>
+<li>Phone calls to certain numbers</li>
+</ul>"
+"Question:  <br />
+Why can a power-law distribution in popularity be problematic for interpreting quality?"	Because a few options become extremely visible while others remain unseen despite similar quality.
+"Question:  <br />
+What does the 80/20 principle describe in the context of power-law distribution?"	That around 20% of content, products, or actors receive 80% of attention, clicks, or sales.
+"Question:<br />
+How do power laws arise?"	Power laws arise through preferential attachment and information cascades.
+"True or false:<br />
+Power-law distributions necessarily result from differences in quality."	"False:<br />
+Power laws often result from visibility mechanisms like preferential attachment and don't necessarily reflect quality."
+"True or false:<br />
+In a network with low and high equilibrium levels, a bottleneck can occur that blocks growth and prevents reaching the high equilibrium."	True
+"True or false:<br />
+In a network with network effects below the tipping point, utility comes from individual preferences as well as from user base growth."	True
+"Example:<br />
+Competition in markets with network effects"	"<ul>
+<li>VHS and Betamax</li>
+</ul>"
+"Question:<br />
+What does it mean if a product has two tipping points, and what are the implications for market strategies?"	Between the lower and upper tipping point is an unstable zone: few users lead to decline, many to growth. Strategies must aim to cross the critical threshold quickly, e.g., through subsidies or influencer marketing.
+"Question:  <br />
+What is a tipping point in the context of network effects?"	A critical user threshold where a small increase leads to rapid adoption growth or a small drop leads to decline.
+"True or false:<br />
+The stronger the network effects, the higher the tipping point."	"False:<br />
+Stronger network effects may mean fewer users are needed to trigger self-reinforcing adoption. The tipping point may be lower."
+"True or false:  <br />
+Tipping points arise only from negative network effects."	"False:  <br />
+They arise from positive network effects with critical thresholds. Behavior becomes unstable when certain usage levels are crossed."
+"Question:<br />
+What is a self-fulfilling expectations equilibrium in network effects?"	A state where the user count is high enough that each new user gains added value. Demand stabilizes via positive feedback and persists despite small fluctuations.
+"Question:  <br />
+What is the risk of assuming self-fulfilling expectations in the market?"	If expectations are too high and unmet, adoption may collapse.
+"Question:  <br />
+What is a self-fulfilling expectations equilibrium in the context of network effects?"	An equilibrium formed when users expect a certain user count, and this expectation shapes behavior such that the expected count is actually reached.
+"Question:<br />
+What role does asymmetric information about network size play in the formation of self-fulfilling expectations equilibria?"	Asymmetric information causes actors to base decisions on perceived—not actual—network size. If many share the same (false) expectation, it can still lead to an actual equilibrium.
+"True or false:<br />
+A self-fulfilling expectations equilibrium can be unstable if users lack confidence in the expected demand."	True
+"True or false:<br />
+A self-fulfilling expectations equilibrium can only form if consumers trust the prediction."	True
+"True or false:<br />
+The equilibrium quantity lies at the social optimum as it maximizes welfare."	True
+"Question:  <br />
+How is the equilibrium price and quantity determined in a market without network effects?"	Through the interaction of consumers' reservation prices and producers' marginal costs—specifically where supply meets demand.
+"True or false:  <br />
+In price finding in a market without network effects, consumers consider the decisions of others."	"False:  <br />
+Each consumer decides independently based on self-interest, not on others’ choices."
+"True or false:<br />
+The direct-benefit effect requires neighboring nodes in a graph to enable a network effect."	True
+"True or false:<br />
+A direct-benefit effect only occurs when more than two neighbors adopt the same innovation."	"False:<br />
+Even two connected nodes can create a direct benefit through shared usage."
+"Example:<br />
+Information cascade"	"<ul>
+<li>Fashion and style trends</li>
+<li>People prefer eating at full restaurants over empty ones</li>
+</ul>"
+"Question:<br />
+Why is an information cascade likely to break down with new information?"	Because cascades are based on limited, aggregated information, and even small counterexamples can disrupt the imitation effect.
+"Question:  <br />
+Why can an information cascade occur even without positive evaluation of a product?"	Because people often see only observed adoptions (e.g., influencers) and do not evaluate actual quality. A product can spread via social imitation even if it's bad.
+"Question:<br />
+What role do opinion leaders (influencers) play in overcoming the tipping point in networks?"	They can create early visibility through their reach and initiate adoption, leading to a sufficient number of early adopters that trigger self-reinforcing diffusion.
+"True or false:<br />
+Information cascades rely on extensive information processing and are stable against new information."	"False:<br />
+Information cascades often rely on very little information and are fragile. New or contradictory information can easily interrupt them."
+"True or false:<br />
+Information cascades can also occur when all actors behave fully rationally."	True
+"True or false:<br />
+Information cascades are sensitive to new or contradictory information."	True
+"True or false:<br />
+Professional images on recipe platforms increase the risk of an information cascade."	"False:<br />
+Images improve the quality of private signals and make decisions more independent of public perception. They stabilize against cascades."
+"Question:  <br />
+Why can only the outer nodes maintain state \(0\) in a graph with an odd number of nodes to achieve a stable state?"	Because with symmetric distribution of influences, equilibrium is only possible if the outer nodes do not attempt to change their state. Their contribution to the overall system is thus minimal or neutral.
+"True or false:  <br />
+If a graph has an odd number of nodes, a stable state is only possible if the outer nodes adopt state 0."	True
+"Question:<br />
+How can it be empirically explained that fair offers are often made in the ultimatum game, even though minimal offers would be rational?"	Besides monetary payoffs, fairness perceptions, social norms, and reputation also influence behavior. Players reject unfair offers on principle, affecting the strategy of the proposer.
+"True or false:<br />
+The outcome of an ultimatum game tends toward fair distribution, influenced by perceptions of fairness and culture."	True
+"True or false:<br />
+Social utility can be tested using a graph experiment where connected nodes receive a sum of money from an edge if they agree. A node may only participate in one exchange at a time. This is repeated in rounds and it is checked which amount of money ends up with which node."	True
+"True or false:<br />
+In a monopoly, traders act as gatekeepers."	True
+"Example:<br />
+Traders in perfect competition"	"<ul>
+<li>Development of goods from China that are delivered directly to consumers</li>
+</ul>"
+"Question:<br />
+Why do traders in a perfectly competitive network not make a profit?"	Because competing traders undercut each other to win business. As buyers and sellers have alternative connections to other traders, intermediary profits are driven to \(0\).
+"True or false:<br />
+Markets with perfect competition have only a small number of traders."	True
+"True or false:<br />
+If all buyers and sellers have the same reservation prices, traders earn no profit under competition."	True
+"True or false:<br />
+A trader can earn payoffs without fulfilling a functional role in the network."	"False:<br />
+Traders must serve an intermediary role to generate utility and receive payoffs."
+"True or false:<br />
+A trader must provide a function in a network to earn a payoff. This is achieved by increasing social utility, which would decrease if a particular edge between the trader and a buyer or seller were removed."	True
+"True or false:<br />
+Traders provide access between buyers and sellers who would otherwise not be connected."	True
+"Example:<br />
+Evolutionary Arms Race"	"<ul>
+<li>Taller trees get more light than shorter ones but must invest energy in growth</li>
+</ul>"
+"True or false:  <br />
+In evolutionary game theory, players actively choose their strategy to achieve the highest payoff."	"False:  <br />
+Strategies are often predetermined, e.g., by biology or social roles. Selection happens via reproduction, not choice."
+"Question:<br />
+When is a strategy considered evolutionarily stable even if it is not Pareto-efficient?"	When it can resist rare mutations (deviating strategies) because its expected fitness remains higher, even if alternative strategies might lead to higher total welfare collectively.
+"True or false:<br />
+When invading with an alternative strategy, that strategy has lower fitness than the evolutionarily stable one."	True
+"True or false:  <br />
+An evolutionarily stable strategy can be displaced by migrants or innovators introducing a new strategy."	"False:  <br />
+Only if the new strategy consistently outperforms the established one in fitness will it prevail; otherwise, the evolutionarily stable strategy remains dominant."
+"Example:<br />
+Mixed Strategy"	"<ul>
+<li>Sports for deciding strategies</li>
+</ul>"
+"Example:<br />
+Hawk-Dove Game"	"<ul>
+<li>Behavior of states acting aggressively or passively</li>
+</ul>"
+"True or false:<br />
+In the Hawk-Dove game, aggressive behavior always leads to evolutionarily stable strategies."	"False:<br />
+Two aggressive players (Hawk-Hawk) receive low payoffs. Evolutionary stability requires mixed strategies or asymmetric role distributions."
+"True or false:<br />
+The Hawk-Dove game has no evolutionarily stable strategy."	True
+"Question:  <br />
+What does the stag hunt game metaphor illustrate in evolutionary game theory?"	It shows that survival of a cooperative strategy (e.g., stag hunting) depends on whether it can compete with less risky but individually executable strategies (e.g., rabbit hunting), depending on frequency and behavior of others in the population.
+"Question:<br />
+How can one identify a coordination game in social contexts like protests or political demonstrations?"	"<ul>
+<li>At least two equilibria exist<ul>
+<li>Participation (high social benefit)</li>
+<li>Non-participation (low but low-risk benefit)</li></ul></li>
+<li>Mutual dependency of decisions</li>
+<li>Individual benefit increases if others also participate</li>
+</ul>"
+"True or false:<br />
+A coordination game typically has only one Nash equilibrium."	"False:<br />
+Coordination games often feature multiple Nash equilibria, depending on expectations, focal points, or equilibrium selection."
+"True or false:<br />
+A coordination game usually has multiple Nash equilibria."	True
+"True or false:<br />
+A strictly dominant strategy leads to an equilibrium."	True
+"True or false:<br />
+A strictly dominant strategy should always be chosen."	True
+"True or false:<br />
+If a supernode has a negative edge, it is not structurally balanced."	True
+"True or false:<br />
+If a cycle in a non-complete graph contains an odd number of negative edges, it is not structurally balanced."	True
+"Question:<br />
+When is a graph considered weakly balanced?"	When all nodes can be partitioned into groups such that all edges within a group are positive and edges between groups are negative, even if there are more than two groups.
+"Question:<br />
+What does the balance theorem describe in fully connected graphs?"	A fully connected graph is structurally balanced if either all nodes are positively connected or there are two groups with positive internal links and negative connections between the groups.
+"True or false:<br />
+If the graph is not complete, it is balanced if no cycle contains an odd number of negative edges."	True
+"True or false:<br />
+A graph with three nodes and an odd number of positive edges connecting them is structurally balanced."	True
+"True or false:<br />
+A network with three nodes and two positive and one negative edge is structurally balanced."	False
+"True or false:<br />
+A fully connected, structurally balanced graph can be divided into two groups with positive internal links and a negative link between the groups."	True
+"True or false:<br />
+In fully connected graphs with structural balance, any combination of positive and negative edges can occur."	"False:<br />
+Structural balance allows only specific configurations (e.g., full positive linkage or two internally positive groups with mutual negativity)."
+"Question:<br />
+How does the Schelling model work?"	In the Schelling model, two types of agents with different characteristics live in a 2D grid and have neighbors horizontally, vertically, and diagonally. A neighbor is satisfied if a certain number of surrounding agents are of the same type. If dissatisfied, the agent moves to a free cell where they are more content. This can affect others' satisfaction, triggering a dynamic chain reaction.
+"True or false:<br />
+In the Schelling model, the two agent types tend to sort into two large spatially segregated groups over several iterations."	True
+"Question:<br />
+What role does membership closure play in user acquisition on platforms like Airbnb?"	Membership closure describes how users join a platform through existing relationships (e.g., friends, colleagues). This is especially effective when current users share positive experiences, generating trust and imitation among potential users.
+"True or false:<br />
+In membership closure, the adoption of the focus decreases with the number of neighbor nodes sharing the same focus."	True
+"True or false:<br />
+Membership closure mainly occurs in social-affiliation networks."	True
+"True or false:<br />
+Focal closure mainly occurs in social-affiliation networks."	True
+"True or false:<br />
+In focal closure, edge formation decreases with the number of shared foci."	True
+"Example:<br />
+Affiliation network"	"<ul>
+<li>Researching people sitting on supervisory boards of various companies simultaneously</li>
+</ul>"
+"True or false:<br />
+In affiliation networks, the probability of new edges forming between people increases with the number of shared foci."	True
+"Example:<br />
+Focus (graph)"	"<ul>
+<li>Class</li>
+<li>Online group membership</li>
+<li>Club</li>
+<li>Wikipedia article</li>
+</ul>"
+"Example:<br />
+Affiliation"	"<ul>
+<li>Sports activities</li>
+<li>Club memberships</li>
+</ul>"
+"Example:<br />
+Social Influence"	"<ul>
+<li>A person who uses drugs is likely to be in a social network that also uses drugs</li>
+</ul>"
+"Example:<br />
+Selection"	"<ul>
+<li>Workplace</li>
+<li>Place of education</li>
+<li>Gender</li>
+<li>Place of residence</li>
+</ul>"
+"Example:<br />
+Homophily"	"<ul>
+<li>A shop in a culturally dominated area will offer culturally specific goods</li>
+<li>A person in a group of friends will resemble their friends</li>
+<li>A person who uses drugs is likely to have a social network that also uses drugs</li>
+</ul>"
+"Question:<br />
+What is meant by homophily in the context of social networks?"	The tendency for nodes with similar characteristics to be more likely connected than dissimilar ones.
+"True or false:<br />
+In homophily, there is a higher probability that two nodes with different characteristics will connect."	"False:<br />
+Homophily specifically describes the tendency for similar nodes to connect."
+"True or false:<br />
+Homophily in social contexts enables triadic closure."	True
+"True or false:<br />
+Homophily can be both a cause and an effect of the structure of social networks."	True
+"True or false:<br />
+Brokerage between groups reduces access to information for participants."	"False:<br />
+Brokerage increases access to information across structural gaps and creates connections between otherwise isolated groups."
+"True or false:<br />
+Closure increases communication."	True
+"True or false:<br />
+Closure reduces communication efficiency, as additional relationships create redundancy."	"False:<br />
+Closure increases communication quality and trust, as closed triads foster stable interactions and social control."
+"True or false:<br />
+Closure creates integrity within interactions and certain reputation effects."	True
+"Question:<br />
+What type of capital arises from closure between groups?"	Bridging Capital
+"Question:<br />
+What type of capital arises from closure within a group?"	Bonding Capital
+"True or false:<br />
+Social capital can be attributed to an individual or a group."	True
+"True or false:<br />
+Nodes that span a structural hole hold an advantageous position because they receive information across node groups first and can act as gatekeepers."	True
+"Question:<br />
+How does embeddedness affect the maintenance of edges?"	The more common neighbors two nodes share, the higher the embeddedness and the more stable their connection tends to be.
+"True or false:<br />
+High embeddedness leads to greater trust in interactions between two nodes, as other nodes can observe and evaluate the interaction."	True
+"True or false:<br />
+A high embeddedness value of an edge reduces the likelihood of opportunistic behavior."	True
+"True or false:<br />
+An edge with a neighborhood overlap of \(0\) is a local bridge."	True
+"True or false:<br />
+Edges with higher neighborhood overlap typically have more strong ties."	True
+"Question:<br />
+What does the Strong Triadic Closure Property state?"	If a node has two strong ties to other nodes, there should be at least one (even weak) connection between those two other nodes.
+"Question:<br />
+What does the Strong Triadic Closure Property state in social networks, and what are the consequences of violating it?"	If a node has strong ties to two other nodes, one expects at least a (weak) tie between them. A violation may indicate instability, potential conflict, or a missed opportunity for connection.
+"True or false:<br />
+Triadic closure is more likely when strong ties exist to the same node."	True
+"Question:<br />
+What role do weak ties play in the spread of information or behavior?"	They connect different clusters, enabling transmission across boundaries and accelerating trend synchronization.
+"True or false:<br />
+The definition of a weak tie depends on assumptions and conventions."	True
+"True or false:<br />
+Weak ties are more often key connections in a giant component."	True
+"True or false:<br />
+The definition of a strong tie depends on assumptions and conventions."	True
+"Question:<br />
+What is a local bridge in a network?"	An edge whose removal does not disconnect the nodes but increases the distance between them.
+"True or false:<br />
+A local bridge exists between nodes. If removed, it would split the graph into two components (i.e., the graph would become disconnected)."	"False:<br />
+That describes a bridge. A local bridge increases distance but does not disconnect the graph."
+"True or false:<br />
+A local bridge exists between nodes. If removed, the distance between those nodes would increase."	True
+"True or false:<br />
+A local bridge splits the graph into two components if removed."	"False:<br />
+That’s the property of a bridge. A local bridge only increases distance between nodes, but does not split the graph."
+"True or false:<br />
+Local bridges are often strong ties due to the Strong Triadic Closure Property."	"False:<br />
+They are often weak ties."
+"True or false:<br />
+Local bridges are often weak ties due to the Strong Triadic Closure Property."	True
+"True or false:<br />
+Local bridges are typically strong ties."	"False:<br />
+Local bridges are usually weak ties, as strong ties typically lead to triadic closure."
+"True or false:<br />
+A bridge exists between nodes. If removed, it would split the graph into two components (i.e., the graph would become disconnected)."	True
+"True or false:<br />
+A bridge exists between nodes. If removed, the distance between those nodes would increase."	"False:<br />
+That describes a local bridge."
+"Question:<br />
+What is the clustering coefficient in a network?"	It measures the proportion of actual connections among a node’s neighbors relative to all possible connections between them.
+"Question:<br />
+<img src=""2025-Bild-Haines-Cluster_Coefficient_1.png"" alt=""""><br />
+What is the clustering coefficient for \(A\)?"	\(\frac{1}{6}\): Of the 6 possible connections between the nodes connected to \(A\), only \(C\) and \(D\) are connected.
+"Question:<br />
+<img src=""2025-Bild-Haines-Cluster_Coefficient_2.png"" alt=""""><br />
+What is the clustering coefficient for \(A\)?"	\(\frac{3}{6}\): Of the 6 possible connections between the nodes connected to \(A\), 3 exist.
+"True or false:<br />
+The clustering coefficient is high when none of a node’s neighbors are connected to each other."	"False:<br />
+A high clustering coefficient means many connections exist between a node’s neighbors. If none exist, it is \(0\)."
+"Example:<br />
+Triadic Closure"	"<ul>
+<li>When two friends in a social network have a mutual friend, the probability increases that they will also become friends</li>
+</ul>"
+"Question:<br />
+What is the term for the phenomenon in networks where two nodes connected to the same third node are more likely to connect later?"	Triadic Closure
+"True or false:<br />
+In triadic closure, edge formation increases exponentially with the number of shared nodes."	True
+"True or false:<br />
+Triadic closure is more likely when strong ties exist to a shared node."	True
+"True or false:<br />
+Frequent triadic closure increases clustering."	True
+"True or false:<br />
+When two nodes in a network have edges to the same node, they are more likely to form a connection in the future."	"True:<br />
+Triadic Closure"
+"True or false:<br />
+Local gatekeepers are always pivotal nodes."	False
+"True or false:<br />
+A gatekeeper is always present at a bridge."	True
+"True or false:<br />
+A gatekeeper only connects nodes that could also be reached via other paths."	"False:<br />
+A gatekeeper is essential because no alternative path exists between certain nodes. Its removal would break the connection."
+"Example:<br />
+Six Degrees of Separation"	"<ul>
+<li>In the 1960s, an experiment involved 296 people trying to forward a letter through personal contacts to a stockbroker in Boston, showing many letters arrived in surprisingly few steps</li>
+<li>Leskovec and Horvitz analyzed a communication network of 240 million Microsoft IM users and found that almost all users were part of a single, strongly connected component with an average path length of \(6.6\)</li>
+<li>Two random people in the global social network are usually at most 6 steps apart</li>
+</ul>"
+"Example:<br />
+Giant Component"	"<ul>
+<li>Global friendship graph with an isolated island without contact; everyone except the island forms a giant component</li>
+<li>Two giant components: social networks in America and Eurasia before Columbus' exploration</li>
+</ul>"
+"True or false:<br />
+A connected graph with a cycle is a tree."	False
+"True or false:<br />
+A connected graph without a cycle is a tree."	True
+"Example:<br />
+Cycle (Graph)"	"<ul>
+<li>Communication networks with redundancy</li>
+<li>Social systems where an acquaintance exists via multiple paths</li>
+</ul>"
+"True or false:<br />
+A cycle with an odd number of negative edges is structurally balanced."	"False:<br />
+Such a cycle is not balanced, as structural balance requires an even number of negative edges."
+"Question:<br />
+On what basis is an edge defined, when and how?"	By the environment of the network and the context of the relationship.
+"True or false:<br />
+A stable state in a network arises whenever the social utility of each node is maximized."	"False:<br />
+A stable state means no node can increase its utility by unilaterally changing strategy, even if the system as a whole is not optimal."
+"True or false:<br />
+A stable state with positive adoption in a network always guarantees Pareto efficiency."	"False:<br />
+A stable state may reflect individual equilibrium even if collective welfare could be improved through other configurations."
+"True or false:<br />
+In game theory, it is assumed that all players act rationally."	True
+"True or false:  <br />
+In game theory, long-term rational behavior is assumed: either across many decisions or across many actors."	True
+"True or false:  <br />
+Cognitive biases have no influence on reward evaluation or decision search in game-theoretical models."	"False:  <br />
+Cognitive biases affect both the evaluation of options and how decisions are searched for."
+"True or false:<br />
+If rewards do not depend on others’ decisions, game theory does not apply."	True
+"Question:  <br />
+Why is a concrete formula for Bayes' theorem not required in practice when making decisions?"	Because the basic principle suffices: if a signal increases the belief that an option is beneficial, and expected utility rises, that option is chosen. The formula just formalizes the calculation.
+"Question:  <br />
+What does Bayes' theorem describe in the context of rational actors making a decision?"	Rational actors update their beliefs about the quality of a decision based on observed signals, applying Bayes' theorem to calculate a new probability of choosing the option.
+"Example:<br />
+Externality"	"<ul>
+<li>Inventions: positive externality</li>
+<li>Vaccinations: positive externality</li>
+<li>Greenhouse gas: negative externality</li>
+<li>Cigarette smoke: negative externality</li>
+</ul>"
+"True or false:<br />
+The Nash equilibrium always guarantees the welfare-maximizing solution."	"False:<br />
+A Nash equilibrium is stable under rational behavior but not necessarily efficient or welfare-maximizing."
+"True or false:<br />
+Every Nash equilibrium is also evolutionarily stable."	"False:<br />
+Only some Nash equilibria are evolutionarily stable, depending on payoff conditions."
+"{{c1::The Wright-Fisher model}} is {{c2::a stochastic model in population genetics that describes changes in allele frequencies over generations}}.<br>
+{{c1::{{c2::<img src=""2025-Bild-Haines-Wright-Fisher-Modell.png"" alt=""""><br>
+Wright-Fisher model}}}}"	
+{{c1::Metcalfe’s Law}} is {{c2::a law stating that the value of a communication network is proportional to the square of the number of connected users in the system}}.	
+{{c1::Concurrency}} is {{c2::the existence of two or more simultaneous relationships to a node in a contact network that overlap within timeboxes}}.	
+{{c1::The SIRS model}} is {{c2::an epidemic model combining the SIR and SIS models to describe the spread of infectious diseases in a population}}. In the {{c1::SIRS model}}, after infection, agents may be immune for a period but can become reinfected after some time.	
+{{c1::The oscillation of disease infections}} is {{c2::the oscillation of infections of a disease}}.	
+{{c1::The SIS model}} is {{c2::an epidemic model for describing the spread of infectious diseases in a population}}. {{c1::In the SIS model}}, agents do not gain immunity after infection and can be reinfected continuously.	
+{{c1::Percolation}} is {{c2::a modeling perspective for infection spread that represents dynamics through randomly open or blocked contacts in a network, allowing infection to be seen as a flow}}.	
+{{c1::The SIR model}} is {{c2::an epidemic model describing the spread of infectious diseases in a population}}. {{c1::In the SIR model}}, agents become immune after infection.	
+{{c1::The basic reproductive number}} is {{c2::the expected number of infections caused by one individual}}. {{c1::A basic reproductive number}} of {{c3::below \(1\)}} leads to {{c4::a decrease}} in infections, while {{c1::a basic reproductive number}} of {{c3::above \(1\)}} leads to {{c4::an increase}}.	
+"{{c1::The branching process}} is {{c2::a process for modeling infections}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Branching-Prozess.png"" alt=""""><br />
+Branching process}}}}"	
+"<p>The branching process consists of several steps:</p>
+<ol>
+<li>{{c1::First wave}}: {{c1::In the first wave, the host infects \(k_{1}\) people with a probability of \(p\)}} </li>
+<li>{{c2::Second wave}}: {{c2::In the second wave, the \(k_{1}\) people infect \(k_{2}\) more people with probability \(p\)}} </li>
+<li>{{c3::Subsequent waves}}: {{c3::Subsequent waves proceed like the second wave}} </li>
+</ol>"	
+{{c1::Infection}} is {{c2::the transmission of a disease}}.	
+{{c1::Social contagion}} is {{c2::diffusion in a network}}.	
+"{{c1::A contact network}} is {{c2::a network of people who have come into contact with each other}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Kontaktnetzwerk.png"" alt=""""><br />
+Contact network with contact timeboxes}}}}"	
+{{c1::A threshold}} is {{c2::a limit that must be exceeded for an action to occur}}.	
+{{c1::Pluralistic ignorance}} is {{c2::the incorrect assumption about others' thoughts or actions, leading to not expressing or acting on one's own ideas}}.	
+{{c1::The cascade model}} is {{c2::a model for describing cascades}}. In {{c1::the cascade model}}, each node decides whether {{c3::to adopt}}, based on better outcomes for itself, if {{c3::a certain threshold is exceeded}}.	
+{{c1::Density in a graph}} is {{c2::the percentage \(p\) of neighbors that each neighbor in a cluster must have connected to other nodes}}.	
+{{c1::A cluster in a graph}} is {{c2::a group of nodes with a given density}}.	
+"{{c1::An incomplete cascade}} is {{c2::a cascade that does not reach all nodes in a network}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Unvollstaendige_Kaskade.png"" alt=""""><br />
+Incomplete cascade}}}}"	
+{{c1::A complete cascade}} is {{c2::a cascade that reaches all nodes in a network}}.	
+{{c1::An adoption cascade}} is {{c2::a cascade of diffusion, specifically the adoption of an innovation in a network}}.	
+"{{c1::A cascade}} is {{c2::the spread of an element in a network}}. {{c1::A cascade}} can {{c3::go through the entire network as a complete cascade}} or {{c3::end as an incomplete cascade}}.<br />
+{{c1::{{c2::{{c3::<img src=""2010-Bild-Easley-Kleinberg-Unvollstaendige_Kaskade.png"" alt=""""><br />
+Incomplete cascade}}}}}}"	
+"{{c1::Diffusion in a graph}} is {{c2::a coordination game in which the adoption of innovation leads to a network effect as a direct-benefit effect, if two or more neighboring nodes adopt the same innovation}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Diffusion_im_Netzwerk.png"" alt=""""><br />
+Diffusion in the network}}}}"	
+{{c1::Zipf’s law}} is {{c2::a law stating that the popularity of an item is inversely proportional to its rank}}. An item ranked second in frequency usually occurs about {{c3::half as often}} as the top-ranked item.	
+{{c1::The long tail}} is {{c2::the shift from a few popular products to many niche products through internet-based distribution}}.	
+{{c1::Preferential attachment (rich-get-richer phenomenon)}} is {{c2::a principle where new connections or resources are assigned to already popular items or nodes}}. This arises due to {{c3::the visibility of already well-known items}}.	
+{{c1::A power law}} is {{c2::the relationship between two observable quantities \(x\) and \(y\) expressed as a power function}}. {{c1::The power law}} describes a distribution where {{c3::extreme values}} are significantly more likely than {{c3::in normal distributions}}, which also frequently occur in reality.	
+{{c1::Braess’s paradox}} is {{c2::a paradox where adding another connection or population leads to a negative effect or less efficiency, even though a positive effect is expected}}.	
+In markets with network effects, competition often results in a product, once it reaches {{c1::the tipping point}}, to {{c2::dominate the market in a stable state}}.	
+"<p>Marketing a product with network effects can involve the following measures:</p>
+<ul>
+<li>{{c1::Identifying influencers to increase visibility}}</li>
+<li>{{c1::Selling below production cost to reach a stable state}}</li>
+</ul>"	
+"{{c1::A tipping point}} is {{c2::a point where a deviation triggers either movement toward a stable state or market failure}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Tipping_Points.png"" alt=""""><br />
+Tipping points as \(z'\) and \(z''\)}}}}"	
+{{c1::A self-fulfilling expectations equilibrium}} is {{c2::an equilibrium quantity representing a share of consumers \(z\) who expect the product to be purchased by that amount, and each consumer decides to buy based on this expectation, resulting in exactly that share \(z\) being realized}}.	
+"{{c1::The equilibrium quantity}} is {{c2::the quantity of goods produced at a given reservation price and production cost}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Equilibriummenge.png"" alt=""""><br />
+Equilibrium quantity}}}}"	
+"{{c1::The reservation price}} is {{c2::the price a consumer is willing to pay for an additional unit or the price a seller is willing to accept}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Vorbehaltspreis.png"" alt=""""><br />
+If reservation price \(y\) is below price \(p\), the good is not purchased}}}}"	
+{{c1::A direct-benefit effect}} is {{c2::a positive outcome due to network effects or behavioral imitation}}.	
+{{c1::An information cascade}} is {{c2::behavioral influence of a party due to prior decisions of other parties}}. {{c1::In the case of an information cascade}}, {{c2::behavior of others is copied due to limited information}}.	
+"<p>Information cascades have the following properties:</p>
+<ul>
+<li>{{c1::Cascades can be based on very little information}}</li>
+<li>{{c1::Cascades can be incorrect}}</li>
+<li>{{c1::Cascades are fragile}}</li>
+</ul>"	
+"{{c1::A balanced outcome}} is {{c2::an outcome as a Nash bargaining solution for the entire graph}}. {{c1::The balanced outcome}} is therefore stable because {{c3::it represents the best outcome}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Balanced_Outcome.png"" alt=""""><br />
+Balanced outcome}}}}"	
+"{{c1::Stability in a graph}} is {{c2::the outcome of social utility in a graph experiment where no better alternative exists for nodes \(X\) and \(Y\), indicating no instability}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Haines-Stabiler_Zustand_im_Graph.png"" alt=""""><br />
+Stable state in the graph}}}}"	
+"{{c1::Instability in a graph}} is {{c2::the outcome of social utility in a graph experiment where nodes \(X\) and \(Y\) are worse off than if they used their existing edge}}:<br />
+{{c2::\(X + Y < 1\)}}<br />
+{{c1::{{c2::<img src=""2025-Bild-Haines-Instabiler_Zustand_im_Graph.png"" alt=""""><br />
+Unstable state in the graph}}}}"	
+{{c1::The outcome in a graph}} is {{c2::a set of edges where each node has at most one connection and gains utility from the exchange}}.	
+{{c1::The ultimatum game}} is {{c2::a game where player \(A\) proposes a division of money to player \(B\), who either accepts (both get the money) or rejects (neither gets anything)}}.	
+"{{c1::Nash bargaining (equidependent outcome)}} is {{c2::the outcome of a situation where players \(A\) and \(B\) negotiate over a sum \(g\), with outside options \(x\) for \(A\) and \(y\) for \(B\)}}. Negotiation is successful only if:<br />
+{{c3::\(x + y \leq g\)}} with {{c3::\(x\) as outside option for \(A\)}}, {{c3::\(y\) as outside option for \(B\)}}, {{c3::\(g\) as total amount to negotiate}}."	
+{{c1::Power}} is {{c2::the use of multiple alternatives to achieve a goal}}.	
+{{c1::The ripple effect}} is {{c2::an effect where small changes in edges or nodes can greatly impact distant nodes in a network}}.	
+{{c1::Implicit perfect competition}} is {{c2::a state where global network structure leads to minimal or zero profit, resembling perfect competition despite no direct competition between traders}}.	
+A monopoly can also arise through {{c1::a trader}} who controls transactions between buyers and sellers. In a monopoly, traders can {{c2::maximize profits}}.	
+{{c1::In perfect competition}}, traders make little to no profit because {{c2::they compete with others and underbid each other}}.	
+{{c1::Trader profit}} is {{c2::the difference between purchase price from sellers and sale price to buyers}}. Traders maximize profit by {{c3::choosing attractive prices accepted by many buyers and sellers}}.	
+{{c1::Traders}} are {{c2::intermediaries coordinating the flow of goods between buyers and sellers}}. They act by offering {{c3::prices}} to {{c3::sellers}} as {{c3::ask}} and {{c3::price demands}} to {{c3::buyers}} as {{c3::bid}}.	
+{{c1::An ask}} is {{c2::the lowest amount a seller is willing to accept for a security}}.	
+{{c1::A bid}} is {{c2::the highest amount a buyer is willing to pay for a security}}.	
+{{c1::An invading}} is {{c2::the use of an alternative strategy by a subset of the population}}.	
+{{c1::Fitness}} is {{c2::the expected payoff of an organism in a population}}.	
+{{c1::An evolutionarily stable strategy (ESS)}} is {{c2::a strategy used as a Nash equilibrium by the entire population over time}}.	
+"<p>An ESS consists of:</p>
+<ul>
+<li>{{c1::Stability against invading}}: {{c1::If all individuals play strategy \(S\), another strategy \(T\) must not yield higher utility against \(S\) than \(S\) itself. Otherwise, \(T\) could spread.}}</li>
+<li>{{c1::Superiority in the mixed case}}: {{c1::If \(T\) performs as well as \(S\) against \(S\), then \(S\) must outperform \(T\) when facing \(T\). Only then can \(S\) persist long-term even with some players using \(T\).}}</li>
+</ul>"	
+{{c1::A social optimum}} is {{c2::a set of strategies that maximizes the sum of payoffs in a game}}.	
+{{c1::A mixed strategy}} is {{c2::a set of strategies with probabilities assigned to each decision}}.	
+{{c1::A zero-sum game}} is {{c2::a game where the sum of all players' payoffs is \(0\)}}.	
+{{c1::The Hawk-Dove game}} is {{c2::an anti-coordination game where players act aggressively or passively; only mixed or both-passive strategies form Nash equilibria, as both-aggressive leads to poor payoff}}.	
+{{c1::The Stag Hunt game}} is {{c2::a cooperation game where cooperating yields high payoff, but a player suffers if others don't, creating tension between safety and cooperation}}.	
+{{c1::A Battle of the Sexes}} is {{c2::a coordination game with multiple Nash equilibria that differ in payoff for each player, leading to conflicting preferences}}.	
+{{c1::An unbalanced coordination game}} is {{c2::a coordination game with multiple Nash equilibria that yield different payoffs, but the payoffs are equal for all players}}.	
+{{c1::A focal point}} is {{c2::a factor outside the game that causes players to converge on a particular Nash equilibrium when multiple exist}}.	
+{{c1::A coordination game}} is {{c2::a game where players must cooperate to achieve the highest payoff}}.	
+{{c1::A strictly dominant strategy}} is {{c2::a dominant strategy and strict best response of a party to every strategy of another player}}.	
+{{c1::A strict best response}} is {{c2::a best response that always yields a higher payoff compared to all other strategies, given the strategy of another player}}.	
+{{c1::The payoff}} is {{c2::the result of a game situation, which players aim to maximize}}.	
+{{c1::A player}} is {{c2::a participant in a game}}.	
+{{c1::A best response}} is {{c2::a set of strategies that yield the highest payoff given the presumed strategy of another player}}.	
+{{c1::A supernode}} is {{c2::a node formed by a group of nodes connected by positive edges}}.	
+"To recognize structural balance in an incomplete graph, {{c1::first consider the positive edges}}, so that {{c1::groups}} can form. These {{c1::groups}} can then be treated as {{c2::supernodes}} to simplify the evaluation.<br />
+<img src=""2010-Bild-Easley-Kleinberg-Strukturelle_Balance_in_einem_nicht-vollstaendigen_Graphen.png"" alt=""""><br />
+Structural balance in an incomplete graph"	
+"<p>Structural balance in an incomplete graph can also be handled as follows:</p>
+<ul>
+<li>{{c1::add missing links to complete a structurally balanced complete graph}}</li>
+<li>{{c1::divide nodes into two groups}}</li>
+</ul>"	
+{{c1::Weak structural balance}} is {{c2::a structural balance where no set of three nodes exists with two positive and one negative edge}}. Unlike full structural balance, {{c1::in weak structural balance}}, three nodes may also be connected by {{c3::entirely negative edges}}.	
+{{c1::The balance theorem}} is {{c2::a theorem stating that a fully connected graph is structurally balanced if it either has a fully positive group or two groups with internal positive edges and mutual negative edges}}.	
+"{{c1::Structural balance}} is {{c2::the balance between edges—positive or negative—where among any three connected nodes, either one or three edges must be positive for the structure to be balanced}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Haines-Structural_Balance.png"" alt=""""><br />
+Structural balance}}}}"	
+{{c1::The Schelling model}} is {{c2::a model describing spatial segregation, where similar groups tend to live closer to each other}}.	
+{{c1::Membership closure}} is {{c2::closure formed by extending relationships from an element to a focus via another element, forming a triangle}}.	
+{{c1::Focal closure}} is {{c2::closure formed by extending relationships between two elements via a shared focus, forming a triangle}}.	
+"{{c1::A social-affiliation network}} is {{c2::a network where nodes are linked to foci and to other people}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Social-Affiliation-Netzwerk.png"" alt=""""><br />
+Social-affiliation network}}}}"	
+"{{c1::An affiliation network}} is {{c2::a bipartite graph representing the affiliation of elements to foci}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Affiliation-Netzwerk.png"" alt=""""><br />
+Affiliation network as a bipartite graph}}}}"	
+{{c1::A focus in a graph}} is {{c2::the social, psychological, legal, or physical factor that connects one or more elements through an activity}}.	
+{{c1::Affiliation}} is {{c2::the creation of relations because objects are involved in the same or similar activities within the same or similar environments via a focus}}.	
+{{c1::Social influence}} is {{c2::the impact of existing social networks on the formation of relations and characteristics of individuals}}.	
+{{c1::Selection}} is {{c2::the (conscious or unconscious) decision to form a relation with similarity to oneself, based on homophily}}.	
+{{c1::A heterogeneous edge}} is {{c2::an edge connecting two nodes that differ according to a defined criterion}}.	
+"Homophily can be confirmed mathematically if:<br />
+{{c1::\(cge \lll 2 \cdot p \cdot q\)}} where {{c1::\(cge\)}} is the percentage of heterogeneous edges among all edges, {{c1::\(p\)}} is {{c1::the proportion of one group among all edges}}, {{c1::\(q\)}} is {{c2::the proportion of another group among all edges}}"	
+{{c1::The surrounding context in a graph}} is {{c2::all factors not represented in the network but that influence it}}.	
+{{c1::Brokerage}} is {{c2::the ability to span structural holes by connecting different groups}}. {{c1::Brokerage}} increases {{c3::early access to information}}.	
+{{c1::Closure}} is {{c2::the formation of edges between nodes that share a similar focus}}.	
+{{c1::Cultural capital}} is {{c2::capital that arises from culture}}.	
+{{c1::Economic capital}} is {{c2::capital in the form of physical goods and real capital}}.	
+{{c1::Bridging capital}} is {{c2::social capital gained by linking different groups}}. {{c1::Bridging capital}} arises through {{c3::brokerage between groups}}.	
+{{c1::Bonding capital}} is {{c2::social capital formed within a group}}. {{c1::Bonding capital}} arises through {{c3::closure within a group}}.	
+{{c1::Physical capital}} is {{c2::capital in the form of technology that supports labor}}.	
+{{c1::Social capital}} is {{c2::capital in the form of actors’ abilities to gain advantages from their social networks}}.	
+"{{c1::A structural hole in a graph}} is {{c2::the gap between two node sets that are only connected by a local bridge}}. {{c1::The structural hole}} is spanned by {{c3::the local bridge}}.<br />
+{{c1::{{c2::{{c3::<img src=""2010-Bild-Easley-Kleinberg-Embeddedness.png"" alt=""""><br />
+Graph where \(B\) spans structural holes}}}}}}"	
+"{{c1::Embeddedness}} is {{c2::a coefficient for the number of shared neighbors between the two nodes of an edge}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Embeddedness.png"" alt=""""><br />
+Graph with embeddedness of \(2\) for edge \(AB\) since both share neighbors \(E\) and \(F\)}}}}"	
+{{c1::Neighborhood overlap}} is {{c2::a measure indicating whether an edge almost forms a local bridge}}.	
+{{c1::\(\text{Neighborhood overlap}\)}} \(=\) {{c2::\(\frac{\text{Nodes that are neighbors of both } A \text{ and } B}{\text{Nodes that are neighbors of either } A \text{ or } B}\)}}, excluding {{c2::\(A\) and \(B\) themselves}}.	
+{{c1::The strong triadic closure property}} is {{c2::a property stating that if \(A\) has strong ties to \(B\) and \(C\), then there should be a tie between \(B\) and \(C\); otherwise, the ties must be weak}}.	
+{{c1::A weak tie}} is {{c2::a weak relationship between two nodes}}.	
+{{c1::A strong tie}} is {{c2::a strong relationship between two nodes}}.	
+"{{c1::Local bridge span}} is {{c2::the distance between two nodes if a local bridge is removed}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Local_Bridge.png"" alt=""""><br />
+Local bridge with span of \(4\) between \(A\) and \(B\)}}}}"	
+"{{c1::A local bridge in a graph}} is {{c2::a bridge whose removal increases the shortest path between two nodes, though a longer path still exists}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Local_Bridge.png"" alt=""""><br />
+Graph where edge \(AB\) is a local bridge}}}}"	
+"{{c1::A bridge in a graph}} is {{c2::an edge whose removal splits the graph into two components}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Bridge.png"" alt=""""><br />
+Graph where edge \(AB\) is a bridge}}}}"	
+{{c1::The clustering coefficient}} is {{c2::a coefficient for a node \(A\) connected to nodes \(B\) and \(C\), indicating the proportion of possible connections realized}}.	
+The clustering coefficient for \(A\) is {{c1::\(0\)}} if {{c2::none of \(A\)’s neighbors are connected}}, and {{c1::\(1\)}} if {{c2::all of them are connected}}.	
+"{{c1::Triadic closure}} is {{c2::closure by forming a triangle through an existing relationship in a network}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Triadic_Closure.png"" alt=""""> Triadic closure}}}}"	
+"{{c1::A local gatekeeper}} is {{c2::a node enabling a connection between two nodes that would otherwise only be reachable via a longer path}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Gatekeeper.png"" alt=""""><br />
+Graph where \(D\) is a local gatekeeper between \(B\) and \(C\)}}}}"	
+"{{c1::A gatekeeper in a graph}} is {{c2::a node that must always lie on the path between two other nodes}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Gatekeeper.png"" alt=""""><br />
+Graph where \(A\) is a gatekeeper between \(C\) and \(E\)}}}}"	
+"{{c1::A pivotal node in a graph}} is {{c2::a node that lies on every shortest path between two other nodes}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Disconnected_Graph.png"" alt=""""><br />
+Disconnected graph where \(K\) is pivotal for \(I\)–\(L\) and \(M\) is not}}}}"	
+{{c1::Six degrees of separation (small-world phenomenon)}} is {{c2::the idea that in complex social networks, any two nodes are usually connected by six or fewer steps}}.	
+"{{c1::Length in a graph}} is {{c2::the number of edges connecting nodes or forming the graph}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Disconnected_Graph.png"" alt=""""><br />
+Disconnected graph with a length of \(3\) between \(H\) and \(I\)}}}}"	
+{{c1::A giant component}} in {{c2::a graph is a component disproportionately larger than others; graphs with a giant component usually have only one}}.	
+"{{c1::A component in a graph}} is {{c2::a set of nodes in a disconnected graph that form a subset where no node is connected to nodes outside the subset}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Disconnected_Graph.png"" alt=""""><br />
+Disconnected graph with components: \((A, B); (C, D, E); (F–M)\)}}}}"	
+"{{c1::A disconnected graph}} is {{c2::a graph where at least one node is not reachable from another via any path}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Disconnected_Graph.png"" alt=""""><br />
+Disconnected graph}}}}"	
+{{c1::A connected graph}} is {{c2::a graph where every pair of nodes is connected by a path}}.	
+{{c1::A cycle in a graph}} is {{c2::a path of at least three edges where the start and end node are the same}}.	
+{{c1::A simple path in a graph}} is {{c2::a path where no node is repeated}}.	
+{{c1::A neighbor in a graph}} is {{c2::a node connected to another via an edge}}.	
+{{c1::Connectedness}} is {{c2::the linkage of objects in a network and the influence of individual objects on it}}.	
+{{c1::A network in a graph}} is {{c2::a collection of objects where some are linked by relationships}}.	
+{{c1::Social utility}} is {{c2::the benefit to multiple people from trade or value exchange}}.	
+{{c1::The central limit theorem}} is {{c2::a statistical principle stating that the mean of samples approaches a normal distribution as sample size increases}}.	
+{{c1::The diameter}} in {{c2::a graph is the longest shortest path between any two nodes}}.	
+{{c1::A path \(p\) in a graph}} is {{c2::a sequence of connected nodes \(p = \langle v_{1},..., v_{k} \rangle\)}}.	
+{{c1::A complete graph}} is {{c2::a graph where every node is connected to every other node}}.	
+{{c1::A node in a graph}} is {{c2::an object acting within a network}}.	
+{{c1::An edge}} is {{c2::a connection between nodes}}.	
+"{{c1::Diffusion in economics}} is {{c2::the process of spatial and temporal spread of innovation in a social space}}. {{c1::The diffusion of an innovation}} occurs through {{c3::adoption by individuals}}. The goal of {{c1::diffusion}} is {{c4::the acceptance of the innovation}}.<br>
+{{c1::{{c2::{{c3::{{c4::<img src=""2023-Bild-Krcmar-Innovations-Diffusion.png"" alt=""""><br />
+Development cycle of new ideas and technologies}}}}}}}}"	
+"<p>{{c1::Diffusion}} consists of:</p>
+<ul>
+<li>{{c2::the innovation itself}}</li>
+<li>{{c2::communication channels}}</li>
+<li>{{c2::social systems}}</li>
+<li>{{c2::time}}</li>
+</ul>"	
+{{c1::Distance}} in {{c2::a graph is the length between two nodes}}.	
+{{c1::A stable state}} is {{c2::an equilibrium point where deviations in the actual number of consumers are automatically corrected back to equilibrium}}.	
+{{c1::Game theory}} is {{c2::the modeling of situations in which players interact and where each player's payoff depends not only on their own decisions but also on the decisions of others}}.	
+In game theory, it is assumed that all players act {{c1::rationally}}.	
+{{c1::The order book procedure}} is {{c2::a method for determining the price of securities, where orders are executed when a matching counter-order exists in a public or private order book}}.	
+"{{c1::A Vickrey auction (second-price auction)}} is {{c2::a bidding procedure where the highest bid wins, but the price paid is the second-highest bid}}, which creates {{c3::incentive compatibility}}.<br />
+{{c1::{{c2::{{c3::<img src=""2022-Bild-Wiesel-Vickrey-Auktion.png"" alt=""""><br />
+Vickrey Auction}}}}}}"	
+{{c1::The prisoner's dilemma}} can explain (non-)cooperative societies, showing that {{c2::individuals or organizations may benefit from non-cooperation in a cooperative society, while in a non-cooperative society the overall result worsens}}.	
+{{c1::A dark pool}} is {{c2::a special trading platform outside of regulated stock exchanges}}.	
+{{c1::A limit order}} is {{c2::a time-limited order that is only executed when the specified price is reached; otherwise, it is deleted}}.	
+"{{c1::A bipartite graph}} is {{c2::a graph with two sets \(V_{1}\) and \(V_{2}\), where each node belongs to one set and every node from one set connects to at least one node from the other set.}}<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Affiliation-Netzwerk.png"" alt=""""> Affiliation network as a bipartite graph}}}}<br />
+{{c1::{{c2::<img src=""2022-Bild-Kuchen-Bestimmung_einer_maximalen_Zuordnung.png"" alt=""""><br />
+Determining a maximum matching in a bipartite graph}}}}"	
+"{{c1::Breadth-first search}} is {{c2::a search algorithm that uses FIFO order and examines neighboring nodes first}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Kuchen-Beispielgraph_fuer_die_Tiefen-_und_Breitensuche.png"" alt=""""><br />
+Breadth-first search traversal order: \(v[0], v[2], v[1], v[3], v[4], v[5]\)}}}}"	
+"{{c1::Depth-first search}} is {{c2::a search algorithm that uses LIFO order, recursively exploring the deepest successors before the neighbors}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Kuchen-Beispielgraph_fuer_die_Tiefen-_und_Breitensuche.png"" alt=""""><br />
+Depth-first search traversal order: \(v_{0}, v_{2}, v_{1}, v_{4}, v_{3}, v_{5}\)}}}}"	
+"{{c1::An undirected graph}} is {{c2::a graph where edges have no direction between nodes}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Kuchen-Ungerichteter_Graph.png"" alt=""""><br />
+Undirected graph \(G_{2} = (\{ v_{0}, v_{1}, v_{2}, v_{3} \}, \{ \{v_{0}, v_{2} \}, \{ v_{1}, v_{2} \}, \{ v_{2}, v_{3} \} \})\)}}}}"	
+"{{c1::A directed graph}} is {{c2::a graph where edges have a direction from one node to another}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Kuchen-Gerichteter_Graph.png"" alt=""""><br />
+Directed graph \(G_{2} = (\{ v_{0}, v_{1}, v_{2}, v_{3} \}, \{(v_{0}, v_{2}), (v_{1}, v_{2}), (v_{2}, v_{1}), (v_{2}, v_{3}) \})\)}}}}"	
+"{{c1::A graph \(G = (|V|, |E|)\)}} is {{c2::a representation of a network as a set \(V\) of nodes and a set \(E\) of edges between the nodes}}.<br />
+<img src=""2010-Bild-Easley-Kleinberg-Verschiedene_Arten_von_Graphen.png"" alt=""""><br />
+Various types of graphs"	
+Graphs appear in many areas where it is important to show {{c1::how things are physically or logically connected in a network structure}}.	
+"{{c1::A network equilibrium}} is {{c2::a market equilibrium}} where {{c2::in a market}} with {{c2::network externalities}}, a {{c2::stable state}} is reached.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Kostenverlauf_und_Netzwerkexternalitaeten.png"" alt=""""><br />
+Cost curve and network externalities}}}}"	
+"<p>The network equilibrium arises from:</p>
+<ul>
+<li>{{c1::no buyers and no supply}}</li>
+<li>{{c2::a small number of buyers with an unstable equilibrium}}</li>
+<li>{{c3::a large number of buyers with a stable equilibrium}}</li>
+</ul>"	
+{{c1::Human capital}} is {{c2::a production factor}} in the form of {{c2::skills and knowledge of the workforce}}.	
+{{c1::A Pareto optimum}} is {{c2::a state}} in which {{c2::no further Pareto improvement is possible}}.	
+{{c1::A Pareto improvement}} is {{c2::a measure}} for {{c2::achieving Pareto efficiency}}.	
+{{c1::Pareto efficiency}} is {{c2::a state in which no alternative allocation makes one party better off without making another worse off}}.	
+{{c1::The dominant strategy}} is {{c2::the best strategy and best response for a party}}, regardless of {{c2::the strategies of other parties}}.	
+{{c1::The internalization of externalities}} is {{c2::the creation of positive or negative incentives}} for {{c2::optimizing market equilibrium in the presence of negative externalities}}.	
+"{{c1::An externality}} is {{c2::a cost or benefit}} of {{c2::one party's decision}}, which {{c2::affects the welfare}} of {{c2::uninvolved third parties}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Wohlfahrtsverlust.png"" alt=""""><br />
+Welfare loss}}}}"	
+"{{c1::Externalities}} can {{c2::lead to market failure}} if the costs generated by the {{c1::externality}} are {{c3::not borne by the seller}}, resulting in a welfare loss.<br />
+{{c1::{{c2::{{c3::<img src=""2021-Bild-Sieg-Wohlfahrtsverlust.png"" alt=""""><br />
+Welfare loss}}}}}}"	
+An externality can be positive or negative. Positive externalities lead to {{c1::self-fulfilling expectations}}, while negative externalities lead to {{c1::self-defeating expectations}}.	
+"{{c1::A network externality}} is {{c2::an externality}} caused by {{c2::a positive external network effect}}, which exists when {{c3::the value of a good increases with the number of users}}.<br />
+{{c1::{{c2::{{c3::<img src=""2021-Bild-Sieg-Kostenverlauf_und_Netzwerkexternalitaeten.png"" alt=""""><br />
+Cost curve and network externalities}}}}}}"	
+{{c1::The Nash equilibrium}} is {{c2::a strategy}} in which {{c2::interconnected parties have chosen their best possible strategy in response to the strategies of others}}.	
+{{c1::Perfect competition}} is {{c2::a market structure}} and {{c2::a special type of polypoly}} in which {{c3::identical homogeneous goods}} are offered, resulting in {{c3::minimized price differences}}.	
+{{c1::A monopoly}} is {{c2::a market structure}} with {{c2::high demand}} and {{c2::a single supplier}}, which gives {{c3::the supplier high market power}} and {{c4::the ability to set prices}}.	
+{{c1::The prisoner's dilemma}} is {{c2::a game theory cooperation problem}}, where {{c2::self-interested behavior leads to worse outcomes for all parties than cooperation, and cooperative behavior by others can improve one’s outcome}}.	
+"{{c1::Conditional probability}} is the probability \(Pr[A|B]\) that {{c2::an event occurs given that another event has already occurred}}:<br>
+\(Pr[A \mid B] = \frac{Pr[A \cap B]}{Pr[B]}\)"	

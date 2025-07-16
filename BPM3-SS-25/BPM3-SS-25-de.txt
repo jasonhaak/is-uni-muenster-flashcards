@@ -1,0 +1,1169 @@
+#separator:tab
+#html:true
+"Frage:<br>
+Welche drei Dimensionen sind beim Scoping einer Enterprise Architecture zu beachten?"	"<ul>
+<li>Architecture Layer Scope: Betrachtete Architekturebenen</li>
+<li>Enterprise Scope: Organisatorischer und geografischer Geltungsbereich</li>
+<li>Vertical Scope: Detaillierungsgrad</li>
+</ul>"
+"Frage:<br />
+Was versteht man unter dem Begriff ""Application Spaghetti"" im Kontext von Enterprise Architecture?"	Ein nicht dokumentiertes, unübersichtliches und stark vernetztes System von Anwendungen, das historisch gewachsen ist und durch fehlende Konsolidierung, M&amp;A, Pilotsysteme und Legacy-Systeme geprägt ist.
+"Frage:<br />
+Wie erkennt man Bottlenecks in Architekturen anhand der Bottom-Up-Berechnungen?"	"<p>Man betrachtet:</p>
+<ul>
+<li>hohe Antwortzeiten (Response Time): Potenzielle Verzögerungen</li>
+<li>hohe Auslastung (\(\text{Utilization} &gt; 1\)): Ressource ist überlastet</li>
+</ul>"
+"Frage:<br />
+Wie identifiziert man Bottlenecks in Architekturen anhand der Top-Down-Berechnungen?"	Top-Down-Analyse basiert auf Workloads (Anfragen pro Zeiteinheit). Bottlenecks entstehen, wenn ein Service oder eine Ressource überproportional stark beansprucht wird.
+"Frage:<br />
+Wie lassen sich Engpässe in einem ArchiMate-Modell quantitativ identifizieren?"	"<ol>
+<li>Bottom-Up: Analyse über Antwortzeiten und Auslastungen von Ressourcen</li>
+<li>Top-Down: Analyse über die Arbeitslasten, wobei Services mit hoher Last oder Auslastung potenzielle Bottlenecks sind</li>
+</ol>"
+"Frage:<br />
+Welche Aspekte behindern eine schnelle Transformation von Unternehmen?"	"<ul>
+<li>Lack of Insight: Fehlendes Wissen über eigene Produkte, Services und Fähigkeiten</li>
+<li>Legacy Applications: Veraltete, schwer integrierbare Systeme bremsen Veränderungen</li>
+<li>Organizational Silos: Abteilungsdenken ohne bereichsübergreifende Zusammenarbeit oder gemeinsame Datenbasis</li>
+<li>Unshared Understanding: Fehlendes gemeinsames Verständnis über Ziele, Prozesse und Zusammenhänge</li>
+</ul>"
+"Frage:<br />
+Was sind typische Gründe für das Scheitern von EAM-Initiativen und wie können diese proaktiv adressiert werden?"	"<ul>
+<li>Gründe: Fehlende Unterstützung durch das Top-Management, unklare Ziele, geringe Akzeptanz im Fachbereich und übermäßiger Dokumentationsfokus</li>
+<li>Maßnahmen: Klare Kommunikation des Nutzens, starke Governance-Strukturen, partizipative Entwicklung, Pilotprojekte, Integration in Entscheidungsprozesse und strategische Planung</li>
+</ul>"
+"Frage:<br />
+Was sind die drei primären Aktivitäten einer Enterprise Transformation?"	"<p>Die drei Aktivitäten sind:</p>
+<ul>
+<li>Architekturentwicklung: Ableitung und Modellierung von Zielarchitekturen</li>
+<li>Strategieformulierung: Definition der Ziele und Handlungsrahmen</li>
+<li>Transformation: Umsetzung der geplanten Änderungen</li>
+</ul>"
+"Frage:<br />
+Welche Arten von Stakeholder gibt es in der Transformation?"	"<ol>
+<li>an der Transformation beteiligte Stakeholder</li>
+<li>von der Transformation betroffene Stakeholder</li>
+<li>Förderer der Transformation</li>
+</ol>"
+"Frage:<br />
+Was sind Herausforderungen für Enterprise Architecture?"	"<ul>
+<li>fehlerhafte Erwartungen</li>
+<li>mangelnde Beteiligung des Unternehmens</li>
+<li>mangelnde Unterstützung durch die C-Level</li>
+<li>Unterschätzung der Kommunikation</li>
+<li>Unternehmensarchitektur als Mittel, nicht als Lösung</li>
+</ul>"
+"Frage:<br />
+Was bedeutet Business-IT-Alignment im Kontext des EAM?"	Es beschreibt die Abstimmung zwischen strategischen Geschäftszielen und den Fähigkeiten der IT-Architektur, um optimale Wertschöpfung zu erzielen.
+"wahr oder falsch:<br />
+Die Berichterstattung über Enterprise Architecture Management an den CEO führt zu einer deutlich besseren Abstimmung zwischen Business und IT sowie zu einer höheren Akzeptanz innerhalb der Organisation."	wahr
+"wahr oder falsch:<br />
+Ein Benchmarking ist eine qualitative Analyse, die bei einem Modell durchgeführt wird."	"falsch:<br />
+Die Benchmarking ist eine quantitative und wird bei mehreren Modellen durchgeführt."
+"wahr oder falsch:<br />
+Eine Gap Analyse ist eine quantitative Analyse, die bei einem Modell durchgeführt wird."	"falsch:<br />
+Die Gap Analyse ist eine quantitative Analyse, die bei mehreren Modellen durchgeführt wird."
+"wahr oder falsch:<br />
+Eine Gap Analyse ist eine quantitative Analyse, die bei mehreren Modellen durchgeführt wird."	wahr
+"wahr oder falsch:<br />
+Eine Dependency Analyse ist eine qualitative Analyse, die bei einem Modell durchgeführt wird."	wahr
+"wahr oder falsch:<br />
+Eine Dependency Analyse ist eine quantitative Analyse, die bei einem Modell durchgeführt wird."	"falsch:<br />
+Die Dependency Analyse ist eine qualitative Analyse."
+"wahr oder falsch:<br />
+Eine Dependency Analyse ist eine quantitative Analyse, die bei mehreren Modellen durchgeführt wird."	"falsch:<br />
+Die Dependency Analyse wird bei einem Modell durchgeführt."
+"wahr oder falsch:<br />
+Eine Performance Analyse ist eine qualitative Analyse, die bei einem Modell durchgeführt wird."	"falsch:<br />
+Die Performance Analyse ist eine quantitative Analyse."
+"wahr oder falsch:<br />
+Eine Performance Analyse ist eine quantitative Analyse, die bei einem Modell durchgeführt wird."	wahr
+"wahr oder falsch:<br />
+Eine Performance Analyse ist eine quantitative Analyse, die bei mehreren Modellen durchgeführt wird."	"falsch:<br />
+Die Performance Analyse wird bei einem Modell durchgeführt."
+"Frage:<br />
+Wie unterschiedet sich Governance von Management?"	Bei Governance geht es nicht darum, welche konkreten Entscheidungen getroffen werden - Bei Governance geht es vielmehr darum, systematisch festzulegen, wer welche Art von Entscheidungen trifft (Entscheidungsrecht), wer Einfluss auf eine Entscheidung hat (Mitwirkungsrecht) und wie diese Personen (oder Gruppen) für ihre Rolle zur Rechenschaft gezogen werden.
+"Frage:<br />
+Welche Eigenschaften besitzt Service-Oriented Architecture?"	"<ul>
+<li>Dienste haben unterschiedliche Eigenschaften und Granularität</li>
+<li>mehrere Dienste können dieselben Ressourcen einer Organisation nutzen, z. B. eine Datenbank</li>
+<li>schichtartig aufgebaut</li>
+</ul>"
+"{{c1::Service-Oriented Architecture (serviceorientierte Architektur, SOA)}} ist {{c2::der modulare Aufbau von Services durch einen Service-Provider.}}<br>
+{{c1::{{c2::<img src=""2023-Bild-Krcmar-Service-Oriented_Architecture.png"" alt=""""><br>
+Service-Oriented Architecture}}}}"	
+"Frage:<br />
+Mit welchem Modellierungselement wird Value in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Value.png"" alt="""">"
+"<p>{{c1::Risiken des IT-Outsourcing}} sind:</p>
+<ul>
+<li>{{c2::Bedenken im Bezug zur IT-Security}}</li>
+<li>{{c2::Betrug}}</li>
+<li>{{c2::starre Bindung an die Technologie des Outsourcing-Anbieters}}</li>
+<li>{{c2::unkontrollierbare Preisgestaltung}}</li>
+<li>{{c2::Verlust der Flexibilität in Bezug zu Anforderungen}}</li>
+<li>{{c2::Verlust der Entscheidungsmöglichkeiten in Bezug zu Daten und Technologie}}</li>
+<li>{{c2::Verlust von IT-Kompetenzen}}</li>
+<li>{{c2::versteckte Kosten}}</li>
+</ul>"	
+{{c1::Eine Decentralized IT/IS Governance}} ist {{c2::ein Governance-Modell für die IT/IS-Governance, in welcher das Decision-Making in vielen IT-Stellen stattfindet}}.	
+"Beispiele:<br />
+Maßnahmen zur Steigerung der EAM-Akzeptanz bei Mitarbeitenden"	"<ul>
+<li>Belohnungssysteme (z. B. Zertifizierungen)</li>
+<li>Erfolgsstories und Expertenkommunikation</li>
+<li>Gamification &amp; intuitive Tools</li>
+<li>Quick Wins</li>
+<li>Stakeholder-Analyse</li>
+</ul>"
+"wahr oder falsch:<br />
+Enterprise Architecture Management sollten belohnend sein und Spaß machen."	"wahr:<br>
+Dies erhöht die Nutzbarkeit und die Bereitschaft, Enterprise Architecture Management zu nutzen."
+"<p>Die Erhöhung der Nutzbarkeit von Enterprise Architecture Management erfolgt durch:</p>
+<ol>
+<li>{{c1::Stakeholderanalyse}}: {{c1::Stakeholder identifizieren, die in Transformation beteiligt sind, beeinflusst werden oder diese unterstützen}}</li>
+<li>{{c1::partizipative Entwicklung: Bestimmte Stakeholder in die Entwicklung von EAM inkludieren}}</li>
+<li>{{c1::schnelle Gewinne/Quick Wins realisieren}}</li>
+<li>{{c1::Einfluss von Enterprise Architecture Management analysieren und Business Cases herausarbeiten}}</li>
+</ol>"	
+{{c1::Normativer Einfluss (Normative Influence)}} ist {{c2::der Einfluss, bei dem ein Individuum bestimmte Erwartungen anderer erfüllen oder soziale Anerkennung erlangen möchte}}.	
+{{c1::Informativer Einfluss (Informational Influence)}} ist {{c2::der Einfluss, bei dem ein Individuum bestimmte Informationen von anderen als korrekt und verlässlich akzeptiert}}.	
+{{c1::Utilitaristischer Wert}} ist {{c2::der instrumentelle Wert, den eine Methode oder ein Produkt für den Nutzer durch Effizienz oder Produktivität bereithält}}.	
+{{c1::Materialistischer Wert}} ist {{c2::der materielle Wert, den eine Methode oder ein Produkt für den Nutzer bereithält}}.	
+{{c1::Hedonistischer Wert}} ist {{c2::der emotionale oder erlebnisorientierte Wert, den eine Methode oder ein Produkt für den Nutzer bereithält}}.	
+"<p>Gründe für die Nutzung von Enterprise Architecture Management sind:</p>
+<ul>
+<li>{{c1::Einfluss von Kollegen, Vorgesetzen oder Dritten}}: {{c1::Informativer Einfluss oder normativer Einfluss}}</li>
+<li>{{c2::organisatorische Merkmale}}: {{c2::Einfacher Zugang, Unterstützung und Training}}</li>
+<li>{{c3::Routine und Gewohnheit}}</li>
+<li>{{c4::Selbstüberzeugung und Glaube an Enterprise Architecture Management}}</li>
+<li>{{c5::Wert}}: {{c5::Hedonistischer Wert, materialistischer Wert oder utilitaristischer Wert}}</li>
+</ul>"	
+"wahr oder falsch:<br />
+Die Einführung von Enterprise Architecture Management kann nicht durch eine Managemententscheidung erreicht werden, sondern hängt von individuellen Entscheidungen ab, die durch verschiedene interne und externe psychologische Faktoren beeinflusst werden."	wahr
+"<p>Enterprise Architecture Management Adoption besteht aus mehreren Schritten:</p>
+<ol>
+<li>{{c1::Unterstützer identifizieren und Enterprise Architecture Management-Ziele definieren}}</li>
+<li>{{c2::Ist-Analyse}}</li>
+<li>{{c3::Stakeholderanalyse}}</li>
+<li>{{c4::Enterprise Architecture Management-Team zusammenstellen}}</li>
+<li>{{c5::Architekturprinzipien definieren}}</li>
+<li>{{c6::Enterprise Architecture Management-Scope definieren}}</li>
+<li>{{c7::Enterprise Architecture Management-Services entwerfen und implementieren}}</li>
+<li>{{c8::Änderungsmanagement}}</li>
+<li>{{c9::Pilotierung und Bewertung}}</li>
+<li>{{c10::Endgültige Einführung, kontinuierliche Verbesserung}}</li>
+</ol>"	
+"wahr oder falsch:<br />
+Die Verbesserung der Datenqualität ist eine Situationen zur Einführung von Enterprise Architecture Management."	wahr
+"wahr oder falsch:<br />
+Eine Geschäftsmodellveränderungen ist eine Situationen zur Einführung von Enterprise Architecture Management."	wahr
+"wahr oder falsch:<br />
+Eine Kostenreduktion ist eine Situationen zur Einführung von Enterprise Architecture Management."	wahr
+"wahr oder falsch:<br />
+Die Standardisierung ist eine Situationen zur Einführung von Enterprise Architecture Management."	wahr
+"<p>Risiken des Insourcings sind:</p>
+<ul>
+<li>{{c1::fehlendes Personal}}</li>
+<li>{{c1::höhere Kosten}}</li>
+<li>{{c1::langsame Implementierungszeit}}</li>
+</ul>"	
+"wahr oder falsch:<br />
+Ein föderierter Ansatz zur kontinuierlicher Pflege und Aktualisierung der Enterprise Architecture Models ist häufig praktikabler als ein holistischer Ansatz."	wahr
+"wahr oder falsch:<br />
+Ein holistischer Ansatz zur kontinuierlicher Pflege und Aktualisierung der Enterprise Architecture Models ist häufig praktikabler als ein föderierter Ansatz."	"falsch:<br />
+Ein föderierter Ansatz ist häufig praktikabler."
+{{c1::Der Architecture Vitality Process}} ist {{c2::ein Enterprise Architecture Governance-Prozess zur kontinuierlicher Pflege und Aktualisierung der Enterprise Architecture}}.	
+"<p>{{c1::Architecture Vitality Process}} entsteht durch:</p>
+<ul>
+<li>{{c2::föderierter Ansatz}}: {{c2::Es werden dezentrale Modelle erstellt, welche in ein übergeordnetes Modell eingebunden werden}}.</li>
+<li>{{c2::holistischer Ansatz}}: {{c2::Es wird ein monolithisches Modell erstellt}}.</li>
+</ul>"	
+{{c1::Der Architecture Review Process}} ist {{c2::ein Enterprise Architecture Governance-Prozess zur Überprüfung von Projekten im Hinblick auf ihre Übereinstimmung mit der Enterprise Architecture sowie ihrer Konformität mit strategischen Vorgaben}}.	
+"Frage:<br />
+Wie wird im Architecture Compliance Process mit Abweichungen umgegangen?"	Abweichungen von genehmigten Architekturstandards müssen formal beantragt, dokumentiert und durch definierte Gremien geprüft werden. Ziel ist ein kontrollierter, nachvollziehbarer Umgang mit technischen und fachlichen Sonderfällen.
+{{c1::Der Architecture Compliance Process}} ist {{c2::ein Enterprise Architecture Governance-Prozess zur Beantragung von Abweichungen von genehmigten Compliance-Komponenten}}.	
+Ziel des Architecture Compliance Process ist {{c1::die Sicherstellung eines geregelten Umganges mit Abweichungen}}.	
+{{c1::Der Architecture Communication Process}} ist {{c2::ein Enterprise Architecture Governance-Prozess, der sicherstellt, dass alle Ergebnisse aus der Enterprise Architecture innerhalb der Organisation verbreitet werden}}.	
+"<p>Nachteile von generellen Modellierungswerkzeugen in der Architektur sind:</p>
+<ul>
+<li>{{c1::fehlende Funktionen zur Sicherstellung der Entwicklung syntaktisch korrekter Unternehmensarchitekturmodelle}}</li>
+<li>{{c1::fehlende Möglichkeiten zur Einbettung von Enterprise Architecture Frameworks}}</li>
+<li>{{c1::keine Analysefunktionen}}</li>
+<li>{{c1::keine Definition von Architekturprinzipien oder zur Überprüfung der Einhaltung von Architekturprinzipien}}</li>
+<li>{{c1::keine Governance-Möglichkeiten}}</li>
+<li>{{c1::keine Unterstützung bei der Generierung neuer Ansichten}}</li>
+</ul>"	
+{{c1::Der Architecture Documentation Process}} ist {{c2::ein systematischer Prozess zur Entwicklung und Pflege der Governance der Enterprise Architecture}}. {{c1::Der Architecture Documentation Process}} besteht aus {{c3::der Beschreibung strukturierter Schritte zur Erstellung, Überprüfung und Aktualisierung architekturrelevanter Informationen}}.	
+"Frage:<br />
+Welche fünf zentralen EAM-Governance-Prozesse gibt es und welche Aufgaben erfüllen sie?"	"<ol>
+<li>Architecture Documentation Process: Systematische Pflege und Dokumentation der Architektur zur Sicherstellung fundierter Entscheidungen</li>
+<li>Architecture Review Process: Überprüfung der Architekturentscheidungen hinsichtlich Ausrichtung und Konformität</li>
+<li>Architecture Communication Process: Zeitnahe und präzise Kommunikation aller EAM-relevanten Ergebnisse</li>
+<li>Architecture Compliance Process: Freigaben aus Unternehmenssicht und Prüfung der Ergebnisse auf Regelkonformität</li>
+<li>Architecture Framework Vitality Process: Sicherstellung der Aktualität</li>
+</ol>"
+{{c1::Der Enterprise Architecture Governance-Prozess}} ist {{c2::ein Prozess zur Identifikation, Management und Auditierung von Informationen in Bezug zum Enterprise Architecture Management und wird durch den Architekturlebenszyklus gebildet}}.	
+"<p>{{c1::Der Enterprise Architecture Governance-Prozess}} besteht aus:</p>
+<ol>
+<li>{{c2::Architecture Documentation Process}}</li>
+<li>{{c2::Architecture Review Process}}</li>
+<li>{{c2::Architecture Communication Process}}</li>
+<li>{{c2::Architecture Compliance Process}}</li>
+<li>{{c2::Architecture Vitality Process}}</li>
+</ol>"	
+"Frage:<br />
+Welche Rolle spielt der Architecture Review Board in der EAM-Governance?"	Der ARB bewertet die Einhaltung von Architekturprinzipien, Standards und Richtlinien. Er ist beratend und kontrollierend tätig und stellt die strategische Ausrichtung sicher.
+"wahr oder falsch:<br />
+Das Architecture Review Board entscheidet, welche Systeme implementiert werden dürfen."	"falsch:<br />
+Das Architecture Review Board bewertet und empfiehlt, trifft aber selbst keine operativen Implementierungsentscheidungen. Dies obliegt dem Management oder Projektverantwortlichen."
+"wahr oder falsch:<br />
+Das Architecture Review Board wird vom Chief Architect geleitet und besteht üblicherweise aus 5-10 Personen."	wahr
+{{c1::Ein Architecture Review Board}} ist {{c2::ein Architekturkomitee, welches den Geschäftswert durch die Bewertung der Einhaltung von Architekturprinzipien, Standards, Regeln und Richtlinien sichert und erweitert}}.	
+"wahr oder falsch:<br />
+Das Enterprise Architecture Council wird vom Chief Architect geleitet und besteht üblicherweise aus 5-10 Personen."	wahr
+{{c1::Ein Enterprise Architecture Council}} ist {{c2::ein Architekturkomitee, welches die Umsetzung und Steuerung von Enterprise Architecture Management übernimmt}}.	
+"Frage:<br />
+Was ist ein Architecture Forum?"	Ein Architecture Forum ist ein kooperatives Gremium für den Austausch über EAM-relevante Projekte.
+{{c1::Ein Architecture Forum}} ist {{c2::ein Architekturkomitee, in welchem verschiedene Projekte zusammengeschlossen werden und gemeinsam zusammenarbeiten}}.	
+"<p>Arten des Architekturkomitees sind:</p>
+<ul>
+<li>{{c1::Architecture Forum}}</li>
+<li>{{c1::Architecture Review Board}}</li>
+<li>{{c1::Enterprise Architecture Council}}<br />
+{{c1::<img src=""2025-Bild-Kalla-Arten_des_Architekturkomitees.png"" alt=""""><br />
+Arten des Architekturkomitees}}</li>
+</ul>"	
+"<p>Governance-Rollen bestehen aus:</p>
+<ul>
+<li>{{c1::Setting}}: {{c1::Festlegung von Standards und Vorgaben}}</li>
+<li>{{c2::Vetting}}: {{c2::Einhaltung dieser Standards und Vorgaben}}</li>
+</ul>"	
+{{c1::Das Centers of Excellence}} ist {{c2::ein Governance-Modell für die IT/IS-Governance, in welcher Governance-Aufgaben auf verschiedene Kompetenzzentren aufgeteilt werden}}.	
+{{c1::Ein Governing System}} ist {{c2::ein System, welches Prozesse überwacht und, falls notwendig, in diese eingreift}}.	
+{{c1::Das Governance Paradigma}} ist {{c2::ein Paradigma, in welchem ein Governing System ein Target System steuert, um ein Ziel zu erreichen}}. Sowohl das Governing System, als auch das Target System agieren dabei mit {{c3::der Umwelt}}.	
+"Frage:<br />
+Beschreibe den Zusammenhang zwischen Architekturprinzipien und Governance im Enterprise Architecture Management. Warum ist Governance entscheidend für erfolgreiche Transformation?"	Governance stellt sicher, dass diese Prinzipien eingehalten und bei Abweichungen bewertet werden. Nur durch die konsequente Umsetzung der Prinzipien können Zielarchitekturen konsistent realisiert und Transformationen nachhaltig verankert werden.
+"Frage:<br />
+Warum ist Governance relevant für Enterprise Architecture Management?"	EAM-Governance ist entscheidend, um klare Verantwortlichkeiten und Entscheidungsrechte zu definieren. Governance sorgt dafür, dass Architekturdaten aktuell bleiben, Leistungen messbar sind und Entscheidungen systematisch und nachvollziehbar getroffen werden. Die richtigen Personen mit den passenden Fähigkeiten treffen fundierte Entscheidungen anstatt eines chaotischen, ineffektiven Flickwerks ohne klare Steuerung.
+{{c1::Enterprise Architecture Management Governance}} ist {{c2::die Governance, mit der Enterprise Architectures auf unternehmensweiter Ebene verwaltet und gesteuert werden}}. {{c1::Enterprise Architecture Management Governance}} stellt sicher, dass Entscheidungen so getroffen werden, sodass {{c3::der Wert von EAM erzielt und aufrechterhalten wird}}.	
+"Frage:<br />
+Welche Kriterien machen eine Änderung relevant für Enterprise Architecture?"	"<ul>
+<li>Änderungen an IT-Sicherheitsmerkmalen</li>
+<li>Änderung von Schnittstellen</li>
+<li>Auswirkungen auf die Business Continuity</li>
+<li>Regulatorischer Vorgaben</li>
+<li>Veränderung kritischer Enterprise Architecture-Komponenten</li>
+</ul>"
+"<p>Änderungen der Enterprise Architecture sind relevant, wenn:</p>
+<ul>
+<li>{{c1::diese mit hohen Risiken verbunden sind}}</li>
+<li>{{c1::kritische Enterprise Architecture-Komponenten verändern}}</li>
+<li>{{c1::Schnittstellen davon betroffen sind}}</li>
+<li>{{c1::volatile regulatorische Richtlinien vorhanden sind}}</li>
+<li>{{c1::wichtige IT-Security-Bestandteile verändert werden}}</li>
+</ul>"	
+"<p>Operatives Management im Enterprise Architecture Management besteht aus:</p>
+<ol>
+<li>{{c1::Änderungen sammeln}}: {{c1::Antragsteller, Empfänger, Scope}}</li>
+<li>{{c1::Änderungen bewerten}}: {{c1::Bewertung der Signifikanz und des Einflusses auf die Enterprise Architecture}}</li>
+<li>{{c1::Änderungen umsetzen}}: {{c1::Verantwortlichkeiten und Zeiträume definieren}}</li>
+</ol>"	
+Strategisches Management kann mit TOGAF angewendet werden, da {{c1::verschiedene Bestandteile des strategischen Managements die TOGAF-Phasen abdecken}}.	
+"<p>Die strategische Evaluation im Enterprise Architecture Management besteht aus:</p>
+<ol>
+<li>{{c1::Evaluation der Architekturentwicklung}}</li>
+</ol>"	
+"Frage:<br />
+Was wird im Rahmen der strategischen Planung im Enterprise Architecture Management gemacht?"	Im Rahmen der strategischen Planung im Enterprise Architecture Management wird die Architekturvision definiert sowie eine Roadmap für die Transformation des Ist-Zustandes zu einem Soll-Zustand geplant. Anhand des Portfolio-Managements werden die Prioritäten für die Umsetzung festgelegt.
+"<p>Die strategische Planung im Enterprise Architecture Management besteht aus:</p>
+<ol>
+<li>{{c1::Entwicklung einer Architekturvision}}</li>
+<li>{{c1::Planung der Migration}}</li>
+<li>{{c1::Bewertung und Priorisierung des Projektportfolios}}</li>
+</ol>"	
+"Frage:<br />
+Was wird im Rahmen der strategische Formulierung im Enterprise Architecture Management gemacht?"	Im Rahmen der strategische Formulierung im Enterprise Architecture Management sollte der Ist-Zustand der Architektur verstanden werden, um strategische Optionen identifizieren zu können.
+"<p>Die strategische Formulierung im Enterprise Architecture Management besteht aus:</p>
+<ol>
+<li>{{c1::Analyse der Situation}}</li>
+<li>{{c1::Ausarbeitung strategischer Optionen}}</li>
+</ol>"	
+"Frage:<br />
+Warum muss Enterprise Architecture Management in das strategische Management integriert werden?"	Unternehmen agieren heute in hochdynamischen Umfeldern. Sie müssen in der Lage sein, Veränderungen zunehmend schneller zu planen und umzusetzen. Strategisches Management liefert den entscheidenden Rahmen, um Wettbewerbsvorteile zu erlangen und dauerhaft zu sichern. EAM unterstützt diesen Prozess, indem es Transparenz über Strukturen, Abhängigkeiten und Entwicklungspfade schafft. Andernfalls würde eine Schwierigkeit entsteht, die organisatorischen Ziele umzusetzen.
+"Frage:<br />
+Wie nennt man die fehlende Implementierung von Enterprise Architecture Management in die Strategie?"	Diese werden als Elfenbeintürme bezeichnet, denen es an Bewusstsein und Akzeptanz innerhalb der Organisation für Enterprise Architecture Management mangelt.
+"wahr oder falsch:<br />
+Strategisches Management hängt stark von einer zuverlässigen Informationsgrundlage ab."	wahr
+"wahr oder falsch:<br />
+Unternehmen, die Enterprise Architecture Management nicht in ihr bestehendes strategisches Management integrieren, profitieren nur begrenzt von ihren Enterprise Architecture Management-Maßnahmen."	wahr
+"{{c1::Strategisches Management}} ist {{c2::die Formulierung, Planung, Umsetzung und Evaluation von Strategien in Bezug zu Enterprise Architecture}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Kalla-Strategisches_Management.png"" alt=""""><br />
+Strategisches Management von Plan, Implement, Evaluate und Formulate}}}}"	
+"Frage:<br />
+Was ist das Ziel von Enterprise Architecture Management als neu entstehende Initiative?"	Kurzfristige Änderungen und Anforderungen umzusetzen.
+"Frage:<br />
+Was ist die Rolle von Enterprise Architecture Management als neu entstehende Initiative?"	reaktiv als Sicherstellung der Enterprise Architecture und Compliance
+"Frage:<br />
+Was sind Aufgaben von Enterprise Architecture Management als neu entstehende Initiative?"	"<ul>
+<li>Sicherstellung dass kurzfristige Änderungen und Anforderungen den Architekturprinzipien entsprechen und deren Ausrichtung auf die strategischen Leitlinien unterstützen</li>
+</ul>"
+"Frage:<br />
+Wer ist der Initiator von Enterprise Architecture Management als neu entstehende Initiative?"	Organisationseinheiten
+"Frage:<br />
+Was ist das Ziel von Enterprise Architecture Management als strategische Enterprise Architecture Initiative?"	Die gesamte Qualität und Effektivität einer Enterprise Architecture zu erhöhen.
+"Frage:<br />
+Was ist die Rolle von Enterprise Architecture Management als strategische Enterprise Architecture Initiative?"	aktiver Treiber bei der strategischen Entwicklung
+"Frage:<br />
+Was sind Aufgaben von Enterprise Architecture Management als strategische Enterprise Architecture Initiative?"	"<ul>
+<li>Initiativen formulieren, planen, umsetzen und bewerten</li>
+<li>Initiativen starten</li>
+</ul>"
+"Frage:<br />
+Wer ist der Initiator von Enterprise Architecture Management als strategische Enterprise Architecture Initiative?"	das Enterprise Architecture Management
+"Frage:<br />
+Was ist das Ziel von Enterprise Architecture Management als Strategic Business and IT Initiative?"	Unternehmensstrategien und Funktionsstrategien zu implementieren
+"Frage:<br />
+Was ist die Rolle von Enterprise Architecture Management als Strategic Business and IT Initiative?"	unterstützend bei der strategischen Entwicklung
+"Frage:<br />
+Was sind Aufgaben von Enterprise Architecture Management als Strategic Business and IT Initiative?"	"<ul>
+<li>Koordination und aktive Steuerung der durch die verschiedenen strategischen Initiativen hervorgerufenen Veränderung</li>
+<li>Unterstützung bei der Formulierung und Planung der strategischen Initiative</li>
+</ul>"
+"Frage:<br />
+Wer ist der Initiator von Enterprise Architecture Management als Strategic Business and IT Initiative?"	das Management
+"Frage:<br />
+Was sind typische Fragen der Performanz-Analyse?"	"<ul>
+<li>Wenn 100 Personen an der Erstattung einer Versicherung arbeiten, wie wirkt sich das auf die zugrunde liegende Datenbank aus?</li>
+</ul>"
+"wahr oder falsch:<br />
+Die Performanz-Analyse kann Top-Down oder Bottom-Up erfolgen."	wahr
+{{c1::Eine Performanz-Analyse (Performance Analysis)}} ist {{c2::eine quantitative Analyse über die Nutzung von Services und deren Workload}}.	
+"{{c1::Bedell's-Methode}} ist {{c2::eine Methode zur Portfolioanalyse in der Enterprise Architecture zur Berechnung des Portfoliowertes eines Applikationssystems}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Kalla-Bedell's-Methode.png"" alt=""""><br />
+Vereinfachte Darstellung der Bedell's-Methode}}}}"	
+"{{c1::Bedell's-Methode}} setzt {{c2::die Effektivität eines Applikationssystems}} und {{c2::die Wichtigkeit im Geschäftsprozess für die Organisation sowie für den IT-Support}} in Vergleich.<br />
+{{c1::{{c2::<img src=""2025-Bild-Kalla-Bedell's-Methode.png"" alt=""""><br />
+Vereinfachte Darstellung der Bedell's-Methode}}}}"	
+"<p>Bedell's-Methode besteht aus drei Fragen:</p>
+<ol>
+<li>{{c1::Sollte das Unternehmen in Anwendungssysteme/-dienste investieren?}}</li>
+<li>{{c2::Auf welche Geschäftsprozesse sollte sich die Investition konzentrieren?}}</li>
+<li>{{c3::Welche Anwendungssysteme sollten entwickelt oder verbessert werden?}}</li>
+</ol>"	
+"Frage:<br />
+Was sind typische Fragen der Risikoanalyse?"	"<ul>
+<li>Sollte die Organisation in Anwendungssysteme/-dienste investieren?</li>
+<li>Welche Anforderungen der Stakeholder müssen bei dieser Veränderung berücksichtigt werden?</li>
+</ul>"
+{{c1::Eine Portfolioanalyse}} ist {{c2::eine qualitative Analyse über die Erreichung von Organisationsziele durch einzelne Elemente in einem Portfolio}}.	
+{{c1::Der Risk Factor}} ist {{c2::ein Faktor der Factor Analysis of Information Risk über Risiken oder Probleme, die verfolgt und beobachtet werden können}}.	
+{{c1::Die Loss Event Frequency}} ist {{c2::ein Faktor der Factor Analysis of Information Risk über die Wahrscheinlichkeit, mit der eine Bedrohung innerhalb eines bestimmten Zeitraums zu einem Verlust führt}}.	
+{{c1::Das Vulnerability Level}} ist {{c2::ein Faktor der Factor Analysis of Information Risk über das geschätzte Ausmaß der Gefährdung durch eine Bedrohung}}.	
+{{c1::Die Factor Analysis of Information Risk}} ist {{c2::ein Framework zur Risikoanalyse}}.	
+"Frage:<br />
+Erklären den Nutzen einer Gap-Analyse im Enterprise Architecture Management und deren methodisches Vorgehen."	"Eine Gap-Analyse identifiziert Unterschiede zwischen Ist-Architektur und Soll-Architektur. Ziel ist es, notwendige Maßnahmen für die Zielerreichung abzuleiten.<br />
+Methodisch erfolgt die Analyse entlang von Architekturdomänen, indem Modelle verglichen, Lücken dokumentiert und daraus Transformationspfade entwickelt werden."
+"Frage:<br />
+Was ist das Ziel einer Gap-Analyse im EAM?"	Sie identifiziert Unterschiede zwischen der Ist-Architektur und Soll-Architektur, um notwendige Maßnahmen, Übergangsarchitekturen und Umsetzungsschritte zu planen.
+"Frage:<br />
+Was ist eine Gap-Analyse im EAM und wie funktioniert sie methodisch?"	Eine Gap-Analyse vergleicht Ist-Architektur und Soll-Architektur. Abweichungen werden identifiziert und in Maßnahmen für Transition Architectures überführt. Grundlage bilden Modellvergleiche entlang der Architekturebenen.
+"Frage:<br />
+Was sind typische Fragen der Gap-Analyse?"	"<ul>
+<li>Welche Services müssen für die Soll-Architektur realisiert werden?</li>
+<li>Wie könnten Übergangsarchitekturen zusammengesetzt sein?</li>
+</ul>"
+"wahr oder falsch:<br />
+Eine Gap Analyse ist eine qualitative Analyse, die bei einem Modell durchgeführt wird."	"falsch:<br />
+Die Gap Analyse wird bei mehreren Modellen durchgeführt."
+"wahr oder falsch:<br />
+Eine Gap Analyse ist eine qualitative Analyse, die bei mehreren Modellen durchgeführt wird."	wahr
+{{c1::Eine Gap-Analyse}} ist {{c2::eine Funktionsanalyse über die Gaps zwischen dem Ist-Zustand und des Soll-Zustandes}}. {{c1::Eine Gap-Analyse}} ist {{c3::eine qualitative Analyse}}, die bei mehreren Modellen durchgeführt wird.	
+"Frage:<br />
+Was sind typische Fragen der Nutzenanalyse?"	"<ul>
+<li>Welchen Beitrag leistet Projekt X zur Unterstützung der Unternehmensziele?</li>
+</ul>"
+{{c1::Eine Nutzenanalyse (Benefit Analysis)}} ist {{c2::eine Funktionsanalyse über die Beiträge von einzelnen Elementen zur Erreichung von Unternehmenszielen, basierend auf Berechnungen oder Schätzungen von Experten}}.	
+"Frage:<br />
+Was sind typische Fragen der Compliance-Analyse?"	"<ul>
+<li>Wie viel Prozent der Komponenten entsprechen nicht den Anforderungen?</li>
+<li>Wurde die Einhaltung gesetzlicher Bestimmungen oder Marktstandards sichergestellt?</li>
+</ul>"
+{{c1::Eine Compliance-Analyse}} ist {{c2::eine Funktionsanalyse über die Compliance sowie der Identifikation von Problemen im Bezug zur Compliance}}.	
+"Frage:<br />
+Was sind typische Fragen der Heterogenitätsanalyse?"	"<ul>
+<li>Wie viele und welche Technologien werden pro Einsatzbereich verwendet?</li>
+</ul>"
+"Frage:<br />
+Wie lassen sich Redundanzen in einer Heterogenitätsanalyse erkennen?"	Durch Identifikation mehrfach existierender, gleichartiger Komponenten mit unterschiedlicher Technologie oder überlappender Funktion (z. B. mehrere CRM-Systeme in verschiedenen Einheiten).
+"{{c1::Die Heterogenitätsanalyse (Heterogeneity Analysis)}} ist {{c2::eine Funktionsanalyse zur Identifikation von Heterogenität von Komponenten und Strukturen zur Konsolidierung von Strukturen}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Kalla-Heterogenitaetsanalyse_im_Enterprise_Architecture_Modelling.png"" alt=""""><br />
+Heterogenitätsanalyse im Enterprise Architecture Management}}}}"	
+"Frage:<br />
+Was ist das Ziel einer Interfaceanalyse in EAM-Modellen?"	In einer Interfaceanalyse werden Schnittstellen zwischen Komponenten, Services oder Prozessen untersucht, um potenzielle Komplexität, Redundanz oder Integrationsprobleme zu erkennen.
+"Frage:<br />
+Was sind typische Fragen der Abdeckungsanalyse?"	"<ul>
+<li>Wie viele und welche Arten von Verbindungen bestehen zwischen den Komponenten?</li>
+<li>Verhindern Schnittstellen die Aktualisierung eines Systems oder dessen Ersatz durch eine andere Lösung?</li>
+</ul>"
+"{{c1::Eine Interfaceanalyse (Interface Analysis)}} ist {{c2::eine Funktionsanalyse über die Interfaces zwischen Elementen eines Systems zur Maximierung der Kohäsion bei der Minimierung von Relationen}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Kalla-Interfaceanalyse_im_Enterprise_Architecture_Modelling.png"" alt=""""><br />
+Interfaceanalyse im Enterprise Architecture Management}}}}"	
+{{c1::Eine Abdeckungsanalyse (Coverage Analysis)}} ist {{c2::eine Funktionsanalyse über die Abdeckung von genutzten Funktionen in Relation zu den Produkten und Services zur Entdeckung von Redundanzen und Gaps}}.	
+"Frage:<br />
+Was sind typische Fragen der Abhängigkeitsanalyse?"	"<ul>
+<li>Welche Anwendungssysteme sind betroffen, wenn wir die Technologie X ersetzen?</li>
+<li>Welche Geschäftsprozesse sind von dem Ausfall eines bestimmten Servers betroffen?</li>
+</ul>"
+"{{c1::Eine Abhängigkeitsanalyse (Dependency Analysis)}} ist {{c2::eine Funktionsanalyse über die direkten Beziehungen und indirekten Beziehungen von Elementen und deren Abhängigkeiten}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Kalla-Abhaengigkeitsanalyse_im_Enterprise_Architecture_Modelling.png"" alt=""""><br />
+Abhängigkeitsanalyse im Enterprise Architecture Management}}}}"	
+{{c1::Eine Funktionsanalyse}} ist {{c2::eine qualitative Enterprise Architecture Model Analyse, welche strukturelle Aspekte und das Verhalten einer Enterprise Architecture untersucht}}.	
+"{{c1::Eine vereinfachte Enterprise Architecture Model Analyse}} ist {{c2::eine einfachere Form der Enterprise Architecture Model Analyse}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Kalla-Benefit_Map_aus_Vorteilen.png"" alt=""""><br />
+Benefit Map aus Vorteilen}}}}"	
+"<p>Eine vereinfachte Enterprise Architecture Model Analyse besteht aus mehreren Schritten:</p>
+<ol>
+<li>{{c1::Menge an Vorteilen aus bestehender Literatur identifizieren}}</li>
+<li>{{c1::Durchführung von Interviews, um Vorteile zu ermitteln}}</li>
+<li>{{c1::Vorteile auf EAM rückführen}}</li>
+</ol>"	
+{{c1::Eine quantitative Analyse}} ist {{c2::eine Analyse, welche messbare Indikatoren erzeugt}}.	
+"<p>Die {{c1::qualitative Analyse}} besteht aus:</p>
+<ul>
+<li>{{c2::Kostenanalyse}}</li>
+<li>{{c2::Performanz-Analyse}}</li>
+<li>{{c2::Reliability-Analyse}}</li>
+</ul>"	
+"wahr oder falsch:<br />
+Quantitative Analysen wie Kosten- oder Performance-Analysen können vollständig ohne qualitative Analysen erfolgen."	"falsch:<br />
+Beide Analysearten sind stark vernetzt, wobei qualitative Ergebnisse oft die Basis für quantitative Analysen (und vice versa) liefern."
+{{c1::Eine qualitative Analyse}} ist {{c2::eine Analyse, welche Erkenntnisse über verschiedene Aspekte erzeugt}}.	
+"<p>{{c1::Die qualitative Analyse}} besteht aus:</p>
+<ul>
+<li>{{c2::Funktionsanalyse}}</li>
+<li>{{c2::Portfolioanalyse}}</li>
+<li>{{c2::Risikoanalyse}}</li>
+</ul>"	
+"Beispiel:<br />
+Enterprise Architecture Model Analyse"	"<ul>
+<li>Beschaffungsentscheidungen: Darstellung kritischer Abhängigkeiten der Elemente, die als intern oder extern ausgelagert betrachtet werden</li>
+<li>Business-IT-Alignment: Erkennung doppelter oder unzureichend IT-gestützter Prozesse</li>
+<li>Compliance-Management: Überprüfung der Einhaltung gesetzlicher Anforderungen und interner Richtlinien</li>
+<li>Einführung von Standardsoftware: Identifizierung möglicher Lücken des Produkts und seiner Schnittstellen</li>
+<li>Post-Merger-Integration: Der Vergleich zweier Enterprise Architecture-Modelle liefert Erkenntnisse für Konsolidierungsbemühungen</li>
+<li>Qualitätsmanagement: Ordnungsgemäße Dokumentation von Prozessen, Rollen, Organisationseinheiten und deren Zusammenhängen</li>
+<li>Technologierisikomanagement: Wissen darüber, welche Technologien bestimmte Geschäftsprozesse unterstützen</li>
+</ul>"
+"wahr oder falsch:<br />
+In der Enterprise Architecture Model Analyse wird zwischen quantitativen Methoden und qualitativen Methoden unterschieden."	wahr
+{{c1::Enterprise Architecture Model Analyse}} ist {{c2::die Anwendung von Kriterien auf ein Enterprise Architecture Model zur Erzeugung von neuem Wissen}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Gaps in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Gap.png"" alt="""">"
+{{c1::Eine Gap}} ist {{c2::ein Unterschied zwischen zwei Plateaus}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Plateaus in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Plateau.png"" alt="""">"
+"wahr oder falsch:<br />
+Ein Plateau ist ein stabiler Zielzustand im ArchiMate Strategy Layer, der dauerhaft angestrebt wird."	"falsch:<br />
+Ein Plateau beschreibt einen temporären Übergangszustand (Transition Architecture) zwischen As-Is-Zustand und To-Be-Zustand."
+{{c1::Ein Plateau}} ist {{c2::ein Transitions-Zustand der Architektur}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Implementation Events in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Implementation_Event.png"" alt="""">"
+{{c1::Ein Implementation Event}} ist {{c2::eine Statusänderung in der Implementations- und Migrationsebene}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Work Packages in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Work_Package.png"" alt="""">"
+"Frage:<br />
+Was versteht man unter einem Work Package in der ArchiMate Implementation Layer?"	Ein Work Package ist ein zeitlich abgegrenztes Arbeitspaket mit definiertem Start, Ende und Ergebnissen. Es kann Deliverables erzeugen und zu Implementierungsevents führen.
+{{c1::Ein Work Package}} ist {{c2::eine Menge an Elementen mit einem definierten Startdatum und Enddatum}}.	
+{{c1::Ein Implementation- und Migration-Element}} ist {{c2::ein Baustein in TOGAF zur Überstützung der Implementations- und Migrationsebene}}.	
+"Frage:<br />
+Mit welchem Modellierungselement wird ein Course of Action in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Course_of_Action.png"" alt="""">"
+{{c1::Ein Course of Action}} ist {{c2::ein Verhaltenskonzept als Ansatz eines Planes oder eine Konfiguration von Kapazitäten und Ressourcen, um ein Ziel zu erreichen}}.	
+"Frage:<br />
+Mit welchem Modellierungselement wird Meaning in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Meaning.png"" alt="""">"
+{{c1::Meaning}} ist {{c2::die Repräsentation von Wissen in Bezug zu einem Kontext}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Outcomes in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Outcome.png"" alt="""">"
+{{c1::Ein Outcome in der Architektur}} ist {{c2::das Resultat, welches erreicht wurde}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Assessments in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Assessment.png"" alt="""">"
+{{c1::Ein Assessment}} ist {{c2::das Resultat der Analyse von einem Driver}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Constrians in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Constrain.png"" alt="""">"
+{{c1::Ein Constrain}} ist {{c2::eine Restriktion in einem System}}.	
+{{c1::Das Motivationskonzept der Architektur}} ist {{c2::ein Konzept zur Modellierung von Motivationen und Gründe für eine Enterprise Architecture}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Distribution Networks in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Distribution_Network.png"" alt="""">"
+{{c1::Ein Distribution Network}} ist {{c2::ein physikalisches Netzwerk in der physischen Ebene}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Facilities in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Facility.png"" alt="""">"
+{{c1::Eine Facility}} ist {{c2::eine physikalische Struktur oder dessen Umwelt in der physischen Ebene}}.	
+"Frage:<br />
+Mit welchem Modellierungselement wird Equipment in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Equipment.png"" alt="""">"
+{{c1::Equipment}} ist {{c2::ein physisches Objekt in der physischen Ebene}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Driver in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Driver.png"" alt="""">"
+{{c1::Ein Treiber (Driver)}} ist {{c2::ein Stakeholder, welcher Motivation für Veränderungen in einer Organisation schafft}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Technology Processes in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Technology_Process.png"" alt="""">"
+{{c1::Ein Technology Process}} ist {{c2::eine aktive Struktur der Technologieebene von einem Prozess von Aktivitäten mit Bezug zu Technologie}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Technology Events in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Technology_Event.png"" alt="""">"
+{{c1::Ein Technology Event}} ist {{c2::eine aktive Struktur der Technologieebene als eine Zustandsänderung einer Technologie}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Technology Interactions in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Technology_Interaction.png"" alt="""">"
+{{c1::Ein Technology Interaction}} ist {{c2::eine aktive Struktur der Technologieebene als  Interaktion einer oder mehrerer aktiven Strukturen}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Technology Services in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Technology_Service.png"" alt="""">"
+{{c1::Ein Technology Service}} ist {{c2::eine aktive Struktur der Technologieebene als Funktionalitäten, welche aktive Strukturen ihrer Umwelt zur Verfügung stellen}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Technology Functions in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Technology_Function.png"" alt="""">"
+{{c1::Ein Technology Function}} ist {{c2::eine aktive Struktur der Technologieebene als einer Gruppe von automatisierten Verhalten, welche von einer aktiven Struktur genutzt werden kann}}.	
+"Beispiel:<br />
+Technology Artifact"	"<ul>
+<li>Datenbanken</li>
+<li>Quelldateien</li>
+<li>Skripte</li>
+</ul>"
+"Frage:<br />
+Mit welchem Modellierungselement werden Technology Artifacts in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Artifact.png"" alt="""">"
+"wahr oder falsch:<br />
+Ein Technology Artifact in ArchiMate beschreibt unter anderem Quellcode oder Konfigurationsdateien."	wahr
+"Frage:<br />
+Mit welchem Modellierungselement werden Netzwerke in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Network.png"" alt="""">"
+{{c1::Ein Netzwerk in der Architektur}} ist {{c2::eine aktive Struktur der Technologieebene als Netz, welches Geräte oder Software System zum Austausch von Daten miteinander verbindet}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Paths in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Path.png"" alt="""">"
+{{c1::Ein Pfad (Path) in der Architektur}} ist {{c2::eine aktive Struktur der Technologieebene als Verbindung zwischen zwei oder mehreren aktiven Strukturen in welcher die Elemente bestimmte Daten oder Ressourcen austauschen}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Technology Collaborations in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Technology_Collaboration.png"" alt="""">"
+{{c1::Eine Technology Collaboration}} ist {{c2::eine aktive Struktur der Technologieebene als Aggregation von zwei oder mehreren aktiven Strukturen zur Durchführung eines gemeinsamen Verhaltens}}.	
+{{c1::Ein Verhaltenskonzept der Technologieebene}} ist {{c2::die Konzeption alle Tätigkeiten von Elementen in einer Struktur in der Technologieebene}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Technology Interfaces in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Technology_Interface.png"" alt="""">"
+{{c1::Ein Technology Interface}} ist {{c2::eine aktive Struktur der Technologieebene als Interface für Technology Services}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Devices in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Device.png"" alt="""">"
+{{c1::Ein Device (Gerät)}} ist {{c2::eine aktive Struktur der Technologieebene als eine physische IT-Ressource, auf der System Software und Artefakte gespeichert und ausgeführt werden können}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Nodes in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Node.png"" alt="""">"
+{{c1::Ein Node in der Architektur}} ist {{c2::eine aktive Struktur der Technologieebene als eine rechnergestützte oder physische Ressource, die andere Ressourcen besitzt, manipuliert oder mit diesen interagiert}}.	
+{{c1::Eine passive Struktur der Technologieebene}} ist {{c2::ein Element der Technologieebene, an welchem Verhalten durchgeführt wird}}.	
+{{c1::Eine aktive Struktur der Technologieebene}} ist {{c2::ein Element in der Technologieebene, welches als Subjekt Verhalten durchführt}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Data Objects in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Data_Object.png"" alt="""">"
+{{c1::Ein Data Object}} ist {{c2::eine passive Struktur der Applikationsebene, welche durch automatische Prozesse beeinflusst wird}}.	
+{{c1::Eine passive Struktur der Applikationsebene}} ist {{c2::ein Element der Applikationsebene, an welchem Verhalten durchgeführt wird}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Application Events in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Application_Event.png"" alt="""">"
+{{c1::Ein Application Event}} ist {{c2::ein Verhaltenskonzept der Applikationsebene als eine Zustandsveränderung in einer Applikation}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Application Interactions in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Application_Interaction.png"" alt="""">"
+{{c1::Eine Application Interaction}} ist {{c2::ein Verhaltenskonzept der Applikationsebene als Interaktion einer Application Collaboration}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Application Services in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Application_Service.png"" alt="""">"
+{{c1::Eine Application Service}} ist {{c2::ein Verhaltenskonzept der Applikationsebene als Funktionalitäten, welche Application Components ihrer Umwelt zur Verfügung stellen}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Application Processes in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Application_Process.png"" alt="""">"
+{{c1::Eine Application Process}} ist {{c2::ein Verhaltenskonzept der Applikationsebene von einem Prozess von Aktivitäten in einer Applikation}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Application Functions in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Application_Function.png"" alt="""">"
+{{c1::Eine Application Function}} ist {{c2::ein Verhaltenskonzept der Applikationsebene als eine Gruppe von automatisierten Verhalten, welche von einer Application Component ausgeführt werden kann}}.	
+{{c1::Ein Verhaltenskonzept der Applikationsebene}} ist {{c2::die Konzeption alle Tätigkeiten von Elementen in einer Struktur in der Applikationsebene}}.	
+{{c1::Ein Application-to-Business Interface}} ist {{c2::ein Application Interface, welches externe Application Services anbietet}}.	
+{{c1::Ein Application-to-Application Interface}} ist {{c2::ein Application Interface, welches interne Application Services anbietet}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Application Interfaces in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Application_Interface.png"" alt="""">"
+{{c1::Ein Application Interface}} ist {{c2::eine aktive Struktur der Applikationsebene als Interface für ein Application Service, welcher einem Benutzer oder einer anderen Application Component zugänglich gemacht wird}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Application Collaborations in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Application_Collaboration.png"" alt="""">"
+{{c1::Eine Application Collaboration}} ist {{c2::eine aktive Struktur der Applikationsebene als Aggregation von zwei oder mehreren Application Components zur Durchführung eines gemeinsamen Verhaltens}}.	
+{{c1::Eine aktive Struktur}} der {{c2::Applikationsebene ist ein Element in der Applikationsebene, welches als Subjekt Verhalten durchführt}}.	
+"Beispiel:<br />
+Application Component"	"<ul>
+<li>Software Applications</li>
+<li>Software Component</li>
+</ul>"
+"Frage:<br />
+Mit welchem Modellierungselement werden Application Components in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Application_Component.png"" alt="""">"
+{{c1::Eine Application Component}} ist {{c2::eine aktive Struktur der Applikationsebene als modularer, einsatzfähiger und austauschbarer Teil eines Software System, welche sein Verhalten und seine Daten kapselt und diese über eine Reihe von Schnittstellen offenlegt}}.	
+"Frage:<br />
+Mit welchem Modellierungselement wird Flow in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Flow.png"" alt=""""><br />
+<img src=""2025-Bild-Kalla-Flow_Beispiel.png"" alt="""">"
+"wahr oder falsch:<br />
+Der Flow impliziert eine kausale Beziehung."	"falsch:<br />
+Er impliziert keine kausale Beziehung."
+"wahr oder falsch:<br />
+Der Flow impliziert nicht eine kausale Beziehung."	wahr
+{{c1::Der Flow in der Logik}} ist {{c2::eine dynamische Relation über den Transfer von Elementen einem Element auf ein anderes Element}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Trigger in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Trigger.png"" alt=""""><br />
+<img src=""2025-Bild-Kalla-Trigger_Beispiel.png"" alt="""">"
+{{c1::Ein Trigger}} ist {{c2::eine dynamische Relation zur Modellierung einer kausalen Beziehung}}.	
+"Frage:<br />
+Mit welchem Modellierungselement wird Access in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Access.png"" alt=""""><br />
+<img src=""2025-Bild-Kalla-Access_Beispiel.png"" alt="""">"
+"Frage:<br />
+Was versteht man unter Access in ArchiMate und in welchem Layer wird es typischerweise verwendet?"	Access modelliert, dass ein Verhalten (z. B. Prozess, Funktion, Event) auf ein passives Element (z. B. Business Object) zugreift. Access ist typisch für die Business Layer, kann aber auch in anderen Layern vorkommen.
+{{c1::Access}} ist {{c2::eine Abhängigkeitsrelation über die Aktivität von einem Verhaltenskonzept mit einer passiven Struktur}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Servings in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Serving.png"" alt=""""><br />
+<img src=""2025-Bild-Kalla-Serving_Beispiel.png"" alt="""">"
+{{c1::Serving}} ist {{c2::eine Abhängigkeitsrelation über die Bereitstellung einer Funktionalität von einem Element für ein anderes Element}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Realizationen in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Realization.png"" alt=""""><br />
+<img src=""2025-Bild-Kalla-Realization_Beispiel.png"" alt="""">"
+{{c1::Realization}} ist {{c2::eine strukturelle Relation über die kritische Rolle von einem Element für die Schaffung, Bereitstellung oder Durchführung einer Entität}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Assignments in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Assignment.png"" alt=""""><br />
+<img src=""2025-Bild-Kalla-Assignment_Beispiel.png"" alt="""">"
+{{c1::Assignment}} ist {{c2::eine strukturelle Relation von einer aktiven Struktur zu Verhaltenskonzepten}}.	
+{{c1::Eine dynamische Relation}} ist {{c2::eine Relation, um ein Verhalten zwischen Elementen zu modellieren}}.	
+{{c1::Eine Abhängigkeitsbeziehung (Abhängigkeitsrelation, Dependency Relation)}} ist {{c2::eine Relation, um eine Abhängigkeit zu modellieren}}.	
+{{c1::Eine strukturelle Relation}} ist {{c2::eine Relation, um eine statische Konstruktion oder Komposition von gleichen oder ähnlichen Konzepten zu modellieren}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Locations in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Location.png"" alt="""">"
+{{c1::Eine Location}} ist {{c2::eine aktive Struktur der Geschäftsebene als festgelegter Punkt in einem Raum}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Business Objects in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Business_Object.png"" alt="""">"
+{{c1::Ein Business Object}} ist {{c2::eine passive Struktur der Geschäftsebene, welche durch Verhalten beeinflusst wird}}.	
+{{c1::Ein Verhaltenskonzept der Geschäftsebene}} ist {{c2::die Konzeption alle Tätigkeiten von Elementen in einer Struktur}}.	
+{{c1::Eine passive Struktur der Geschäftsebene}} ist {{c2::ein Element der Geschäftsebene, an welchem Verhalten durchgeführt wird}}.	
+{{c1::Eine aktive Struktur der Geschäftsebene}} ist {{c2::ein Element in der Geschäftsebene, welche als Subjekt Verhalten durchführt}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Business Events in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Business_Event.png"" alt="""">"
+{{c1::Ein Business Event}} ist {{c2::ein Verhaltenskonzept der Geschäftsebene als eine Zustandsveränderung in einer Organisation}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Business Services in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Business_Service.png"" alt="""">"
+{{c1::Ein Business Service}} ist {{c2::ein Verhaltenskonzept der Geschäftsebene als Service, welcher die Anforderungen eines externen Kunden oder internen Kunden erfüllt}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Business Collaborations in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Business_Collaboration.png"" alt="""">"
+"wahr oder falsch:<br />
+Eine Business Collaboration ist eine permanente Instanz in einer Organisation."	"falsch:<br />
+Es ist keine permanente Instanz."
+"wahr oder falsch:<br />
+Eine Business Collaboration ist keine permanente Instanz in einer Organisation."	wahr
+{{c1::Eine Business Collaboration}} ist {{c2::eine aktive Struktur der Geschäftsebene als Aggregation von zwei oder mehreren Business Roles zur Durchführung eines gemeinsamen Verhaltens}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Business Interactions in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Business_Interaction.png"" alt="""">"
+{{c1::Eine Business Interaction}} ist {{c2::ein Verhaltenskonzept der Geschäftsebene von einer Business Collaboration}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Business Interfaces in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Business_Interface.png"" alt="""">"
+{{c1::Ein Business Interface}} ist {{c2::eine aktive Struktur der Geschäftsebene als Interface für einen Business Service, welcher der Umwelt zugänglich gemacht wird}}. {{c1::Ein Business Interface}} benötigt immer ein dazugehörigen {{c3::Business Service}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Business Roles in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Business_Role.png"" alt="""">"
+"Beispiel:<br />
+Business Role"	"<ul>
+<li>Käufer</li>
+<li>Verkäufer</li>
+</ul>"
+{{c1::Eine Business Role}} ist {{c2::eine aktive Struktur der Geschäftsebene als Rolle, welche durch ein bestimmtes Verhalten definiert wird}}. {{c1::Einer Business Role}} können eine Menge an {{c3::Business Actors}} zugeordnet werden.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Business Actors in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Business_Actor.png"" alt="""">"
+"Beispiel:<br />
+Business Actor"	"<ul>
+<li>Abteilung</li>
+<li>Person</li>
+</ul>"
+{{c1::Ein Business Actor}} ist {{c2::eine aktive Struktur der Geschäftsebene als Teileinheit, welche ein Verhalten durchführen kann}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Business Functions in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Business_Function.png"" alt="""">"
+"Frage:<br />
+Was ist der Zweck der ArchiMate Implementation &amp; Migration Layers?"	Er dient der Unterstützung der TOGAF-Phasen E-G, indem er Programme, Projekte, Work Packages, Plateaus und Gaps modelliert, um Architekturveränderungen strukturiert umzusetzen.
+{{c1::Die Implementations- und Migrationsebene (Implementation &amp; Migration Layer)}} ist {{c2::eine Ebene über die Implementation von Technologie und Migration von Technologie}}.	
+"Frage:<br />
+In welchem Kontext ist der Einsatz der Physical Layer in ArchiMate sinnvoll?"	hilfreich, wenn reale Infrastruktur (z. B. Lagerhallen, Geräte) eine kritische Rolle spielt (z. B. etwa bei Logistikunternehmen)
+{{c1::Die physische Ebene (Physical Layer)}} ist {{c2::eine Ebene über physischen Objekte innerhalb einer Organisation}}. {{c1::Die physische Ebene}} erweitert {{c3::die Technologieebene}}.	
+"Die Technologieebene (Technology Layer) ist eine Ebene über die Information Infrastructure.<br />
+{{c1::{{c2::<img src=""2025-Bild-Kalla-Geschaeftsebene_Applikationsebene_Technologieebene.png"" alt=""""><br />
+Geschäftsebene, Applikationsebene und Technologieebene}}}}"	
+"{{c1::Die Applikationsebene (Application Layer)}} ist {{c2::eine Ebene über Anwendungssysteme, die von Geschäftsprozessen und Geschäftsfunktionen genutzt werden}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Kalla-Geschaeftsebene_Applikationsebene_Technologieebene.png"" alt=""""><br />
+Geschäftsebene, Applikationsebene und Technologieebene}}}}"	
+"{{c1::Die Geschäftsebene (Business Layer}}) ist {{c2::eine Ebene über Geschäftsfunktionen und Geschäftsprozesse}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Kalla-Geschaeftsebene_Applikationsebene_Technologieebene.png"" alt=""""><br />
+Geschäftsebene, Applikationsebene und Technologieebene}}}}"	
+"Frage:<br />
+In welchem Kontext ist der Einsatz der Strategy Layer in ArchiMate sinnvoll?"	sinnvoll zur Abbildung von Fähigkeiten, Werten, Stakeholdern und strategischen Zielen
+"Frage:<br />
+Was sind typische Elemente des Strategy Layers in ArchiMate?"	"<ul>
+<li>Capability: Fähigkeit, eine bestimmte Wirkung zu erzielen</li>
+<li>Course of Action: Geplante Handlung, um Ziele zu erreichen</li>
+<li>Resource: Input-Faktoren (z. B. Personal, Budget, Patente)</li>
+<li>Outcome: Intendiertes Ergebnis</li>
+<li>Value Stream: Sequenzielle Stufen der Wertschöpfung</li>
+</ul>"
+{{c1::Die Strategy Layer (Strategieebene)}} ist {{c2::eine Ebene über die strategische Organisation und strategische Ausrichtung einer Organisation}}.	
+"Frage:<br />
+Was ist das Architecture Content Framework in TOGAF und aus welchen Elementen besteht es?"	"<p>Es beschreibt die Bestandteile einer Architektur in TOGAF und differenziert in:</p>
+<ul>
+<li>Artefakte (beschreibende Modelle, z. B. Prozessdiagramme)</li>
+<li>Deliverables (formale Arbeitsergebnisse, z. B. Architekturdefinition)</li>
+<li>Building Blocks (modulare Bausteine der Architektur)</li>
+</ul>"
+{{c1::Das Architecture Content Framework}} ist {{c2::ein Bestandteil von TOGAF für die Beschreibung von Elementen in TOGAF}}.	
+"<p>Das Architecture Content Framework besteht aus:</p>
+<ul>
+<li>{{c1::Artefakte}}</li>
+<li>{{c1::Building Blocks}}</li>
+<li>{{c1::Deliverables}}</li>
+</ul>"	
+"<p>Nachteile des Zachman-Framework sind:</p>
+<ul>
+<li>{{c1::Framework bietet nur eine Struktur und keine Methodik}}</li>
+<li>{{c1::hohe Nummern an Zellen erschwert die kontinuierliche Nutzung}}</li>
+<li>{{c1::Implementation ist sehr umfangreich}}</li>
+<li>{{c1::Zellen besitzen keine festgelegte Modellierungsart}}</li>
+</ul>"	
+"<p>Kategorien von Enterprise Architecture Frameworks sind:</p>
+<ul>
+<li>{{c1::Government Frameworks}} (z. B. {{c1::NIST Architecture Framework, TEAF}})</li>
+<li>{{c2::Management Frameworks}} (z. B. {{c2::TOGAF, Zachman-Framework}})</li>
+<li>{{c3::Manufacturing Frameworks}} (z. B. {{c3::GIM, PERA}})</li>
+<li>{{c4::Military Frameworks}} (z. B. {{c4::DoDAF, TAFIM}})</li>
+</ul>"	
+"Frage:<br />
+Mit welchem Modellierungselement wird System Software in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-System_Software.png"" alt="""">"
+{{c1::Ein System Software}} ist {{c2::eine aktive Struktur der Technologieebene als Software zur Integrierung, Inbetriebnahme und Kontrolle von Hardware}} für {{c3::die Speicherung, Ausführung und Nutzung von Software}}.	
+"<p>Vorteile von Enterprise Architecture Management sind:</p>
+<ul>
+<li>{{c1::Ermöglichung der Transformation der Organisation}}</li>
+<li>{{c1::Vorteile für die Kommunikation}}</li>
+<li>{{c1::Vorteile für ökonomische Faktoren}}</li>
+<li>{{c1::Vorteile für strategische Entscheidungen}}</li>
+<li>{{c1::Vorteile im Bezug zur Flexibilität}}</li>
+</ul>"	
+"Frage:<br />
+Was ist der Vertical Scope in der Architekturarbeit?"	Der Vertical Scope bestimmt den Detailgrad der Analyse über alle Architekturebenen oder Funktionsebenen hinweg.
+{{c1::Der Vertical Scope}} ist {{c2::der Enterprise Architecture Scope im Bezug zum Detailgrad}}.	
+"Frage:<br />
+Was beschreibt der Architecture Layer Scope?"	Er definiert, welche Architekturebenen (z. B. Business, Application, Technology) im jeweiligen EAM-Vorhaben betrachtet werden. Der Scope ist vom Ziel abhängig und nicht zwingend umfassend.
+{{c1::Der Architecture Layer Scope}} ist {{c2::der Enterprise Architecture Scope in Bezug zu den Architekturschichten}}. In {{c1::der Architecture Layer}} muss {{c3::der Scope sich nicht auf alle Schichten ausweiten}}, da {{c4::dies abhängig vom Ziel erfolgen sollte}}.	
+"Beispiel:<br />
+Enterprise Scope"	"<ul>
+<li>funktionelle Organisation</li>
+<li>geografische Verteilung</li>
+<li>Geschäftsfeldorganisation</li>
+</ul>"
+"Frage:<br />
+Was ist der Enterprise Scope in der Architekturarbeit?"	Der Enterprise Scope betrachtet die Ausdehnung über Organisationseinheiten (z. B. geografisch, funktional oder geschäftsfeldbasiert).
+{{c1::Der Enterprise Scope}} ist {{c2::die Betrachtung des Enterprise Architecture Scopes aus Perspektive der Organisation}}.	
+"wahr oder falsch:<br />
+Die Existenz einer Enterprise Architecture reduziert automatisch die Komplexität der Unternehmenslandschaft."	"falsch:<br />
+Enterprise Architecture macht Komplexität sichtbar und handhabbar, reduziert sie aber nicht automatisch. Enterprise Architecture kann sogar zusätzliche Komplexität erzeugen (z. B. durch die Dokumentation oder Governance)."
+"wahr oder falsch:<br />
+Eine Enterprise Architecture decke alle Aspekte eines Enterprises ab."	"falsch:<br />
+Dies ist ein Mythos, da die Enterprise Architecture sich immer nur auf eine bestimmte Perspektive des Enterprises bezieht."
+"wahr oder falsch:<br />
+Eine Enterprise Architecture erzeugt Wert."	"falsch:<br />
+Dies ist ein Mythos, da die Enterprise Architecture selber nicht Wert erzeugt, sondern ein Enabler für die Werteerzeugung ist."
+"wahr oder falsch:<br />
+Eine Enterprise Architecture ist stabil."	"falsch:<br />
+Dies ist ein Mythos, da eine Enterprise Architecture sich ständig verändert und entwickelt."
+"wahr oder falsch:<br />
+Eine Enterprise Architecture muss nur einmalig erstellt werden."	"falsch:<br />
+Dies ist ein Mythos, da eine Enterprise Architecture kontinuierlich gepflegt werden muss."
+"wahr oder falsch:<br />
+Eine Enterprise Architecture reduziert Komplexität."	"falsch:<br />
+Dies ist ein Mythos, da die Enterprise Architecture selber nicht Komplexität reduziert, sondern ein Werkzeug ist, um mit Komplexität umzugehen."
+"wahr oder falsch:<br />
+Enterprise Architecture reduziert nicht Komplexität, sondern macht sie nur sichtbar."	"wahr:<br />
+EAM visualisiert, strukturiert und analysiert Komplexität, eliminiert sie aber nicht direkt. Jedoch kann EAM indirekt zur Komplexitätsreduktion beitragen. Die eigentliche Reduktion erfolgt durch daraus abgeleitete Managemententscheidungen, nicht durch die Architekturmodelle selbst."
+"wahr oder falsch:<br />
+Eine Enterprise Architecture schafft  Wert für ein Unternehmen."	"falsch:<br />
+Enterprise Architecture ist ein Mittel zur Wertgenerierung. Enterprise Architecture schafft keinen Wert, sondern unterstützt bessere Entscheidungen und koordinierte Veränderung."
+"{{c1::Das Layer Concept}} ist {{c2::ein Konzept, in welchem die Komponenten einer Organisation in mehrere Schichten unterteilt werden können}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Kalla-Exemplarische_Schichtendarstellung.png"" alt=""""><br />
+Exemplarische Schichtendarstellung}}}}"	
+"{{c1::Sales &amp; Operations Planning (S&amp;OP)}} ist {{c2::ein funktionsübergreifender taktischer Planungsprozess, der verschiedene Geschäftspläne zu einem integrierten Satz von Plänen vereint}}. Ziel {{c1::des Sales &amp; Operations Planning}} ist {{c3::die Schaffung einer Balance zwischen Angebot und Nachfrage}} durch {{c4::die Koordination von Bedarfsprognosen mit den operativen Bereichen und der Lieferkette}}.<br />
+Das Ergebnis {{c1::des Sales &amp; Operations Planning}} ist {{c5::ein aggregierter abgestimmter Plan über die Funktionsbereiche hinweg}}.<br />
+{{c1::{{c2::{{c3::{{c4::{{c5::<img src=""2023-Bild-Hellingrath-Sales_&_Operations_Planning.png"" alt=""""><br />
+Sales &amp; Operations Planning}}}}}}}}}}"	
+"<p>{{c1::Sales &amp; Operations Planning}} besteht aus mehreren Schritten:</p>
+<ol>
+<li>{{c2::Datensammlung}}: {{c2::Sammlung der für die Planung benötigten Daten}}</li>
+<li>{{c2::Bedarfsplanung}}: {{c2::Erstellung einer Nachfrageprognose für den taktischen Zeithorizont}}</li>
+<li>{{c2::Beschaffungsplanung und Produktionsplanung}}: {{c2::Anpassung der Bedarfs- und Produktionspläne}}</li>
+<li>{{c3::Vorabstimmung}}: {{c3::Herstellung von Balance zwischen Angebot und Nachfrage}}</li>
+<li>{{c3::Beschlussmeeting}}: {{c3::Überprüfung, Annahme und/oder Änderung der in der Vorabstimmung getroffenen Entscheidungen}}<br />
+{{c1::{{c2::{{c3::<img src=""2023-Bild-Hellingrath-Sales_&_Operations_Planning.png"" alt=""""><br />
+Sales &amp; Operations Planning}}}}}}</li>
+</ol>"	
+"Frage:<br />
+Mit welchem Modellierungselement werden Compositions in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Komposition.png"" alt=""""><br />
+<img src=""2025-Bild-Kalla-Beispiel_einer_Composition_in_ArchiMate.png"" alt="""">"
+{{c1::Eine Komposition (Composition)}} ist {{c2::eine strukturelle Relation, welche eine Abhängigkeit zwischen einem Eltern-Element und einem Kind-Element darstellt}}. Sollte {{c3::das Eltern-Element}} in {{c1::einer Komposition}} gelöscht werden, wird auch {{c3::das Kind-Element}} gelöscht.	
+"Beispiel:<br />
+Repräsentation"	"<ul>
+<li>HTML</li>
+<li>PDF</li>
+</ul>"
+"Frage:<br />
+Mit welchem Modellierungselement werden Representations in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Repraesentation.png"" alt="""">"
+{{c1::Eine Repräsentation (Representation)}} ist {{c2::eine passive Struktur der Geschäftsebene als die Darstellung von Informationen in einem Business Object}}. {{c1::Eine Repräsentation}} wird immer {{c3::einem Business Object}} zugeordnet.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Value Streams in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Value_Stream.png"" alt="""">"
+"Frage:<br />
+Was beschreibt ein Value Stream in ArchiMate?"	Ein Value Stream ist eine wertorientierte Sicht auf Aktivitäten, die zu einem gewünschten Ergebnis führen. Ein Value Stream ist sequenziell angeordnet und auf einen Nutzen ausgerichtet.
+{{c1::Ein Wertestrom (Value Stream)}} ist {{c2::eine Sequenz von Aktivitäten, die ein Resultat für Dritte erzeugen}}.	
+"Frage:<br />
+Was ist das Hauptziel einer Enterprise Architecture?"	Die Unterstützung von rationaler Entscheidungsfindung durch die Analyse von Enterprise Architecture-Modellen zur Gewinnung entscheidungsrelevanter Informationen.
+"Frage:<br />
+Was ist eine Enterprise Architecture laut ISO/IEC/IEEE 2011?"	Die grundlegende Organisation eines Systems, verkörpert in seinen Komponenten, deren Beziehungen zueinander und zur Umgebung sowie den Prinzipien, die Design und Weiterentwicklung steuern.
+"wahr oder falsch:<br />
+Enterprise Architecture ist ein reines IT-Konzept zur Verwaltung von Systemlandschaften."	"falsch:<br />
+EA ist interdisziplinär und umfasst Businesses, Prozesse, Organisationen, Informationen, Anwendungen und Technologien."
+{{c1::Eine Unternehmensarchitektur (Enterprise Architecture)}} ist {{c2::die fundamentale Organisation von einem System in seine Komponenten und Beziehung zueinander, zur Umwelt sowie zu seinen Architekturprinzipien}}.	
+{{c1::Die Enterprise Architecture}} wird durch {{c2::die Menge and Hardware, Software und Kommunikationsinfrastruktur, sowie Organisationsstrukturen und Geschäftsprozesse}} eines Unternehmens definiert.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Business Processes in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Business_Process.png"" alt="""">"
+{{c1::Ein Geschäftsprozess (Business Process)}} ist {{c2::ein Verhaltenskonzept der Geschäftsebene von einem Prozess von Aktivitäten in einer Organisation, die anhand von einem Produkt oder Service definiert werden}}.	
+"Frage:<br />
+Mit welchem Modellierungselement wird Material in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Material.png"" alt="""">"
+{{c1::Material}} ist {{c2::ein physikalisches Objekt oder ein physikalisches Element}}.	
+{{c1::Eine Beziehung (Relationship)}} ist {{c2::die Verbindung von Elementen, Objekten, Komponenten oder Ebenen}}.	
+"Frage:<br />
+Was sind typische Fragen der Kostenanalyse?"	"<ul>
+<li>Welche Kosten sind mit der Nutzung der Anwendung X auf allen Ebenen eines Unternehmens verbunden?</li>
+</ul>"
+{{c1::Eine Kostenanalyse}} ist {{c2::eine qualitative Analyse über die Kosten durch Artefakte}}.	
+"Beispiel:<br />
+Aggregation"	"<ul>
+<li>Betrachtung von Kundengruppen anstatt der Betrachtung individueller Kunden</li>
+<li>Häufigkeitsverteilung</li>
+</ul>"
+"Frage:<br />
+Mit welchem Modellierungselement werden Aggregationen in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Aggregation.png"" alt=""""><br />
+<img src=""2025-Bild-Kalla-Aggregation_Beispiel.png"" alt="""">"
+{{c1::Die Aggregation}} ist {{c2::die Komplexitätsreduktion durch die Zusammenfassung von Objekten und Objektbeziehungen}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Spezialisierungen in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Spezialisierung.png"" alt=""""><br />
+<img src=""2025-Bild-Kalla-Spezialisierung_Beispiel.png"" alt="""">"
+{{c1::Eine Spezialisierung}} ist {{c2::eine dynamische Relation zur Modellierung einer Spezifizierung von einem Element}}.	
+{{c1::Ein Service (Dienst)}} ist {{c2::ist eine Menge an Funktionen und das daraus resultierende Verhalten, welche ein Objekt seiner Umwelt zu Verfügung stellt und dadurch Wert erzeugt}}. {{c1::Ein Service}} wird genutzt, um {{c3::Zustandsänderungen}} zu realisieren.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Capabilities in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Capability.png"" alt="""">"
+{{c1::Eine Fähigkeit (Capability)}} ist {{c2::Verhaltenskonzept als Fähigkeit einer aktiven Struktur}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Ressourcen in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Resource.png"" alt="""">"
+{{c1::Eine Ressource}} ist {{c2::eine aktive Struktur, welches von einem Individuum oder einer Organisation besessen wird}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Principles in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Principle.png"" alt="""">"
+{{c1::Ein Prinzip}} ist {{c2::eine Richtlinie, die etwas beschränkt}}.	
+{{c1::Eine Risikoanalyse}} ist {{c2::eine qualitative Analyse zur Integrierung des Enterprise Risk and Security Management}}.	
+"<p>{{c1::Eine Risikoanalyse}} besteht aus mehreren Schritten:</p>
+<ol>
+<li>{{c2::Definition und Eingrenzung der Analysedomäne}}</li>
+<li>{{c3::Beschreibung der Risiken in der Analysedomäne durch Szenarien und Simulationen}}</li>
+<li>{{c4::Bewertung dieser Risiken nach Schadenshöhe und Eintrittswahrscheinlichkeit}}</li>
+<li>{{c5::Interpretation der Ergebnisse}}</li>
+</ol>"	
+"Frage:<br />
+Mit welchem Modellierungselement werden Goals in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Goal.png"" alt="""">"
+"{{c1::Ein Ziel (Zielsetzung)}} ist {{c2::ein erstrebenswerter und definierter Zustand, welcher durch eine Strategie umgesetzt wird}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Ziele_Strategien_Massnahmen.png"" alt=""""><br />
+Ziele, Strategien und Maßnahmen im Zusammenhang}}}}"	
+"<p>{{c1::Ein Ziel}} besteht aus:</p>
+<ol>
+<li>{{c2::Zielinhalt: Konkretisierung des Zieles}}</li>
+<li>{{c3::Zielausmaß: Minimierung, Maximierung, Fixierung und/oder Anspruchserfüllung eines Faktors}}</li>
+<li>{{c4::zeitlicher Bezug}}</li>
+<li>{{c5::sachlicher Geltungsbereich}}</li>
+</ol>"	
+"Frage:<br />
+Mit welchem Modellierungselement werden Requirements in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Requirement.png"" alt="""">"
+{{c1::Eine Anforderung}} ist {{c2::eine Aussage über ein Bedürfnis, eine Eigenschaft, eine Fähigkeit, eine Leistung oder eine Qualität, die von einem System erbracht werden muss, damit das System für einen Benutzer einen Nutzen und Wert besitzt}}.	
+"<p>{{c1::Anforderungen}} können unterteilt werden in:</p>
+<ul>
+<li>{{c2::funktionale Anforderungen}}</li>
+<li>{{c2::nicht-funktionale Anforderungen}}</li>
+</ul>"	
+"Frage:<br />
+Welche Querschnittsphase begleitet alle Architecture Development Method-Phasen kontinuierlich?"	Requirements Management: Die Phase stellt sicher, dass alle Anforderungen aus Stakeholdersicht konsistent über alle Phasen hinweg verfolgt, bewertet und bei Bedarf angepasst werden.
+"Frage:<br />
+Welche Rolle spielt Requirements Management als Querschnittsprozess in der Architecture Development Method, und warum ist dieser für Konsistenz im EAM essenziell?"	Requirements Management sorgt dafür, dass Stakeholderanforderungen über alle Phasen hinweg konsistent erfasst, verwaltet und verifiziert werden. Es verknüpft Ziele, Architekturprinzipien, Entwurfsentscheidungen und Implementierungen und sichert so die Kohärenz der Architekturentwicklung über den gesamten Lebenszyklus hinweg.
+{{c1::Anforderungsmanagement (Requirements Management)}} ist {{c2::die systematische Vorgehensweise, um alle relevanten Anforderungen zu definieren, spezifizieren, verifizieren, analysieren, zu vereinbaren, einem Projekt zuzuweisen und im Projekt zu verfolgen}}.	
+{{c1::Das Anforderungsmanagement}} ist {{c2::eine kontinuierliche Phase des Architekturentwicklungszyklus}} zur {{c3::Sicherstellung, dass der Anforderungsmanagementprozess für alle Phasen der Architecture Development Method aufrechterhalten wird und funktioniert}}.	
+"Frage:<br />
+Was umfasst die Phase H: Architecture Change Management?"	Diese Phase sorgt für die Weiterentwicklung und Anpassung der Architektur im Betrieb. Sie erkennt Änderungsbedarfe, bewertet deren Relevanz und stößt, falls notwendig, einen neuen ADM-Zyklus an. Ziel ist ein lebendiger Architekturlebenszyklus.
+"Frage:<br />
+Welche Aufgaben erfüllt das Architecture Change Management in der ADM?"	Diese Phase stellt sicher, dass Änderungen im Unternehmen auf Auswirkungen auf die Architektur geprüft werden. Sie entscheidet, ob ein neuer ADM-Zyklus notwendig ist und etabliert einen geregelten Umgang mit Architekturänderungen im Betrieb.
+{{c1::Das Architekturänderungsmanagement (Architecture Change Management)}} ist {{c2::die achte Phase eines Architekturentwicklungszyklus}} zur {{c3::Sicherstellung der Einhaltung des Architekturlebenszyklus}}.	
+Durch {{c1::das Architekturänderungsmanagement}} wird bestimmt, ob {{c2::ein neuer Architekturentwicklungszyklus eingeleitet wird}}.	
+"Frage:<br />
+Was ist die Aufgabe der Phase G: Implementation Governance?"	Diese Phase begleitet die Implementierung der Architektur. Sie sichert Qualität, Konformität zu Architekturvorgaben und erlaubt Korrekturmaßnahmen bei Abweichungen.
+{{c1::Die Governance der Umsetzung (Implementation Governance)}} ist {{c2::die siebte Phase eines Architekturentwicklungszyklus}} zur {{c3::Sicherstellung eines reibungslosen Übergangs von der Implementierung in die Steuerung}}.	
+"Frage:<br />
+Was ist das Ziel der Phase F: Migration Planning?"	Basierend auf der Architektur-Roadmap wird ein konkreter Migrationsplan entwickelt. Dabei werden Projekte, Abhängigkeiten, Ressourcen, Zeitpläne und Verantwortlichkeiten definiert und priorisiert.
+{{c1::Die Migrationsplanung (Migration Planning) in der Architektur}} ist {{c2::die sechste Phase eines Architekturentwicklungszyklus}} zur {{c3::Fertigstellung der Architektur-Roadmap und des Implementierungs- und Migrationsplans}}.	
+{{c1::Die Migrationsplanung}} soll sicherstellen, dass {{c2::der Implementierungs- und Migrationsplan mit den Stakeholdern koordiniert ist und der Mehrwert und die Kosten von diesen verstanden werden}}.	
+"Frage:<br />
+Was passiert in Phase E: Opportunities &amp; Solutions?"	Diese Phase identifiziert Umsetzungsoptionen, konsolidiert Architekturbausteine aus den vorherigen Phasen und entwickelt eine Architektur-Roadmap sowie Transition Architectures.
+{{c1::Die Umsetzungsoptionen (Opportunities and Solutions)}} ist {{c2::die fünfte Phase eines Architekturentwicklungszyklus}} zur {{c3::Erstellung einer vollständigen Version der Architektur-Roadmap, basierend auf den Komponenten der Geschäftsarchitektur, Datenarchitektur, Anwendungsarchitektur und Technologiearchitektur}}.	
+"Frage:<br />
+Was ist der Zweck der Phase D: Technology Architecture?"	Die technische Infrastrukturarchitektur wird modelliert. Dazu gehören Hardware, Netzwerke, Plattformen, technische Services und Sicherheitskomponenten, welche die übergeordneten Architekturen technisch realisieren.
+{{c1::Die Technologiearchitektur (Technology Architecture)}} ist {{c2::die vierte Phase eines Architekturentwicklungszyklus}} zur {{c3::Entwicklung einer Technologiearchitektur, welche die Architekturvision, Geschäftsarchitektur, Datenarchitektur und Anwendungsarchitektur durch Technologie realisiert}}.	
+"Frage:<br />
+Was ist die Aufgabe der Phase C: Information Systems Architecture?"	Ziel ist die Beschreibung des Zielbilds für das Informationssystem.
+{{c1::Die Informationssystemarchitektur (Information Systems Architecture)}} ist {{c2::die dritte Phase eines Architekturentwicklungszyklus}} zur {{c3::Entwicklung einer Datenarchitektur, Anwendungsarchitektur und Durchführung einer Lückenanalyse zur Identifikation von Komponenten für die Architektur-Roadmap}}.	
+{{c1::Die Entwicklungsreihenfolge der Datenarchitektur und Anwendungsarchitektur}} ist {{c2::von dem Fokus des Zielsystems}} abhängig.	
+"Frage:<br />
+Was ist der Zweck der Phase B: Business Architecture?"	Diese Phase analysiert die bestehende Geschäftsarchitektur (Ist-Zustand) und entwickelt eine fachlich getriebene Soll-Architektur. Sie legt die Grundlage für die Alignment-Analyse mit Anwendungs- und Technologiearchitektur.
+{{c1::Die Geschäftsarchitektur (Business Architecture)}} ist {{c2::die zweite Phase eines Architekturentwicklungszyklus}} zur {{c3::Erarbeitung einer detaillierten Beschreibung und Unterstützung einer vereinbarten Architekturvision}}.	
+Wichtige Ziele {{c1::der Geschäftsarchitektur}} sind {{c2::die Beschreibung der Ist-Architektur}}, {{c2::Entwicklung einer Soll-Architektur}} und {{c2::Auswahl relevanter Werkzeuge und Techniken zur Entwicklung dieser}}.	
+"Frage:<br />
+Was beantwortet die Architekturvision an typischen Fragen?"	"<ul>
+<li>Welche Kunden und Regionen wird das neue Produkt ansprechen?</li>
+<li>Wie sollte das Unternehmen die bestehenden Vertriebsprozesse und Anwendungssysteme ändern, um das neue Produkt auf den Markt zu bringen?</li>
+<li>Wird das Unternehmen sein Umsatzmodell beibehalten und auf den bestehenden Vertriebskanälen aufbauen?</li>
+</ul>"
+"Frage:<br />
+Was ist das Ziel der Phase A: Architecture Vision?"	In dieser Phase wird die übergreifende Architekturvision erstellt, basierend auf Business-Zielen, Stakeholder-Anforderungen und bestehenden Rahmenbedingungen. Sie liefert einen ersten Überblick über die Architekturziele und skizziert einen groben Zielzustand.
+{{c1::Die Architekturvision (Architecture Vision)}} ist {{c2::die erste Phase eines Architekturentwicklungszyklus}} zur {{c3::Identifikation der Entwicklungsaspekte der Architektur, basierend auf den Bedürfnissen der Stakeholder, Anforderung an die Architektur und dem Architekturprinzip}}.	
+"Frage:<br />
+Was ist das Ziel der Preliminary Phase in TOGAF?"	Die Preliminary Phase dient der Vorbereitung des Architekturentwicklungszyklus. Sie umfasst die Definition des Frameworks, das Aufsetzen der Governance-Struktur, die Etablierung des Architekturteams sowie die Klärung des Scopes und der Prinzipien.
+"Frage:<br />
+Was ist die Aufgabe der Preliminary Phase in der ADM?"	"<p>Diese Vorbereitungsphase dient dem Aufbau der Architekturfähigkeit:</p>
+<ul>
+<li>Aufbau des Architektur-Teams</li>
+<li>Auswahl des anzuwendenden Frameworks</li>
+<li>Definition von Governance-Strukturen, Rollen und Prinzipien</li>
+<li>Festlegung von Tools, Repository-Strukturen und Scope</li>
+</ul>"
+{{c1::Die Preliminary Phase (Vorbereitungsphase)}} ist {{c2::die Vorbereitungsphase des Architekturentwicklungszyklus zur Vorbereitung des Enterprise Architecture Framework zur Etablierung der Architekturfähigkeiten}}.	
+"Frage:<br />
+Warum ist die Architecture Development Method iterativ und zyklisch aufgebaut?"	Weil Architekturentwicklung kein linearer Prozess ist. Anforderungen, Rahmenbedingungen und Technologien ändern sich ständig, sodass sich die Architektur ebenfalls anpassen muss.
+"Frage:<br />
+Was ist die Architecture Development Method in TOGAF und welches Ziel verfolgt sie?"	Die Architecture Development Method ist ein iteratives Vorgehensmodell zur Entwicklung, Steuerung und Umsetzung von Unternehmensarchitekturen. Sie strukturiert den Lebenszyklus der Architektur in klar definierte Phasen und stellt sicher, dass strategische Ziele in Geschäftsarchitekturen überführt werden.
+"Frage:<br />
+Welche Phasen im TOGAF ADM ist in zwei Subphasen unterteilt?"	"Die Phase 4: Information Systems Architecture besteht aus den Subphasen ""Data Architecture"" und ""Application Architecture""."
+"Frage:<br />
+Welche Schwächen besitzt die Architecture Development Method von TOGAF in dynamischen, agilen Organisationen, und wie lassen sich diese durch hybride Ansätze kompensieren?"	ADM ist sequentiell, phasenorientiert und kann in agilen Umfeldern zu starr wirken. Hybride Ansätze kombinieren agile Delivery mit langfristiger Architekturführung und inkrementeller Modellpflege.
+{{c1::Die Architecture Development Method (ADM, Architekturentwicklungszyklus)}} ist {{c2::die Arbeitsweise, die einzelnen Prozesse und Prozessschritte der Transformation einer Architektur und Architekturbeschreibung in TOGAF}}.	
+{{c1::Die Architecture Development Method}} ist {{c2::ein iterativer Prozess}} mit insgesamt {{c2::9}} Phasen, welcher den Entwicklungsprozess der Architektur leitet.	
+"<p>Die Architecture Development Method besteht aus:</p>
+<ol>
+<li>{{c1::Preliminary Phase}}</li>
+<li>Entwicklung von Architekturbeschreibungen<br />
+2.1. {{c2::Architekturvision}}<br />
+2.2. {{c2::Geschäftsarchitektur}}<br />
+2.3. {{c2::Informationssystemarchitektur}}<br />
+2.4. {{c2::Technologiearchitektur}}</li>
+<li>Transformationsplanung, Steuerung und Realisierung<br />
+3.1. {{c3::Umsetzungsoptionen}}<br />
+3.2. {{c3::Migrationsplanung}}<br />
+3.3. {{c3::Governance der Umsetzung}}<br />
+3.4. {{c3::Architekturänderungsmanagement}}</li>
+</ol>"	
+"Frage:<br />
+Was ist ein Architekturprinzip und woraus besteht es typischerweise?"	"<p>Ein Architekturprinzip ist eine normative Leitlinie zur Gestaltung von Architekturen.<br />
+Es besteht aus:</p>
+<ol>
+<li>Name</li>
+<li>Statement (Kernaussage)</li>
+<li>Rationale (Begründung)</li>
+<li>Implications (Konsequenzen/Zielzustand)</li>
+</ol>"
+"Frage:<br />
+Welche vier Bestandteile sollte ein Architekturprinzip enthalten?"	"<ol>
+<li>Name</li>
+<li>Statement (Kernaussage)</li>
+<li>Rationale (Begründung)</li>
+<li>Implications (Konsequenzen/Zielzustand)</li>
+</ol>"
+"Frage:<br />
+Wie kann die Durchsetzung von Architekturprinzipien in einem unternehmenskritischen Transformationsprojekt sichergestellt werden, ohne Innovation und Geschwindigkeit zu hemmen?"	Erforderlich sind eine priorisierte Prinzipien mit klarer Zielwirkung, eine aktive Rolle des Architecture Review Boards, frühzeitige Kommunikation im Projekt und definierte Eskalationspfade für begründete Abweichungen. Prinzipien dürfen nicht dogmatisch, sondern müssen zielgerichtet und risikobasiert eingesetzt werden.
+"wahr oder falsch:<br />
+Architekturprinzipien dürfen vage formuliert sein, um Interpretationsspielraum zu lassen."	"falsch:<br />
+Prinzipien sollten klar, prägnant und technologieunabhängig formuliert sein."
+{{c1::Ein Architekturprinzip}} ist {{c2:: eine Rahmenbedingungen, welche grundlegend für die Entwicklung von IT-Architekturen ist}}. Architekturprinzipien definieren und informieren darüber, wie eine Organisation diese nutzt, um ihre Ziele zu erreichen.	
+{{c1::Architekturprinzipien}} sollen {{c2::wesentliche Aspekte der IT-Architekturentwicklung als Regeln}} darstellen. Ein Prinzip ist dabei üblicherweise in einer Aussage, einer Begründung und der daraus resultierenden Implikation aufgebaut.	
+"<p>Ein Architekturprinzip besteht aus:</p>
+<ol>
+<li>{{c1::Name}}: {{c1::Einfacher und klarer Name, ohne eine spezifische Technologie zu nennen}}</li>
+<li>{{c2::Statement}}: {{c2::Essenz des Prinzip als aktive Aussage}}</li>
+<li>{{c3::Rationale}}: {{c3::Grund des Prinzips und seine Verbindung zu andere Prinzipien}}</li>
+<li>{{c4::Implications}}: {{c4::Auswirkungen und Zielzustand, welcher durch das Prinzip erreicht wird}}</li>
+</ol>"	
+"<p>Ein Architekturprinzip besitzt folgende Eigenschaften:</p>
+<ul>
+<li>{{c1::füllen die Lücke zwischen Design und Strategie}}</li>
+<li>{{c1::niedrig in der Anzahl}}</li>
+<li>{{c1::zukunftsorientiert}}</li>
+</ul>"	
+"Beispiel:<br />
+Baustein"	"<ul>
+<li>Business Service ""Option einkaufen""</li>
+</ul>"
+"{{c1::Ein Baustein (Building Block)}} ist {{c2::eine Komponente der Geschäfts-, IT- oder Architekturfunktion, mit der andere Bausteine kombiniert werden}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Wimmer-Beziehung_zwischen_verschiedenen_Komponenten.png"" alt=""""><br />
+Beziehung zwischen Deliverables, Artefakten und Bausteinen}}}}"	
+"Beispiel:<br />
+Artekfakt (Architektur)"	"<ul>
+<li>Process Flow Diagramm</li>
+</ul>"
+"{{c1::Ein Artefakt in der Architektur}} ist {{c2::ein architektonisches Arbeitsprodukt, welchen einen Aspekt der Architektur beschreibt}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Wimmer-Beziehung_zwischen_verschiedenen_Komponenten.png"" alt=""""><br />
+Beziehung zwischen Deliverables, Artefakten und Bausteinen}}}}"	
+"Beispiel:<br />
+Deliverable"	"<ul>
+<li>Architecture Definition Document</li>
+</ul>"
+"Frage:<br />
+Mit welchem Modellierungselement werden Deliverables in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Deliverable.png"" alt="""">"
+"{{c1::Ein Deliverable}} ist {{c2::der Output und das Arbeitsergebnis eines Projektes, das vertraglich spezifiziert ist und von Stakeholdern formell geprüft, vereinbart und abgezeichnet wird}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Wimmer-Beziehung_zwischen_verschiedenen_Komponenten.png"" alt=""""><br />
+Beziehung zwischen Deliverables, Artefakten und Bausteinen}}}}"	
+"Frage:<br />
+Was ist das Enterprise Continuum and Tools und wozu dient es in TOGAF?"	Es strukturiert Architekturressourcen von generisch zu spezifisch. Ziel ist die Wiederverwendung von Architekturbausteinen und die strukturierte Ablage im Architektur-Repository mithilfe von Tools.
+"{{c1::Das Enterprise Continuum and Tools (EContT)}} ist {{c2::die Nutzung und Spezialisierung von generischen Lösungen, um die Anforderungen einer individuellen Organisation zu unterstützen}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Kalla-Enterprise_Continuum_and_Tools.png"" alt=""""> Enterprise Continuum and Tools}}}}"	
+{{c1::Das Enterprise Continuum and Tools}} ermöglicht die Betrachtung verschiedene Dimensionen der Architektur. Dies beinhaltet die Festlegung von Kriterien, nach welcher {{c2::Software}} ausgewählt werden solle, sowie die Bereitstellung {{c2::des Architektur-Repositoriums}}.	
+"Frage:<br />
+Was ist das Architecture Capability Framework in TOGAF und welche Aufgaben erfüllt es?"	Das Architecture Capability Framework stellt Referenzmaterial bereit, um die organisatorischen Voraussetzungen für EAM zu gestalten. Darunter fallen Prozesse, Rollen, Verantwortlichkeiten, Governance-Strukturen und Skills. Es bildet die Grundlage zur Etablierung eines leistungsfähigen EAM-Funktionsbereichs.
+"Frage:<br />
+Was ist das Ziel des Architecture Capability Frameworks?"	Es unterstützt beim Aufbau der organisatorischen Strukturen, Rollen, Prozesse und Fähigkeiten, um EAM professionell zu betreiben.
+{{c1::Das Architecture Capability Framework (ACapF)}} ist {{c2::ein Bestandteil von TOGAF für Referenzmaterial zum Aufbau der Organisationsstruktur, Prozesse, Rollen, Verantwortlichkeiten und Funktionen}}.	
+"wahr oder falsch:<br />
+Der Einsatz von TOGAF ist ausschließlich auf privatwirtschaftliche Unternehmen begrenzt."	"falsch:<br />
+TOGAF wird auch in öffentlichen Institutionen eingesetzt (z. B. Krankenhäuser, Statistikämter)."
+"{{c1::TOGAF (The Open Group Architecture Framework)}} ist {{c2::ein Enterprise Architecture Framework zur Modellierung von Architekturen}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Wimmer-TOGAF_Modell.png"" alt=""""><br />
+Das Rahmenwerk von TOGAF}}}}"	
+"<p>TOGAF besitzt vier Kernfunktionen zur Steuerung der Architekturentwicklung:</p>
+<ul>
+<li>{{c1::Architecture Capability Framework}}</li>
+<li>{{c2::Architecture Development Method}}</li>
+<li>{{c3::Architecture Content Framework}}</li>
+<li>{{c4::Enterprise Continuum and Tools}}</li>
+</ul>"	
+"Frage:<br />
+Welche drei Ebenen besitzt ArchiMate zur Beschreibung der Unternehmensarchitektur?"	"<ol>
+<li>Business Layer: Geschäftsprozesse, Akteure und Services</li>
+<li>Application Layer: Softwarekomponenten, Daten und deren Verhalten</li>
+<li>Technology Layer: Hardware, Netzwerke und technische Services</li>
+</ol>"
+"{{c1::ArchiMate}} ist {{c2::eine offene und unabhängige Modellierungssprache für Enterprise Architecture}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Wimmer-ArchiMate_Kernkonzepte.png"" alt=""""><br />
+ArchiMate Kernkonzepte}}}}"	
+"<p>ArchiMate besteht aus drei Konzeptebenen:</p>
+<ul>
+<li>{{c1::aktive Strukturen}}</li>
+<li>{{c1::passive Strukturen}}</li>
+<li>{{c1::Verhaltenskonzepte}}</li>
+</ul>"	
+"Frage:<br />
+Was ist das Zachman-Framework?"	Das Zachman-Framework ist ein Enterprise Architecture Framework zur strukturierten Klassifikation von Architekturelementen. Es dient als Denkwerkzeug und Raster zur Beschreibung eines Unternehmens aus unterschiedlichen Perspektiven (Sichten) und Fragestellungen (Abstraktionen).
+"Frage:<br />
+Was ist das Ziel des Zachman-Frameworks?"	Ziel ist es, eine vollständige und konsistente Beschreibung eines Unternehmens zu ermöglichen, indem jede Zelle der Matrix adressiert wird. Dadurch wird Transparenz, Kommunikation und Verständnis über alle Stakeholder hinweg verbessert.
+"Frage:<br />
+Was sind die Schwächen des Zachman-Frameworks?"	"<ul>
+<li>kein Vorgehensmodell zur Umsetzung (nur Klassifikation, keine Methodik)</li>
+<li>stark auf Dokumentation ausgerichtet, weniger auf Transformation oder agile Anpassung</li>
+<li>umfangreich und pflegeintensiv, wobei die vollständige Nutzung in der Praxis selten ist</li>
+<li>Zellen sind nicht mit konkreten Modellierungsmethoden hinterlegt</li>
+</ul>"
+"Frage:<br />
+Was sind die Stärken des Zachman-Frameworks?"	"<ul>
+<li>hohe Vollständigkeit (36-Zellen-Matrix)</li>
+<li>klarer Fokus auf Kommunikation zwischen Stakeholdern</li>
+<li>lässt sich als Audit-Tool verwenden</li>
+<li>sehr umfassende und strukturierte Klassifikation</li>
+<li>technologieneutral, methodenunabhängig</li>
+</ul>"
+"Frage:  <br />
+Worin unterscheiden sich das Zachman Framework von TOGAF?"	"<ul>
+<li>TOGAF ist ein Framework mit einer prozessorientierten Methode, Rollen, Artefakten und Governance-Regeln. Es ist praxisnäher, aber weniger strikt strukturiert als Zachman.</li>
+<li>Zachman ist ein statisches Klassifikationsschema, das Architekturelemente entlang von Fragen und Sichten systematisiert. Es liefert jedoch keine Methode.</li>
+</ul>"
+"wahr oder falsch:<br />
+Das Zachman-Framework bietet keine Methodiken, Prozesse oder Werkzeuge zur Entwicklung von Modellen."	wahr
+"wahr oder falsch:<br />
+Das Zachman-Framework liefert ein vollständiges Framework zur Umsetzung von Architekturprojekten."	"falsch:<br />
+Das Zachman-Framework liefert nur eine Klassifikationsstruktur und keine Methodik, kein Vorgehen und keine Tools."
+{{c1::Das Zachman-Framework}} ist {{c2::ein Enterprise Architecture Framework zur Modellierung von soziotechnischen System aus verschiedenen Views durch Klassifizierungsmatrizen}}.	
+"<p>Das Zachman-Framework besteht aus:</p>
+<ul>
+<li>Reihen: Views<ol>
+<li>{{c1::Executive Perspective (Scope &amp; Contexts)}}</li>
+<li>{{c1::Business Management Perspective (Business &amp; Concepts)}}</li>
+<li>{{c1::Architecture Perspective (System &amp; Logic)}}</li>
+<li>{{c1::Engineer Perspective (Technology &amp; Physics)}}</li>
+<li>{{c1::Technician Perspective (Tool &amp; Components)}}</li>
+<li>{{c1::Business Perspective (Operations &amp; Instances)}}</li></ol></li>
+<li>Spalten: Klassifizierung<ol>
+<li>{{c2::What (Data)}}</li>
+<li>{{c2::How (Function)}}</li>
+<li>{{c2::Where (Network)}}</li>
+<li>{{c2::Who (People)}}</li>
+<li>{{c2::When (Time)}}</li>
+<li>{{c2::Why (Motivation)}}</li></ol></li>
+</ul>"	
+"Frage:<br />
+Welche vier Hauptfunktionen bieten Enterprise Architecture Frameworks typischerweise?"	"<ol>
+<li>Modellierung: Erstellung von Architekturmodellen</li>
+<li>Analyse (z. B. Impact- oder Gap-Analysen)</li>
+<li>Reporting &amp; Visualisierung</li>
+<li>Governance-Unterstützung (z. B. Review-Workflows, Richtlinienprüfung)</li>
+</ol>"
+"wahr oder falsch:<br />
+Ein Enterprise Architecture Framework enthält sowohl eine logische Struktur zur Informationsklassifikation als auch eine methodische Anleitung zur Umsetzung."	"falsch:<br />
+Die meisten Frameworks decken nur einen dieser beiden Zwecke ab. In der Praxis werden daher oft zwei Frameworks kombiniert (z. B. Zachman-Framework für Struktur, TOGAF für Methodik)."
+{{c1::Ein Enterprise Architecture Framework (Architekturrahmenwerk)}} ist {{c2::ein Werkzeug zur Entwicklung einer breiten Palette unterschiedlicher Architekturen}}.	
+"wahr oder falsch:<br />
+Enterprise Architecture Management ist eine Managementmethode, Philosophie und Funktion zur Planung, Umsetzung und Durchführung von organisatorischen Veränderungen."	wahr
+"wahr oder falsch:<br />
+Enterprise Architecture Management ist ein Tool, welches implementiert werden kann."	"falsch:<br />
+Es handelt sich nicht um ein Tool, sondern um eine Methode zur Planung, Umsetzung und Durchführung von Veränderungen."
+{{c1::Enterprise Architekturmanagement (EAM, Enterprise Architecture Management)}} ist {{c2::die kontinuierliche Praxis der Beschreibung der wesentlichen Elemente eines sozio-technisches Systems einer Unternehmensarchitektur, ihrer Beziehungen zueinander und zur Umwelt, um Komplexität zu verstehen und den Wandel einer Organisation zu managen}}.	
+"<p>Enterprise Architecture Management besteht aus:</p>
+<ul>
+<li>{{c1::CxO-Agenda}}: {{c1::Darstellung des Values gegenüber dem C-Level}}</li>
+<li>{{c2::Frameworks}}: {{c2::Methoden und Modelle zur Beschreibung der Enterprise Architecture}}</li>
+<li>{{c3::Governance}}: {{c3::Decision-Making-Richtlinien innerhalb der Organisation}}</li>
+<li>{{c4::Modelle}}: {{c4::Abstraktionen der realen Enterprise Architecture}}</li>
+<li>{{c5::Prozessintegrierung}}: {{c5::Planung, Umsetzung und Kontrolle von Prozessen}}</li>
+</ul>"	
+"Frage:<br />
+Was ist eine View und wie unterscheidet diese sich von einem Viewpoint?"	"Eine View ist ein spezifischer Ausschnitt eines Architekturmodells, der bestimmte Aspekte betont.<br />
+Ein Viewpoint definiert die Regeln und Perspektiven zur Erstellung eines Views. Die View ist somit eine Instanz eines Viewpoints."
+"wahr oder falsch:<br />
+Eine View ist eine Instanz eines Viewpoints."	wahr
+{{c1::Views (Sichten)}} sind {{c2::eine oder mehrere Interessen von Stakeholdern}} und beschreiben {{c3::die Architektur eines Systems aus der Perspektive bestimmter Systemaspekte}}.	
+Views werden benötigt, um {{c1::Komplexität in der Modellierung im Bezug auf die Bedürfnisse von Stakeholdern zu reduzieren}}.	
+"Frage:<br />
+Mit welchem Modellierungselement werden Stakeholder in ArchiMate modelliert?"	"<img src=""2025-Bild-Kalla-Stakeholder.png"" alt="""">"
+"wahr oder falsch:<br />
+Eigentümer, Kunden und Gesellschaft sind Stakeholder eines Unternehmens."	wahr
+"wahr oder falsch:<br />
+Lieferanten, Wettbewerber und Gläubiger sind Stakeholder eines Unternehmens."	"falsch:<br />
+Wettbewerber stellen dem Unternehmen keine Ressourcen zur Verfügung und sind dementsprechend keine Stakeholder."
+"wahr oder falsch:<br />
+Mitarbeiter, Lieferanten und Wettbewerber sind Stakeholder eines Unternehmens."	"falsch:<br />
+Wettbewerber stellen dem Unternehmen keine Ressourcen zur Verfügung und sind dementsprechend keine Stakeholder."
+"wahr oder falsch:<br />
+Mitarbeiter sind Stakeholder eines Unternehmens."	wahr
+"{{c1::Stakeholder}} sind {{c2::Organisationen, die eine Schlüsselrolle in einem System einnehmen und Bedürfnisse, Ziele, Erwartungen, Anforderungen, Abhängigkeiten in Verbindung zu dem System haben}}.<br />
+<img src=""2022-Bild-Kajueter-Stakeholderbeziehung.png"" alt="""">"	
+"Beispiel:<br />
+Enterprise"	"<ul>
+<li>eine Kette an geografisch Verteilten Organisationen, die einem Mutterkonzern zugehörig sind</li>
+<li>eine Organisation</li>
+</ul>"
+{{c1::Ein Enterprise}} ist {{c2::jede Ansammlung von Organisationen mit einer gemeinsamen Zielsetzung und/oder gemeinsamen Wertschöpfungsbereichen}}. Dazu gehören {{c3::Konzerne, Unternehmungen und Abteilungen}}.	
+{{c1::Die Architektur von einem System}} ist {{c2::der Bauplan, die Literatur, Sprache und alle Entscheidungen, die zur Gestaltung des Systems von Funktionen und Strukturen benötigt werden und dieses darstellen}}.	
+"Beispiel:<br />
+Modelle"	"<ul>
+<li>Aufbau eines Motors</li>
+<li>Klimamodell</li>
+<li>Modelleisenbahn</li>
+</ul>"
+{{c1::Ein Modell (Theoretical Framework)}} ist {{c2::eine Repräsentation eines Objektes, der Wirklichkeit oder eines Ausschnitts dieser Wirklichkeit}}. {{c1::Ein Modell}} wird aus einem Grund für {{c3::eine bestimmte Zielgruppe}} mit {{c4::einer definierten Sprache}} konstruiert.	
+Das Hauptmerkmal von {{c1::Modellen}} ist {{c2::die Abstrahierung von komplexen Zusammenhängen}} zur {{c3::Gewinnung von Information}}.	
+"<p>{{c1::Ein Modell}} besitzt folgende Eigenschaften:</p>
+<ul>
+<li>{{c2::empirische Bestätigung}}</li>
+<li>{{c2::Genauigkeit}}</li>
+<li>{{c2::Informationsgehalt}}</li>
+<li>{{c2::Realitätsbezug}}</li>
+<li>{{c2::Widerspruchsfreiheit}}</li>
+</ul>"	

@@ -1,0 +1,780 @@
+#separator:tab
+#html:true
+"Beispiel:<br />
+Produkte mit starkem Einfluss von Netzwerkeffekten auf den Reservationspreis"	"<ul>
+<li>Bezahlsysteme (z. B. PayPal, Apple Pay)</li>
+<li>Kommunikationsplattformen (z. B. Zoom, Slack)</li>
+<li>Multiplayer-Spiele oder Gaming-Plattformen</li>
+<li>soziale Netzwerke (z. B. Facebook, WhatsApp)</li>
+</ul>"
+"wahr oder falsch:<br />
+In einem Netzwerk mit positiver Netzwerkeffekten ist jeder Gleichgewichtszustand sozial optimal."	"falsch:<br>
+Ein Gleichgewicht kann individuell stabil sein, ohne dass es die gesellschaftlich maximale Wohlfahrt erreicht (z. B. wenn zu wenige Nutzer teilnehmen, um den maximalen Netzwerknutzen zu realisieren)."
+"wahr oder falsch:  <br />
+Netzwerkeffekte führen dazu, dass einige Nutzer bereit sind, mehr zu zahlen als ohne Netzwerkeffekte."	wahr
+"wahr oder falsch:  <br />
+Netzwerkeffekte führen dazu, dass Konsumenten ihre Entscheidung unabhängig von der Anzahl anderer Nutzer treffen."	"falsch:  <br />
+Bei Netzwerkeffekten hängt der wahrgenommene Nutzen (und damit die Kaufentscheidung) stark davon ab, wie viele andere das Produkt voraussichtlich auch nutzen."
+"Frage:  <br />
+Was untersucht die evolutionäre Spieltheorie im Vergleich zur klassischen Spieltheorie?"	Die evolutionäre Spieltheorie untersucht, welche Strategien sich langfristig in Populationen durchsetzen oder verdrängt werden, basierend auf ihrer Fitness bzw. ihrem relativen Erfolg, ohne rationales Kalkül der Akteure vorauszusetzen.
+"wahr oder falsch:  <br />
+In der evolutionären Spieltheorie können sich auch nicht-optimale Verhaltensweisen langfristig durchsetzen."	"wahr:  <br />
+Entscheidend ist nicht optimale Rationalität, sondern relative Reproduktionsrate bzw. Erfolgsstabilität innerhalb einer Umgebung oder Population."
+"wahr oder falsch:<br />
+In einem symmetrischen Koordinationsspiel mit zwei Gleichgewichten kann Evolutionary Game Theory vorhersagen, dass beide Strategien stabil sein können."	wahr
+"wahr oder falsch:<br />
+Das Wright-Fisher-Modell besteht aus einer Modellpopulation mit fester Größe, in der jede neue Generation durch zufällige Ziehung (mit Zurücklegen) von Genen aus der vorherigen Generation gebildet wird."	wahr
+"wahr oder falsch:<br />
+Im Wright-Fisher-Modell gibt es keine zufällige Ziehung, sondern eine deterministische Generationsweitergabe."	"falsch:<br />
+Das Wright-Fisher-Modell ist stochastisch. Jede neue Generation entsteht durch zufällige Ziehung mit Zurücklegen aus der vorherigen Generation."
+"{{c1::Das Wright-Fisher-Modell}} ist {{c2::ein stochastisches Modell der Populationsgenetik, das die Veränderung von Allelfrequenzen über Generationen hinweg beschreibt}}.<br>
+{{c1::{{c2::<img src=""2025-Bild-Haines-Wright-Fisher-Modell.png"" alt=""""><br>
+Wright-Fisher-Modell}}}}"	
+"Frage:<br />
+Was beschreibt Metcalfesches Gesetz?"	Metcalfesches Gesetz besagt, dass der Wert eines Kommunikationsnetzwerks proportional zum Quadrat der Anzahl seiner Nutzer ist.
+{{c1::Das Metcalfesches Gesetz}} ist {{c2::ein Gesetz, dass der Wert eines Kommunikationsnetzwerk proportional zum Quadrat der Anzahl der verbundenen Nutzer im System ist}}.	
+{{c1::Concurrency}} ist {{c2::das bestehen von zwei oder mehreren gleichzeitigen Relationen zu einem Knoten in einem Kontaktnetzwerk, die sich innerhalb der Timeboxen überlappen}}.	
+"wahr oder falsch:<br />
+Im SIRS-Modell können nach einer Infizierung die Objekte für eine bestimmte Zeit immun sein, sich aber nach einer gewissen Zeit wieder infizieren."	wahr
+"wahr oder falsch:<br />
+Im SIRS-Modell sind nach einer Infizierung die Objekte immun."	"falsch:<br />
+Dies trifft für das SIR-Modell zu."
+"wahr oder falsch:<br />
+Im SIRS-Modell sind nach einer Infizierung die Objekte nicht immun und können wieder infiziert werden."	"falsch:<br />
+Dies trifft für das SIS-Modell zu."
+{{c1::Das SIRS-Modell}} ist {{c2::ein epidemisches Modell aus der Kombination des SIR-Modell und SIS-Modell zur Beschreibung der Ausbreitung von Infektionskrankheiten in einer Population}}. Im {{c1::SIRS-Modell}} können nach einer Infizierung die Objekte für eine bestimmte Zeit immun sein, sich aber nach einer gewissen Zeit wieder infizieren.	
+"Frage:  <br />
+Warum verlaufen Epidemien häufig in Wellen?"	Weil Infektionsraten oszillieren: Nach einer Phase starker Infektionen entsteht temporäre Immunität oder Verhaltenseffekt, gefolgt von erneuter Anfälligkeit (z. B. durch Immunitätsverlust oder Verhaltensänderung), was zu neuen Wellen führt.
+"wahr oder falsch:<br />
+Die Oszillation von Krankheitsinfektionen synchronisiert sich in verschiedenen Netzwerken auch über Grenzen hinweg."	wahr
+{{c1::Die Oszillation von Krankheitsinfektionen}} ist {{c2::die Oszillation der Infektionen einer Krankheit}}.	
+"wahr oder falsch:<br />
+Im SIS-Modell können nach einer Infizierung die Objekte für eine bestimmte Zeit immun sein, sich aber nach einer gewissen Zeit wieder infizieren."	"falsch:<br />
+Dies trifft für das SIRS-Modell zu."
+"wahr oder falsch:<br />
+Im SIS-Modell sind nach einer Infizierung die Objekte immun."	"falsch:<br />
+Dies trifft für das SIR-Modell zu."
+"wahr oder falsch:<br />
+Im SIS-Modell sind nach einer Infizierung die Objekte nicht immun und können wieder infiziert werden."	wahr
+{{c1::Das SIS-Modell}} ist {{c2::ein epidemisches Modell zur Beschreibung der Ausbreitung von Infektionskrankheiten in einer Population}}. {{c1::Im SIS-Modell}} können nach einer Infizierung die Objekte nicht immun werden und können weiterhin infiziert werden.	
+{{c1::Percolation (Perkolation)}} ist {{c2::eine Modellierungsperspektive bei der Ausbreitung von Infektionen, welche die Dynamik durch zufällig geöffnete oder blockierte Kontakte im Netzwerk darstellt und dadurch die Infektion als Fluss darstellen kann}}.	
+"wahr oder falsch:<br />
+Im SIR-Modell können nach einer Infizierung die Objekte für eine bestimmte Zeit immun sein, sich aber nach einer gewissen Zeit wieder infizieren."	"falsch:<br />
+Dies trifft für das SIRS-Modell zu."
+"wahr oder falsch:<br />
+Im SIR-Modell sind nach einer Infizierung die Objekte immun."	wahr
+"wahr oder falsch:<br />
+Im SIR-Modell sind nach einer Infizierung die Objekte nicht immun und können wieder infiziert werden."	"falsch:<br />
+Dies trifft für das SIS-Modell zu."
+{{c1::Das SIR-Modell}} ist {{c2::ein epidemisches Modell zur Beschreibung der Ausbreitung von Infektionskrankheiten in einer Population}}. {{c1::Im SIR-Modell}} können nach einer Infizierung die Objekte immun werden.	
+{{c1::Die Basic Reproductive Number}} ist {{c2::die erwartete Anzahl an Infektionen durch ein Individuum}}. {{c1::Eine Basic Reproductive Number}} von {{c3::unter \(1\)}} führt zu {{c4::einer Abnahme}} an Infektionen, während {{c1::eine Basic Reproductive Number}} von {{c3::über \(1\)}} zu {{c4::einer Zunahme}} führt.	
+"{{c1::Der Branching-Prozess}} ist {{c2::ein Prozess zur Modellierung von Infektionen}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Branching-Prozess.png"" alt=""""><br />
+Branching-Prozess}}}}"	
+"<p>Der  Branching-Prozess besteht aus mehreren Schritten:</p>
+<ol>
+<li>{{c1::Erste Welle}}: {{c1::In der ersten Welle steckt der Wirt eine Anzahl an Menschen \(k_{1}\) mit einer Wahrscheinlichkeit von \(p\) an}}</li>
+<li>{{c2::Zweite Welle}}: {{c2::In der zweiten Welle stecken \(k_{1}\) Menschen \(k_{2}\) weitere Menschen mit einer Wahrscheinlichkeit von \(p\) an}}</li>
+<li>{{c3::Darauffolgende Wellen}}: {{c3::Die darauffolgenden Wellen verlaufen wie die zweite Welle}}</li>
+</ol>"	
+"wahr oder falsch:<br />
+Die Modellierung von Infektionen in einem Netzwerk beinhaltet eine Randomisierung."	wahr
+{{c1::Infektion}} ist {{c2::die Übertragung von einer Krankheit}}.	
+{{c1::Social Contagion}} ist {{c2::die Diffusion in einem Netzwerk}}.	
+"wahr oder falsch:<br />
+Kontakte in einem Kontaktnetzwerk sind transient und bestehen nicht durchgängig, sondern nur in einer gewissen Zeit."	wahr
+"{{c1::Ein Kontaktnetzwerk (Contact Network)}} ist {{c2::ein Netzwerk aus Personen, die miteinander in Kontakt gekommen sind}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Kontaktnetzwerk.png"" alt=""""><br />
+Kontaktnetzwerk mit Timeboxen des Kontakts}}}}"	
+"Frage:<br />
+Was ist die Folge einer asymmetrische Informationsverteilung von Thresholds in einem Netzwerk im Bezug zu kollektiven Handeln?"	Aufgrund der asymmetrische Informationsverteilung von Thresholds in einem Netzwerk, bei welcher nur der Threshold der Nachbarn von einem Knoten jenem Knoten bekannt ist, wird ein kollektives Handeln eingeschränkt oder nicht durchgeführt, obwohl dieses möglich wäre.
+"wahr oder falsch:<br />
+Zentrale Institutionen können dabei helfen, Wissen zu erzeugen und die Informationsasymmetrie von Thresholds in einem Netzwerk zu überwinden."	wahr
+"Frage:<br />
+Wie lässt sich der Threshold \(p\) berechnen, ab dem ein Knoten auf Verhalten \(a\) umschwenkt?"	\(p \geq \frac{b}{(a + b)}\), wobei \(a\) und \(b\) die Payoffs bei Übereinstimmung sind.
+{{c1::Ein Threshold}} ist {{c2::eine Schwelle, die Überschritten werden muss, damit eine Aktion ausgeführt wird}}.	
+"Frage:<br />
+Wie kann man pluralistische Ignoranz überwinden?"	Durch gezielte Verbreitung von Informationen über die tatsächlichen Erwartungen und Bereitschaften anderer (z. B. durch Gatekeeper oder transparente Signale).
+"Frage:<br />
+Wie kann pluralistische Ignoranz eine Kaskade verhindern?"	Indem Individuen fälschlich annehmen, dass andere nicht zum Verhalten bereit sind. Dadurch wird Verhalten nicht geäußert, obwohl es intern unterstützt wird.
+{{c1::Pluralistische Ignoranz}} ist {{c2::die fehlerhafte Einschätzung von dem Denken oder Handeln anderer Personen, wodurch eigene Gedanken oder Taten nicht geteilt oder durchgeführt werden}}.	
+"Beispiel:<br />
+kollektives Handeln"	"<ul>
+<li>Demonstrationen</li>
+</ul>"
+"wahr oder falsch:<br />
+Eine kollektive Handlung wird nur durchgeführt, wenn genug Teilnehmende vorhanden sind."	wahr
+{{c1::Das Kaskadenmodell}} ist {{c2::ein Modell zur Beschreibung von Kaskaden}}. In {{c1::dem Kaskadenmodell}} wählt jeder Knoten aufgrund eines besseren Outcomes für sich selber, ob {{c3::eine Adaption stattfindet}}, wenn {{c3::ein bestimmter Threshold überschritten wird}}.	
+{{c1::Die Dichte in einem Graph}} ist {{c2::der prozentuale Anteil \(p\) an Nachbarn, den jeder Nachbar in einem Cluster zu den Knoten mindestens hat}}.	
+{{c1::Ein Cluster in einem Graph}} ist {{c2::eine Gruppe an Knoten mit einer Dichte}}.	
+"Frage:<br />
+Warum wird eine Kaskade meist gestoppt und zur unvollständigen Kaskade?"	Eine Kaskade wird meist durch Cluster, Local Bridges und Homophily gestoppt und zur unvollständigen Kaskade. Der Threshold einer Adaption kann ebenfalls der Grund dafür sein.
+"Beispiel:<br />
+unvollständige Kaskade"	"<ul>
+<li>Android und Apple</li>
+<li>Bürgerinitiativen</li>
+</ul>"
+"{{c1::Eine unvollständige Kaskade}} ist {{c2::eine Kaskade, welche nicht alle Knoten in einem Netzwerk erreicht}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Unvollstaendige_Kaskade.png"" alt=""""><br />
+Unvollständige Kaskade}}}}"	
+{{c1::Eine vollständige Kaskade}} ist {{c2::eine Kaskade, welche alle Knoten in einem Netzwerk erreicht}}.	
+{{c1::Eine Adaptionskaskade}} ist {{c2::die Kaskade einer Diffusion, spezifisch die Adaption einer Innovation in einem Netzwerk}}.	
+"wahr oder falsch:<br />
+Ein Testimonial von zufriedenen Nachbarn wirkt als privates Signal und kann Kaskaden verhindern."	"falsch:<br />
+Ein Testimonial ist ein öffentliches Signal, das Vertrauen aufbaut und die Schwelle zur Adoption senkt. Es kann Kaskaden fördern, nicht verhindern."
+"wahr oder falsch:<br />
+Eine Kaskade kann gestoppt werden, wenn der nächste Cluster eine höhere Dichte als \((1 - \text{Threshold})\) aufweist."	wahr
+"{{c1::Eine Kaskade}} ist {{c2::die Verbreitung von einem Element in einem Netzwerk}}. {{c1::Eine Kaskade}} kann {{c3::als vollständige Kaskade durch das gesamte Netzwerk gehen}} oder {{c3::als unvollständige Kaskade}} enden.<br />
+{{c1::{{c2::{{c3::<img src=""2010-Bild-Easley-Kleinberg-Unvollstaendige_Kaskade.png"" alt=""""><br />
+Unvollständige Kaskade}}}}}}"	
+"Frage:<br />
+Wann findet Diffusion in einem Netzwerk statt?"	Diffusion findet von einem zu betrachtenden Objekt immer dann statt, wenn eine Mehrheit der Knoten oder Bestandteile einer Population in Bezug zu ein betrachtendes Objekt dieses übernehmen.
+"wahr oder falsch:<br />
+Diffusion in einem Netzwerk wird meist durch Homophily als unvollständige Kaskade gestoppt."	wahr
+"wahr oder falsch:<br />
+Diffusion in einem Netzwerk wird meist durch Local Bridges als vollständige Kaskade gestoppt."	"falsch:<br />
+Diffusion in einem Netzwerk wird meist durch Homophily als unvollständige Kaskade gestoppt."
+"{{c1::Diffusion in einem Graph}} ist {{c2::ein Koordinationsspiel, in welchem durch die Adaption von Innovation ein Netzwerkeffekt als Direct-Benefit Effect entstehen kann, wenn zwei oder mehr Nachbarknoten die gleiche Innovation adaptieren}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Diffusion_im_Netzwerk.png"" alt=""""><br />
+Diffusion im Netzwerk}}}}"	
+{{c1::Zipfs Gesetz}} ist {{c2::eine Gesetz, welches besagt, dass die Popularität eines Elementes meist umgekehrt zu seinem Rang}}. Ein Element auf dem zweiten Rang einer Häufigkeit trifft daher meist ungefähr {{c3::halb so oft}} auf wie das Element auf dem ersten Rang mit der höchsten Häufigkeit.	
+"Frage:  <br />
+Was bedeutet Long Taiö im Zusammenhang mit der Power-Law-Verteilung?"	Der Long-Tail der Verteilung beschreibt eine große Anzahl seltener Optionen. Deren Sichtbarkeit kann durch gezielte Förderung (z. B. Algorithmen, Empfehlungen) erhöht werden.
+"Frage:<br />
+Welche Maßnahme unterstützt die Long-Tail-Strategie in digitalen Märkten am effektivsten?"	Personalisierte Empfehlungssysteme, die auch Produkte mit geringer Popularität sichtbar machen und Nutzern mit Nischeninteressen gezielt vorschlagen.
+"wahr oder falsch:  <br />
+Die Long-Tail-Strategie zielt darauf ab, nur die Spitzenprodukte noch erfolgreicher zu machen."	"falsch:  <br />
+Sie zielt darauf ab, die große Masse der Nischenprodukte sichtbarer und wirtschaftlich nutzbar zu machen."
+"wahr oder falsch:<br />
+Empfehlungssysteme von Unternehmen sind darauf ausgelegt, Nutzern gezielt weniger populäre, aber zu ihren Interessen passende Produkte vorzuschlagen, wodurch Nischenprodukte besser sichtbar sind."	wahr
+{{c1::Der Long Tail}} ist {{c2::die Verschiebung von wenig bekannten Produkten durch zu vielen wenig bekannten Produkten durch internetbasierte Distribution}}.	
+"wahr oder falsch:<br />
+Beim Preferential Attachment profitieren neue Knoten gleichmäßig von bestehenden Knotenverbindungen."	"falsch:<br />
+Neue Knoten bevorzugen Verbindungen zu bereits gut vernetzten Knoten, was zu einer ungleichen, skalenfreien Netzwerkstruktur führt."
+"wahr oder falsch:<br />
+Preferential Attachment sorgt dafür, dass neue Knoten zufällig und gleichverteilt an bestehende Knoten anschließen."	"falsch:<br />
+Preferential Attachment beschreibt gerade keine Gleichverteilung. Neue Knoten verbinden sich mit höherer Wahrscheinlichkeit zu bereits sehr gut vernetzten Knoten (ganz nach dem Motto: Rich Get Richer)."
+{{c1::Ein Preferential Attachment (Rich-Get-Richter Phänomen)}} ist {{c2::ein Prinzip, bei dem neue Relationen oder Ressourcen bereits an populäre Objekte oder Knoten vergeben werden}}. Dies entsteht durch {{c3::die Sichtbarkeit der bereits bekannten Objekte}}.	
+"Beispiel:<br />
+Potenzgesetz"	"<ul>
+<li>Musikdownload</li>
+<li>Telefonanrufe zu bestimmten Telefonnummern</li>
+</ul>"
+"Frage:  <br />
+Warum kann eine Power-Law-Verteilung bei Popularität problematisch für die Interpretation von Qualität sein?"	Weil wenige Optionen extrem sichtbar werden, während andere trotz ähnlicher Qualität unsichtbar bleiben.
+"Frage:  <br />
+Was beschreibt das 80/20-Prinzip im Kontext der Power-Law-Verteilung?"	Dass ca. 20 % der Inhalte, Produkte oder Akteure 80 % der Aufmerksamkeit, Klicks oder Verkäufe erhalten.
+"Frage:<br />
+Wodurch entstehen Power Laws?"	Power Laws entstehen durch Preferential Attachment und Informationskaskaden.
+"wahr oder falsch:<br />
+Power-Law-Verteilungen entstehen zwangsläufig aus Qualitätsunterschieden der Optionen."	"falsch:<br />
+Power Laws entstehen oft durch Sichtbarkeitsmechanismen, wie Preferential Attachment und spiegeln nicht zwangsläufig Qualität wider."
+{{c1::Ein Potenzgesetz (Power Law)}} ist {{c2::die Beziehung von zwei beobachtbaren Größen \(x\) und \(y\) durch eine Potenzfunktion}}. {{c1::Das Potenzgesetz}} beschreibt eine Verteilung, in denen {{c3::extreme Werte}} wesentlich wahrscheinlicher sind als {{c3::bei Normalverteilungen}}, welche in der Realität ebenfalls häufig anzutreffen sind.	
+{{c1::Braesss Paradox}} ist {{c2::ein Paradox, dass das Hinzufügen einer weiteren Verbindung oder einer weiteren Menge an Population zu einem negativen Effekt oder einem ineffizienteren Ergebnis führen kann, obwohl ein positiver Effekt erwartet wird}}.	
+"wahr oder falsch:<br />
+In einem Netzwerk mit eine niedrigen und einem hohen Netzwerk-Gleichgewicht kann ein Bottleneck auftreten, welcher das Wachstum blockiert und dazu führt, dass das hohe Netzwerk-Gleichgewicht nicht erreicht werden kann."	wahr
+"wahr oder falsch:<br />
+In einem Netzwerk mit Netzwerkeffekten mit Nutzen unter dem Tipping Point entsteht sowohl ein Nutzen durch individuelle Präferenzen sowie aufgrund des Wachstums der Menge an Nutzern."	wahr
+"Beispiel:<br />
+Wettbewerb in Märkten mit Netzwerkeffekten"	"<ul>
+<li>VHS und Betamax</li>
+</ul>"
+Bei Wettbewerb in Märkten mit Netzwerkeffekten ist es sehr wahrscheinlich, dass ein Produkt, nach Erreichen {{c1::des Tipping Point}} zu {{c2::einem stabilen Zustand auf dem Markt dominieren wird}}.	
+"<p>Die Vermarktung eines Produktes mit Netzwerkeffekten kann durch folgende Maßnahmen erfolgen:</p>
+<ul>
+<li>{{c1::Identifikation von Meinungsführern, um die Bekanntheit zu steigern}}</li>
+<li>{{c1::Verkauf unter dem Herstellungspreis, um ein stabilen Zustand zu erreichen}}</li>
+</ul>"	
+"Frage:<br />
+Was bedeutet es, wenn ein Produkt zwei Tipping Points hat, und was sind die Folgen für Marktstrategien?"	Zwischen dem unteren und oberen Tipping Point herrscht Instabilität: Geringe Nutzerzahlen führen zu Rückgang, hohe zu Wachstum. Strategien müssen darauf abzielen, den kritischen Schwellenwert möglichst schnell zu überschreiten, etwa durch Subventionierung oder Influencer-Marketing.
+"Frage:  <br />
+Was versteht man unter einem Tipping Point im Kontext von Netzwerkeffekten?"	Einen kritischen Schwellenwert der Nutzerzahl, ab dem eine kleine Erhöhung zu stark wachsender Nutzung führt oder bei dessen Unterschreitung die Nutzung stark zurückgeht.
+"wahr oder falsch:<br />
+Je stärker die Netzwerkeffekte sind, desto höher liegt der Tipping Point."	"falsch:<br />
+Stärkere Netzwerkeffekte können dazu führen, dass ein kleiner Anteil an Nutzern genügt, um eine selbstverstärkende Adoption auszulösen. Der Tipping Point kann also niedriger liegen."
+"wahr oder falsch:  <br />
+Tipping Points entstehen nur bei negativen Netzwerkeffekten."	"falsch:  <br />
+Sie entstehen gerade durch positive Netzwerkeffekte mit kritischen Schwellen. Das Verhalten wird instabil, wenn bestimmte Nutzungsniveaus über- oder unterschritten werden."
+"{{c1::Ein Tipping Point (Kippunkt)}} ist {{c2::ein Punkt, in dem eine Abweichung zu einer Bewegung entweder zu einem stabilen Zustand oder zu einem Marktversagen führt}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Tipping_Points.png"" alt=""""><br />
+Tipping Points als \(z&#039;\) und \(z&#039;&#039;\)}}}}"	
+"Frage:<br />
+Was beschreibt ein Self-Fulfilling Expectations Equilibrium bei Netzwerkeffekten?"	Ein Zustand, bei dem die Anzahl der Nutzer groß genug ist, dass jeder weitere Nutzer zusätzlichen Nutzen erfährt. Die Nachfrage stabilisiert sich durch positive Rückkopplung und bleibt selbst bei kleinen Schwankungen erhalten.
+"Frage:  <br />
+Was ist das Risiko bei der Annahme von selbst erfüllenden Erwartungen im Markt?"	Falls Erwartungen zu hoch sind und nicht realisiert werden, kann es zu einem Kollaps der Adoption kommen.
+"Frage:  <br />
+Was ist ein Self-Fulfilling Expectations Equilibrium im Kontext von Netzwerkeffekten?"	Ein Gleichgewicht, das dadurch entsteht, dass Nutzer eine bestimmte Anzahl anderer Nutzer erwarten und diese Erwartung wiederum das Verhalten bestimmt, sodass die erwartete Nutzeranzahl tatsächlich erreicht wird.
+"Frage:<br />
+Welche Rolle spielt asymmetrische Informationsverteilung über Netzwerkgröße in der Entstehung von Self-Fulfilling Expectations Equilibria?"	Asymmetrische Information führt dazu, dass einzelne Akteure ihre Entscheidung auf wahrgenommene, nicht tatsächliche Netzwerkgröße stützen. Wenn genügend Akteure dieselbe (falsche) Erwartung teilen, kann dies dennoch zu einem tatsächlichen Gleichgewicht führen.
+"wahr oder falsch:<br />
+Ein Self-Fulfilling Expectations Equilibrium kann instabil sein, wenn das Vertrauen der Nutzer in die erwartete Nachfrage gering ist."	wahr
+"wahr oder falsch:<br />
+Ein Self-Fulfilling Expectations Equilibrium kann nur entstehen, wenn die Konsumenten ein Vertrauen in die Vorhersage besitzen."	wahr
+{{c1::Ein Self-Fulfilling Expectations Equilibrium}} ist {{c2::eine Equilibriummenge als eine Menge an Konsumenten \(z\), die erwarten, dass ein Produkt von einer Menge an Konsumenten gekauft wird und jeder Konsument auf Grundlage dieser Erwartung seine Kaufentscheidung trifft, wobei sich am Ende tatsächlich genau dieser Anteil \(z\) ergibt}}. Die Erwartungen erfüllen sich also durch die aggregierten Entscheidungen der Individuen selbst.	
+"wahr oder falsch:<br />
+Die Equilibriummenge liegt im sozialen Optimum, da sie die Wohlfahrt maximiert."	wahr
+"{{c1::Die Equilibriummenge (Equilibrium Quantity, Gleichgewichtsmenge)}} ist {{c2::die Menge an Gütern, die bei einem gegebenen Vorbehaltspreis und den Kosten für die Produktion entstehen}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Equilibriummenge.png"" alt=""""><br />
+Equilibriummenge}}}}"	
+"Frage:  <br />
+Wie wird im Marktmodell ohne Netzwerkeffekte das Gleichgewicht von Preis und Menge bestimmt?"	Durch das Zusammenspiel der individuellen Reservationspreise der Konsumenten und der Grenzkosten  der Anbieter, spezifisch dort, wo Angebot und Nachfrage sich schneiden.
+"wahr oder falsch:  <br />
+Bei der Preisfindung in einem Markt ohne Netzwerkeffekte berücksichtigen Konsumenten die Entscheidungen anderer Konsumenten."	"falsch:  <br />
+Jeder Konsument trifft eine unabhängige Entscheidung basierend auf eigenem Interesse, ohne Rücksicht auf andere."
+"{{c1::Der Vorbehaltspreis (Reservationspreis, Reserve Price)}} ist {{c2::der Preis, den ein Konsument für ein weiteres Gut bereit ist zu zahlen oder bei dem ein Anbieter bereit ist, ein weiteres Gut zu verkaufen}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Vorbehaltspreis.png"" alt=""""><br />
+Bei einem Vorbehaltspreis \(y\) unter dem Preis \(p\) wird das Gut nicht mehr gekauft}}}}"	
+"wahr oder falsch:<br />
+Der Direct-Benefit Effect setzt voraus, dass in einem Graphen Nachbarknoten vorhanden sind, wodurch ein Netzwerkeffekt entstehen kann."	wahr
+"wahr oder falsch:<br />
+Ein Direct-Benefit Effect entsteht nur dann, wenn mehr als zwei Nachbarn dieselbe Innovation adaptieren."	"falsch:<br />
+Bereits bei zwei benachbarten Knoten kann ein Direct-Benefit durch gemeinsame Nutzung entstehen."
+{{c1::Ein Direct-Benefit Effect}} ist {{c2::ein positiver Outcome durch Netzwerkeffekt oder das Kopieren von Verhalten}}.	
+"Beispiel:<br />
+Informationskaskade"	"<ul>
+<li>Fashion und Modetrends</li>
+<li>Menschen essen lieber in einem Restaurant, das bereits voll ist, als in einem leeren Restaurant</li>
+</ul>"
+"Frage:<br />
+Warum ist bei Informationskaskaden der Abbruch durch neue Informationen wahrscheinlich?"	Weil Kaskaden auf limitierter, aggregierter Information basieren und bereits kleine Gegenbeispiele genügen können, um den Nachahmungseffekt zu durchbrechen.
+"Frage:  <br />
+Warum kann eine Informationskaskade auch ohne positive Evaluation eines Produkts auftreten?"	Weil Menschen oft nur die beobachteten Adoptionen sehen (z. B. durch Influencer) und nicht die tatsächliche Qualität bewerten. Ein Produkt kann sich also durch soziale Nachahmung verbreiten, obwohl es schlecht ist.
+"Frage:<br />
+Welche Rolle spielen Meinungsführer (Influencer) bei der Überwindung des Tipping Points in Netzwerken?"	Sie können durch ihre Reichweite frühzeitig Sichtbarkeit erzeugen und Adoption initiieren, wodurch ein ausreichender Anteil an Erstnutzern entsteht, der zur Selbstverstärkung der Diffusion führt.
+"wahr oder falsch:<br />
+Informationskaskaden beruhen auf umfangreicher Informationsverarbeitung und sind stabil gegenüber neuen Informationen."	"falsch:<br />
+Informationskaskaden beruhen häufig auf sehr wenig Information und sind fragil. Neue, abweichende Informationen können sie leicht unterbrechen."
+"wahr oder falsch:<br />
+Informationskaskaden können auch dann entstehen, wenn alle Akteure vollständig rational handeln."	wahr
+"wahr oder falsch:<br />
+Informationskaskaden sind empfindlich für neue Informationen oder abweichende Informationen."	wahr
+"wahr oder falsch:<br />
+Professionelle Bilder auf Rezeptplattformen erhöhen das Risiko einer Informationskaskade."	"falsch:<br />
+Bilder verbessern die Qualität der privaten Signale und machen eine Entscheidung unabhängiger von öffentlicher Wahrnehmung. Sie stabilisieren gegen Kaskaden."
+{{c1::Eine Informationskaskade (Information Cascade)}} ist {{c2::die Beeinflussung von Verhalten einer Partei durch vorherige Entscheidungen von anderen Parteien}}. {{c1::Im Falle einer Informationskaskade}} wird {{c2::das Verhalten der anderen Parteien aufgrund limitierter Informationen kopiert}}.	
+"<p>Informationskaskaden besitzt folgende Eigenschaften:</p>
+<ul>
+<li>{{c1::Kaskaden können auf sehr wenig Informationen beruhen}}</li>
+<li>{{c1::Kaskaden können falsch sein}}</li>
+<li>{{c1::Kaskaden sind fragil}}</li>
+</ul>"	
+"{{c1::Ein Balanced Outcome}} ist {{c2::ein Outcome als Nash Bargaining für einen gesamten Graphen}}. {{c1::Der Balanced Outcome}} ist somit stabil, da {{c3::er den besten Outcome für darstellt}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Balanced_Outcome.png"" alt=""""><br />
+Balanced Outcome}}}}"	
+"Frage:  <br />
+Warum können bei einer ungeraden Anzahl von Knoten im Graph nur die äußeren Knoten den Zustand \(0\) erhalten, damit ein stabiler Zustand erreicht wird?"	Weil bei symmetrischer Verteilung von Einflüssen nur dann Gleichgewicht herrscht, wenn die äußeren Knoten nicht versuchen, ihren Zustand zu ändern. Ihr Beitrag zum Gesamtsystem ist dadurch minimal oder neutral.
+"wahr oder falsch:  <br />
+Wenn ein Graph eine ungerade Anzahl an Knoten hat, ist ein stabiler Zustand nur dann möglich, wenn die äußeren Knoten den Zustand 0 annehmen."	wahr
+"{{c1::Stabilität in einem Graph}} ist {{c2::das Outcome des sozialen Nutzen in einem Graph-Experiment, bei welchen für zwei Knoten \(X\) und \(Y\) keine vorteilhaftere Situation vorliegen könnte und somit auch keine Instabilität vorhanden ist}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Haines-Stabiler_Zustand_im_Graph.png"" alt=""""><br />
+Stabiler Zustand im Graph}}}}"	
+"{{c1::Instabilität in einem Graph}} ist {{c2::das Outcome des sozialen Nutzen in einem Graph-Experiment, bei welchen für zwei Knoten \(X\) und \(Y\) eine nachteilhaftere Situation vorliegt als wenn diese ihre vorhandene Kante nutzen}}:<br />
+{{c2::\(X + Y &lt; 1\)}}<br />
+{{c1::{{c2::<img src=""2025-Bild-Haines-Instabiler_Zustand_im_Graph.png"" alt=""""><br />
+Instabiler Zustand im Graph}}}}"	
+{{c1::Der Outcome (Ergebnis) in einem Graph}} ist {{c2::eine Menge an Kanten, bei der jeder Knoten maximal eine Verbindung hat und jeder Knoten einen Wert als sozialen Nutzen aus dem Austausch besitzt}}.	
+"Frage:<br />
+Wie lässt sich empirisch erklären, dass im Ultimatumspiel oft faire Angebote gemacht werden, obwohl theoretisch minimale Angebote rational wären?"	Neben monetären Payoffs beeinflussen auch Fairnesswahrnehmung, soziale Normen und Reputationsaspekte das Verhalten. Spielende lehnen unfaire Angebote aus Prinzip ab, was die Strategie der Gegenseite beeinflusst.
+"wahr oder falsch:<br />
+Das Ergebnis eines Ultimatumspieles tendiert zu einer gerechten Aufteilung, welche vom Gerechtigkeitsempfinden und der Kultur beeinflusst wird."	wahr
+{{c1::Das Ultimatumspiel (Ultimatum Game)}} ist {{c2::ein Spiel, in welchem ein Spieler \(A\) einem Spieler \(B\) ein Geldbetrag vorschlägt, welcher von \(B\) angenommen werden kann und an \(A\) und \(B\) ausgezahlt wird oder von \(B\) abgelehnt werden kann, wodurch \(A\) und \(B\) keinen Geldbetrag bekommen}}.	
+"{{c1::Nash Bargaining (Equidependent Outcome)}} ist {{c2::das Ergebnis einer Situation, in welcher zwei Spieler \(A\) und \(B\) über eine Geldmenge \(g\) verhandeln, wobei \(A\) eine weiter Option \(x\) und \(B\) eine weitere Option \(y\) besitzt}}. Die Verhandlung von \(A\) und \(B\) wird nur dann erfolgreich sein, wenn:<br />
+{{c3::\(x + y \leq g\)}} mit {{c3::\(x\) als Payoff der alternativen Option für \(A\)}}, {{c3::\(y\) als Payoff der alternativen Option für \(B\)}}, {{c3::\(g\) als die zu verhandelnde Geldmenge}}."	
+"wahr oder falsch:<br />
+Sozialer Nutzen kann über ein Graphen-Experiment geprüft werden, bei dem miteinander verbundenen Knoten einen Geldbetrag von einer Kante erhalten, wenn diese sich darauf einigen. Ein Knoten kann dabei nur an einem Austausch gleichzeitig teilnehmen. Dies wird rundenbasiert wiederholt und geprüft, welche Geldmenge am Ende bei welchen Knoten vorliegen."	wahr
+{{c1::Macht}} ist {{c2::die Nutzung von mehreren Alternativen zur Erreichung eines Zieles}}.	
+{{c1::Der Ripple-Effekt}} ist {{c2::ein Effekt bei Änderung eines Netzwerks, dass auch kleine Änderungen der Kanten oder Knoten großen Einfluss auf weit entfernte Knoten des Netzwerkes besitzen können}}.	
+{{c1::Eine implizit vollständige Konkurrenz}} ist {{c2::eine vollständige Konkurrenz, in welcher aufgrund der globalen Struktur des Netzwerk kein oder nur ein minimaler Gewinn erzielt wird und die Situation wie in einer vollständigen Konkurrenz vorliegt, obwohl es keine direkte Konkurrenz zwischen Händlern gibt}}.	
+"wahr oder falsch:<br />
+In einem Monopol agieren Händler als Gatekeeper."	wahr
+Ein Monopol kann auch durch {{c1::einen Händler}} entstehen, welcher eine Kontrolle zwischen den Transaktionen von Käufer und Verkäufer besitzt. In einem Monopol können Händler {{c2::eine Gewinnmaximierung}} erreichen.	
+"Beispiel:<br />
+Händler in einer vollständigen Konkurrenz"	"<ul>
+<li>Entwicklung von Waren aus China, welche direkt zum Konsumenten geliefert werden</li>
+</ul>"
+"Frage:<br />
+Warum machen Trader in einem Netzwerk mit perfektem Wettbewerb keinen Gewinn?"	Weil konkurrierende Trader versuchen, sich gegenseitig durch Preisunterbietung zu verdrängen. Da Käufer und Verkäufer jeweils alternative Verbindungen zu anderen Tradern haben, wird der Gewinn der Intermediäre auf \(0\) gedrückt.
+"wahr oder falsch:<br />
+Märkte mit vollständiger Konkurrenz besitzen nur eine geringe Anzahl an Händlern."	wahr
+{{c1::In einer vollständigen Konkurrenz}} erzielen Händler keinen oder nur minimalen Gewinn, da {{c2::sie mit anderen Händlern in Konkurrenz stehen und sich versuchen zu unterbieten}}.	
+"wahr oder falsch:<br />
+Wenn alle Käufer und Verkäufer dieselben Reservationspreise haben, erzielen Händler bei Wettbewerb keine Gewinne."	wahr
+{{c1::Ein Händlergewinn}} ist {{c2::Differenz zwischen dem Preis, zu dem Händler von Verkäufern kaufen und dem Preis, zu dem sie an Käufer verkaufen}}. Sie können ihre Gewinne maximieren, indem {{c3::sie attraktive Preisangebote wählen, die von möglichst vielen Käufern und Verkäufern akzeptiert werden}}.	
+"wahr oder falsch:<br />
+Ein Händler kann ohne die Erfüllung einer funktionalen Rolle im Netzwerk Payoffs erzielen."	"falsch:<br />
+Händler müssen eine Vermittlungsfunktion erfüllen, um Nutzen zu stiften und selbst Payoffs zu erhalten."
+"wahr oder falsch:<br />
+Ein Händler muss in einem Netzwerk eine Funktion bereitstellen, um einen Payoff zu erzielen. Diese wird durch eine Steigerung des sozialen Nutzens erreicht, wobei der soziale Nutzen bei einem essentiellen Händler sinken würde, wenn eine bestimmte Kante des Händlers zu einem Käufer oder Verkäufer entfernt werden würde."	wahr
+"wahr oder falsch:<br />
+Händler ermöglichen Käufer und Verkäufer Zugang zueinander, wenn diese normalerweise keinen Zugang zueinander hätten."	wahr
+{{c1::Händler}} sind {{c2::Mittelsmänner, die den Fluss von Waren zwischen Verkäufern und Käufern koordinieren}}. Sie agieren, indem sie {{c3::Preisangebote}} an {{c3::Verkäufer}} als {{c3::Ask}} und {{c3:.Preisforderungen}} an {{c3::Käufer}} als {{c3::Bid}} stellen.	
+{{c1::Ein Ask}} ist {{c2::der niedrigste Betrag, zu dem ein Verkäufer bereit ist, ein Wertpapier zu verkaufen}}.	
+{{c1::Ein Bid}} ist {{c2::der Höchstbetrag, zu dem ein Käufer bereit ist, ein Wertpapier zu kaufen}}.	
+"Beispiel:<br />
+Evolutionary Arms Race"	"<ul>
+<li>große Bäume bekommen mehr Licht ab im Gegensatz zu kleinen Bäumen, müssen aber in das Wachstum Energie reinstecken</li>
+</ul>"
+{{c1::Ein Invading}} ist {{c2::das Nutzen von einer alternativen Strategie für einen Teil einer Population}}.	
+"wahr oder falsch:  <br />
+In der evolutionären Spieltheorie wählen Spieler ihre Strategie aktiv aus, um den höchsten Payoff zu erzielen."	"falsch:  <br />
+Strategien sind oft fix vorgegeben, etwa durch biologische Merkmale oder soziale Rollen. Die Selektion erfolgt über Reproduktion, nicht über Wahl."
+{{c1::Die Fitness}} ist {{c2::der erwartete Payoff von einem Organismus in einer Population}}.	
+"Frage:<br />
+Wann gilt eine Strategie als evolutionär stabil, auch wenn sie nicht Pareto-effizient ist?"	Wenn sie sich gegen seltene Mutationen (abweichende Strategien) behaupten kann, weil ihre erwartete Fitness im Vergleich höher bleibt, selbst wenn alternative Strategien kollektiv zu besserem Gesamtnutzen führen könnten.
+"wahr oder falsch:<br />
+Beim Invading mit einer alternativen Strategie besitzt die alternative Strategie im Gegensatz zu einer evolutionär-stabilen Strategie eine niedrigere Fitness."	wahr
+"wahr oder falsch:  <br />
+Eine evolutionär-stabile Strategie kann durch Migranten oder Innovatoren verdrängt werden, wenn diese eine neue Strategie einführen."	"falsch:  <br />
+Nur wenn die neue Strategie im Vergleich zur etablierten evolutionär-stabilen Strategie dauerhaft höhere Fitness liefert, kann sie sich durchsetzen, sonst bleibt die evolutionär-stabile Strategie stabil."
+{{c1::Eine evolutionär-stabile Strategie (Evolutionarily Stable Strategy)}} ist {{c2::eine evolutionär festgelegte Strategie, welche als Nash-Gleichgewicht von einer gesamten Population über einen längeren Zeitraum genutzt wird}}.	
+"<p>Eine evolutionär-stabile Strategie besteht aus:</p>
+<ul>
+<li>{{c1::Stabilität gegenüber Invading}}: {{c1::Wenn alle in der Population die Strategie \(S\) spielen, darf eine andere Strategie \(T\) keinen höheren Nutzen gegen \(S\) bringen als \(S\) selbst. Sonst könnten Spieler mit Strategie \(T\) die Population verdrängen}}.</li>
+<li>{{c1::Überlegenheit im Mischfall: {{c1::Wenn \(T\) genauso gut gegen \(S\) ist wie \(S\) selbst, dann muss \(S\) besser gegen \(T\) abschneiden als \(T\) gegen \(T\). Nur dann kann sich \(S\) langfristig behaupten, selbst wenn ein paar Spieler mit \(T\) auftauchen}}.</li>
+</ul>"	
+{{c1::Ein soziales Optimum (Social Optimality)}} ist {{c2::eine Menge an Strategien, welche die Summe des Payoffs in einem Spiel maximiert}}.	
+"Beispiel:<br />
+Mixed Strategy"	"<ul>
+<li>Sportarten zur Entscheidung von Strategien</li>
+</ul>"
+{{c1::Eine Mixed Strategy}} ist {{c2::eine Menge an Strategien, welche eine Wahrscheinlichkeit zur Entscheidung besitzen}}.	
+{{c1::Ein Nullsummen-Spiel}} ist {{c2::ein Spiel, in dem die Summe der Payoffs der Spieler \(0\) ist}}.	
+"Beispiel:<br />
+Hawk-Dove Game"	"<ul>
+<li>Verhalten von Staaten, die aggressiv oder passiv sind</li>
+</ul>"
+"wahr oder falsch:<br />
+Beim Hawk-Dove-Spiel führt aggressives Verhalten immer zu evolutionär stabilen Strategien."	"falsch:<br />
+Zwei aggressive Spieler (Hawk-Hawk) erhalten niedrigen Payoff. Evolutionäre Stabilität erfordert Mischstrategien oder asymmetrische Rollenverteilung."
+"wahr oder falsch:<br />
+Das Hawk-Dove Game besitzt keine evolutionär-stabile Strategie."	wahr
+{{c1::Das Hawk-Dove Game}} ist {{c2::ein Anti-Koordinationsspiel, bei dem Spieler aggressiv oder passiv handeln können, wobei nur eine Kombination von beiden (Hawk-Dove) oder ein passives Verhalten (Dove-Dove) zum Nash-Gleichgewicht führt und ein aggressives Verhalten beider Spieler zu einem ungünstigen Payoff führt}}.	
+"Frage:  <br />
+Was wird mit der Stag Hunt Game-Metapher in der evolutionären Spieltheorie illustriert?"	Sie zeigt, dass das Überleben einer kooperativen Strategie (z. B. Hirschjagd) davon abhängt, ob sie sich gegen weniger riskante, aber individuell durchführbare Strategien (z. B. Hasenjagd) behaupten kann, abhängig von der Häufigkeit und dem Verhalten anderer Spieler in der Population.
+{{c1::Das Stag Hunt Game}} ist {{c2::ein Kooperationsspiel mit einem Payoff, bei dem der zu kooperierende Spieler einen Nachteil erfährt, wenn ein anderer Spieler nicht kooperiert, wodurch ein Spannungsfeld zwischen Sicherheit und Kooperation entsteht}}.	
+{{c1::Ein Battle of the Sexes}} ist {{c2::ein Koordinationsspiel, bei dem die Nash-Gleichgewichte einen unterschiedlichen Payoff besitzen, welcher für alle Spieler unterschiedlich ist, wodurch sie für einzelne Spieler unterschiedliche für die Spieler vorteilhafte Nash-Gleichgewichte ergeben}}.	
+{{c1::Ein unbalanciertes Koordinationsspiel (Unbalanced Coordination Game)}} ist {{c2::ein Koordinationsspiel, bei dem die Nash-Gleichgewichte einen unterschiedlichen Payoff besitzen, welcher aber für alle Spieler gleich ist}}.	
+{{c1::Ein Focal Point}} ist {{c2::ein Faktor außerhalb von einem Spiel, der dazu führt, dass sich bei mehreren Nash-Gleichgewichten sich Spieler eher für ein bestimmtes Nash-Gleichgewicht entscheiden}}.	
+"Frage:<br />
+Woran erkennt man ein Koordinationsspiel in sozialen Kontexten wie Protesten oder politischen Demonstrationen?"	"<ul>
+<li>es existieren mindestens zwei Gleichgewichte<ul>
+<li>Teilnahme (hoher sozialer Nutzen)</li>
+<li>Nicht-Teilnahme (geringer, aber risikoarmer Nutzen)</li></ul></li>
+<li>gegenseitige Abhängigkeit der Entscheidung</li>
+<li>individuelle Nutzen steigt, wenn andere ebenfalls teilnehmen</li>
+</ul>"
+"wahr oder falsch:<br />
+In einem Koordinationsspiel existiert typischerweise genau ein Nash-Gleichgewicht."	"falsch:<br />
+Koordinationsspiele zeichnen sich oft durch multiple Nash-Gleichgewichte aus, abhängig von Erwartungen, Focal Points oder Gleichgewichtsselektion."
+"wahr oder falsch:<br />
+In einem Koordinationsspiel gibt es üblicherweise mehrere Nash-Gleichgewichte."	wahr
+{{c1::Ein Koordinationsspiel}} ist {{c2::ein Spiel, in welchem Spieler miteinander zusammenarbeiten müssen, um den höchsten Payoff zu erreichen}}.	
+"wahr oder falsch:<br />
+Bei einer strikt-dominanten Strategie existier ein Equilibrium."	wahr
+"wahr oder falsch:<br />
+Eine strikt-dominante Strategie sollte immer gewählt werden."	wahr
+{{c1::Eine strikt-dominante Strategie (Strict Dominant Strategy)}} ist {{c2::eine dominante Strategie und und Strict Best Response einer Partei, zu jeder Strategie eines anderen Spielers}}.	
+{{c1::Eine Strict Best Response}} ist {{c2::eine Best Response eines Spielers in Anbetracht der Strategien eines anderen Spielers, welche im Vergleich zu anderen Strategien immer einen höheren Vorteil bietet}}.	
+{{c1::Der Payoff}} ist {{c2::das Ergebnis einer Spielsituation, welches von den Spielern versucht wird, zu maximieren}}.	
+{{c1::Ein Spieler}} ist {{c2::ein Teilnehmender an einem Spiel}}.	
+{{c1::Eine Best Response}} ist {{c2::eine Menge an Strategien eines Spielers bei der Vermutung der Strategie eines anderen Spielers, die zu einem höheren Payoff führen}}.	
+"wahr oder falsch:<br />
+Ist in einem Superknoten eine negative Kante vorhanden, ist dieser Superknoten nicht strukturell balanciert."	wahr
+{{c1::Ein Superknoten}} ist {{c2::ein Knoten, welcher durch eine Gruppe von Knoten entsteht, die mit einer positiven Kante miteinander verbunden sind}}.	
+"wahr oder falsch:<br />
+Wenn ein Zyklus in einem nicht-vollständiger Graph eine ungerade Anzahl an negativen Kanten besitzt, dann ist dieser nicht strukturell balanciert."	wahr
+"Um strukturelle Balance in einem nicht-vollständigen Graphen zu erkennen, sollten {{c1::zuerst die positiven Kanten betrachtet werden}}., sodass sich {{c1::Gruppen}} bilden Diese {{c1::Gruppen}} können dann als {{c2::eigener Superknoten}} betrachtet werden, um die Prüfung zu vereinfachen.<br />
+<img src=""2010-Bild-Easley-Kleinberg-Strukturelle_Balance_in_einem_nicht-vollstaendigen_Graphen.png"" alt=""""><br />
+Strukturelle Balance in einem nicht-vollständigen Graphen"	
+"<p>Mit struktureller Balance in einem nicht-vollständigen Graphen kann zudem wie folgt umgegangen werden:</p>
+<ul>
+<li>{{c1::fehlende Verbindungen werden ergänzt, sodass sich am Ende ein strukturell balancierter vollständiger Graph ergibt}}</li>
+<li>{{c1::Knoten werden in eine Menge an zwei Gruppen aufgeteilt}}</li>
+</ul>"	
+"Frage:<br />
+Wann gilt ein Graph als schwach balanciert?"	Wenn es möglich ist, alle Knoten in Gruppen zu unterteilen, sodass innerhalb der Gruppen nur positive Kanten bestehen und zwischen Gruppen nur negative Kanten, auch wenn mehr als zwei Gruppen existieren.
+{{c1::Weak Structural Balance}} ist {{c2::eine strukturelle Balance, in welcher keine Menge an drei Knoten existiert, in welchen zwei positive und eine negative Kanten diese verbinden}}. Gegensätzlich zu einer strukturellen Balance können in {{c1::einer schwachen strukturellen Balance}} drei Knoten auch durch {{c3::vollständig negative Kanten}} verbunden sein.	
+"Frage:<br />
+Was beschreibt das Balance Theorem in vollständig verbundenen Graphen?"	Ein vollständig verbundener Graph ist strukturell balanciert, wenn entweder alle Knoten positiv miteinander verbunden sind oder zwei Gruppen mit jeweils positiven internen Verbindungen existieren, die sich gegenseitig negativ verbinden.
+"wahr oder falsch:<br />
+Wenn der Graph nicht vollständig ist, ist er balanciert, wenn kein Zyklus eine ungerade Anzahl negativer Kanten enthält."	wahr
+{{c1::Das Balance Theorem}} ist {{c2::ein Theorem, welches beschreibt, dass ein vollständiger Graph, welcher strukturell balanciert ist, entweder eine vollständige Gruppe mit positiven Verbindungen besitzt oder in zwei Gruppen mit positiven Verbindungen aufgeteilt werden kann, in welchem die zwei Gruppen durch eine negative Verbindung miteinander verbunden sind}}.	
+"wahr oder falsch:<br />
+Ein Graph mit drei Knoten und einer ungerade Anzahl positiver Kanten, die sie verbinden, besitzt eine strukturelle Balance."	wahr
+"wahr oder falsch:<br />
+Ein Netzwerk mit drei Knoten und zwei positiven sowie einer negativen Kante ist strukturell balanciert."	falsch
+"wahr oder falsch:<br />
+Ein vollständiger Graph, welcher strukturell balanciert ist, kann in zwei Gruppen mit positiven Verbindungen aufgeteilt werden, in welchem die zwei Gruppen durch eine negative Verbindung miteinander verbunden sind."	wahr
+"wahr oder falsch:<br />
+In vollständig verbundenen Graphen mit struktureller Balance können beliebige Kombinationen aus positiven und negativen Kanten auftreten."	"falsch:<br />
+Strukturelle Balance erlaubt nur bestimmte Konfigurationen (z. B. vollständige positive Verbindung oder zwei Gruppen mit interner Positivität und gegenseitiger Negativität)."
+"{{c1::Structural Balance (strukturelle Balance)}} ist {{c2::die Balance zwischen Kanten, die durch eine positive oder negative Kante verbunden sind, in welchem bei Betrachtung von drei Knoten, die miteinander verbunden sind, entweder jeweils eine oder drei positive Kanten vorhanden sein, um balanciert zu sein}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Haines-Structural_Balance.png"" alt=""""><br />
+Structural Balance}}}}"	
+"Frage:<br />
+Wie funktioniert das Schelling-Modell?"	Im Schelling-Modell werden zwischen zwei Arten von Agenten mit verschiedenen Merkmalen unterschieden, die in einem zweidimensionalen Netz leben, in welchen sie Nachbarn, sowohl horizontal, vertikal als auch diagonal besitzen. Diese Nachbarn sind zufrieden, wenn eine gewissen Anzahl an Nachbarn vom gleichen Typ vorhanden sind. Ist der Nachbar nicht zufrieden, zieht er in eine freie Zelle um, wo er zufriedener ist. Danach kann sich die Zufriedenheit anderer Agenten verändern, wodurch diese ebenfalls umziehen, was eine dynamische Kettenreaktion auslöst.
+"wahr oder falsch:<br />
+Im Schelling-Modell sortieren sich zwei Agenten-Arten grundsätzlich nach einer Menge an Iterationen eher zu zwei großen Gruppen, welche die räumliche Segregation darstellen."	wahr
+{{c1::Das Schelling-Modell}} ist {{c2::ein Modell zur Beschreibung von räumlichen Segregation, in welcher Gruppen mit ähnlichen Merkmalen näher zueinander leben}}.	
+"Frage:<br />
+Welche Rolle spielt Membership Closure bei der Nutzergewinnung auf Plattformen wie Airbnb?"	Membership Closure beschreibt, dass Nutzer durch bestehende Beziehungen (z. B. Freunde, Kollegen) auf eine Plattform gebracht werden. Dies ist besonders effektiv, wenn bestehende Nutzer ihre positiven Erfahrungen teilen und dadurch Vertrauen und Nachahmung bei potenziellen Nutzern erzeugen.
+"wahr oder falsch:<br />
+Im Membership Closure nimmt die Adaption des Fokus mit der Anzahl der Nachbarknoten mit dem gleichen Fokus ab."	wahr
+"wahr oder falsch:<br />
+Membership Closure entsteht insbesondere in Social-Affiliation-Netzwerken."	wahr
+{{c1::Ein Membership Closure}} ist {{c2::das Closure als Erweiterung von Beziehungen von einem Element zu einem Focus im einen Netzwerk durch ein weiteres Element, in welcher die Beziehung sich in einer dreieckigen Form schließt}}.	
+"wahr oder falsch:<br />
+Focal Closure entsteht insbesondere in Social-Affiliation-Netzwerken."	wahr
+"wahr oder falsch:<br />
+Im Focal Closure nimmt die Kantenbildung mit der Anzahl der gemeinsamen Foci ab."	wahr
+{{c1::Ein Focal Closure}} ist {{c2::das Closure als Erweiterung von Beziehungen zwischen zwei Elementen im einen Netzwerk durch einen Focus, in welcher die Beziehung sich in einer dreieckigen Form schließt}}.	
+"{{c1::Ein Social-Affiliation-Netzwerk}} ist {{c2::ein Netzwerk, in welchem Knoten mit Kanten zu Foci und zu anderen Personen verbunden werden können}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Social-Affiliation-Netzwerk.png"" alt=""""><br />
+Social-Affiliation-Netzwerk}}}}"	
+"Beispiel:<br />
+Affiliation-Netzwerk"	"<ul>
+<li>Erforschung von Menschen, die in verschiedenen Unternehmen in den Aufsichtsräten gleichzeitig sitzen</li>
+</ul>"
+"wahr oder falsch:<br />
+In Affiliation-Netzwerken steigt die Wahrscheinlichkeit neuer Kanten zwischen Personen mit der Anzahl gemeinsamer Foci."	wahr
+"{{c1::Ein Affiliation-Netzwerk}} ist {{c2::ein bipartiter Graph, in dem die Affiliation von Elementen zu den Foci dargestellt wird}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Affiliation-Netzwerk.png"" alt=""""><br />
+Affiliation-Netzwerk als bipartiter Graph}}}}"	
+"Beispiel:<br />
+Focus (Graph)"	"<ul>
+<li>Klasse</li>
+<li>Online-Gruppenmitgliedschaft</li>
+<li>Verein</li>
+<li>Wikipedia-Artikel</li>
+</ul>"
+{{c1::Ein Focus im Graph}} ist {{c2::der soziale, psychologische, juristische oder physische Faktor, welche als Aktivität eine oder mehrere Elemente verbindet.}}	
+"Beispiel:<br />
+Affiliation"	"<ul>
+<li>Sportaktivitäten</li>
+<li>Vereinsmitgliedschaften</li>
+</ul>"
+{{c1::Affiliation}} ist {{c2::die Erzeugung von Relationen, weil Objekte durch einen Focus an denselben oder ähnlichen Aktivitäten in denselben oder ähnlichen Umwelten beteiligt sind}}.	
+"Beispiel:<br />
+Social Influence"	"<ul>
+<li>eine Person, welche Drogen konsumiert, wird wahrscheinlich auch ein soziales Netzwerk besitzen, welches Drogen konsumiert</li>
+</ul>"
+{{c1::Social Influence}} ist {{c2::die Beeinflussung von Relationen aufgrund von einem existierenden sozialen Netzwerk, welcher die Charakteristiken der Personen beeinflusst}}.	
+"Beispiel:<br />
+Selektion"	"<ul>
+<li>Arbeitsort</li>
+<li>Bildungsort</li>
+<li>Geschlecht</li>
+<li>Wohnort</li>
+</ul>"
+{{c1::Selektion}} ist {{c2::die Auswahl und das bewusste oder unterbewusste Treffen von Entscheidungen zur Bildung einer Relation mit einer Ähnlichkeit zum eigenen Bezugsobjekt aufgrund von Homophily}}.	
+{{c1::Eine heterogene Kante}} ist {{c2::eine Kante, welche zwei Knoten miteinander verbindet, welche nach einem festgelegten Kriterium unterschiedlich sind}}.	
+"Beispiel:<br />
+Homophily"	"<ul>
+<li>ein Laden in einem kulturell dominierten Gebiet wird eben diese kulturellen Güter anbieten</li>
+<li>eine Person in einer Freundesgruppe wird ähnlich zu seinen Freunden sein</li>
+<li>eine Person, welche Drogen konsumiert, wird wahrscheinlich auch ein soziales Netzwerk besitzen, welches Drogen konsumiert</li>
+</ul>"
+"Frage:<br />
+Was versteht man unter Homophily im Kontext sozialer Netzwerke?"	Die Tendenz, dass Knoten mit ähnlichen Eigenschaften eher miteinander verbunden sind als mit unähnlichen Knoten.
+"wahr oder falsch:<br />
+Bei Homophily besteht eine höhere Wahrscheinlichkeit, dass sich zwei Knoten mit unterschiedlichen Eigenschaften verbinden."	"falsch:<br />
+Homophily beschreibt gerade die Tendenz, dass sich ähnliche Knoten miteinander verbinden."
+"wahr oder falsch:<br />
+Homophily in sozialen Kontexten ermöglicht Triadic Closure."	wahr
+"wahr oder falsch:<br />
+Homophily kann sowohl Ursache als auch Wirkung der Struktur sozialer Netzwerke sein."	wahr
+"Homphily kann mathematisch bestätigt werden, wenn:<br />
+{{c1::\(cge \lll 2 \cdot p \cdot q\)}} mit {{c1::\(cge\) als prozentualer Anzahl der heterogenen Kanten über alle Kanten}}, {{c1::\(p\)}} als {{c1::der prozentuale Anteil einer Gruppe über alle Kanten}}, {{c1::\(q\)}} als {{c2::der prozentuale Anteil \(q\) einer anderen Gruppe über alle Kanten}}"	
+{{c1::Der Surrounding Context im Graph}} sind {{c2::alle Faktoren, welche nicht in einem Netzwerk abgebildet werden, aber jenes Netzwerk beeinflussen}}.	
+"wahr oder falsch:<br />
+Brokerage zwischen Gruppen reduziert den Zugang zu Informationen für die Beteiligten."	"falsch:<br />
+Brokerage erhöht die Zugänglichkeit von Informationen über strukturelle Lücken hinweg und schafft Verbindungen zwischen sonst isolierten Gruppen."
+{{c1::Brokerage}} ist {{c2::die Fähigkeit, durch die Interaktion zwischen bestimmten Gruppen über Structural Holes hinaus gehen zu können}}. {{c1::Brokerage}} erhöht {{c3::die frühe Zugänglichkeit von Informationen}}.	
+"wahr oder falsch:<br />
+Closure erhöht die Kommunikation."	wahr
+"wahr oder falsch:<br />
+Closure verringert die Kommunikationseffizienz, da zusätzliche Beziehungen Redundanzen schaffen."	"falsch:<br />
+Closure erhöht Kommunikationsqualität und Vertrauen, da sich durch geschlossene Beziehungsdreiecke stabilere Interaktionen und soziale Kontrolle ergeben."
+"wahr oder falsch:<br />
+Durch Closure entsteht Integrität innerhalb der Interaktion und gewisse Reputationseffekte."	wahr
+{{c1::Closure}} ist {{c2::die Bildung von Kanten zwischen Knoten, die ein ähnlichen Focus besitzen}}.	
+{{c1::Cultural Capital (kulturelles Kapital)}} ist {{c2::das Kapital, welches durch eine Kultur entsteht}}.	
+{{c1::Economical Capital (ökonomisches Kapital)}} ist {{c2::das Kapital, welches aus Realkapital und Gütern besteht}}.	
+"Frage:<br />
+Welches Capital entsteht durch Closure zwischen Gruppe?"	Bridging Capital
+{{c1::Bridging Capital}} ist {{c2::das Social Capital, welches durch das Vernetzen verschiedener Gruppe erfolgt}}. {{c1::Bridging Capital}} entsteht durch {{c3::Brokerage zwischen Gruppen}}.	
+"Frage:<br />
+Welches Capital entsteht durch Closure innerhalb einer Gruppe?"	Bonding Capital
+{{c1::Bonding Capital}} ist {{c2::das Social Capital, welches durch das Vernetzen innerhalb einer Gruppe erfolgt}}. {{c1::Bonding Capital}} entsteht durch {{c3::Closure innerhalb einer Gruppe}}.	
+{{c1::Physikalisches Kapital (Physical Capital)}} ist {{c2::Kapital in Form von Technologie, welche einen unterstützenden Effekt zur Arbeit beitragen}}.	
+"wahr oder falsch:<br />
+Social Capital kann einem Individuum, aber auch einer Gruppe zugeordnet werden."	wahr
+{{c1::Social Capital (soziales Kapital)}} ist {{c2::das Kapital in Form von Fähigkeiten von Akteuren, Vorteile in ihrem sozialen Netzwerk zu sichern}}.	
+"wahr oder falsch:<br />
+Knoten, welche ein Structural Hole aufspannen, besitzen eine vorteilhafte Position, da sie zuerst an Informationen über Knotengruppen hinweg gelangen und in ihrer Position als Gatekeeper agieren können."	wahr
+"{{c1::Ein Structural Hole im Graph}} ist {{c2::der leere Raum zwischen zwei Mengen von Knoten, welche nur durch eine Local Bridge eine Beziehung besitzen}}. {{c1::Das Structural Hole}} wird durch {{c3::die Local Bridge}} aufgespannt.<br />
+{{c1::{{c2::{{c3::<img src=""2010-Bild-Easley-Kleinberg-Embeddedness.png"" alt=""""><br />
+Graph, in welchem \(B\) Structural Holes aufspannt}}}}}}"	
+"Frage:<br />
+Wie wirkt sich Embeddedness auf die Aufrechterhaltung von Kanten aus?"	Je mehr gemeinsame Nachbarn zwei Knoten haben, desto höher ist die Embeddedness und desto stabiler ist typischerweise ihre Verbindung.
+"wahr oder falsch:<br />
+Eine hohe Embeddedness führt zu einem höheren Vertrauen in Interaktionen zwischen den zwei Knoten, da diese umgeben von weiteren Knoten sind, welche die Interaktion beobachten und bewerten können."	wahr
+"wahr oder falsch:<br />
+Ein hoher Embeddedness-Wert einer Kante reduziert die Wahrscheinlichkeit opportunistischen Verhaltens."	wahr
+"{{c1::Embeddedness}} ist {{c2::ein Koeffizient für Anzahl an Nachbarn welche die zwei Knoten einer Kante besitzen}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Embeddedness.png"" alt=""""><br />
+Graph mit einer Embeddedness von \(2\) für die Kante \(AB\), da diese beide die Nachbarn \(E\) und \(F\) besitzen}}}}"	
+"wahr oder falsch:<br />
+Eine Kante mit einem Neighborhood Overlap von \(0\) stellt eine Local Bridge dar."	wahr
+"wahr oder falsch:<br />
+Kanten mit einer höheren Neighborhood Overlap besitzen üblicherweise mehr Strong Ties."	wahr
+{{c1::Der Neighborhood Overlap}} ist {{c2::eine Kennzahl, welche anzeigt, ob eine Kante (fast) eine Local Bridge erzeugt}}.	
+{{c1::\(\text{Neighborhood Overlap}\)}} \(=\) {{c2::\(\frac{\text{Knoten, die Nachbarn von } A \text{ und } B \text{ sind}}{\text{Knoten, die Nachbarn von } A \text{ oder } B \text{ sind}}\)}}, wobei {{c2::\(A\) und \(B\) nicht mitgezählt werden}}	
+"Frage:<br />
+Was besagt die Strong Triadic Closure Property?"	Wenn ein Knoten zwei Strong Ties zu anderen Knoten hat, sollte zwischen diesen anderen Knoten mindestens eine (auch schwache) Verbindung bestehen.
+"Frage:<br />
+Was besagt die Strong Triadic Closure Property in sozialen Netzwerken, und welche Konsequenz hat ein Verstoß gegen diese Eigenschaft?"	Wenn ein Knoten starke Bindungen zu zwei anderen Knoten hat, erwartet man, dass auch eine (wenigstens schwache) Verbindung zwischen diesen beiden Knoten besteht. Ein Verstoß deutet auf Instabilität, potenziellen Konflikt oder fehlende Gelegenheit zur Verknüpfung hin.
+"wahr oder falsch:<br />
+Triadic Closure ist noch wahrscheinlicher, wenn Strong Ties zum selben Knoten bestehen."	wahr
+{{c1::Die Strong Triadic Closure Property}} ist {{c2::eine Eigenschaft, dass in einem Graphen mit drei Knoten \(A, B, C\) und zwei Strong Ties \(AB, AC\)  ebenfalls eine Verbindung \(BC\) existieren muss, andernfalls müssen die Verbindungen Weak Ties sein}}.	
+"Frage:<br />
+Welche Rolle spielen Weak Ties bei der Verbreitung von Informationen oder Verhalten?"	Sie verbinden unterschiedliche Cluster und ermöglichen dadurch die Weitergabe über Clustergrenzen hinweg. Dadurch beschleunigen sie die Synchronisation von Trends.
+"wahr oder falsch:<br />
+Die Definition einer Weak Tie ist abhängig von Annahmen und Festlegungen."	wahr
+"wahr oder falsch:<br />
+Weak Ties sind häufiger wichtige Verbindungen für eine Giant Component."	wahr
+{{c1::Eine Weak Tie (schwache Verbindung)}} ist {{c2::eine Relation mit einer schwachen Verbindung zwischen zwei Knoten}}.	
+"wahr oder falsch:<br />
+Die Definition einer Strong Tie ist abhängig von Annahmen und Festlegungen."	wahr
+{{c1::Eine Strong Tie (starke Verbindung)}} ist {{c2::eine Relation mit einer starken Verbindung zwischen zwei Knoten}}.	
+"{{c1::Eine Local Bridge Span}} ist {{c2::die Distanz von zwei Knoten, die vorhanden wäre, wenn eine Local Bridge entfernt werden würde}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Local_Bridge.png"" alt=""""><br />
+Local Bridge mit einer Local Bridge Span von \(4\) zwischen \(A\) und \(B\)}}}}"	
+"Frage:<br />
+Was ist eine Local Bridge in einem Netzwerk?"	Eine Kante, deren Entfernung die beiden verbundenen Knoten nicht vollständig trennt, aber den Abstand zwischen ihnen vergrößert.
+"wahr oder falsch:<br />
+Eine Local Bridge ist zwischen Knoten vorhanden. Würde man sie entfernen, würde dies den Graphen in zwei Komponenten aufteilen (sodass der Graph nicht mehr zusammenhängend wäre)."	"falsch:<br />
+Es würde sich um eine Bridge handeln, wenn die Aussage wahr wäre."
+"wahr oder falsch:<br />
+Eine Local Bridge ist zwischen Knoten vorhanden. Würde man sie entfernen, würde sich der Abstand zwischen diesen Knoten vergrößern."	wahr
+"wahr oder falsch:<br />
+Eine Local Bridge trennt den Graphen in zwei Komponenten, wenn sie entfernt wird."	"falsch:<br />
+Das ist die Eigenschaft einer Bridge. Eine Local Bridge erhöht nur die Distanz zwischen zwei Knoten, trennt den Graphen aber nicht."
+"wahr oder falsch:<br />
+Local Bridges durch die Strong Triadic Closure Property häufig Strong Ties."	"falsch:<br />
+sie sind häufig Weak Ties"
+"wahr oder falsch:<br />
+Local Bridges durch die Strong Triadic Closure Property häufig Weak Ties."	wahr
+"wahr oder falsch:<br />
+Local Bridges sind typischerweise Strong Ties."	"falsch:<br />
+Local Bridges sind meist Weak Ties, da Strong Ties in der Regel zu Triadic Closure führen."
+"{{c1::Eine Local Bridge im Graph}} ist {{c2::eine Bridge, die beim Entfernen der Beziehung dazu führen würde, dass die Verbindung zwischen diesen zwei Knoten aber auch über einen anderen Knoten oder Pfad möglich sein könnte, aber länger wird}}. Die Betrachtung ist daher lokal und nicht global auf den Graph gerichtet.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Local_Bridge.png"" alt=""""><br />
+Graph, in dem die Verbindung \(AB\) eine Local Bridge ist}}}}"	
+"wahr oder falsch:<br />
+Eine Bridge ist zwischen Knoten vorhanden. Würde man sie entfernen, würde dies den Graphen in zwei Komponenten aufteilen (sodass der Graph nicht mehr zusammenhängend wäre)."	wahr
+"wahr oder falsch:<br />
+Eine Bridge ist zwischen Knoten vorhanden. Würde man sie entfernen, würde sich der Abstand zwischen diesen Knoten vergrößern."	"falsch:<br />
+Es würde sich um eine Local Bridge handeln, wenn die Aussage wahr wäre."
+"{{c1::Eine Bridge im Graph}} ist {{c2::eine Beziehung zwischen zwei Knoten, die bei Entfernen der Beziehung dazu führen würde, dass die zwei Knoten und die dazugehörigen Knoten in zwei Komponenten aufgeteilt werden}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Bridge.png"" alt=""""><br />
+Graph, in dem die Verbindung \(AB\) eine Bridge ist}}}}"	
+"Frage:<br />
+Was ist der Clustering Coefficient in einem Netzwerk?"	Er misst den Anteil tatsächlich vorhandener Verbindungen unter den Nachbarn eines Knotens im Verhältnis zu allen möglichen Verbindungen zwischen diesen Nachbarn.
+"Frage:<br />
+<img src=""2025-Bild-Haines-Cluster_Coefficient_1.png"" alt=""""><br />
+Wie hoch ist der Cluster Coefficient für \(A\)?"	\(\frac{1}{6}\): Bei \(6\) möglichen Verbindungen von den mit \(A\) verbundenen Knoten sind nur \(C\) und \(D\) miteinander verbunden.
+"Frage:<br />
+<img src=""2025-Bild-Haines-Cluster_Coefficient_2.png"" alt=""""><br />
+Wie hoch ist der Cluster Coefficient für \(A\)?"	\(\frac{3}{6}\): Bei \(6\) möglichen Verbindungen von den mit \(A\) verbundenen Knoten sind drei davon miteinander verbunden.
+"wahr oder falsch:<br />
+Der Clustering Coefficient ist hoch, wenn keine der Nachbarn eines Knotens untereinander verbunden sind."	"falsch:<br />
+Ein hoher Clustering Coefficient bedeutet, dass viele Verbindungen zwischen den Nachbarn eines Knotens existieren. Bei keiner Verbindung ist er \(0\)."
+{{c1::Der Clustering Coefficient (Clustering Koeffizient)}} ist {{c2::ein Koeffizient für einen Knoten \(A\), welcher mit zwei zufällig ausgewählten Knoten \(B\) und \(C\) verbunden ist, wobei der Koeffizient den Anteil an Verbindungen angibt, der durch die Verbindung mit \(B\) und \(C\) definiert wird}}.	
+Der Clustering Coefficient ist für \(A\) {{c1::\(0\)}}, wenn {{c2::keine mit \(A\) verbundenen Knoten miteinander verbunden}} sind und {{c1::\(1\)}}, wenn {{c2::alle mit \(A\) verbundenen Knoten miteinander verbunden sind}}.	
+"Beispiel:<br />
+Triadic Closure"	"<ul>
+<li>wenn zwei Freunde in einem sozialen Netzwerk einen gemeinsamen Freund haben, wird die Wahrscheinlichkeit erhöht, dass diese Personen ebenfalls Freunde werden</li>
+</ul>"
+"Frage:<br />
+Wie ist die Bezeichnung für ein Phänomen in Netzwerken, dass, wenn zwei Knoten in einem Netzwerk eine Kanten zum selben Knoten haben, die Wahrscheinlichkeit erhöht ist, dass sie zu einem späteren Zeitpunkt eine Kante zueinander haben werden."	Triadic Closure
+"wahr oder falsch:<br />
+Im Triadic Closure nimmt die Kantenbildung exponentiell mit der Anzahl der gemeinsamen Knoten zu."	wahr
+"wahr oder falsch:<br />
+Triadic Closure ist wahrscheinlicher, wenn starke Bindungen zu einem gemeinsamen Knoten bestehen."	wahr
+"wahr oder falsch:<br />
+Wenn häufiges Triadic Closure auftritt, nimmt das Clustering zu."	wahr
+"wahr oder falsch:<br />
+Wenn zwei Knoten in einem Netzwerk Kanten zum selben Knoten haben, ist die Wahrscheinlichkeit erhöht, dass sie zu einem späteren Zeitpunkt eine Kante zueinander haben werden."	"wahr:<br />
+Triadic Closure"
+"{{c1::Eine Triadic Closure}} ist {{c2::das Closure als Erweiterung von Beziehungen im einen Netzwerk durch eine vorherigen Beziehung, in welcher die Beziehung sich in einer dreieckigen Form schließt}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Triadic_Closure.png"" alt=""""> Triadic Closure}}}}"	
+"wahr oder falsch:<br />
+Local Gatekeepers sind immer Pivotal Nodes."	falsch
+"{{c1::Ein Local Gatekeeper}} ist {{c2::ein Gatekeeper, welcher eine Verbindung zwischen zwei Knoten ermöglicht, die keine Verbindung zueinander haben, die Verbindung zwischen diesen zwei Knoten aber auch über einen anderen Knoten oder Pfad möglich sein könnte, aber länger wird}}. Die Betrachtung ist daher lokal und nicht global auf den Graph gerichtet.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Gatekeeper.png"" alt=""""><br />
+Graph, in dem \(D\) ein Local Gatekeeper zwischen \(B\) und \(C\) ist, da diese auch durch \(A\) erreichbar sind}}}}"	
+"wahr oder falsch:<br />
+Ein Gatekeeper ist immer bei einer Bridge vorhanden."	wahr
+"wahr oder falsch:<br />
+Ein Gatekeeper verbindet nur Knoten, die auch über andere Pfade erreichbar sind."	"falsch:<br />
+Ein Gatekeeper ist gerade essentiell, weil zwischen zwei Knoten kein anderer Pfad besteht. Seine Entfernung würde die Verbindung unterbrechen."
+"{{c1::Ein Gatekeeper in einem Graph}} ist {{c2::ein Knoten, welcher zwischen zwei Knoten immer verbunden sein muss}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Gatekeeper.png"" alt=""""><br />
+Graph, in dem \(A\) ein Gatekeeper zwischen \(C\) und \(E\) ist}}}}"	
+"{{c1::Ein Pivotal Node (pivotaler Knoten) in einem Graph}} ist {{c2::ein Knoten, welcher auf jedem kürzesten Pfad zwischen zwei Knoten liegt}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Disconnected_Graph.png"" alt=""""><br />
+Disconnected Graph, wobei \(K\) ein Pivotal Node für die Verbindung zwischen \(I\) und \(L\) ist, während \(M\) kein Pivotal Node für keine Verbindung ist}}}}"	
+"Beispiel:<br />
+Six Degrees of Separations"	"<ul>
+<li>in den 1960er Jahren wurde ein Experiment durchgeführt, bei dem 296 Personen versuchten, einen Brief über persönliche Kontakte an einen unbekannten Börsenmakler in Boston weiterzuleiten, wobei sich zeigte, dass viele Briefe den Empfänger in überraschend wenigen Schritten erreichten</li>
+<li>Leskovec und Horvitz analysierten das Kommunikationsnetzwerk von 240 Millionen Microsoft-IM-Nutzern und fanden heraus, dass fast alle Nutzer in einer einzigen, stark verbundenen Komponente lagen, mit einer durchschnittlichen Pfadlänge von \(6.6\)</li>
+<li>zwei zufällige Personen sind in dem gesamten sozialen Netz meist durch maximal durch eine Pfadlänge von \(6\) entfernt</li>
+</ul>"
+{{c1::Die Six Degrees of Separations (Small-World Phenomenon)}} ist {{c2::ein Phänomen, dass trotz komplexer soziale Netzwerke die Länge zwischen zwei Knoten meist nicht mehr als \(6\) beträgt}}.	
+"{{c1::Die Länge (Length) in einem Graph}} ist {{c2::die Anzahl an Kanten, die eine Anzahl an Knoten oder ein Graph besitzt}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Disconnected_Graph.png"" alt=""""><br />
+Disconnected Graph mit einer Länge von \(3\) zwischen \(H\) und \(I\)}}}}"	
+"Beispiel:<br />
+Giant Component"	"<ul>
+<li>globaler Graph an Freundschaften mit einer isolierte Insel ohne Kontakt zu denen, in welchem alle Menschen mit Ausnahme der Insel eine Giant Component bilden </li>
+<li>zwei Giant Components mit dem sozialen Netzwerk in Amerika und dem in Europa-Asien vor der Erkundung durch Kolumbus</li>
+</ul>"
+{{c1::Eine Giant Component}} in {{c2::einem Graph ist eine Component, welche überproportional groß zu anderen Components ist. Graphen, die eine Giant Component besitzen, haben üblicherweise nur eine Giant Component}}.	
+"{{c1::Eine Komponente (Component) in einem Graph}} ist {{c2::eine Menge an Knoten, die in einem Disconnected Graph miteinander verbunden sind und somit ein Subset bilden, wobei Knoten in diesem Subset mit keinem anderen Subset verbunden sein dürfen}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Disconnected_Graph.png"" alt=""""><br />
+Disconnected Graph mit drei Komponenten: \((A, B); (C, D, E); (F, G, H, I, J, K, L, M)\)}}}}"	
+"{{c1::Ein Disconnected Graph}} ist {{c2::ein Graph, in welchem von einem beliebigen Knoten mindestens ein anderer Knoten nicht über einen Pfad erreichbar ist}}.<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Disconnected_Graph.png"" alt=""""><br />
+Disconnected Graph}}}}"	
+"wahr oder falsch:<br />
+Ein Connected Graph mit einen Cycle ist ein Baum."	falsch
+"wahr oder falsch:<br />
+Ein Connected Graph ohne einen Cycle ist ein Baum."	wahr
+{{c1::Ein Connected Graph (verbundener Graph)}} ist {{c2::}}.	
+"Beispiel:<br />
+Cycle (Graph)"	"<ul>
+<li>Kommunikationsnetzwerke mit Redundanzen</li>
+<li>soziale Systeme, in dem eine Bekanntschaft über mehrere Wege auftritt</li>
+</ul>"
+"wahr oder falsch:<br />
+Ein Zyklus mit einer ungeraden Anzahl negativer Kanten ist strukturell balanciert."	"falsch:<br />
+Ein solcher Zyklus ist nicht balanciert, da strukturelle Balance nur bei einer geraden Anzahl negativer Kanten gegeben ist."
+{{c1::Ein Cycle (Zyklus) in einem Graph}} ist {{c2::ein Pfad mit mindestens drei Kanten, in welchem der erste und die letzte Kante die gleiche sind}}.	
+{{c1::Ein simpler Pfad (Simple Path) in einem Graph}} ist {{c2::ein Pfad, welcher keinen Knoten zweimal nennt oder wiederholt}}.	
+{{c1::Ein Nachbar (Nachbarknoten) in einem Graph}} ist {{c2::ein Knoten, wenn dieser mit einem anderen Knoten über eine Kante verbunden ist}}.	
+{{c1::Connectedness}} ist {{c2::die Verbindung von Objekten in ein Netzwerk und der Einfluss von individuellen Objekten auf das Netzwerk}}.	
+{{c1::Ein Netzwerk in einem Graph}} ist {{c2::eine Sammlung von Objekten, in welchem einige Objekte miteinander in einer Beziehung stehen und miteinander verknüpft werden}}.	
+{{c1::Sozialer Nutzen (Social Utility)}} ist {{c2::der Nutzen für eine Anzahl an Personen durch den Gewinn an Nutzen oder Geld bei einem Handel für alle beteiligten}}.	
+{{c1::Der zentraler Grenzwertsatz}} ist {{c2::ein Satz der Statistik, dass der Mittelwert von Stichproben bei stochastischer Verteilung bei steigender Anzahl der Stichproben annähernd normalverteilt ist}}.	
+{{c1::Der Diameter}} in {{c2::einem Graph ist die maximale Distanz zwischen zwei Knoten in einem Graph, wodurch die maximale Distanz des Graphen definiert wird}}.	
+{{c1::Ein Pfad (Path) \(p\) in einem Graph}} ist {{c2::eine Folge von Knoten \(p = \langle v_{1},..., v_{k} \rangle\), die miteinander verbunden sind}}.	
+{{c1::Ein vollständiger Graph}} ist {{c2::ein Graph, in dem jeder Knoten mit jedem anderen Knoten durch eine Kante verbunden ist}}.	
+{{c1::Ein Knoten in einem Graph}} ist {{c2::ein Objekt, welches in einem Netzwerk agiert}}.	
+"Frage:<br />
+Auf welcher Grundlage wird wann und wie eine Kante definiert?"	Durch die Umwelt des Netzwerkes und den Kontext, in dem sich die Beziehung befindet.
+{{c1::Eine Kante (Edge)}} ist {{c2::eine Verbindung zwischen Knoten}}.	
+"{{c1::Diffusion in der Wirtschaft}} ist {{c2::der Prozess der räumlichen und zeitlichen Ausbreitung einer Innovation in einem sozialen Raum}}. {{c1::Die Diffusion einer Innovation}} findet durch {{c3::die Adoption einer Innovation durch einzelne Individuen}} statt. Ziel {{c1::der Diffusion}} ist {{c4::die Akzeptanz der Innovation}}.<br>
+{{c1::{{c2::{{c3::{{c4::<img src=""2023-Bild-Krcmar-Innovations-Diffusion.png"" alt=""""><br>
+Entwicklungszyklus von neuen Ideen und Technologien}}}}}}}}"	
+"<p>{{c1::Die Diffusion}} besteht aus:</p>
+<ul>
+<li>{{c2::der Innovation selber}}</li>
+<li>{{c2::Kommunikationskanälen}}</li>
+<li>{{c2::sozialen Systemen}}</li>
+<li>{{c2::Zeit}}</li>
+</ul>"	
+{{c1::Die Distanz (Distance)}} in {{c2::einem Graph ist die Länge von zwei Knoten}}.	
+"wahr oder falsch:<br />
+Ein stabiler Zustand im Netzwerk entsteht immer dann, wenn der soziale Nutzen jedes Knotens maximiert ist."	"falsch:<br />
+Ein stabiler Zustand bedeutet, dass kein Knoten durch eine einseitige Strategieänderung einen höheren Nutzen erzielen kann, auch wenn das Gesamtsystem nicht optimal ist."
+"wahr oder falsch:<br />
+Ein stabiler Zustand mit positiver Adoptionsquote in einem Netzwerk garantiert immer eine Pareto-Effizienz."	"falsch:<br />
+Ein stabiler Zustand kann durch individuelle Gleichgewichte entstehen, auch wenn die kollektive Wohlfahrt durch alternative Konfigurationen verbessert werden könnte."
+{{c1::Ein stabiler Zustand}} ist {{c2::ein Gleichgewichtspunkt, bei dem eine Abweichung der tatsächlichen Menge an Konsumenten automatisch wieder in ein Gleichgewicht korrigiert wird}}.	
+"wahr oder falsch:<br />
+In der Spieltheorie wird davon ausgegangen, dass alle Spieler rational agieren."	wahr
+"wahr oder falsch:  <br />
+In der Spieltheorie wird langfristig von rationalem Verhalten ausgegangen: Entweder über viele Entscheidungen hinweg oder über viele Akteure hinweg."	wahr
+"wahr oder falsch:  <br />
+Kognitive Verzerrungen haben keinen Einfluss auf die Belohnungsbewertung oder die Entscheidungssuche von Akteuren in spieltheoretischen Modellen."	"falsch:  <br />
+Kognitive Verzerrungen beeinflussen sowohl die Bewertung von Handlungsalternativen als auch die Art und Weise, wie nach Entscheidungen gesucht wird."
+"wahr oder falsch:<br />
+Wenn Belohnungen nicht von den Entscheidungen anderer abhängen, findet die Spieltheorie keine Anwendung."	wahr
+{{c1::Spieltheorie (Game Theory)}} ist {{c2::die Modellierung einer Situation, in der Spieler miteinander interagieren und in denen der Payoff jedes Spielers nicht nur von seiner eigenen Entscheidungen abhängt, sondern von den Entscheidungen aller}}.	
+In der Spieltheorie wird davon ausgegangen, dass alle Spieler {{c1::rational}} agieren.	
+{{c1::Das Orderbuchverfahren}} ist {{c2::ein Verfahren zur Preisfindung von Wertpapieren, bei denen Angebote ausgeführt werden, wenn in einem öffentliches oder nicht-öffentlichen Orderbuch eine entsprechende Gegenorder vorliegt}}.	
+"{{c1::Eine Vickrey-Auktion (Second-Price Auction)}} ist {{c2::ein Bieterverfahren, bei dem der Zuschlag zum Höchstgebot entsteht, der Kaufpreis aber zum zweithöchsten Gebot festgelegt wird}}, wodurch {{c3::eine Anreizkompatibilität}} entsteht.<br />
+{{c1::{{c2::{{c3::<img src=""2022-Bild-Wiesel-Vickrey-Auktion.png"" alt=""""><br />
+Vickrey-Aution}}}}}}"	
+{{c1::Das Gefangenendilemma}} kann in (un)kooperative Gesellschaften erklären, dass {{c2::Personen und Organisationen, die sich in einer kooperativen Gesellschaft unkooperativ verhalten, ihr Ergebnis verbessern können, während in einer unkooperativen Gesellschaft das Ergebnis der gesamten Gesellschaft gesenkt wird}}.	
+{{c1::Ein Dark Pool}} ist {{c2::eine spezielle Handelsplattform außerhalb des regulierten Börsenhandels}}.	
+{{c1::Eine Limit-Order}} ist {{c2::eine zeitbegrenzte Order, welche nur beim Erreichen des angegebenen Preises ausgeführt wird, ansonsten gelöscht wird}}.	
+"{{c1::Ein bipartiter Graph}} ist {{c2::ein Graph mit zwei Mengen \(V_{1}\) und \(V_{2}\), von denen jeder Knoten einer Menge zugeordnet wird und von jedem Knoten aus einer Menge mindestens eine Kante zu einem Knoten aus der anderen Menge führt.}}<br />
+{{c1::{{c2::<img src=""2010-Bild-Easley-Kleinberg-Affiliation-Netzwerk.png"" alt=""""> Affiliation-Netzwerk als bipartiter Graph}}}}<br />
+{{c1::{{c2::<img src=""2022-Bild-Kuchen-Bestimmung_einer_maximalen_Zuordnung.png"" alt=""""><br />
+Bestimmung einer maximalen Zuordnung in einem biparatiten Graph}}}}"	
+"{{c1::Breitensuche (Breadth-First Search)}} ist {{c2::ein Suchalgorithmus nach einem Knoten nach dem FIFO-Prinzip, bei dem die Nachbarknoten zuerst betrachtet werden}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Kuchen-Beispielgraph_fuer_die_Tiefen-_und_Breitensuche.png"" alt=""""><br />
+Breitensuche in der Durchlaufreihenfolge \(v[0], v[2], v[1], v_[3], v_[4], v_[5]\)}}}}"	
+"{{c1::Tiefensuche}} ist {{c2::ein Suchalgorithmus nach einem Knoten nach dem LIFO-Prinzip, bei dem zuerst die geringsten Nachfolger rekursiv betrachtet werden und dann die Nachbarknoten}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Kuchen-Beispielgraph_fuer_die_Tiefen-_und_Breitensuche.png"" alt=""""><br />
+Tiefensuche in der Durchlaufreihenfolge \(v_{0}, v_{2}, v_{1}, v_{4}, v_{3}, v_{5}\)}}}}"	
+"{{c1::Ein ungerichteter Graph}} ist {{c2::ein Graph, bei denen die Kanten keine Richtung zu Knoten besitzen}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Kuchen-Ungerichteter_Graph.png"" alt=""""><br />
+Ungerichteter Graph \(G_{2} = (\{ v_{0}, v_{1}, v_{2}, v_{3} \}, \{ \{v_{0}, v_{2} \}, \{ v_{1}, v_{2} \}, \{ v_{2}, v_{3} \} \})\)}}}}"	
+"{{c1::Ein gerichteter Graph}} ist {{c2::ein Graph, bei denen die Kanten eine Richtung zu Knoten besitzen}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Kuchen-Gerichteter_Graph.png"" alt=""""><br />
+Gerichteter Graph \(G_{2} = (\{ v_{0}, v_{1}, v_{2}, v_{3} \}, \{(v_{0}, v_{2}), (v_{1}, v_{2}), (v_{2}, v_{1}), (v_{2}, v_{3}) \})\)}}}}"	
+"{{c1::Ein Graph \(G = (|V|, |E|)\)}} ist {{c2::die Repräsentation von einem Netzwerk als eine Menge \(V\) von Knoten und eine Menge \(E\) von Kanten zwischen den Knoten}}.<br />
+<img src=""2010-Bild-Easley-Kleinberg-Verschiedene_Arten_von_Graphen.png"" alt=""""><br />
+Verschiedene Arten von Graphen"	
+Graphen kommen in vielen Bereichen vor, wenn es darum geht, darzustellen, {{c1::wie Dinge entweder physisch oder logisch in einer Netzstruktur miteinander verbunden sind}}.	
+"Frage:  <br />
+Warum braucht man keine konkrete Formel für den Satz von Bayes in der Praxis bei Entscheidungen?"	Weil das grundlegende Prinzip genügt: Wenn ein Signal die Überzeugung stärkt, dass eine Option vorteilhaft ist, und der erwartete Nutzen dadurch steigt, wird die Option gewählt. Die Formel beschreibt nur die rechnerische Herleitung.
+"Frage:  <br />
+Was beschreibt der Satz von Bayes im Kontext rationaler Akteure, die eine Entscheidung treffen?"	Rationale Akteure aktualisieren ihre Überzeugungen über die Qualität einer Entscheidung basierend auf beobachteten Signalen, unter Anwendung des Satzes von Bayes, um so eine neue Entscheidungswahrscheinlichkeit zu berechnen.
+"{{c1::Ein Netzwerk-Gleichgewicht}} ist {{c2::ein Marktgleichgewicht}}, bei welchem in {{c2::einem Markt}} mit {{c2::Netwerkexternalitäten}} ein {{c2::stabiler Zustand}} erreicht wird.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Kostenverlauf_und_Netzwerkexternalitaeten.png"" alt=""""><br />
+Kostenverlauf und Netzwerkexternalitäten}}}}"	
+"<p>Das Netzwerk-Gleichgewicht entsteht durch:</p>
+<ul>
+<li>{{c1::keine Käufer und kein Angebot}}</li>
+<li>{{c2::kleine Anzahl von Käufern mit instabilem Gleichgewicht}}</li>
+<li>{{c3::große Anzahl von Käufern mit stabilem Gleichgewicht}}</li>
+</ul>"	
+{{c1::Das Humankapital (Human Capital)}} ist {{c2::ein Produktionsfaktor}} in Form von {{c2::Fähigkeiten und Wissen der Arbeitskräften}}.	
+{{c1::Ein Pareto-Optimum}} ist {{c2::ein Zustand}}, in welchem es {{c2::keine weitere Möglichkeit für eine Pareto-Verbesserung gibt}}.	
+{{c1::Eine Pareto-Verbesserung}} ist {{c2::eine Maßnahme}} zur {{c2::Umsetzung der Pareto-Effizienz}}.	
+{{c1::Eine Pareto-Effizienz}} ist {{c2::ein Zustand}}, bei welcher es {{c2::keinen weiteren Zustand gibt, welcher dazu führt, dass es einer Partei besser geht und keiner Partei schlechter geht}}.	
+{{c1::Die dominante Strategie}} ist {{c2::die beste Strategie und Best Response einer Partei}}, unabhängig von {{c2::der Strategie von anderen Parteien}}.	
+{{c1::Die Internalisierung von Externalitäten}} ist {{c2::die Schaffung von positiven oder negativen Anreizen}} zur {{c2::Optimierung des Marktgleichgewicht bei entstehenden negativen Externalitäten}}.	
+"Beispiel:<br />
+Externalität"	"<ul>
+<li>Erfindungen: positive Externalität</li>
+<li>Impfungen: positive Externalität</li>
+<li>Treibhausgas: negative Externalität</li>
+<li>Zigarettenrauch: negative Externalität</li>
+</ul>"
+"{{c1::Eine Externalität (externer Effekt)}} sind {{c2::Kosten oder Nutzen}} der {{c2::Entscheidungen einer Partei}}, welche {{c2::die Wohlfahrt}} von {{c2::unbeteiligten dritten Parteien}} beeinflusst.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Wohlfahrtsverlust.png"" alt=""""><br />
+Wohlfahrtsverlust}}}}"	
+"{{c1::Externalitäten}} können {{c2::zu einem Marktversagen führen}}, wenn die durch die {{c1::Externalität}} erzeugten Kosten {{c3::nicht durch den Verkäufer getragen werden}}, da ein Wohlfahrtsverlust entsteht.<br />
+{{c1::{{c2::{{c3::<img src=""2021-Bild-Sieg-Wohlfahrtsverlust.png"" alt=""""><br />
+Wohlfahrtsverlust}}}}}}"	
+Eine Externalität kann positiv oder negativ sein. Positive Externalitäten führen zu {{c1::selbst-erfüllenden Erwartungen}}, während negative Externalitäten zu {{c1::selbst-widerlegenden Erwartungen}} führen.	
+"{{c1::Eine Netzwerkexternalität}} ist {{c2::eine Externalität}} durch {{c2:: einen positiven externen Netzwerkeffekt}}, welcher vorhanden ist, wenn {{c3::der Nutzen eines Gutes mit der Anzahl der Konsumenten steigt}}.<br />
+{{c1::{{c2::{{c3::<img src=""2021-Bild-Sieg-Kostenverlauf_und_Netzwerkexternalitaeten.png"" alt=""""><br />
+Kostenverlauf und Netzwerkexternalitäten}}}}}}"	
+"wahr oder falsch:<br />
+Das Nash-Gleichgewicht garantiert immer die wohlfahrtsmaximale Lösung."	"falsch:<br />
+Ein Nash-Gleichgewicht ist stabil unter rationalem Verhalten, aber nicht zwangsläufig effizient oder wohlfahrtsmaximal."
+"wahr oder falsch:<br />
+Jedes Nash-Gleichgewicht ist gleichzeitig evolutionär stabil."	"falsch:<br />
+Nur bestimmte Nash-Gleichgewichte sind evolutionär stabil, abhängig von den Payoff-Bedingungen."
+{{c1::Das Nash-Gleichgewicht (Nash Equilibrium)}} ist {{c2::eine Strategie}}, in der {{c2::miteinander verbundene Parteien ihre bestmögliche Strategie in Bezug auf die Strategie der anderen Partei gewählt haben}}.	
+{{c1::Eine vollständige Konkurrenz}} ist {{c2::eine Marktform}} und {{c2::ein spezielles Polypol}}, in dem {{c3::identische homogenen Güter}} angeboten werden und dadurch {{c3::der Preisunterschied minimiert wird}}.	
+{{c1::Ein Monopol}} ist {{c2::eine Marktformen}} mit {{c2::einer hohen Nachfrage}} und {{c2::einem einzigen Anbieter}}, wodurch {{c3::der Anbieter eine hohe Marktmacht}} besitzt und {{c4::Preisfixierer ist}}.	
+{{c1::Das Gefangenendilemma (Prisoner's Dilemma)}} ist {{c2::ein Kooperationsproblem der Spieltheorie}}, bei welchem {{c2::eigennütziges Handeln für alle Parteien zu einem schlechteren Ergebnis führt, als Kooperation, wobei das Kooperationsverhalten anderer Parteien das eigene Ergebnis verbessern kann}}.	
+"{{c1::Die bedingte Wahrscheinlichkeit}} ist die Wahrscheinlichkeit \(Pr[A|B]\), dass {{c2::ein Ereignis eintritt, unter der Bedingung, dass ein Ereignis bereits eingetreten ist}}:<br>
+\(Pr[A \mid B] = \frac{Pr[A \cap B]}{Pr[B]}\)"	
