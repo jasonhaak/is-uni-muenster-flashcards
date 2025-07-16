@@ -28,7 +28,7 @@ Dieses Repository stellt eine Sammlung von Anki-Karteikarten bereit, die folgend
 - **BPM3**: Enterprise Architecture Management (SS 25) – Kalla
 	- **de**: Originales Deck auf Deutsch
 	- **en**: KI-übersetztes Deck auf Englisch
-- **MDB3**: etwork Economics (SS 25) – Haines
+- **MDB3**: Network Economics (SS 25) – Haines
 	- **de**: Originales Deck auf Deutsch
 	- **en**: KI-übersetztes Deck auf Englisch
 - **MDB5:**: Digital Innovation and Sustainable Development (SS 25) – Püchel

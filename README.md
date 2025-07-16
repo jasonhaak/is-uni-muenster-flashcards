@@ -28,7 +28,7 @@ This repository provides a comprehensive set of Anki flashcards that include:
 - **BPM3**: Enterprise Architecture Management (SS 25) – Kalla
 	- **de**: Original deck in German
 	- **en**: AI-translated deck in English
-- **MDB3**: etwork Economics (SS 25) – Haines
+- **MDB3**: Network Economics (SS 25) – Haines
 	- **de**: Original deck in German
 	- **en**: AI-translated deck in English
 - **MDB5:**: Digital Innovation and Sustainable Development (SS 25) – Püchel
