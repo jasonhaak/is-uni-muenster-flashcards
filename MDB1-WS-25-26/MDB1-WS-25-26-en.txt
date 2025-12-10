@@ -1,0 +1,1536 @@
+#separator:tab
+#html:true
+\(\text{Enterprise Value}\) = {{c1::\(\text{EBITDA} \cdot \text{EBITDA-Multiple}\)}}	
+"<p>The Innovation Management Process consists of:</p>
+<ol>
+<li>{{c1::Task presentation from internal sources or external sources}}</li>
+<li>{{c1::Preparation of information and resources}}</li>
+<li>{{c1::Idea generation}}</li>
+<li>{{c1::Idea validation}}</li>
+<li>{{c1::Result evaluation}}</li>
+</ol>"	
+"<p>The innovation process consists of:</p>
+<ol>
+<li>{{c1::Fundamental Research}}</li>
+<li>{{c2::Applied Research}}</li>
+<li>{{c3::Pre-Development}}</li>
+<li>{{c4::Development}}</li>
+<li>{{c5::Production}}</li>
+<li>{{c6::Marketing}}</li>
+</ol>"	
+"<p>Strategy development consists of several steps:</p>
+<ol>
+<li>{{c1::Definition of the vision, mission and ambitions}}</li>
+<li>{{c2::Assessment of environmental context and trends}}</li>
+<li>{{c3::Evaluation of resource availability and capacity}}</li>
+<li>{{c4::Break down the strategy into operational goals}}</li>
+<li>{{c5::Align strategy across different levels}}</li>
+<li>{{c6::Control and review strategy}}</li>
+</ol>"	
+"<p>{{c1::Adoption time points}} are:</p>
+<ol>
+<li>{{c2::Innovators}}</li>
+<li>{{c2::Early Adopters}}</li>
+<li>{{c2::Early Majority}}</li>
+<li>{{c2::Late Majority}}</li>
+<li>{{c2::Laggards}}</li>
+</ol>"	
+{{c1::A strategic growth gap (Strategic Growth Gap)}} is {{c2::a gap between the sales achieved due to a lack of innovation and the planned sales figures}}. {{c1::The strategic growth gap}} significantly influences {{c3::the innovation gap}}.	
+{{c1::A strategic resource}} is {{c2::a tangible asset, an intangible asset or a strategic capability that is used along the value chain}} to {{c3::achieve a sustainable competitive advantage}}.	
+"<p>Adaptation to new market developments consists of:</p>
+<ol>
+<li>{{c1::Understanding opportunities and risks}}</li>
+<li>{{c2::Development of a corporate strategy for adaptation}}</li>
+<li>{{c3::Adapting opportunities in small steps}}</li>
+<li>{{c4::Mitigation of risks through resilience and sustainability}}</li>
+</ol>"	
+{{c1::The multiple approach}} is {{c2::a method for company valuation}}.	
+"{{c1::Buy and Build}} is {{c2::a method in private equity in which investment occurs through the acquisition of a platform company and adding further services of other acquired companies}}. The goal {{c1::of Buy and Build}} is {{c3::the expansion of the acquired platform}}.<br />
+{{c1::{{c2::{{c3::<img src=""2025-Bild-Quadt-Hammes-Sehlbach-Staiger-Szumilas-Buy_and_Build.png"" alt=""""><br />
+Buy and Build}}}}}}"	
+{{c1::Transformational Leadership}} is {{c2::the proactive leadership in which a leader changes existing organizational structures and encourages employees to achieve goals together}}. {{c1::Transformational Leadership}} inspires employees and supports them individually.	
+{{c1::Transactional Leadership}} is {{c2::the reactive leadership in which a leader within an existing structure focuses on efficiently managing current tasks}}. {{c1::Transactional Leadership}} sets clear goals, monitors performance and creates standardized incentive systems.	
+"{{c1::A Service &amp; Business Area in the Spotify organizational model}} is {{c2::the set of all tribes to which products, services, applications or processes can be assigned}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Bendig-Schulz-Sickert-Service_&_Business_Area.png"" alt=""""><br />
+Service &amp; Business Area Structure}}}}"	
+{{c1::A tribe in the Spotify organizational model}} is {{c2::the set of all squads that can be grouped thematically}}. {{c1::A tribe}} is led by {{c3::Tribe Leads and a People Lead}}.	
+{{c1::A chapter in the Spotify organizational model}} is {{c2::a group of people from one or several squads in a tribe who exchange and jointly develop methodological, process-related or technical skills and expertise}}.	
+{{Ein Squad im Spotify-Organisationsmodell}} ist {{c2::eine selbstständige und selbstorganisierte Organisationseinheit, welche für die Wertschöpfungskette eines Produktes, Prozesses oder Services zuständig ist}}.	
+{{c1::Discretionary Leadership}} is {{c2::an organization-wide leadership approach to promote innovation, in which people make decisions who are most qualified to make them}}. {{c1::Discretionary Leadership}} is particularly used by {{c3::Apple}}.	
+{{c1::Copyright}} is {{c2::a legal protection mechanism against product imitation that protects original, creative works}}.	
+{{c1::Appropriability (Internalizability)}} is {{c2::the degree to which a company can retain the economic returns of an innovation}}. {{c1::Appropriability}} depends on {{c3::how easily or quickly competitors can imitate an innovation}}.	
+{{c1::Reverse engineering}} is {{c2::the use of original products to understand and possibly reproduce them}}.	
+{{c1::A license violation}} is {{c2::a non-compliant handling of a license agreement}}.	
+{{c1::Espionage by employees}} is {{c2::the espionage and knowledge transfer of former employees who are employed by competitors}}.	
+{{c1::Competitor espionage}} is {{c2::the espionage of competitors through private spies or criminals}}.	
+{{c1::Industrial espionage}} is {{c2::state-supported espionage against foreign companies}}.	
+{{c1::Coopetition}} is {{c2::the simultaneous cooperative and competitive behavior}}.	
+{{c1::An equity-based relationship}} is {{c2::a relationship based on business shares}}.	
+{{c1::A contractual relationship}} is {{c2::a relationship that is contractually recorded}}.	
+{{c1::A non-contractual relationship}} is {{c2::a relationship that is not contractually recorded}}.	
+{{c1::A bilateral relationship}} is {{c2::a relationship of exactly two actors}}.	
+{{c1::A multilateral relationship}} is {{c2::a relationship of at least three actors}}.	
+{{c1::Merger &amp; Acquisition (M&amp;A)}} is {{c2::the merging of two independent companies into one company to achieve a common business goal}}.	
+{{c1::An alliance}} is {{c2::a non-contractual relationship between two independent companies to achieve a common business goal}}.	
+{{c1::A cooperative strategy}} is {{c2::a strategy through which an organization becomes more effective than competitors by collaborating with other organizations}}.	
+"{{c1::An innovation gap}} is {{c2::a gap between the sales achieved due to a lack of innovation and the planned sales figures}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Bendig-Schulz-Sickert-Innovation_Gap.png"" alt=""""><br />
+Innovation Gap}}}}"	
+"{{c1::Zero Based Budgeting}} is {{c2::the bottom-up budgeting method in which every cost item must be fully justified annually instead of building on previous year budgets}}. In {{c1::Zero Based Budgeting}} every expense starts at {{c3::""zero""}} and is only approved if {{c4::its benefit is clearly demonstrated and it contributes to strategic goals}}."	
+"<p>Zero Based Budgeting consists of several steps:</p>
+<ol>
+<li>{{c1::Baselining}}: {{c1::Define costs and benefits, create transparency and establish governance}}</li>
+<li>{{c1::Value Identification}}: {{c1::Define value levers and opportunities</li>
+<li>{{c1::Value Creation}}: {{c1::Create value and involve the team</li>
+</ol>"	
+{{c1::Gap-Oriented Budgeting}} is {{c2::top-down budgeting through calculation of the innovation gap, which must be closed through budget in different areas}}.	
+{{c1::Relative Budgeting}} is {{c2::top-down budgeting through calculating the percentage of profit}}.	
+{{c1::Competitive Budgeting}} is {{c2::top-down budgeting by determining the budget based on competitors’ budgets}}.	
+{{c1::Updated Budgeting}} is {{c2::top-down budgeting through annual updating of the budget}}.	
+{{c1::Bottom-Up Budgeting}} is {{c2::budgeting through a bottom-up approach in which financial planning is created through projects}}.	
+{{c1::Top-Down Budgeting}} is {{c2::budgeting through a top-down approach in which financial planning is created through KPIs}}.	
+{{c1::The ownership lens}} is {{c2::a method of portfolio analysis that evaluates organizational units or products according to organizational support and synergies with other organizational units or products}}.	
+{{c1::The value lens}} is {{c2::a method of portfolio analysis that evaluates organizational units or products according to financial performance and planned future value creation}}.	
+{{c1::The market lens}} is {{c2::a method of portfolio analysis that evaluates organizational units or products according to market attractiveness and competitive position}}.	
+{{c1::Role Classification}} is {{c2::portfolio management regarding the contents of the portfolio}}.	
+{{c1::Target Configuration}} is {{c2::portfolio management regarding changes in the contents of the portfolio}}.	
+{{c1::Jugaad}} is {{c2::a word from Hindi describing a frugal innovation that emerged from necessity}}.	
+"{{c1::The Cobb-Douglas function}} is {{c2::a production function that relates monetary value to capital and labor}}:<br />
+\(Y\) \(=\) {{c3::\(TPF \cdot K^{\alpha} \cdot L^{\beta}\)}} with \(Y\) as the monetary value of all goods produced in a year, {{c3::\(TPL\) as Total Factor Productivity, \(K\) as capital input, \(\alpha\) as elasticity of capital, \(L\) as labor input, \(\beta\) as elasticity of labor}}"	
+{{c1::An output goal}} is {{c2::a measurable goal for a result}}.	
+{{c1::A process goal}} is {{c2::a goal regarding the generation of an output within a process}}.	
+{{c1::An input goal}} is {{c2::a goal regarding the resources to be invested}}.	
+"{{c1::The Booz Allen Hamilton Matrix}} is {{c2::a method for identifying investments in research and development by evaluating technology regarding its technological strength and competitive relevance}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Bendig-Schulz-Sickert-Booz_Allen_Hamilton-Matrix.png"" alt=""""><br />
+Booz Allen Hamilton Matrix}}}}"	
+"{{c1::The McKinsey Matrix (GE-9-Field Matrix)}} is {{c2::a method for portfolio analysis that evaluates organizational units or products according to market attractiveness based on Porter’s Five Forces and relative competitive advantage based on brand equity and profitability}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Bendig-Schulz-Sickert-McKinsey-Matrix.png"" alt=""""><br />
+McKinsey Matrix}}}}"	
+"{{c1::The BCG Matrix}} is {{c2::a method for portfolio analysis that evaluates organizational units or products by market growth and relative market share}}. In {{c1::the BCG Matrix}} {{c3::market growth}} is based on {{c4::the product life cycle}}, while {{c3::relative market share}} is based on {{c4::the experience curve}}.<br />
+{{c1::{{c2::{{c3::{{c4::<img src=""2025-Bild-Bendig-Schulz-Sickert-BCG-Matrix.png"" alt=""""><br />
+BCG Matrix}}}}}}}}"	
+"<p>{{c1::The VRIN Framework}} is {{c2::a framework of the resource-based view in which resources must have the following properties}}:</p>
+<ul>
+<li>{{c3::rare}}</li>
+<li>{{c3::inimitable}}</li>
+<li>{{c3::non-substitutable}}</li>
+<li>{{c3::valuable}}</li>
+</ul>"	
+"{{c1::Porter's Value Chain}} is {{c2ein Opportunity Framework to analyze the value chain in an organization for creating and delivering value through products and services as well as supporting this process to increase effectiveness and efficiency}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Bendig-Schulz-Sickert-Porter's_Value_Chain.png"" alt=""""><br />
+Porter's Value Chain}}}}"	
+"{{c1::The Gartner Hype Cycle}} is {{c2::a model of the diffusion and adoption of technology}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Bendig-Schulz-Sickert-Gartner_Hype_Cycle.png"" alt=""""><br />
+Gartner Hype Cycle}}}}"	
+"{{c1::The Kondratieff Cycle}} is {{c2::a theory stating that the world economy evolves in long, wave-like cycles, each triggered by the diffusion of a major technological paradigm}}. Each wave in the {{c1::Kondratieff Cycle}} describes {{c2::a key technology and its macroeconomic effects on growth, structure and innovation}}.<br />
+{{c1::{{c2::{{c3::<img src=""2025-Bild-Bendig-Schulz-Sickert-Kondratieff-Zyklus.png"" alt=""""><br />
+Kondratieff Cycle}}}}}}"	
+{{c1::Moore's adoption model}} is {{c2::an extension of the diffusion model and explains how innovation transitions from niche markets to the mass market}}.	
+"{{c1::The Technology S-Curve}} is {{c2::the maturity level of technology, which manifests as an S-curve in performance}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Bendig-Schulz-Sickert-Technologie-S-Kurve.png"" alt=""""><br />
+Technology S-Curve}}}}"	
+"{{c1::A functional structure}} is {{c2::an organizational form in which employees are grouped by similar tasks, functions or fields of expertise}}. {{c1::A functional structure}} links {{c3::expertise and knowledge in one area with decision-making about it}}.<br />
+{{c1::{{c2::{{c3::<img src=""2025-Bild-Schellhammer-Funktionale_Struktur.png"" alt=""""><br />
+Functional Structure}}}}}}"	
+{{c1::Total Factor Productivity (MFP, Multi-Factor Productivity, TFP)}} is {{c2::productivity growth through efficiency improvements due to technologies, labor and human capital}}.	
+{{c1::An orchestration skill}} is {{c2::a management capability to combine certain assets, abilities and knowledge within and between organizations to create value not directly reflected by the market}}.	
+{{c1::Co-specialization}} is {{c2::the mutual dependence of assets or competencies whose joint use creates more value than separate use}}.	
+{{c1::Near-decomposability}} is {{c2::the state of partial independence of organizational subunits that act largely autonomously but remain connected through coordinating mechanisms}}.	
+{{c1::Reconfiguration}} is {{c2::a process for the continuous realignment of resources, structures and routines to maintain organizational fitness in dynamic environments}}.	
+{{c1::Asset orchestration}} is {{c2::the capability of management to coordinate, realign and apply resources and competencies complementarily to ensure value creation and minimize internal conflicts}}.	
+{{c1::An anti-cannibalization bias}} is {{c2::the tendency of established firms to avoid innovations that endanger existing products or business models}}.	
+{{c1::Seizing}} is {{c2::the organizational capability to strategically exploit recognized opportunities through targeted investments in products, processes or services}}.	
+"<p>Seizing consists of:</p>
+<ul>
+<li>{{c1::Consideration of technological and market turning points}}: Investment decisions follow critical transition phases in technology or market development}}</li>
+<li>{{c1::Commercialization of recognized opportunities: After sensing, implementation follows through developing and launching new offerings}}</li>
+<li>{{c1::Strategic selection between competing paths: Early on, several technological or market options exist that companies must choose between}}</li>
+</ul>"	
+{{c1::Sensing}} is {{c2::the organizational capability to detect and actively shape new opportunities and developments in its environment}}.	
+"<p>Sensing consists of:</p>
+<ul>
+<li>{{c1::Interpretative and creative activities: scanning, learning, interpreting and shaping market and technology developments}}</li>
+<li>{{c1::Investments in research and development to explore technological possibilities}}</li>
+<li>{{c1::Understanding market dynamics and customer needs}}</li>
+</ul>"	
+{{c1::A microfoundation}} is {{c2::a concrete organizational or individual mechanism that enables dynamic capabilities through sensing, seizing and reconfiguration}}.	
+{{c1::An ordinary capability}} is {{c2::a routine and a process that enables a company to operate its core business and use existing resources efficiently without changing them}}.	
+{{c1::Evolutionary fitness}} is {{c2::a measure of how well a capability enables a company to succeed in its market environment}}.	
+{{c1::Technical fitness}} is {{c2::a measure of how effectively a capability fulfils its specific function, regardless of economic success}}.	
+{{c1::A dynamic capability}} is {{c2::a higher-level process through which companies renew existing resources and competencies to secure competitive advantages in dynamic markets}}.	
+"<p>{{c1::Dynamic Capabilities}} consist of:</p>
+<ol>
+<li>{{c2:.Sensing}}: {{c2::Capability to identify opportunities and threats in the environment}}</li>
+<li>{{c2:.Seizing}}: {{c2::Capability to translate recognized opportunities into viable business models, products or investments}}</li>
+<li>{{c2:.Reconfiguring}}: {{c2::Capability to continuously renew and adapt the organization}}</li>
+</ol>"	
+{{c1::Self-reinforcing automation}} is {{c2::the self-reinforcing process in which the use of AI initially augments human labor but standardizes tasks, making full automation easier}}.	
+{{c1::Augmenting automation}} is {{c2::a process in which AI expands and enhances existing automation systems}}. {{c1::Augmenting automation}} does not directly replace humans but {{c3::strengthens automation so that less human intervention is required}}.	
+{{c1::The augmentation view}} is the understanding that AI is seen as an extension and support of human capabilities and that AI improves human decision-making and increases productivity.	
+{{c1::The replacement view}} is {{c2::the understanding that AI is seen as a substitutive technology and is assumed to replace human labor by taking over human tasks}}.	
+{{c1::The hollowing-out effect}} is {{c2::an effect describing the erosion of middle employment segments through technological developments}}. {{c1::The hollowing-out effect}} consists of {{c3::the increasing automation of routine tasks in the middle of the skill pyramid, while both high-skilled and low-skilled jobs increase}}.	
+{{c1::A digital company}} is {{c2::a company that has (almost) fully digitized its business processes}}.	
+{{c1::Blitzscaling}} is {{c2::a strategy for extremely fast company growth in which speed is prioritized over efficiency to achieve market leadership in a short time in a large, scalable market}}.	
+{{c1::Service innovation}} is {{c2::the innovation of processes for creating value for stakeholders}}.	
+{{c1::An absorptive capacity lockout}} is {{c2::the lacking and permanent absorptive capacity of an organization}} which leads to {{c3::an organization losing the ability to understand and use new developments}}.	
+{{c1::Cross-functional absorptive capacity}} is {{c2::an organization’s ability to share, process and jointly use knowledge across functional areas to accelerate innovation and problem-solving}}.	
+{{c1::Gatekeepers}} in {{c2::innovation are individuals within an organization who absorb, translate and distribute knowledge from the environment internally}}. {{c1::Gatekeepers}} connect external knowledge sources with internal units of an organization.	
+{{c1::A disruption}} is {{c2::a process in which a company with fewer resources is able to successfully challenge and displace established firms in the market}}.	
+{{c1::Absorptive capacity (ACAP)}} is {{c2::the ability of an organization to absorb new external information, assimilate it and apply it in innovation processes}}.	
+"<p>Reasons for acquiring a company are:</p>
+<ul>
+<li>{{c1::Changes in customer behavior}}</li>
+<li>{{c1::Entry into new markets}}</li>
+<li>{{c1::Acquisition of new technologies}}</li>
+<li>{{c1::Growth in the existing market}}</li>
+</ul>"	
+{{c1::A circular flow}} is {{c2::a market in which demand and supply are in market equilibrium and economic activities repeat, with companies being in a competitive equilibrium}}.	
+{{c1::A portfolio analysis}} is {{c2::a qualitative analysis of the achievement of organizational goals through individual elements in a portfolio}}.	
+"<p>{{c1::SMART}} is {{c2::a principle for defining and setting strategic goals, which should have the following characteristics}}:</p>
+<ol>
+<li>{{c3::Specific: specification of goals}}</li>
+<li>{{c3::Measurable: measurability}}</li>
+<li>{{c3::Achievable: achievable within a scope}}</li>
+<li>{{c3::Relevant: improvement of the organization}}</li>
+<li>{{c3::Time-bound: specification of the time frame}}</li>
+</ol>"	
+{{c1::Entrepreneurship}} is {{c2::entrepreneurial thinking and acting that creates economic dynamics by recognizing and exploiting market changes and imbalances}}.	
+{{c1::Innovation management}} is {{c2::the planning, organization and control of all tasks that must be carried out in the context of the innovation process}}.	
+{{c1::A mission}} is {{c2: the core purpose, identity, definition of behavioral standards, values and purposes of an organization to fulfill user needs}}.	
+{{c1::Generative AI}} is {{c2::an AI specialized in generating and personalizing content}}. Content generation is enabled by {{c3::encoding large datasets to recognize patterns and decoding}}.	
+{{c1::A foundation model}} is {{c2::a pre-trained AI model for predicting the next token}}. {{c1::A foundation model}} consists of {{c2::a set of models}}.	
+"{{c1::Generative pretraining}} is {{c2::the training of a foundation model on a large dataset of words to predict the next token}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Hoetter-Warmuth-Pretraining.png"" alt=""""><br />
+Pretraining of an LLM}}}}"	
+"<p>Strategic planning consists of:</p>
+<ol>
+<li>{{c1::Vision &amp; Mission}}</li>
+<li>{{c1::Strategic goals}}</li>
+<li>{{c1::Corporate goals}}</li>
+<li>{{c1::Business goals}}</li>
+<li>{{c1::Functional goals}}</li>
+</ol>"	
+{{c1::A laggard}} is {{c2::an adopter who generally rejects technological innovation and often blocks innovations}}. {{c1::Laggard}} is the latest adoption time point of a technology.	
+{{c1::A late majority}} is {{c2::a risk-averse adopter who uses a new technology when it is widely established and its use is nearly unavoidable}}.	
+{{c1::An early majority}} is {{c2::an adopter who uses a new technology when it is proven, stable and economically sensible}}.	
+{{c1::An early adopter}} is {{c2::an adopter who sees strategic opportunities and competitive advantages in new technologies and invests early in adoption to benefit from it}}.	
+{{c1::An innovator}} is {{c2::a risk-taking, tech-affine adopter with limited purchasing power who uses new technologies out of enthusiasm for novelty}}. {{c1::Innovator}} is the earliest adoption time point of a technology.	
+{{c1::Technology management}} is {{c2::the management of research on technology or technological problems}}.	
+{{c1::A vision}} is {{c2::a guideline for strategy development and the desired future state of a company}}.	
+"<p>A vision is:</p>
+<ul>
+<li>{{c1::desirable}}</li>
+<li>{{c1::action-guiding}}</li>
+<li>{{c1::inspiring}}</li>
+<li>{{c1::measurable}}</li>
+<li>{{c1::motivating}}</li>
+<li>{{c1::achievable}}</li>
+</ul>"	
+"<p>A vision has the following characteristics:</p>
+<ul>
+<li>{{c1::clear}}</li>
+<li>{{c1::consistent}}</li>
+<li>{{c1::continuous}}</li>
+</ul>"	
+"{{c1::Diffusion in economics}} is {{c2::the process of spatial and temporal spread of an innovation in a social space}}. {{c1::The diffusion of an innovation}} occurs through {{c3::the adoption of an innovation by individuals}}. The goal {{c1::of diffusion}} is {{c4::the acceptance of the innovation}}.<br />
+{{c1::{{c2::{{c3::{{c4::<img src=""2023-Bild-Krcmar-Innovations-Diffusion.png"" alt=""""><br />
+Development cycle of new ideas and technologies}}}}}}}}"	
+"<p>{{c1::Diffusion}} consists of:</p>
+<ul>
+<li>{{c2::Adoption time point}}</li>
+<li>{{c2::the innovation itself}}</li>
+<li>{{c2::communication channels}}</li>
+<li>{{c2::social systems}}</li>
+<li>{{c2::time}}</li>
+</ul>"	
+{{c1::The pioneer}} is {{c2::a time point of market entry into a new market, developing or introducing a technology}}.	
+{{c1::The late follower}} is {{c2::a time point of market entry in a market with an existing dominant design and competitors offering a technology}}.	
+{{c1::Development}} is {{c2::the application of research results}} for {{c3::the development or improvement of goods or processes}}.	
+{{c1::A strategic goal}} is {{c2::a corporate goal about the success potential of a company as a competitive advantage}}, which is measured by {{c3::price positioning}}. {{c1::The strategic goal}} originates from {{c4::the vision and mission}} of an organization.	
+{{c1::A patent}} is {{c2::a legal protection mechanism against product imitation, granting exclusive rights for an innovation to the innovator}}. For {{c1::a patent}} there must be {{c2::a new innovation with potential application in a market}}.	
+{{c1::Exploitation}} is {{c2::the use of existing solutions}} to create {{c2::efficiency and growth}} for the {{c4::operational business}}. The planning of {{c1::exploitation}} is {{c3::sequential}}.	
+{{c1::Exploitation}} has {{c2::low uncertainty}} and is generally {{c2::more stable}} than {{c3::exploration}}.	
+{{c1::Exploration}} is {{c2::the creation of inventions and innovations}} of {{c3::new products and markets}}. The planning of {{c1::exploration}} is {{c3::iterative}}.	
+{{c1::Exploration}} has {{c2::high uncertainty}} and is generally {{c2::less stable}} than {{c3::exploitation}}.	
+"{{c1::A market breakthrough}} is {{c2::a product innovation with a high innovative need satisfaction and a low technology innovation}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Arten_der_Produktinnovation.png"" alt=""""><br />
+Types of product innovation}}}}"	
+"{{c1::A technological breakthrough}} is {{c2::a product innovation with a low innovative need satisfaction and a high technology innovation}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Arten_der_Produktinnovation.png"" alt=""""><br />
+Types of product innovation}}}}"	
+"{{c1::A radical innovation}} is {{c2::a product innovation with a high innovative need satisfaction and a high technology innovation}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Arten_der_Produktinnovation.png"" alt=""""><br />
+Types of product innovation}}}}"	
+A product with {{c1::a radical innovation}} has a fundamental change that can satisfy customer needs better than other products.	
+"{{c1::An incremental innovation}} is {{c2::a product innovation with a low innovative need satisfaction and a low technology innovation}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Arten_der_Produktinnovation.png"" alt=""""><br />
+Types of product innovation}}}}"	
+"<p>{{c1::The time point of market entry}} consists of:</p>
+<ol>
+<li>{{c2::Pioneer}}</li>
+<li>{{c2::Early follower}}</li>
+<li>{{c2::Late follower}}</li>
+</ol>"	
+{{c1::A business model}} is {{c2::an instrument of strategic planning and communication among stakeholders for creating value}}. {{c1::The business model}} is the plan and foundation {{c3::of the organizational structure and financial architecture}} of a company.	
+"<p>{{c1::A business model}} represents a company regarding the following characteristics:</p>
+<ul>
+<li>{{c2::Stakeholders involved in value creation}}</li>
+<li>{{c2::Market segment to be addressed}}</li>
+<li>{{c2::How value is offered to the consumer}}</li>
+<li>{{c2::Source of revenue}}</li>
+<li>{{c2::Choice of technologies used}}</li>
+</ul>"	
+{{c1::The functional strategy}} is {{c2::a strategy level that includes the strategy and fundamental decisions of individual departments, positions, individuals, resources and processes}}.	
+{{c1::The business strategy}} is {{c2::a strategy level that includes the strategy of individual business units in a given market}}.	
+{{c1::The business strategy}} must be formulated in alignment with {{c2::corporate strategies}}.	
+{{c1::A corporate strategy}} is {{c2::a strategy level that fundamentally includes decisions on strategy and scope of an entire company}}.	
+"<p>A corporate strategy consists of:</p>
+<ul>
+<li>{{c1::Industry}}</li>
+<li>{{c1::Mission and vision}}</li>
+<li>{{c1::Resources and structures}}</li>
+<li>{{c1::Corporate goal}}</li>
+</ul>"	
+For {{c1::corporate strategies}} these are {{c2::strategic decisions}} that {{c3::cannot be decentralized}} without {{c3::significant synergy losses}}.	
+"{{c1::The experience curve}} is {{c2::dynamic cost management through reduction of required input with increasing experience}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Stockhinger-Erfahrungskurve.png"" alt=""""><br />
+Experience curve}}}}"	
+{{c1::Disruptive innovation}} is {{c2::an innovation enabling consumers to consume a good, product or service previously accessible only to certain consumers}}. {{c1::Disruptive innovation}} is {{c3::an evolutionary process}}.	
+"<p>Characteristic properties of {{c1::disruptive innovations}} are:</p>
+<ul>
+<li>{{c2::lower profit}}</li>
+<li>{{c2::a smaller market initially until quality reaches the market standard}}</li>
+<li>{{c2::a simpler good, product or service in a market with complex goods, products or services}}</li>
+</ul>"	
+{{c1::Business model innovation}} is {{c2::the innovation of the business model, the creation, marketing and delivery}} of {{c3::value creation and customer retention}}, which an enterprise offers {{c4::one or several customer segments}} to {{c5::earn profit}} through {{c5::revenue channels}}.	
+"<p>A business model innovation consists of:</p>
+<ul>
+<li>{{c1::Revenue model}}: {{c1::How the company earns money}}</li>
+<li>{{c2::Value proposition}}: {{c2::What value the business offers}}</li>
+<li>{{c3::Value creation architecture}}: {{c3::How value is generated}}</li>
+</ul>"	
+{{c1::A dominant design}} is {{c2::a technological or design solution that becomes the standard in a market}}.	
+While {{c1::established companies}} have a strategic advantage especially in consolidating the {{c2::dominant design}}, {{c1::emerging companies}} have significant opportunities in a non-established or declining {{c2::dominant design}}.	
+{{c1::Process innovation}} is {{c2::the innovation of production and provision of products and services}}.	
+{{c1::Product innovation}} attempts to provide a product or service {{c2::more cost-effectively, with higher quality or faster}}.	
+{{c1::Already established industries}} prefer {{c2::process innovation}}.	
+{{c1::Product innovation}} is {{c2::the innovation of the components of a product or service that is new or brings significant changes}}. {{c1::The peak phase of product innovation}} leads to {{c3::the establishment of the dominant design}}.	
+{{c1::Emerging industries}} prefer {{c2::product innovations}}.	
+{{c1::A frugal innovation}} is {{c2::a simple, low-maintenance and low-cost innovation for the average consumer}}.	
+"<p>Characteristics of a frugal innovation are:</p>
+<ul>
+<li>{{c1::Focus on required core functionalities}}</li>
+<li>{{c1::Optimization up to required performance level}}</li>
+<li>{{c1::Substantial cost reduction up to 60%}}</li>
+</ul>"	
+"{{c1::An innovation}} is {{c2::the invention and application of a good}} and the intersection of {{c3::technologies, enterprises and values}}. {{c1::Innovation}} is also understood as {{c4::a new idea, a new practice or a new object perceived as new by an adopter}}.<br />
+{{c1::{{c2::{{c3::<img src=""2022-Bild-Stockhinger-Erfindung_und_Innovation.png"" alt=""""><br />
+Invention and Innovation}}}}}}"	
+"<p>Characteristics of innovation are :</p>
+<ul>
+<li>{{c1::disruptive towards existing organizational functions}}</li>
+<li>{{c1::new products}}</li>
+<li>{{c1::risk-taking}}</li>
+</ul>"	
+{{c1::Invention}} is {{c2::the conversion of knowledge into a new good}}. {{c1::Inventions}} are {{c3::the driving force of a society’s progress}}.	
+{{c1::Inventions}} can become {{c2::innovations}} if {{c3::they are applied in society}}, but do not have to become one.	
+{{c1::EBITDA (Earnings Before Interest and Taxes and Depreciation and Amortisation)}} is {{c2::the operating cash flow and consists of earnings before interest expenses, taxes and depreciation}}.	
+{{c1::\(\text{EBITDA}\)}} \(=\) {{c2::\(\text{Earning after Taxes} + \text{Taxes} + \text{Interest} + \text{Depreciation/Amortization}\)}}	
+{{c1::A brand in economics}} is {{c2::an instrument}} with specific characteristics that {{c2::differentiates itself sustainably from other brands}}. {{c1::A brand}} frames {{c3::a product}} and gives it {{c3::an identity}}.	
+{{c1::A brand}} is {{c2::a legally protected sign and a mark}} for {{c3::authorship and origin of goods}}.	
+{{c1::A good}} is {{c2::a product and service}} that {{c3::is consumed}} or {{c3::is transformed during production}} into {{c3::other goods}}.	
+{{c1::The discounted cash flow (DCF)}} is {{c2::a method for calculating the expected future cash flow for company valuation}}.	
+{{c1::A joint venture}} is {{c2::an inter-company cooperation for founding a subsidiary by two or more independent companies}}. {{c1::A joint venture}} is usually {{c3::limited in duration}}.	
+"Question:<br />
+To which metric does the following definition refer: ""Ausgaben eines Unternehmens zur Entwicklung neuer Technologien, Produkte, Dienstleistungen oder Systeme"" (""A company’s expenses to create new technology, products, services, or systems"")?<br />
+a) Announcements of new products<br />
+b) Research and development expenditures<br />
+c) Innovation surveys<br />
+d) Total Factor Productivity"	b))
+"Question:<br />
+How does AI contribute to ""deskilling""?<br />
+a) By replacing cognitive tasks and automating routine tasks<br />
+b) By training employees to use complex AI systems<br />
+c) By improving creative abilities through collaboration with AI<br />
+d) By continuous training measures for employees"	a)
+"Question:<br />
+Why can conscious substitution be economically harmful for the manufacturer, even though the imitation is identifiable?"	Because customers consciously forgo the original due to the higher net benefit of the imitation, resulting in loss of revenue.
+"Question:<br />
+What happens in the case of unconscious substitution for the original manufacturer?"	Cash-flow losses, possible image damage and potential liability costs due to misattribution of problems caused by the imitation.
+"Question:<br />
+Which two factors determine substitution behavior according to the model?"	The identifiability of the imitation and the exclusive customer preference for the original.
+"Question:<br />
+Which scenario occurs when customers do not recognize an imitation?<br />
+a) Purchase of original and imitation<br />
+b) No substitution<br />
+c) Substitution with higher benefit<br />
+d) Unconscious substitution"	d)
+"true or false:<br />
+Conscious substitution by identifiable imitations leads to an image loss for the original manufacturer."	"false:<br />
+There is no image loss in conscious substitution, because customers consciously choose imitated products."
+"true or false:<br />
+If the exclusive preference for the original is missing and the imitation is recognizable, no cash-flow loss arises for the original company."	"false:<br>
+A position-related cash-flow loss occurs because customers consciously choose cheaper imitations."
+"true or false:<br />
+Unconscious substitution potentially causes product liability risks for the original manufacturer."	"true:<br />
+If customers do not recognize imitations, they may attribute malfunctions to the original."
+"true or false:<br />
+If customers can recognize imitations and at the same time have a strong preference for the original, no substitution takes place."	true
+"Question:<br />
+In what percentage of M&amp;A transactions are cultural problems stated as major challenges?"	81 %
+"Question:<br />
+A company develops existing markets further and builds new businesses. Which reconfiguration of the portfolio does this correspond to?<br />
+a) Business Extension<br />
+b) Divest to Grow<br />
+c) Broad Diversification<br />
+d) Business Focus"	a)
+"Question:<br />
+A company sells business units and opens up new markets. Which reconfiguration of the portfolio does this correspond to?<br />
+a) Market Extension<br />
+b) Divest To Grow<br />
+c) Broad Diversification<br />
+d) Market Focus"	b)
+"Question:<br />
+A company wants to reshape existing businesses and develop new markets. Which reconfiguration of the portfolio does this correspond to?<br />
+a) Market Extension<br />
+b) Divest to Grow<br />
+c) Broad Diversification<br />
+d) Market Focus"	a)
+"Example:<br />
+Business unit consolidation"	TUI sold off all segments outside tourism and travel between 1995 and 2014 and thereby turned from a conglomerate into a pure tourism company, as these promised strong growth
+"Example:<br />
+Business unit diversification"	"<ul>
+<li>Amazon has diversified its business areas beyond pure e-commerce with Amazon Web Services, subscription services and advertising</li>
+</ul>"
+"true or false:<br />
+Innovation input does not necessarily have to lead to innovation."	true
+"true or false:<br />
+Patents are a good indicator for innovation input."	true
+"Question:<br />
+Which statement speaks for an early market entry?<br />
+a) Kundenpräferenzen sind noch unsicher<br />
+b) Die Reputation der Firma erhöht die Unsicherheit<br />
+c) Die Industrie wird zunehmend von der Einführung profitieren<br />
+d) Das Unternehmen hat geringe Ressourcen"	c)
+"Question:<br />
+Which consumer type corresponds to the ""Pragmatists"" in the Rogers model?<br />
+a) Early Majority<br />
+b) Late Majority<br />
+c) Early Adopters<br />
+d) Laggards"	a)
+"true or false:<br />
+Learning is a cumulative process. It is most effective when knowledge already exists."	true
+"Question:<br />
+What does a strategic growth gap mean?<br />
+a) Size of unknown innovation opportunities<br />
+b) Difference between existing business and known opportunities<br />
+c) Difference between planned and realized revenue<br />
+d) Difference between planned revenue and the expected revenue without innovation"	d)
+"Question:<br />
+Which market conditions speak in favor of an acquisition?"	An acquisition makes sense when rivals are competing for potential partners or when extensive redundancies would arise after the collaboration.
+"true or false:<br />
+Reciprocal synergies that require close mutual collaboration and knowledge exchange speak for an alliance and not for an acquisition."	"false:<br />
+Reciprocal synergies require deep integration and therefore rather an acquisition."
+"true or false:<br />
+If hard resources such as factories must be combined, an acquisition is more suitable than an alliance."	"true:<br />
+Hard resources can be integrated more efficiently through full ownership control."
+"true or false:<br />
+If several companies compete for the same partner, an acquisition increases the likelihood of securing exclusive control."	true
+"true or false:<br />
+If high redundant resources are expected after collaboration, an acquisition is reasonable."	"true:<br />
+Redundancies speak for full control and restructuring possibilities through acquisition."
+"true or false:<br />
+If there is strong competition for potential partners, an alliance is the better choice."	"false:<br />
+In competitive situations, an acquisition protects against losing the partner."
+"Example:<br />
+Buy and Build"	"<ul>
+<li>NVIDIA has gone from being a graphics card manufacturer for video games to a manufacturer of high-performance AI hardware</li>
+<li>TeamViewer no longer only provides remote control software, but also augmented reality software</li>
+</ul>"
+"Question:<br />
+How many corporate acquisitions in the past 20 years have been financially successful?"	30 %
+"Example:<br />
+""Grow"" as a type of partnership with a start-up by an established company"	Airbus created UP42, an open developer and marketplace platform for geodata solutions that leverages Airbus’s satellite images, data, analytics and expertise.
+"Example:<br />
+""Optimize"" as a type of partnership with a start-up by an established company"	"<ul>
+<li>BMW Group and ProGlove develop wearable products to make warehouse processes faster and safer</li>
+</ul>"
+"Example:<br />
+""Protect"" as a type of partnership with a start-up by an established company"	"<ul>
+<li>Dr. Oetker acquires Flaschenpost to secure its beverage business against the rise of fast, app-based delivery models.</li>
+</ul>"
+"Example:<br />
+""Transform"" as a type of partnership with a start-up by an established company"	"<ul>
+<li>Viessmann invests in many promising start-ups, e.g. gridX and Building Radar, and builds companies itself, e.g. Statice and Snuk.</li>
+</ul>"
+"true or false:<br />
+Incubators are the most common innovation vehicle in the DACH region."	"false:<br />
+Innovation Labs &amp; Digital Labs are the most common innovation vehicles."
+"true or false:<br />
+Innovation Labs &amp; Digital Labs are the most common innovation vehicle in the DACH region."	true
+"Question:<br />
+Why is individual and long-term compensation particularly conducive to innovation?"	Because it supports sustainable engagement, intrinsic motivation and risk-taking behavior instead of driving short-term optimization.
+"Question:<br />
+Which measure in job design does not promote an innovation culture?<br />
+a) Long-term planning<br />
+b) Strongly structured jobs with narrow boundaries<br />
+c) Integrative, results-oriented design<br />
+d) Employee participation"	b)
+"Question:<br />
+Which measure in the compensation and reward area does not promote an innovation culture?<br />
+a) Performance-based pay<br />
+b) Company-wide standardized pay<br />
+c) Long-term oriented incentive systems<br />
+d) Group-based incentives"	b)
+"Question:<br />
+Which training measure in human resource policies does not fundamentally support an innovation culture?<br />
+a) Individualized training<br />
+b) High employee participation<br />
+c) Unsystematic training<br />
+d) Broadly applicable natural science training"	d)
+"Question:<br />
+How does a broadly defined job design contribute to the emergence of innovations?"	It enables employees to look at problems holistically, act creatively and take responsibility for new solutions.
+"true or false:<br />
+A central HR element for innovation is a strongly centralized compensation system."	"false:<br />
+Innovation-promoting HR policies rely on decentralized, individual and long-term incentive systems."
+"true or false:<br />
+Innovation-oriented job design approaches give employees broad areas of responsibility with high decision-making freedom."	"true:<br />
+This promotes creativity, personal responsibility and problem-solving skills."
+"true or false:<br />
+Innovation-oriented recruitment considers only external candidates in order to bring in new impulses."	"false:<br />
+Both internal and external candidates are flexibly integrated."
+"true or false:<br />
+Long-term and results-oriented employee assessment supports innovation-friendly organizational cultures."	"true:<br />
+It creates a development focus instead of short-term performance pressure."
+"Question:<br />
+Which is not part of the Transformational Leadership model?<br />
+a) Idealized Influence<br />
+b) Inspirational Motivation<br />
+c) Intellectual Stimulation<br />
+d) Collective Consideration"	d)
+"Question:<br />
+Which point does not belong to the 4-component model of Transactional Leadership?<br />
+a) Inducement<br />
+b) Reward<br />
+c) Punishment<br />
+d) Challenge"	d)
+"Question:<br />
+In which environments is Apple’s functional organization according to Discretionary Leadership particularly advantageous?<br />
+a) Stable industries<br />
+b) Markets with rapid technological change<br />
+c) Highly regulated sectors<br />
+d) Markets with low innovation rates"	b)
+"Question:<br />
+Why does Apple retain a functional organization with Discretionary Leadership?<br />
+a) To align expertise with decision rights<br />
+b) To secure product leadership<br />
+c) To create marketing<br />
+d) To decentralize power"	a)
+"Question:<br />
+Which leadership trait is emphasized at Apple in the context of Discretionary Leadership?<br />
+a) Financial management skills<br />
+b) Deep expertise in operational activities<br />
+c) Experience in managing many business units<br />
+d) Delegation skills"	b)
+"Question:<br />
+How does Apple’s leadership model differ from other companies?<br />
+a) Decisions are made based on financial indicators<br />
+b) Experts take over leadership roles and decisions<br />
+c) Decisions are delegated to managers<br />
+d) Strict separation of research and finance"	b)
+"Question:<br />
+Which legal protection measure protects original creative content?<br />
+a) Patents<br />
+b) Copyright<br />
+c) Utility model<br />
+d) Trademark law"	b)
+"Question:<br />
+To which protection category do technology-based financial barriers belong?<br />
+a) Complementary services<br />
+b) Strategic measures<br />
+c) Imitation barriers<br />
+d) Legal measures"	c)
+"Question:<br />
+To which protection category do bundles as protection mechanisms against product imitation belong?<br />
+a) Complementary services<br />
+b) Strategic measures<br />
+c) Imitation barriers<br />
+d) Legal measures"	a)
+"Question:<br />
+To which protection category does market entry into several markets at the same time (""Parallel Market Entry"") belong?<br />
+a) Complementary services<br />
+b) Strategic measures<br />
+c) Imitation barriers<br />
+d) Legal measures"	b)
+"Question:<br />
+How is appropriability related to product imitations?<br />
+a) Product imitations increase the innovator’s return<br />
+b) Appropriability describes how well a company can appropriate foreign innovations<br />
+c) Product imitations enable the inventor to access intangible assets at no cost<br />
+d) Innovators invest less because they cannot protect their returns"	d)
+"Question:<br />
+When is an acquisition reasonable from a synergy perspective?"	An acquisition is reasonable when reciprocal synergies are required that demand close knowledge exchange processes, or when hard resources such as plants absolutely must be combined.
+"Question:<br />
+When is an alliance reasonable in terms of synergies?"	An alliance is reasonable when modular synergies are targeted or when sequential synergies arise, where one firm completes tasks and passes the results on to the other.
+"Question:  <br />
+Why is governance such a decisive success factor for alliances?"	Because it structures operational collaboration, intercepts conflicts early and enables coordination of complex, cross-organizational activities.
+"Question:<br />
+Which market conditions speak in favor of an alliance?"	An alliance is reasonable in times of high market uncertainty, because flexibility and risk sharing are more important than full control.
+"true or false:<br />
+Alliances only create real value under certain conditions because they require coopetition from the partners, which can make alliances unstable."	true
+"Example:<br />
+equity-based relationship"	"<ul>
+<li>joint payment system</li>
+<li>joint venture for the development of new products</li>
+</ul>"
+"Question:<br />
+When should an equity-based relationship be chosen over a non-equity-based relationship?"	An equity-based relationship is reasonable when soft resources such as workforces must be combined or when sequential synergies need to be secured more strongly.
+"Example:<br />
+contractual relationship"	"<ul>
+<li>co-branding contract</li>
+<li>license agreement</li>
+<li>marketing alliance</li>
+</ul>"
+"Question:<br />
+""Bavarian Machinery Alliance"" is an alliance between two Bavarian machinery manufacturers. Which collaboration type does it belong to?<br />
+a) Multilateral<br />
+b) Non-contractual<br />
+c) Contractual<br />
+d) Equity-based"	c)
+"Example:<br />
+non-contractual relationship"	"<ul>
+<li>exchange of research staff</li>
+<li>cross-selling agreement</li>
+<li>lobby coalition</li>
+<li>agreement for the exchange of market data</li>
+</ul>"
+"Question:<br />
+""The Future of Wind"" is a lobby coalition with over 15 companies. Which collaboration type does it belong to?<br />
+a) Bilateral<br />
+b) Non-contractual<br />
+c) Contractual<br />
+d) Equity-based"	b)
+"Example:<br />
+bilateral relationship"	"<ul>
+<li>co-branding alliance</li>
+<li>co-development alliance</li>
+<li>joint venture for the development of new products</li>
+</ul>"
+"Question:<br />
+""Bavarian Machinery Alliance"" is an alliance between two Bavarian machinery manufacturers. Which collaboration type does it belong to?<br />
+a) Singleton<br />
+b) Multilateral<br />
+c) Bilateral<br />
+d) Equity-based"	c)
+"Example:<br />
+multilateral relationship"	"<ul>
+<li>joint payment system</li>
+<li>joint standard-setting</li>
+<li>lobby coalition</li>
+<li>marketing alliance</li>
+</ul>"
+"Question:<br />
+""The Future of Wind"" is a lobby coalition with over 15 companies. Which collaboration type does it belong to?<br />
+a) Multilateral<br />
+b) Bilateral<br />
+c) Contractual<br />
+d) Equity-based"	a)
+"true or false:<br />
+High market uncertainty speaks more for an alliance than for an acquisition."	"true:<br />
+Alliances reduce risk and keep options for adaptation open."
+"Example:<br />
+cooperative strategy"	"<ul>
+<li>Lego promotes co-creation through its community to create new product ideas</li>
+<li>NVIDIA acts as a supplier of computer chips for Microsoft and OpenAI</li>
+<li>Shopify enables e-commerce for other companies</li>
+</ul>"
+"Question:<br />
+Which statement about gap-oriented budgeting is false?<br />
+a) The approach is top-down<br />
+b) The approach is widespread and easy to apply<br />
+c) Resource availability is not considered<br />
+d) The approach is highly dependent on forecasts and assumptions"	b)
+"Question:<br />
+Which statement about competitive budgeting is false?<br />
+a) The approach is bottom-up<br />
+b) The approach provides no clear strategic indication when there are many competitors<br />
+c) Research and development data are difficult to compare<br />
+d) The approach secures competitiveness"	a)
+"Question:<br />
+A company adjusts its annual R&amp;D budget every year according to the inflation rate. Which of the following statements is false?<br />
+a) It is a top-down approach<br />
+b) It is easy to apply<br />
+c) It is intended to ensure that the company remains competitive<br />
+d) It is based on historical developments rather than corporate goals"	c)
+"Question:<br />
+What is an advantage of top-down budgeting?<br />
+a) Expectation management<br />
+b) It takes longer and thus enables better communication<br />
+c) It involves the entire organization broadly<br />
+d) It increases participation across all levels in the company"	a)
+"true or false:  <br />
+The ownership lens primarily asks about the market attractiveness of a product."	"false:  <br />
+It evaluates organizational fit and internal synergy potentials, not market attractiveness."
+"Question:<br />
+Why is the entire top management heavily involved in a turnaround?"	Because financial restructuring, operational stabilization and strategic realignment must take place at the same time and cross-functional decisions are necessary.
+"Question:<br />
+What type of management does a turnaround business need?<br />
+a) Limited to no attention<br />
+b) In-depth top management<br />
+c) Limited attention in planned carve-outs<br />
+d) No attention"	b)
+"true or false:<br />
+Management involvement in turnaround businesses is low, as operational teams must largely work autonomously."	"false:<br />
+Turnaround requires maximum top-management attention, as financial and structural stabilization must be tightly managed."
+"true or false:<br />
+In turnaround businesses the role of the CTO is more central than that of finance leadership, because the focus is primarily on technological restructuring."	"false:<br />
+The focus is on operational and financial stabilization, which makes finance leadership especially important."
+"true or false:<br />
+In turnaround businesses it is sufficient to involve only individual executives, as operational teams make the most important decisions."	"false:<br />
+Turnaround requires close, continuous involvement of the entire top management."
+"true or false:<br />
+Turnaround businesses require little management attention, as operational activities are the focus."	"false:<br />
+They demand high involvement of the entire top management, as operational and financial measures must be tightly controlled."
+"true or false:<br />
+Turnaround businesses should aggressively expand M&amp;A activities to create growth."	"false:<br />
+M&amp;A must be approached carefully, as capital is scarce and risk is high."
+"Question:<br />
+Why is the specific involvement of the CMO strategically sensible in an established business?"	In mature markets, value is primarily created through brand maintenance, differentiation and customer retention; therefore marketing decisions determine competitiveness and cash flow more strongly than technological innovation.
+"true or false:<br />
+Established businesses achieve better results when top management constantly intervenes deeply in operational decisions."	"false:<br />
+Too much interference undermines efficiency and role allocation in stable markets."
+"true or false:<br />
+Established businesses rarely benefit from intensive management control, as their markets exhibit stable and predictable structures."	"true:<br />
+Over-control would create unnecessary complexity."
+"true or false:<br />
+Established businesses should increase their management involvement in order to imitate innovation drivers such as in development businesses."	"false:<br />
+Mature markets require limited, selective involvement instead of innovation-driven over-control."
+"true or false:<br />
+In established businesses, management involvement is limited and often focuses on the CMO."	"true:<br />
+In mature markets, marketing for position maintenance is more central."
+"Question:<br />
+In what way does the management structure of a growth business lead to special requirements for internal communication?"	Due to frequent top-management involvement, decisions must be communicated quickly, precisely and transparently to ensure scaling processes and cross-functional coordination.
+"true or false:<br />
+Growth businesses require only occasional management involvement, because the market is stable."	"false:<br />
+They require high and frequent involvement of the entire top management to optimally steer scaling and growth opportunities."
+"true or false:<br />
+Growth businesses require primarily technological expertise in top management, but not comprehensive general management competence."	"false:<br />
+Scaling involves technology, market, finance and operations equally."
+"true or false:<br />
+Growth businesses require less technical top-management expertise than development businesses."	"true:<br />
+Their focus is more on scaling, organization and market penetration."
+"true or false:<br />
+Growth businesses can dispense with regular coordination in top management, as processes are already established."	"false:<br />
+Growth creates complexity that requires closely coordinated leadership."
+"true or false:<br />
+Growth businesses can successfully scale without top management being regularly involved in operational decisions."	"false:<br />
+High and frequent involvement is necessary to steer complex growth processes."
+"Question:<br />
+Why is the role of the CTO particularly important in development businesses?"	Because technological decisions and early product development largely determine the future market position and high uncertainty may exist.
+"Question:<br />
+Why would permanent, strong involvement of top management in a development business be counterproductive?"	It would hinder agility, willingness to experiment and technical exploration, since early innovation phases require fast, iterative decisions that must not be slowed down by excessive hierarchical processes.
+"Question:<br />
+What management does a development business need?<br />
+a) No top-management attention<br />
+b) Top management as needed<br />
+c) Frequent, deep top-management involvement<br />
+d) Limited top-management attention"	b)
+"true or false:<br />
+Development businesses should bring in experienced managers from established businesses early to create stable structures."	"false:<br />
+Too much structure hampers exploration and early innovation."
+"true or false:<br />
+A development business can establish technological dependencies through early CTO involvement that create long-term strategic advantages."	"true:<br />
+Early technological path choices influence later market positions."
+"true or false:<br />
+In development business the CTO is hardly relevant for operational steering."	"false:<br />
+The CTO plays a central role in technological path decisions."
+"true or false:<br />
+In development businesses excessive involvement of the entire top management often leads to a slowdown of innovation processes."	"true:<br />
+Excessive hierarchy can block agile, exploratory decisions."
+"true or false:<br />
+In development businesses the entire top management should always be strongly and permanently involved."	"false:<br />
+Excessive involvement slows down early innovation processes and hampers agility."
+"true or false:<br />
+In development businesses management is involved only as needed, with the CTO playing a central role."	"true:<br />
+Technology and innovation decisions are at the forefront, which makes the CTO particularly relevant."
+"Question:<br />
+What role does a turnaround business play in the portfolio?<br />
+a) Needs financing<br />
+b) Short-term idea generation<br />
+c) Stability<br />
+d) Long-term growth potential"	a)
+"Question:<br />
+What contribution does a development business deliver in the portfolio?<br />
+a) Stability<br />
+b) Growth<br />
+c) Long-term value creation<br />
+d) Optional value"	d)
+"true or false:<br />
+Turnaround businesses aim to invest massively in innovation to revive the market."	"false:<br />
+They focus on value extraction and providing financial resources for other areas."
+"true or false:<br />
+Turnaround businesses invest heavily in expansion to gain market share."	"false:<br />
+They concentrate on value extraction and capital preservation to finance other business fields."
+"true or false:<br />
+Turnaround businesses can typically regain lost market share through aggressive reinvestment in the core business."	"false:<br />
+Aggressive reinvestments are rarely sensible; value arises mainly through restructuring, downsizing and liquidity optimization."
+"Question:<br />
+What is the strategic focus of an established business?<br />
+a) Secure long-term market position without actively pursuing growth<br />
+b) Exploit growth opportunities<br />
+c) Extract maximum cash flow<br />
+d) Secure long-term value creation"	a)
+"true or false:<br />
+Established businesses focus on securing their market position in the long term and ensuring stable cash flow."	"true:<br />
+They operate in mature markets with predictable earnings."
+"true or false:<br />
+Established businesses strategically prioritize defending their position, because their competitiveness is determined more by efficiency than by market expansion."	"true:<br />
+In mature markets value arises primarily through operational excellence and cost discipline."
+"Question:<br />
+What should be the strategic focus of a growth business?<br />
+a) Long-term value creation<br />
+b) Achieving a significant market position<br />
+c) Ensuring positive cash flow<br />
+d) Cautious testing of new opportunities"	a)
+"true or false:<br />
+Growth businesses can realize long-term value creation only if they actively use market volatility to accelerate their growth."	"false:<br />
+Their growth is not based on volatility, but on controlled, predictable market growth and the ability to exploit it efficiently."
+"true or false:<br />
+Growth businesses focus on securing long-term value creation and actively utilizing market growth."	"true:<br />
+They aim for sustainable growth while maintaining profitability."
+"true or false:<br />
+Growth businesses should primarily secure short-term liquidity."	"false:<br />
+Their focus is on long-term value creation and the exploitation of growth opportunities."
+"true or false:<br />
+The strategic priority of development businesses is to use resources conservatively to secure long-term stable cash flows."	"false:<br />
+They must grow aggressively and invest capital-intensively in market positions to build relevance in volatile markets."
+"true or false:<br />
+The strategic focus of development businesses lies on speed, growth and proof of long-term value creation."	"true:<br />
+It is about rapid scaling and establishing a relevant market position."
+"true or false:<br />
+The strategic focus of development businesses lies on stability and preservation of existing market positions."	"false:<br />
+Development businesses aim at speed, growth and building a significant market position."
+"Question:<br />
+When can a turnaround business be strategically attractive?"	If restructuring or repositioning succeeds, then in spite of market decline value can be created in the short term through efficiency increase or niche focus.
+"Question:<br />
+Which strategic challenge typically arises in turnaround businesses?"	They must increase operational efficiency in shrinking markets, transform business models or withdraw from the market.
+"true or false:<br />
+Turnaround businesses operate in degenerating markets with less than 2 % growth per year."	"true:<br />
+They struggle with shrinking demand and decreasing profitability."
+"true or false:<br />
+Turnaround businesses operate in markets with high growth dynamics."	"false:<br />
+They are in degenerating markets with less than 2 % growth and falling profitability."
+"true or false:<br />
+Turnaround businesses are characterized by increasing profitability because fewer competitors remain."	"false:<br />
+Their profitability typically continues to decline."
+"Question:<br />
+Why are established businesses considered important cash-flow carriers?"	Because they operate in mature, stable markets whose predictable profitability enables long-term financial stability.
+"true or false:<br />
+Established businesses are in the maturity phase of their life cycle and grow between 0 % and 5 % per year."	"true:<br />
+Their market is largely stable and well predictable."
+"true or false:<br />
+Established businesses are typically in the maturity phase of the market life cycle."	"true:<br />
+They offer low market growth (0–5 %) with stable, well calculable profitability."
+"true or false:<br />
+Established businesses have random and volatile profitability due to their stable market."	"false:<br />
+Their profitability is stable and predictable."
+"Question:<br />
+A business field shows 6 % market growth and increasing profitability. Which category in the market lens does this correspond to?<br />
+a) Development Business<br />
+b) Growth Business<br />
+c) Established Business<br />
+d) Turnaround Business"	b)
+"true or false:<br />
+The profitability of growth businesses is typically unstable and unpredictable."	"false:<br />
+It is relatively reliable due to stable market growth."
+"true or false:<br />
+Growth businesses show market growth between 5 % and 10 % per year and operate in controlled growing markets."	"true:<br />
+They offer profitable growth with moderate stability."
+"true or false:<br />
+Growth businesses are characterized by stagnant markets with low growth."	"false:<br />
+They operate in controlled growing markets with 5–10 % growth and stable profitability."
+"Question:<br />
+Why is profitability hard to predict in development businesses?"	Because strongly growing markets are often unstable, highly competitive and shaped by technological or regulatory upheavals.
+"true or false:<br />
+Development businesses are in a strongly growing market with over 10 % growth per year."	"true:<br />
+They are characterized by high dynamics and unpredictable profitability."
+"true or false:<br />
+The profitability of development businesses is easy to predict due to high market volatility."	"false:<br />
+It is hard to predict and highly volatile."
+"Question:<br />
+Why is the communication of vision and mission essential?"	Because it ensures that all stakeholders understand and support the company’s direction, motivation and long-term orientation.
+"Question:<br />
+What are central steps in implementing vision and mission?"	Continuous communication to all stakeholders as well as aligning strategic goals with vision and mission.
+"true or false:<br />
+Aligning strategic goals with vision and mission is optional, because these elements remain stable in the long term."	"false:<br />
+Without this alignment, vision and mission have no steering effect."
+"true or false:<br />
+The implementation of vision and mission happens exclusively through internal leadership decisions and requires no communication."	"false:<br />
+A central component is regular communication to all stakeholders."
+"true or false:<br />
+Strategic goals must be aligned with vision and mission so that these become effective in operational actions."	true
+"Example:<br />
+Jugaad"	"<ul>
+<li>Warming up pizza on a car hood</li>
+</ul>"
+"Question:<br />
+Which statement does not apply to Jugaad?<br />
+A) Do More With Less<br />
+B) Build Structures and Maintain Order<br />
+C) Think and Act Flexibly<br />
+D) Include the Margin"	b)
+"Question:<br />
+Which point does not apply to frugal innovation, specifically Jugaad?<br />
+a) Think and Act Rigidly<br />
+b) Do More With Less<br />
+c) Think and Act Flexibly<br />
+d) Include the Margin"	a)
+"Question:<br />
+Which type is the following goal: ""30 % of our revenue should come from chips of the latest generation within 3 years""?<br />
+a) Input goal<br />
+b) Output goal<br />
+c) Structural goal<br />
+d) Process goal"	b)
+"Question:<br />
+Which type is the following goal: ""We want to train 40 engineers in rapid prototyping in the next 12 months""?<br />
+a) Input goal<br />
+b) Output goal<br />
+c) Structural goal<br />
+d) Process goal"	"d)<br />
+Question:  <br />
+How do process goals differ from input goals? #s  <br />
+Input goals regulate the use of resources, while process goals define how an output is generated in the process."
+"Question:<br />
+Which type is the following goal: ""We want to hire 25 senior researchers in the cardiovascular area next year.""?<br />
+a) Input goal<br />
+b) Output goal<br />
+c) Structural goal<br />
+d) Process goal"	a)
+"Question:<br />
+A technology has a high relative position but low importance. Which quadrant in the Booz Allen Hamilton matrix does this correspond to?<br />
+a) Draw<br />
+b) Bet<br />
+c) Cash-In<br />
+d) Fold"	c)
+"Question:<br />
+A technology has a low relative position but high importance. Which quadrant in the Booz Allen Hamilton matrix does this correspond to?<br />
+a) Draw<br />
+b) Bet<br />
+c) Cash-In<br />
+d) Fold"	a)
+"Question:<br />
+Which metric is not suitable to assess the relative technology position in the Booz Allen Hamilton matrix?<br />
+a) Number of patents<br />
+b) Number of employees<br />
+c) R&amp;D spending<br />
+d) Rate of change"	b)
+"Question:<br />
+Where are stars located in the BCG matrix?<br />
+a) Low growth, low market share<br />
+b) High growth, low market share<br />
+c) Low growth, high market share<br />
+d) High growth, high market share"	d)
+"Question:<br />
+Where are turnaround businesses located in the BCG matrix?<br />
+a) Low growth, low market share<br />
+b) High growth, low market share<br />
+c) Low growth, high market share<br />
+d) High growth, high market share"	a)
+"Question:<br />
+Where are cash cows located in the BCG matrix?<br />
+a) Low growth, low market share<br />
+b) High growth, low market share<br />
+c) Low growth, high market share<br />
+d) High growth, high market share"	c)
+"Question:  <br />
+What does ""valuable"" mean in the VRIN framework?"	A resource is valuable if it enables the company to exploit opportunities or neutralize threats.
+"Question:<br />
+Which condition does a core competence not have to fulfill in order to create an incremental advantage?<br />
+a) Non-substitutable<br />
+b) Rare<br />
+c) Valuable<br />
+d) Inimitable"	a)
+"Question:<br />
+What does VRIN stand for?<br />
+a) Valuable, Rare, Inimitable, Non-Substitutable<br />
+b) Value-Driven, Rare, Intangible, Non-Replicable<br />
+c) Valuable, Reachable, Inimitable, Non-Substitutable<br />
+d) Vital, Rare, Inimitable, Non-Replaceable"	a)
+"true or false:<br />
+For business problems AI automatically increases the analytical depth of the decision."	"false:<br />
+AI only delivers good results when people critically check, contextualize and logically further process them."
+"true or false:<br />
+AI shows particularly high effectiveness for creative tasks such as product ideas or innovation development, because it combines diverse perspectives and increases the quality of ideas."	true
+"Question:<br />
+Which phase of the Gartner Hype Cycle corresponds to the following: ""Interest wanes as experiments and implementations fail to deliver""?<br />
+a) Peak of Inflated Expectations<br />
+b) Trough of Disillusionment<br />
+c) Slope of Enlightenment<br />
+d) Plateau of Productivity"	b)
+"Question:<br />
+Which phase of the Gartner Hype Cycle describes the following: ""Mainstream Adoption Starts To Take Off""?<br />
+a) Peak Of Inflated Expectations<br />
+b) Trough Of Disillusionment<br />
+c) Slope Of Enlightenment<br />
+d) Plateau Of Productivity"	d)
+"Question:<br />
+Which phase in the Gartner Hype Cycle describes: ""Early publicity produces a number of early success stories and inflated expectations""?<br />
+a) Peak of Inflated Expectations<br />
+b) Trough of Disillusionment<br />
+c) Slope of Enlightenment<br />
+d) Plateau of Productivity"	a)
+"Question:<br />
+Complete the following sentence: ""In the … the supply exceeds the demand for the first time.""<br />
+a) Tornado<br />
+b) Bowling Alley<br />
+c) Chasm<br />
+d) Main Street"	d)
+"Question:<br />
+Complete the following sentence: ""The real challenge to ensuring an innovation takes hold is crossing the … as this is crossing the gap between early adopters and early majority.""<br />
+a) Tornado<br />
+b) Bowling Alley<br />
+c) Chasm<br />
+d) Main Street"	c)
+"Question:<br />
+Why is the tornado phase of Moore's adoption model risky, although it brings strong growth?"	Because excessive expansion and lack of adaptation to customer needs can lead to quality losses, organizational overload and a loss of focus.
+"Question:<br />
+What characterizes the tornado phase of Moore's adoption model?"	Demand grows exponentially because the early majority forms the mass market. Companies standardize products, scale production and prioritize growth over differentiation.
+"Question:<br />
+What happens in the Main Street phase of Moore's adoption model?"	Market growth levels off, supply exceeds demand and companies secure returns through niche cultivation, product improvements and additional services.
+"Question:<br />
+How can a company cross the ""chasm""?"	By focusing on a niche in the pragmatic market, clear value advantages, reference customers and building a dominant market position in this segment.
+"true or false:<br />
+The ""chasm"" refers to the moment when a product is accepted by the masses."	"false:<br />
+The ""chasm"" describes the gap between early adopters and early majority that blocks the transition from niche market to mass market."
+"true or false:<br />
+In the Main Street phase of Moore's adoption model, supply exceeds demand for the first time."	"true:<br />
+Markets are saturated, competition increases and companies must differentiate through product improvements and niche focus."
+"true or false:<br />
+In the tornado phase of Moore's adoption model, the market grows exponentially because the early majority forms the mass market."	"true:<br />
+Demand increases sharply, products are standardized and scaling becomes more important than adaptation."
+"true or false:<br />
+In Moore's adoption model it is recommended to serve as many market segments as possible simultaneously in order to cross the ""chasm""."	"false:<br />
+He recommends dominating a clearly defined niche and expanding step-by-step into adjacent segments from there."
+"Question:<br />
+Which statement is not a limitation of the technology S-curve concept for forecasting?<br />
+a) The shape of S-curves is influenced by firm-specific innovation<br />
+b) The true technology limits are unknown<br />
+c) Superior technologies may not be adopted by customers<br />
+d) S-curves sensitize decision makers to performance limits of technologies"	d)
+"Question:<br />
+Which statement about the technology S-curve is true?<br />
+a) Companies cannot influence the shape of the S-curve<br />
+b) The true limits of a technology are rarely known in advance<br />
+c) The S-curve explicitly considers customer adoption<br />
+d) Technological performance is easy to measure"	b)
+"true or false:<br />
+The condition for technology change is when the growth rate of both technology S-curves is equal."	true
+"Question:<br />
+Which strategy should be pursued in phase II (""Technology Improvement"") of the technology S-curve, according to the lecture?<br />
+a) Reduce work intensity<br />
+b) Optimize for the market<br />
+c) Further develop the technology<br />
+d) Reduce costs"	b)
+"Question:<br />
+How high is uncertainty in the second phase of the technology S-curve (""Technology Improvement"")?<br />
+a) Very low<br />
+b) Low<br />
+c) Medium<br />
+d) High"	c)
+"Question:<br />
+Which three factors belong to the basic economic theory of Total Factor Productivity?<br />
+a) Labor, land, capital<br />
+b) Labor, product, capital<br />
+c) Land, production, labor<br />
+d) Expenditure, labor, land"	a)
+"Question:<br />
+Which metric corresponds to the definition ""ökonomische Kennzahl, die Inputs von Technologie, Arbeit und Humankapital berücksichtigt"" (""economic figure that accounts for inputs caused by technology, labor and human capital"")?<br />
+a) New Product Announcements<br />
+b) Research and Development Spending<br />
+c) Innovation Surveys<br />
+d) Total Factor Productivity"	d)
+"true or false:<br />
+Dynamic capabilities are not transferable or outsourceable."	true
+"true or false:<br />
+Dynamic capabilities are transferable."	"false:<br />
+They are based on deep, firm-specific knowledge, experience and culture, and are therefore not suitable for outsourcing."
+"true or false:<br />
+The goal of near-decomposability is to combine local autonomy with overarching integration as a microfoundation."	true
+"Question:<br />
+What does ""reconfiguring"" mean in the context of a dynamic capability?<br />
+a) Adapting business processes to reduce costs<br />
+b) Reallocating resources and adapting organizational structures<br />
+c) Outsourcing all core processes<br />
+d) Diversifying into foreign and unexplored markets"	b)
+"Example:<br />
+Dynamic capability"	"<ul>
+<li>innovative production development at Apple</li>
+<li>scaling server farms to adapt to dynamic capacity demands of a platform</li>
+</ul>"
+"Question:<br />
+On which theoretical framework is the perspective of dynamic capabilities based?<br />
+a) Market-based view<br />
+b) Resource-based view<br />
+c) Capacity-based view<br />
+d) Strategy-based view"	b)
+"Question:<br />
+In which industries and sectors are dynamic capabilities particularly important?<br />
+a) Industries and sectors with low technological change<br />
+b) Industries and sectors with high regulatory stability<br />
+c) Industries and sectors with rapid technological change and global competition<br />
+d) Industries and sectors with strong market consolidation"	c)
+"Question:<br />
+What does ""sensing"" mean in the context of a dynamic capability?<br />
+a) Adopting best practices from competitors<br />
+b) Recognizing and interpreting opportunities &amp; threats<br />
+c) Minimizing operating costs<br />
+d) The financial management of a company"	b)
+"Question:<br />
+What are the three components of a dynamic capability?<br />
+a) Innovating, capturing, outsourcing<br />
+b) Sensing, seizing, reconfiguring<br />
+c) Planning, coordinating, monitoring<br />
+d) Learning, organizing, restructuring"	b)
+"Question:<br />
+What is meant by self-reinforcing automation?"	A self-reinforcing process in which AI initially augments, but then, through increasing standardization, automates more and more tasks.
+"true or false:<br />
+Self-reinforcing automation describes the process in which automation reinforces itself."	"true:<br />
+AI-supported augmentation structures work so that it can subsequently be fully automated more easily."
+"Question:<br />
+What does augmenting automation mean?"	AI reinforces existing automation by integrating decision processes, learning ability and self-control into systems.
+Which societal risks arise from augmenting automation?	Increasing inequality, job polarization, deskilling and ethical challenges in dealing with algorithmic control.
+"true or false:<br />
+Augmenting automation means that AI supports and expands existing automation systems."	"true:<br />
+AI reinforces automation by integrating decision logic, pattern recognition and self-control into processes."
+"true or false:<br />
+The augmentation view sees AI as a support for human capabilities."	"true:<br />
+AI is seen as a tool that increases decision quality, productivity and efficiency of human work."
+"true or false:<br />
+The replacement view assumes that AI primarily complements human work."	"false:<br />
+It assumes that AI replaces human work, especially routine and cognitive tasks."
+"Question:<br />
+Why does augmentation often lead in the long term to the reduction of human work?"	Because AI modularizes work through efficiency increases and standardization, thereby making it gradually fully automatable.
+"Question:<br />
+What are the effects of AI on work?<br />
+a) Job engine &amp; equalizer<br />
+b) Replacement &amp; augmentation<br />
+c) Automation &amp; preservation<br />
+d) Digitalization &amp; sustainable working conditions"	b)
+"Question:<br />
+How does modularization contribute to AI augmentation?<br />
+a) It simplifies complex tasks and makes them automatable<br />
+b) It makes employees more independent<br />
+c) It promotes cross-functional collaboration<br />
+d) It reduces the need for physical infrastructure"	a)
+"Question:<br />
+How does the long-term use of AI affect the labor market?<br />
+a) Companies prefer structures that disadvantage technical professions<br />
+b) Companies can monitor work less automatically<br />
+c) The remaining work for humans is modularized and could later also be replaced<br />
+d) AI has no significant impact on labor markets"	c)
+"true or false:<br />
+Augmentation leads in the long term to an increase in human employment."	"false:<br />
+Through increasing efficiency and standardization, tasks become automatable, which tends to reduce employment."
+"Question:<br />
+The hollowing-out effect describes the increase of middle qualification and income groups through digitalization."	"false:<br />
+It describes the decline of middle jobs and the polarization between highly and low-skilled work as a result of automation."
+"Question:<br />
+What is meant by a digital company?"	Companies whose business models are fully based on data-driven technology and are made scalable through AI.
+"true or false:<br />
+Digital companies are characterized by high economies of scale and data-driven processes."	"true:<br />
+They integrate AI, cloud, IoT and analytics into their business models and thereby create superior efficiency and market power."
+"Example:<br />
+Service innovation"	"<ul>
+<li>CLAAS with opportunities to automate agricultural processes</li>
+</ul>"
+"Question:<br />
+How are R&amp;D and absorptive capacity related?"	R&amp;D strengthens absorptive capacity, and absorptive capacity in turn increases the effectiveness and strategic importance of R&amp;D investments.
+"Question:<br />
+What role does basic research play in building absorptive capacity?"	It creates broad, interconnected prior knowledge and thus enables understanding of complex, future technologies, even if it does not deliver direct short-term returns.
+"true or false:<br />
+Absorptive capacity does not directly influence a company’s R&amp;D spending."	"false:<br />
+It mediates the effect of appropriability and technological opportunities on R&amp;D intensity, thus it is central for investment decisions."
+"true or false:<br />
+R&amp;D creates new knowledge and at the same time builds absorptive capacity."	"true:<br />
+R&amp;D has a dual function: It serves both innovation and organizational learning."
+"Question:<br />
+How does absorptive capacity influence an organization’s aspiration level?"	High absorptive capacity increases sensitivity to technological opportunities and thus innovation goals; low absorptive capacity leads to low, reactive goal setting.
+"Question:<br />
+What does ""lockout"" mean in the context of absorptive capacity?<br />
+a) Lack of early investments prevents later use of new opportunities<br />
+b) High absorptive capacity excludes partnerships<br />
+c) Lockout prevents the diffusion of knowledge<br />
+d) Overinvestment reduces flexibility"	a)
+"Question:<br />
+What does the lockout effect describe in the context of absorptive capacity?"	Companies that invest too late or too little in knowledge lose the long-term ability to understand and use new technologies.
+"true or false:<br />
+The lockout effect of absorptive capacity describes the state in which companies lose long-term access to new knowledge due to lack of early investments."	"true:<br />
+It arises when missing pre-investments strongly hinder or prevent the later development of absorptive capacity."
+"Question:<br />
+What does cross-functional absorptive capacity mean?"	The cross-functional ability to integrate knowledge from different departments and use it for innovation.
+"Question:<br />
+How can cross-functional absorptive capacity of individuals in a company be increased?"	By rotating staff through different departments.
+"Question:<br />
+How does cross-functional absorptive capacity arise?"	Through cross-functional interfaces, overlapping processes and direct communication between organizational units.
+"true or false:<br />
+Cross-functional absorptive capacity arises from close collaboration between functional areas such as R&amp;D, production and marketing."	"true:<br />
+It enables knowledge transfer across departmental boundaries and accelerates innovation processes."
+"true or false:<br />
+Gatekeepers connect external knowledge sources with the internal units of an organization."	true
+"true or false:<br />
+Gatekeepers connect internal knowledge sources with stakeholders outside an organization."	"false:<br />
+Gatekeepers connect external knowledge sources with the internal units of an organization."
+"Question:<br />
+Why does external knowledge often remain unused without gatekeepers?"	Because the organization does not have suitable mechanisms to identify or forward relevant external knowledge without these intermediaries.
+"Question:<br />
+How do gatekeepers influence absorptive capacity?"	They act as translators and mediators between external knowledge sources and internal units, making external knowledge usable.
+"true or false:<br />
+Gatekeepers are responsible for strategic decision-making and necessarily belong to top management."	"false:<br />
+Gatekeepers are operational knowledge carriers, not necessarily executives, and act as interfaces to external knowledge."
+"true or false:<br />
+Gatekeepers play a central role in realizing absorptive capacity."	"true:<br />
+They translate external knowledge into the internal language of the organization and act as interfaces to the environment."
+"Question:<br />
+When do companies typically invest too little in absorptive capacity?"	When the benefit is difficult to measure, long-term and not directly profit-oriented, especially in new knowledge domains outside the core business.
+"Question:<br />
+Why is prior knowledge crucial for the development of absorptive capacity?"	Because existing related knowledge forms the basis for identifying, understanding and classifying new information at all.
+"Question:<br />
+What is the definition of an organization’s absorptive capacity?<br />
+a) The ability to conduct research and development<br />
+b) The ability to recognize, absorb and apply external knowledge<br />
+c) The ability to generate purely internal knowledge<br />
+d) The ability to invest in technology infrastructure"	b)
+"Question:<br />
+Which organizational structures promote absorptive capacity?"	Open communication paths, interdisciplinary teams, knowledge diversity and interfaces between departments.
+"Question:<br />
+What role does knowledge diversity play for absorptive capacity?<br />
+a) Improves internal communication<br />
+b) Reduces assimilation capability<br />
+c) Increases learning and innovation capacity<br />
+d) Creates inefficiencies"	c)
+"Question:<br />
+How can absorptive capacity be understood as a competitive advantage?"	It enables companies to use external knowledge flows faster, more effectively and profitably than competitors and thus build innovation advantages.
+"Question:<br />
+How do individual and organizational absorptive capacity differ?"	Individual absorptive capacity is based on cognitive structures and experience; organizational absorptive capacity arises from communication networks, structures and shared knowledge bases.
+"Question:<br />
+On what does absorptive capacity primarily depend?<br />
+a) External knowledge sources<br />
+b) Innovation capabilities of an organization<br />
+c) The diversity of skills in an organization<br />
+d) Existing knowledge in an organization"	d)
+"true or false:<br />
+Absorptive capacity describes the ability of an organization to create new knowledge."	"false:<br />
+It describes the ability to recognize, assimilate and economically exploit external knowledge, not original knowledge production."
+"true or false:<br />
+Absorptive capacity arises exclusively through individual learning of individual employees."	"false:<br />
+It is more than the sum of individual abilities. It also depends on organizational structures, communication and knowledge sharing."
+"true or false:<br />
+Absorptive capacity depends on existing related knowledge of individuals and the organization itself."	true
+"true or false:<br />
+A high degree of absorptive capacity leads to a reactive innovation strategy."	"false:<br />
+Companies with high absorptive capacity act proactively, recognize technological opportunities early and act in a forward-looking way."
+"true or false:<br />
+A too high degree of specialization within an organization can hinder absorptive capacity."	"true:<br />
+Excessive homogeneity leads to isolation to the outside (Not-Invented-Here syndrome) and reduces external learning ability."
+"true or false:<br />
+An organization develops the highest absorptive capacity when it maintains a balance between shared knowledge for internal understanding and knowledge diversity for external openness and new perspectives."	true
+"true or false:<br />
+Prior knowledge is a central prerequisite for the development of absorptive capacity."	"true:<br />
+Only existing, related knowledge enables recognition and meaningful classification of new information."
+"Question:<br />
+Why is creating new market structures considered the most profound form of disruption?"	Because it does not just change products or markets but redefines entire industry logics, for example through platform economies, network effects or new value chains.
+"Question:<br />
+How do new production or distribution methods contribute to disruption of a market equilibrium?"	Through efficiency gains, cost reductions or new value propositions, they change competitive structures and shift market mechanisms in favor of the innovator.
+"true or false:<br />
+The introduction of a new product can disrupt an existing market equilibrium."	"true:<br />
+A new product changes demand and competitive structures, which can displace established market players or create new segments."
+"true or false:<br />
+The use of new resources can contribute to disruption of an equilibrium."	"true:<br />
+New resources (e.g. data, renewable energy, rare materials) can change existing production and value creation systems and create new competitive advantages."
+"true or false:<br />
+Disruptive innovations can reinforce existing monopolies."	"true:<br />
+Innovations can increase barriers to entry or create new industry structures that enable monopolistic advantages."
+"true or false:<br />
+Innovation is disruptive only when it introduces a completely new technology."	"false:<br />
+Even a new method in production or distribution can disrupt market equilibrium if it significantly changes costs, quality or speed."
+"true or false:<br />
+The circular flow describes the cycle of goods, services and money between firms and households."	"true:<br />
+It shows how income, expenditure, production and consumption in an economy are cyclically connected."
+"true or false:<br />
+The circular flow describes how innovation disrupts markets."	"false:<br />
+It initially shows an equilibrium system in which economic activities proceed regularly. Disruptions represent deviations from it."
+"true or false:<br />
+A circular flow assumes a stable market equilibrium between supply and demand."	"true:<br />
+Only when supply and demand are in equilibrium can the cycle ""circulate"" stably without overproduction or demand gaps."
+"Question:<br />
+Which economic agents are at the center of the circular flow?"	Households and firms: households provide production factors, firms use them for production and pay income, which is in turn used for consumption.
+"Question:<br />
+What does the concept of the circular flow contribute to understanding innovation and market change?"	It provides a base model to understand how innovation disrupts existing equilibria: the cycle is interrupted or reconfigured by innovation.
+"Question:<br />
+What happens to the circular flow when innovation intervenes in an equilibrium system?"	Innovation disrupts the stable cycle by changing production processes, consumption behavior or market structures. The equilibrium shifts to a new innovation equilibrium.
+"Question:<br />
+How can the circular flow be linked to the concept of competitive equilibrium?"	Competitive equilibrium represents the state in the circular flow in which all markets are cleared and no actors have an incentive to change their behavior.
+"true or false:<br />
+According to Schumpeter’s definition, innovation shifts the equilibrium of a system into a temporary quasi-monopoly, which leads to profit."	true
+"Question:<br />
+Why do new requirements lead to innovations?"	New customer or market requirements force companies to further develop or reinvent products, processes or technologies.
+"Question:<br />
+Why do new products promote innovation?"	New products arise from innovation processes and at the same time drive them by changing markets and generating new demand.
+"Question:<br />
+How does foreign competition influence the need for innovation?"	International competition increases innovation pressure, as companies must secure their ability to differentiate through new products, services or processes.
+"Question:<br />
+How does changing demand influence the relevance of innovation?"	Dynamic customer needs require continuous adaptation and reinvention of products and services to remain competitive.
+"Question:<br />
+How does the sharing economy promote innovation?"	The sharing economy leads to new business models based on the shared use of resources and thus requires innovative platform solutions.
+"Question:<br />
+How are new markets and innovation related?"	New markets create opportunities for innovative offerings that address previously untapped needs or recombine existing solutions.
+"Question:<br />
+How does crowdsourcing support innovation processes?"	Crowdsourcing enables the integration of external knowledge sources, increasing idea diversity, speed and efficiency in innovation development.
+"Question:<br />
+What are typical questions in risk analysis?"	"<ul>
+<li>Should the organization invest in application systems/services?</li>
+<li>Which stakeholder requirements have to be considered in this change?</li>
+</ul>"
+"Question:<br />
+Which SMART criterion is missing in this goal: ""We Want To Increase R&amp;D Spending Until 2026""<br />
+a) Specific<br />
+b) Measurable<br />
+c) Relevant<br />
+d) Time-Bound"	b)
+"Question:<br />
+What does SMART stand for?<br />
+a) Specific, Manageable, Attainable, Realistic, Timely<br />
+b) Simple, Measurable, Actionable, Reliable, Time-Bound<br />
+c) Strategic, Manageable, Achievable, Relevant, Trackable<br />
+d) Specific, Measurable, Achievable, Relevant, Time-Bound"	d)
+"Question:<br />
+Which characteristic does not belong to a mission?<br />
+a) It must be rooted in history, identity and values<br />
+b) It must differentiate and explain uniqueness<br />
+c) It must define concrete and well-justified goals<br />
+d) It must be concise and clearly formulated"	c)
+"Example:<br />
+Generative AI"	"<ul>
+<li>ChatGPT</li>
+</ul>"
+"Question:<br />
+Who is an adopter that generally rejects technological innovations and often blocks innovation?"	Laggard
+"Question:<br />
+Which consumer segment is characterized by strong skepticism?<br />
+a) Early Majority<br />
+b) Late Majority<br />
+c) Early Adopters<br />
+d) Laggards"	d)
+"Question:<br />
+Who is a risk-averse adopter who uses a new technology when it has become widely established and its use is almost unavoidable?"	Late Majority
+"Question:<br />
+Which consumer segment typically prefers the market leader when adopting new technologies?<br />
+a) Early Adopters<br />
+b) Early Majority<br />
+c) Late Majority<br />
+d) Laggards"	b)
+"Question:<br />
+Who is an adopter who uses a new technology when it is proven, stable and economically sensible?"	Early Majority
+"Question:<br />
+Who is an adopter who sees strategic opportunities and competitive advantages in new technologies and invests early in adoption to benefit from them?"	Early Adopter
+"Question:<br />
+Who is a risk-taking, tech-affine adopter with limited purchasing power who uses new technologies out of enthusiasm for novelty?"	Innovator
+"Question:<br />
+Which characteristic does not belong to a vision?<br />
+a) Must be desirable for all stakeholders<br />
+b) Must guide future decisions<br />
+c) Must contain specifically defined goals<br />
+d) Must be concise and must not be ambiguous"	d)
+"Question:<br />
+Which characteristic does not belong to a vision?<br />
+a) Must be desirable for all stakeholders<br />
+b) Must show how the company differentiates itself from others<br />
+c) Must guide future decisions<br />
+d) Must be measurable"	b)
+"Example:<br />
+Pioneer"	"<ul>
+<li>OpenAI as a pioneer for generative AIs</li>
+</ul>"
+"Example:<br />
+late follower"	"<ul>
+<li>deepseek as a late follower of OpenAI</li>
+</ul>"
+"Question:<br />
+What is a disadvantage for late followers compared to pioneers at market entry?<br />
+a) Existing business relationships must be dissolved<br />
+b) Risk of imitation<br />
+c) High uncertainty about market, technology and customers<br />
+d) High initial investments in research and marketing"	a)
+"true or false:<br />
+As a late follower you never pursue an imitation or niche strategy."	false
+"Example:<br />
+Development"	"<ul>
+<li>Design of selected systems</li>
+<li>Construction of selected systems</li>
+<li>Testing of systems</li>
+</ul>"
+"true or false:<br />
+The strategic goal stems from the vision and mission of an organization."	true
+"true or false:<br />
+A good strategic goal must be specific, measurable, actionable, realistic and time-bound."	"false:<br />
+In a complex world a good strategic goal is specific and measurable, but does not have to be actionable, realistic or time-bound, because too much is unknown. It should not be assigned as a performance standard to several people or a team. Goals can change over time as the organization learns more. A strategic goal should be something the organization wants to achieve, but that is not the same as knowing that the goal is actionable and likely achievable, which is better suited for a sprint goal."
+"true or false:<br />
+A patent is granted for a limited time."	true
+"true or false:<br />
+Synergy effects arise from the short-term harmonization of business functions or the long-term harmonization of corporate functions."	true
+"Question:<br />
+What do digitally transformed companies do disproportionately often?<br />
+a) Explanation<br />
+b) Exploitation<br />
+c) Exhortation<br />
+d) Exploration"	d)
+"Example:<br />
+Market Breakthrough"	"<ul>
+<li>AirPods, because they meet customer needs better with existing technologies</li>
+</ul>"
+"Example:<br />
+Technological Breakthrough"	"<ul>
+<li>Fiber optic cable, because it uses a new technology but serves the same needs for customers</li>
+</ul>"
+"Example:<br />
+Radical Innovation"	"<ul>
+<li>VR headset, because it is a new technology that can meet customer needs in entertainment in a new and better way</li>
+</ul>"
+"Question:<br>
+A product has a high technology score and a high market score. Which type of innovation best describes this?<br>
+a) Incremental Innovation<br>
+b) Radical Innovation<br>
+c) Market Breakthrough<br>
+d) Technology Breakthrough"	b)
+"true or false:<br />
+A product with a radical innovation has a fundamental change that can meet customer needs better than other products."	true
+"true or false:<br />
+Only a small proportion of new products are radical innovations."	true
+"true or false:<br />
+Radical innovations sell significantly better."	"true:<br />
+Radical innovations have a six times higher sales share than other products."
+"Example:<br />
+Incremental Innovation"	"<ul>
+<li>System razor that evolves over time but remains true to the existing product idea</li>
+</ul>"
+"Question:<br />
+A product achieves a low technology score and a low market score. Which type of innovation fits best?<br />
+a) Incremental Innovation<br />
+b) Radical Innovation<br />
+c) Market Breakthrough<br />
+d) Technology Breakthrough"	a)
+"true or false:<br />
+Only a small proportion of new products are incremental innovations."	"false:<br />
+A large part of innovations are incremental innovations."
+"Question:<br />
+Based on the relationship between corporate strategy and business unit strategy, which input is not a direct input from the corporate strategy to the business unit strategy?<br />
+a) High-Level Strategic Direction<br />
+b) HR strategy development<br />
+c) Support in M&A<br />
+d) Clear governance models"	b)
+"Question:<br />
+Based on the relationship between corporate strategy and business unit strategy, which input is not a direct input from the corporate strategy to the business unit strategy?<br />
+a) High-Level Strategic Direction<br />
+b) Top-Down Objectives<br />
+c) Governance Model<br />
+d) Operational resource control"	d)
+"true or false:<br />
+Business unit strategies are intended to create a competitively dominant position for the respective business unit and be aligned with the overall corporate strategy."	true
+"Question:<br />
+Which is not a strategic question at the corporate level?<br />
+a) Which business unit should we sell?<br />
+b) Which company should we acquire?<br />
+c) Which markets do we enter with existing products?<br />
+d) What price do we set for a new product?"	d)
+"Example:<br />
+Experience curve"	"<ul>
+<li>Automation</li>
+<li>Employee onboarding</li>
+<li>Routine</li>
+</ul>"
+"Question:<br />
+How quickly can the experience curve effect be implemented?"	The experience curve effect requires a certain lead time and cannot be implemented directly.
+"true or false:<br />
+The experience curve effect states that with every doubling of the sales volume of a product, the cumulative unit costs decrease by a certain percentage over time."	"false<br />
+With every doubling of the cumulative sales volume of a product, the unit costs decrease."
+"Example:<br />
+Disruptive Innovation"	"<ul>
+<li>Netflix disruptively transformed the video market by displacing Blockbuster as a company through mail delivery and later streaming</li>
+</ul>"
+"Example:<br />
+Business model innovation"	"<ul>
+<li>flaschenpost.de with a new value proposition</li>
+</ul>"
+"Question:<br />
+Which component is not one of those that define a business model?<br />
+a) Market Creation: How does the company create a market for itself?<br />
+b) Value Proposition: What value does the company offer its customers and key partners involved in the value chain?<br />
+c) Value Chain: How does the company create the value?<br />
+d) Revenue Model: How does the company make money?"	a)
+"true or false:<br />
+Business model innovation leads to changes in important components of a business model."	true
+"Question:<br />
+Can a dominant design prevail even if other designs are technologically superior?<br />
+a) Yes, due to self-reinforcing effects<br />
+b) No, technological superiority always prevails<br />
+c) Only with complete market transparency<br />
+d) Only if legally required"	a)
+"Question:<br />
+Why does a dominant design emerge?<br />
+a) Due to purely legal requirements<br />
+b) Due to increasing economies of scale and network effects<br />
+c) Due to random market decisions<br />
+d) Due to maximum technological superiority"	b)
+"Question:<br />
+Which effect reinforces the spread of a dominant design on its own?<br />
+a) Price reductions<br />
+b) Self-reinforcing feedback effects<br />
+c) Government subsidies<br />
+d) Lower market entry barriers"	b)
+"Example:<br />
+Product innovation"	"<ul>
+<li>Adidas with 3D printing methods for shoes</li>
+</ul>"
+"Example:<br />
+Frugal Innovation"	"<ul>
+<li>Nokia 1100 as an inexpensive, dustproof and waterproof phone specifically created for emerging markets, which became the best-selling phone of all time</li>
+</ul>"
+"Question:<br />
+Which of the following points is according to the lecture not a reason why innovation has become so fast and critical to success?<br />
+a) Established market forces<br />
+b) Increasing transparency<br />
+c) New technologies<br />
+d) Changing demand"	a)
+"Question:<br />
+Which point is not a reason for the high importance of innovation?<br />
+a) Constant demand<br />
+b) New market forces<br />
+c) Increasing transparency<br />
+d) Penetration of digitalization"	a)
+"true or false:<br />
+Patents are a good indicator of innovation."	"false:<br />
+They are a good indicator of innovation input"
+"Question:<br />
+What distinguishes innovation from invention?<br />
+a) Google Maps is an invention, while GPS is an innovation<br />
+b) Invention means the first commercial use<br />
+c) Innovation is limited exclusively to the R&D department<br />
+d) An invention requires scientific and creative skills"	d)
+"Question:<br />
+Which legal protection measure protects communicative designs such as logos?<br />
+a) Patents<br />
+b) Utility model<br />
+c) Trademark protection<br />
+d) Copyright"	c)
+"Question:<br />
+Which statement about the joint venture model is correct?<br />
+a) Less formal cooperation<br />
+b) Must consist of at least three parties<br />
+c) Usually has a limited duration<br />
+d) Very loose association of two companies"	c)
+"Question:<br />
+Which statement about joint ventures is true?<br />
+a) A joint venture arises through informal agreements<br />
+b) A joint venture can create learning and new opportunities<br />
+c) A joint venture necessarily increases investment sizes<br />
+d) A joint venture is unlimited in time"	b)

@@ -28,6 +28,9 @@ Dieses Repository stellt eine Sammlung von Anki-Karteikarten bereit, die folgend
 - **BPM3**: Enterprise Architecture Management (SS 25) – Kalla
 	- **de**: Originales Deck auf Deutsch
 	- **en**: KI-übersetztes Deck auf Englisch
+- **MDB1**: Technology and Innovation Strategy (WS 25/26) – Bending
+	- **de**: Originales Deck auf Deutsch
+	- **en**: KI-übersetztes Deck auf Englisch
 - **MDB3**: Network Economics (SS 25) – Haines
 	- **de**: Originales Deck auf Deutsch
 	- **en**: KI-übersetztes Deck auf Englisch

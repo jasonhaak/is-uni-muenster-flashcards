@@ -1,0 +1,1536 @@
+#separator:tab
+#html:true
+"Frage:<br>
+Auf welche Messgröße bezieht sich folgende Definition: ""Ausgaben eines Unternehmens zur Entwicklung neuer Technologien, Produkte, Dienstleistungen oder Systeme"" (""A company’s expenses to create new technology, products, services, or systems"")?<br>
+a) Ankündigungen neuer Produkte<br>
+b) Forschung- und Entwicklungsausgaben<br>
+c) Innovationsumfragen<br>
+d) Total Factor Productivity"	b)
+"Frage:<br />
+Wie trägt KI zum ""Deskilling"" bei?<br />
+a) Durch Ersetzen kognitiver Aufgaben und der Automatisierung von Routineaufgaben<br />
+b) Durch Training von Mitarbeitern, komplexe KI Systeme zu nutzen<br />
+c) Durch Verbesserung kreativer Fähigkeiten durch die Kollaboration mit KI<br />
+d) Durch ständige Weiterbildungsmaßnahmen der Mitarbeitenden"	a)
+"Frage:<br />
+Warum kann bewusste Substitution trotz Identifizierbarkeit wirtschaftlich für den Hersteller schädlich sein?"	Weil Kunden wegen höherem Netto-Nutzen des Imitats bewusst auf das Original verzichten und dadurch Umsatzverluste entstehen.
+"Frage:<br />
+Was passiert bei unbewusster Substitution für den Originalhersteller?"	Cashflow-Verluste, mögliche Imageeinbußen und potenzielle Haftungskosten durch Fehlzuordnung von Imitationsproblemen.
+"Frage:<br />
+Welche zwei Faktoren bestimmen laut Modell das Substitutionsverhalten?"	Die Identifizierbarkeit des Imitats und die exklusive Kundenpräferenz für das Original.
+"Frage:<br />
+Welches Szenario tritt ein, wenn Kunden ein Imitat nicht erkennen?<br />
+a) Kauf von Original und Imitat<br />
+b) Keine Substitution<br />
+c) Substitution mit höherem Nutzen<br />
+d) Unbewusste Substitution"	d)
+"wahr oder falsch:<br />
+Bewusste Substitution durch identifizierbare Imitationen führt zu einem Imageverlust beim Originalhersteller."	"falsch:<br />
+Bei bewusster Substitution entsteht kein Imageverlust, da Kunden bewusst imitierte Produkte wählen."
+"wahr oder falsch:<br />
+Fehlt die exklusive Präferenz für das Original und ist das Imitat erkennbar, entsteht für das Originalunternehmen kein Cashflow-Verlust."	"falsch:<br>
+Es entsteht ein positionsbezogener Cashflow-Verlust, da Kunden bewusst günstige Imitate wählen."
+"wahr oder falsch:<br />
+Unbewusste Substitution verursacht potenziell Produkt­haftungsrisiken für den Originalhersteller."	"wahr:<br />
+Wenn Kunden Imitate nicht erkennen, können sie Fehlfunktionen dem Original zuschreiben."
+"wahr oder falsch:<br />
+Wenn Kunden Imitate erkennen können und gleichzeitig eine starke Präferenz für das Original besitzen, findet keine Substitution statt."	wahr
+\(\text{Enterprise Value}\) = {{c1::\(\text{EBITDA} \cdot \text{EBITDA-Multiple}\)}}	
+"Frage:<br />
+In wie vielen M&amp;A-Transaktionen werden kulturelle Probleme als große Herausforderungen angegeben?"	81 %
+"Frage:<br />
+Ein Unternehmen entwickelt bestehende Märkte weiter und baut neue Businesses auf. Welcher Rekonfiguration des Portfolios entspricht dies?<br />
+a) Business Extension<br />
+b) Divest to Grow<br />
+c) Broad Diversification<br />
+d) Business Focus"	a)
+"Frage:<br />
+Ein Unternehmen verkauft Bereiche und erschließt neue Märkte. Welcher Rekonfiguration des Portfolios entspricht dies?<br />
+a) Market Extension<br />
+b) Divest To Grow<br />
+c) Broad Diversification<br />
+d) Market Focus"	b)
+"Frage:<br />
+Ein Unternehmen will bestehende Geschäfte umformen und neue Märkte entwickeln. Welcher Rekonfiguration des Portfolios entspricht dies?<br />
+a) Market Extension<br />
+b) Divest to Grow<br />
+c) Broad Diversification<br />
+d) Market Focus"	a)
+"Beispiel:<br />
+Geschäftsbereich-Konsolidierung"	TUI hat im Zeitraum von 1995 bis 2014 alle Bereiche außerhalb von Tourismus und Reisen abgestoßen und sich dadurch von einem Mischkonzern zu einem reinen Touristikkonzern, da diese ein großes Wachstum versprochen haben
+"Beispiel:<br />
+Geschäftsbereich-Diversifikation"	"<ul>
+<li>Amazon hat mit Amazon Web Services, Subscription Services und Werbung sein Geschäftsbereich über den reinen eCommerce diversifiziert</li>
+</ul>"
+"<p>Der Innovation Management Process besteht aus:</p>
+<ol>
+<li>{{c1::Aufgabenpräsentation von internen Quellen oder externen Quellen}}</li>
+<li>{{c1::Vorbereitung von Informationen und Ressourcen}}</li>
+<li>{{c1::Ideengenerierung}}</li>
+<li>{{c1::Ideenvalidierung}}</li>
+<li>{{c1::Ergebnisprüfung}}</li>
+</ol>"	
+"wahr oder falsch:<br />
+Innovation Input muss nicht zwingend zu Innovation führen."	wahr
+"wahr oder falsch:<br />
+Patente sind ein guter Indikator für Innovation Input."	wahr
+"<p>Der Innovationsprozess besteht aus:</p>
+<ol>
+<li>{{c1::Fundamental Research}}</li>
+<li>{{c2::Applied Research}}</li>
+<li>{{c3::Pre-Development}}</li>
+<li>{{c4::Development}}</li>
+<li>{{c5::Production}}</li>
+<li>{{c6::Marketing}}</li>
+</ol>"	
+"<p>Strategieentwicklung besteht aus mehreren Schritten:</p>
+<ol>
+<li>{{c1::Definition der Vision, Mission und Ambitionen}}</li>
+<li>{{c2::Kontext und Trends der Umwelt bewerten}}</li>
+<li>{{c3::Ressourcenverfügbarkeit und Kapazität evaluieren}}</li>
+<li>{{c4::Strategie in operative Ziele herunterbrechen}}</li>
+<li>{{c5::Strategie auf verschiedenen Ebenen ausrichten}}</li>
+<li>{{c6::Strategie kontrollieren und prüfen}}</li>
+</ol>"	
+"Frage:<br />
+Welche Aussage spricht für einen frühen Markteintritt?<br />
+a) Kundenpräferenzen sind noch unsicher<br />
+b) Die Reputation der Firma erhöht die Unsicherheit<br />
+c) Die Industrie wird zunehmend von der Einführung profitieren<br />
+d) Das Unternehmen hat geringe Ressourcen"	c)
+"Frage:<br />
+Welcher Konsumententyp entspricht den ""Pragmatists"" im Rogers-Modell?<br />
+a) Early Majority<br />
+b) Late Majority<br />
+c) Early Adopters<br />
+d) Laggards"	a)
+"<p>{{c1::Adoptionszeitpunkte}} sind:</p>
+<ol>
+<li>{{c2::Innovators}}</li>
+<li>{{c2::Early Adopters}}</li>
+<li>{{c2::Early Majority}}</li>
+<li>{{c2::Late Majority}}</li>
+<li>{{c2::Laggards}}</li>
+</ol>"	
+"wahr oder falsch:<br />
+Lernen ist ein kumulativer Prozess. Dieser ist am effektivsten, wenn bereits Wissen vorhanden ist."	wahr
+"Frage:<br />
+Was bedeutet ein strategisches Growth Gap?<br />
+a) Größe unbekannter Innovationsmöglichkeiten<br />
+b) Differenz zwischen bestehendem Geschäft und bekannten Chancen<br />
+c) Differenz zwischen geplantem und realisiertem Umsatz<br />
+d) Differenz zwischen geplantem Umsatz und dem erwartbaren Umsatz ohne Innovation"	d)
+{{c1::Eine strategische Wachstumslücke (Strategic Growth Gap)}} ist {{c2::eine Lücke zwischen den durch eine fehlende Innovation erreichten Vertrieb und den geplanten Vertriebskennzahlen}}. {{c1::Die strategische Wachstumslücke}} beeinflusst maßgeblich {{c3::die Innovation Gap}}.	
+{{c1::Eine strategische Ressource}} ist {{c2::eine Sachanlage, ein immaterieller Vermögensgegenstand oder eine strategische Capability, der entlang der Wertschöpfungskette genutzt wird}}, um {{c3::einen nachhaltigen Wettbewerbsvorteil zu erzielen}}.	
+"<p>Die Anpassung an neue Marktentwicklungen besteht aus:</p>
+<ol>
+<li>{{c1::Möglichkeiten und Risiken verstehen}}</li>
+<li>{{c2::Entwicklung einer Unternehmensstrategie zur Adaption}}</li>
+<li>{{c3::Adaption der Möglichkeiten in kleinen Schritten}}</li>
+<li>{{c4::Mitigation von Risiken durch Resilienz und Nachhaltigkeit}}</li>
+</ol>"	
+{{c1::Der Multiple-Ansatz}} ist {{c2::eine Methode zur Unternehmensbewertung}}.	
+"Frage:<br />
+Welche Marktbedingungen sprechen für eine Akquisition?"	Eine Akquisition ist sinnvoll, wenn Rivalen um potenzielle Partner konkurrieren oder wenn nach der Zusammenarbeit umfangreiche Redundanzen entstehen würden.
+"wahr oder falsch:<br />
+Reziproke Synergien, die enge wechselseitige Zusammenarbeit und Wissensaustausch benötigen, sprechen für eine Allianz und nicht für eine Akquisition."	"falsch:<br />
+Reziproke Synergien erfordern tiefe Integration und daher eher eine Akquisition."
+"wahr oder falsch:<br />
+Wenn harte Ressourcen wie Fabriken kombiniert werden müssen, eignet sich eine Akquisition besser als eine Allianz."	"wahr:<br />
+Harte Ressourcen lassen sich durch vollständige Eigentumskontrolle effizienter integrieren."
+"wahr oder falsch:<br />
+Wenn mehrere Unternehmen um denselben Partner konkurrieren, erhöht eine Akquisition die Wahrscheinlichkeit, exklusive Kontrolle zu sichern."	wahr
+"wahr oder falsch:<br />
+Wenn nach einer Zusammenarbeit hohe redundante Ressourcen erwartet werden, ist eine Akquisition sinnvoll."	"wahr:<br />
+Redundanzen sprechen für vollständige Kontrolle und Restrukturierungsmöglichkeiten durch Akquisition."
+"wahr oder falsch:<br />
+Wenn starke Konkurrenz um potenzielle Partner besteht, ist eine Allianz die bessere Wahl."	"falsch:<br />
+In Wettbewerbssituationen schützt eine Akquisition davor, den Partner zu verlieren."
+"Beispiel:<br />
+Buy and Build"	"<ul>
+<li>NVIDIA ist zum Herstelle von Grafikkarten für Videospiele zu einem Hersteller für High Performance KI-Hardware geworden</li>
+<li>TeamViewer stellt nicht nur Remote-Control Software bereit, sondern auch Augmented Reality Software</li>
+</ul>"
+"Frage:<br />
+Wie viele Unternehmensakquisitionen der letzten 20 Jahre sind finanziell erfolgreich gewesen?"	30 %
+"{{c1::Buy and Build}} ist {{c2::eine Methode im Private Equity in der Investition durch das Aufkaufen eines Unternehmen einer Plattform sowie das Hinzufügen von weiteren Leistungen anderer aufgekauften Unternehmen}}. Ziel {{c1::des Buy and Build}} ist {{c3::der Ausbau der aufgekauften Plattform}}.<br />
+{{c1::{{c2::{{c3::<img src=""2025-Bild-Quadt-Hammes-Sehlbach-Staiger-Szumilas-Buy_and_Build.png"" alt=""""><br />
+Buy and Build}}}}}}"	
+"Beispiel:<br />
+""Grow"" als Art der Partnerschaft mit einem Start-Up durch ein bestehendes Unternehmen"	Airbus hat UP42 ins Leben gerufen, eine offene Entwickler- und Marktplatzplattform für Geodatenlösungen, die sich die Satellitenbilder, Daten, Analysen und das Fachwissen von Airbus zunutze macht.
+"Beispiel:<br />
+""Optimize"" als Art der Partnerschaft mit einem Start-Up durch ein bestehendes Unternehmen"	"<ul>
+<li>BMW Group und ProGlove entwickeln tragbare Produkte, um Lagerprozesse schneller und sicherer durchzuführen</li>
+</ul>"
+"Beispiel:<br />
+""Protect"" als Art der Partnerschaft mit einem Start-Up durch ein bestehendes Unternehmen"	"<ul>
+<li>Dr. Oetker übernimmt Flaschenpost, um sein Getränkegeschäft gegen den Vormarsch schneller, App-basierter Liefermodelle abzusichern.</li>
+</ul>"
+"Beispiel:<br />
+""Transform"" als Art der Partnerschaft mit einem Start-Up durch ein bestehendes Unternehmen"	"<ul>
+<li>Viessmann investiert in viele vielversprechende Start-ups, z. B. gridX und Building Radar, und baut selbst Unternehmen auf, z. B. Statice und Snuk.</li>
+</ul>"
+"wahr oder falsch:<br />
+Incubators sind der häufigste Innovationsträger im DACH-Bereich."	"falsch:<br />
+Innovation Labs &amp; Digital Labs sind die häufigsten Innovationsträger."
+"wahr oder falsch:<br />
+Innovation Labs &amp; Digital Labs sind der häufigste Innovationsträger im DACH-Bereich."	wahr
+"Frage:<br />
+Warum ist individuelle und langfristige Kompensation besonders innovationsfördernd?"	Weil sie nachhaltiges Engagement, intrinsische Motivation und risikoaffines Verhalten unterstützt, statt kurzfristige Optimierung anzutreiben.
+"Frage:<br />
+Welche Maßnahme im Job Design fördert nicht die Innovationskultur?<br />
+a) Langfristige Planung<br />
+b) Stark strukturierte Jobs mit engen Grenzen<br />
+c) Integratives, ergebnisorientiertes Design<br />
+d) Mitarbeiterbeteiligung"	b)
+"Frage:<br />
+Welche Maßnahme im Kompensation- und Belohnungs-Bereich fördert nicht die Innovationskultur?<br />
+a) Leistungsbasierte Vergütung<br />
+b) Unternehmensweit standardisierte Vergütung<br />
+c) Langfristorientierte Anreizsysteme<br />
+d) Gruppenbezogene Anreize"	b)
+"Frage:<br />
+Welche Trainingsmaßnahme der Human Resource Policies unterstützt eine Innovationskultur grundsätzlich nicht?<br />
+a) Individualisiertes Training<br />
+b) Hohe Mitarbeiterbeteiligung<br />
+c) Unsystematisches Training<br />
+d) Naturwissenschaftlich breit anwendbares Training"	d)
+"Frage:<br />
+Wie trägt ein breit definiertes Job Design zur Entstehung von Innovationen bei?"	Es ermöglicht Mitarbeitenden, Probleme ganzheitlich zu betrachten, kreativ zu handeln und Verantwortung für neue Lösungen zu übernehmen.
+"wahr oder falsch:<br />
+Ein zentrales HR-Element für Innovation ist ein stark zentralisiertes Vergütungssystem."	"falsch:<br />
+Innovationsfördernde HR-Policies setzen auf dezentrale, individuelle und langfristige Anreizsysteme."
+"wahr oder falsch:<br />
+Innovationsorientierte Job-Design-Ansätze geben Mitarbeitenden breite Aufgabenbereiche mit hoher Entscheidungsfreiheit."	"wahr:<br />
+Dies fördert Kreativität, Eigenverantwortung und Problemlösungskompetenz."
+"wahr oder falsch:<br />
+Innovationsorientierte Personalbeschaffung berücksichtigt ausschließlich externe Kandidaten, um neue Impulse einzubringen."	"falsch:<br />
+Sowohl interne als auch externe Kandidaten werden flexibel einbezogen."
+"wahr oder falsch:<br />
+Langfristige und ergebnisorientierte Mitarbeiterbewertung unterstützt innovationsfreundliche Organisationskulturen."	"wahr:<br />
+Sie schafft Entwicklungsorientierung statt kurzfristigen Leistungsdruck."
+"Frage:<br />
+Welches ist kein Bestandteil des Transformational Leadership-Modells?<br />
+a) Idealized Influence<br />
+b) Inspirational Motivation<br />
+c) Intellectual Stimulation<br />
+d) Collective Consideration"	d)
+{{c1::Transformational Leadership}} ist {{c2::das proaktive Leadership, in welchem eine Führungskraft bestehende Organisationsstrukturen ändert und Mitarbeiter ermutigt, gemeinsam Ziele zu erreichen}}. {{c1::Transformational Leadership}} inspiriert Mitarbeiter und fördert diese individuell.	
+"Frage:<br />
+Welcher Punkt gehört nicht zum 4-Komponentenmodell von Transactional Leadership?<br />
+a) Inducement<br />
+b) Reward<br />
+c) Punishment<br />
+d) Challenge"	d)
+{{c1::Transactional Leadership}} ist {{c2::das reaktive Leadership, in welchem eine Führungskraft innerhalb einer bestehenden Struktur sich auf die effiziente Bewältigung aktueller Aufgaben konzentriert}}. {{c1::Transactional Leadership}} setzt klare Ziele, überwacht Leistungen und schafft standardisierte Anreizsysteme.	
+"{{c1::Eine Service &amp; Business Area im Spotify-Organisationsmodell}} ist {{c2::die Menge aller Tribes, denen Produkte, Services, Anwendungen oder Prozesse zugeordnet werden können}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Bendig-Schulz-Sickert-Service_&_Business_Area.png"" alt=""""><br />
+Service &amp; Business Area-Struktur}}}}"	
+{{c1::Ein Tribe im Spotify-Organisationsmodell}} ist {{c2::die Menge aller Squads, die thematisch gruppiert werden können}}. {{c1::Ein Tribe}} wird durch {{c3::Tribe Leads und ein People Leads}} geführt.	
+{{c1::Ein Chapter im Spotify-Organisationsmodell}} ist {{c2::eine Gruppe aus Personen aus einem oder mehreren Squads in einem Tribe, welche methodische Fähigkeiten, prozessbezogene Fähigkeiten oder technische Fähigkeiten und Expertisen austauschen und gemeinsam entwickeln}}.	
+{{Ein Squad im Spotify-Organisationsmodell}} ist {{c2::eine selbstständige und selbstorganisierte Organisationseinheit, welche für die Wertschöpfungskette eines Produktes, Prozesses oder Services zuständig ist}}.	
+"Frage:<br />
+In welchen Bereichen ist Apples funktionale Organisation nach dem Discretionary Leadership besonders vorteilhaft?<br />
+a) Stabilen Industrien<br />
+b) Märkten mit schnellem technologischem Wandel<br />
+c) Stark regulierten Branchen<br />
+d) Märkten mit niedrigen Innovationsraten"	b)
+"Frage:<br />
+Warum beibehält Apple eine funktionale Organisation mit Discretionary Leadership?<br />
+a) Um Expertise mit Entscheidungsrechten abzugleichen<br />
+b) Um Produktführerschaft zu sichern<br />
+c) Um Marketing zu schaffen<br />
+d) Um Macht zu dezentralisieren"	a)
+"Frage:<br />
+Welche Führungseigenschaft wird bei Apple im Rahmen von Discretionary Leadership betont?<br />
+a) Finanzielle Management-Fähigkeiten<br />
+b) Tiefe Expertise über operative Tätigkeiten<br />
+c) Erfahrung im Management vieler Geschäftseinheiten<br />
+d) Delegationsfähigkeiten"	b)
+"Frage:<br />
+Worin unterscheidet sich Apples Führungsmodell zu anderen Unternehmen?<br />
+a) Entscheidungen werden anhand finanzieller Kennzahlen getroffen<br />
+b) Experten übernehmen Führungsrollen und Entscheidungen<br />
+c) Entscheidungen werden an Manager delegiert<br />
+d) Strikte Trennung von Forschung und Finanzen"	b)
+{{c1::Discretionary Leadership}} ist {{c2::ein organisationsweiter Führungsansatz zur Förderung von Innovation, in welchem Personen Entscheidungen treffen, die am meisten qualifiziert dafür sind, diese zu treffen}}. {{c1::Discretionary Leadership}} wird insbesondere von {{c3::Apple}} genutzt.	
+"Frage:<br />
+Welche rechtliche Schutzmaßnahme schützt originäre kreative Inhalte?<br />
+a) Patente<br />
+b) Urheberrecht<br />
+c) Gebrauchsmuster<br />
+d) Markenrecht"	b)
+{{c1::Das Urheberrecht}} ist {{c2::ein rechtlicher Schutzmechanismus gegen Produktimitation, der originale, kreative Erzeugnisse schützt}}.	
+"Frage:<br />
+Zu welcher Schutzkategorie gehören technologiebasierte finanzielle Barrieren?<br />
+a) Komplementäre Leistungen<br />
+b) Strategische Maßnahmen<br />
+c) Imitationsbarrieren<br />
+d) Rechtliche Maßnahmen"	c)
+"Frage:<br />
+Zu welcher Schutzkategorie gehört Bundles als Schutzmechanismen gegen Produktimitation?<br />
+a) Komplementäre Leistungen<br />
+b) Strategische Maßnahmen<br />
+c) Imitationsbarrieren<br />
+d) Rechtliche Maßnahmen"	a)
+"Frage:<br />
+Zu welcher Schutzkategorie gehört ein Markteintritt in mehrere Märkte gleichzeitig (""Parallel Market Entry"")?<br />
+a) Komplementäre Leistungen<br />
+b) Strategische Maßnahmen<br />
+c) Imitationsbarrieren<br />
+d) Rechtliche Maßnahmen"	b)
+"Frage:<br />
+Wie hängt Appropriability mit Produktimitationen zusammen?<br />
+a) Produktimitationen erhöht die Rendite des Innovators<br />
+b) Appropriability beschreibt, wie gut ein Unternehmen fremde Innovationen aneignen kann<br />
+c) Produktimitationen ermöglicht dem Erfinder Zugang zu immateriellen Assets ohne Kosten<br />
+d) Innovatoren investieren weniger, weil sie ihre Erträge nicht schützen können"	d)
+{{c1::Appropriability (Internalisierbarkeit)}} ist {{c2::das Maß, in dem ein Unternehmen die wirtschaftlichen Erträge einer Innovation für sich behalten kann}}. {{c1::Appropriability}} hängt davon ab, {{c3::wie leicht oder schnell Wettbewerber eine Innovation imitieren können}}.	
+{{c1::Reverse Engineering}} ist {{c2::die Nutzung von originalen Produkten, um dieses zu verstehen und möglicherweise zu reproduzieren}}.	
+{{c1::Ein Lizenzverstoß}} ist {{c2::ein nicht-rechtskonformer Umgang mit einem Lizenzvertrag}}.	
+{{c1::Die Spionage durch Mitarbeiter}} ist {{c2::die Spionage und der Wissenstransfer von ehemaligen Mitarbeitern, welche bei Wettbewerbern angestellt sind}}.	
+{{c1::Konkurrenzspionage}} ist {{c2::die Spionage von Wettbewerbern durch private Spione oder Kriminelle}}.	
+{{c1::Wirtschaftsspionage}} ist {{c2::die staatlich-gestützte Spionage von ausländischen Unternehmen}}.	
+"Frage:<br />
+Wann ist eine Akquisition aus Synergieperspektive sinnvoll?"	Eine Akquisition ist sinnvoll, wenn reziproke Synergien erforderlich sind, die enge Wissensaustauschprozesse verlangen, oder wenn harte Ressourcen wie Anlagen zwingend kombiniert werden müssen.
+"Frage:<br />
+Wann ist eine Allianz sinnvoll, wenn es um Synergien geht?"	Eine Allianz ist sinnvoll, wenn modulare Synergien angestrebt werden oder wenn sequentielle Synergien entstehen, bei denen eine Firma Aufgaben abschließt und die Ergebnisse an die andere weitergibt.
+"Frage:  <br />
+Warum ist Governance ein so entscheidender Erfolgsfaktor für Allianzen?"	Weil sie die operative Zusammenarbeit strukturiert, Konflikte früh abfängt und die Koordination komplexer, organisationsübergreifender Aktivitäten ermöglicht.
+"Frage:<br />
+Welche Marktbedingungen sprechen für eine Allianz?"	Eine Allianz ist sinnvoll bei hoher Marktunsicherheit, da Flexibilität und Risikoteilung wichtiger sind als vollständige Kontrolle.
+{{c1::Coopetition}} ist {{c2::das gleichzeitige kooperativen Verhalten und kompetitive Verhalten}}.	
+"wahr oder falsch:<br />
+Allianzen schaffen nur unter bestimmten Bedingungen echten Wert, weil sie von den Partnern Coopetition verlangt, wodurch Allianzen instabil werden können."	wahr
+"Beispiel:<br />
+anteilsbasierte Beziehung"	"<ul>
+<li>gemeinsames Bezahlsystem</li>
+<li>Joint Venture zur Entwicklung neuer Produkte</li>
+</ul>"
+"Frage:<br />
+Wann sollte eine anteilsbasierte Beziehung gegenüber einer nicht-anteilsbasierten Beziehung gewählt werden?"	Eine anteilsbasierte Beziehung ist sinnvoll, wenn weiche Ressourcen wie Belegschaften kombiniert werden müssen oder wenn sequentielle Synergien stärker abgesichert werden sollen.
+{{c1::Eine anteilsbasierte Beziehung}} ist {{c2::eine Beziehung, die auf Geschäftsanteilen basiert}}.	
+"Beispiel:<br />
+vertragliche Beziehung"	"<ul>
+<li>Co-Branding-Vertrag</li>
+<li>Lizenzvertrag</li>
+<li>Marketing-Allianz</li>
+</ul>"
+"Frage:<br />
+""Bavarian Machinery Alliance"" ist eine Allianz zwischen zwei bayrischen Maschinenherstellern. Zu welchem Kollaborationstyp gehört es?<br />
+a) Multilateral<br />
+b) Nicht-vertraglich<br />
+c) Vertraglich<br />
+d) Anteilsbasiert"	c)
+{{c1::Eine vertragliche Beziehung}} ist {{c2::eine Beziehung, die vertraglich festgehalten ist}}.	
+"Beispiel:<br />
+nicht-vertragliche Beziehung"	"<ul>
+<li>Austausch von Forschungspersonal</li>
+<li>Cross-Selling-Vereinbarung</li>
+<li>Lobby-Koalition</li>
+<li>Vereinbarung zum Austausch von Marktdaten</li>
+</ul>"
+"Frage:<br />
+""The Future of Wind"" ist eine Lobbykoalition mit über 15 Unternehmen. Zu welchem Kollaborationstyp gehört es?<br />
+a) Bilaterale<br />
+b) Nicht-vertraglich<br />
+c) Vertraglich<br />
+d) Anteilsbasiert"	b)
+{{c1::Eine nicht-vertragliche Beziehung}} ist {{c2::eine Beziehung, die nicht vertraglich festgehalten ist}}.	
+"Beispiel:<br />
+bilaterale Beziehung"	"<ul>
+<li>Co-Branding-Allianz</li>
+<li>Co-Development-Allianz</li>
+<li>Joint Venture zur Entwicklung neuer Produkte</li>
+</ul>"
+"Frage:<br />
+""Bavarian Machinery Alliance"" ist eine Allianz zwischen zwei bayrischen Maschinenherstellern. Zu welchem Kollaborationstyp gehört es?<br />
+a) Singelton<br />
+b) Multilateral<br />
+c) Bilateral<br />
+d) Anteilsbasiert"	c)
+{{c1::Eine bilaterale Beziehung}} ist {{c2::eine Beziehung von genau zwei Akteuren}}.	
+"Beispiel:<br />
+multilaterale Beziehung"	"<ul>
+<li>gemeinsames Bezahlsystem</li>
+<li>gemeinsame Standardsetzung</li>
+<li>Lobby-Koalition</li>
+<li>Marketing-Allianz</li>
+</ul>"
+"Frage:<br />
+""The Future of Wind"" ist eine Lobbykoalition mit über 15 Unternehmen. Zu welchem Kollaborationstyp gehört es?<br />
+a) Multilateral<br />
+b) Bilaterale<br />
+c) Vertraglich<br />
+d) Anteilsbasiert"	a)
+{{c1::Eine&nbsp;multilaterale Beziehung}}&nbsp;ist {{c2::eine&nbsp;Beziehung&nbsp;von mindestens drei&nbsp;Akteuren}}.	
+{{c1::Merger &amp; Acquisition (M&amp;A)}} ist {{c2::die Zusammenführung von zwei unabhängigen Unternehmen in ein Unternehmen, um ein gemeinsames Geschäftsziel zu erreichen}}.	
+"wahr oder falsch:<br />
+Hohe Marktunsicherheit spricht eher für eine Allianz als für eine Akquisition."	"wahr:<br />
+Allianzen reduzieren Risiko und halten Anpassungsoptionen offen."
+{{c1::Eine Allianz}} ist {{c2::eine nicht-vertragliche Beziehung zwischen zwei unabhängigen Unternehmen, um ein gemeinsames Geschäftsziel zu erreichen}}.	
+"Beispiel:<br />
+kooperative Strategie"	"<ul>
+<li>Lego fördert Co-Creation durch seine Community, um neue Produktideen zu schaffen</li>
+<li>NVIDIA dient als Lieferant für Computerchips für Microsoft und OpenAI</li>
+<li>Shopify ermöglicht eCommerce für andere Unternehmen</li>
+</ul>"
+{{c1::Ein kooperative Strategie}} ist {{c2::eine Strategie, durch welche eine Organisation durch Zusammenarbeit mit anderen Organisationen effektiver ist als Wettbewerber}}.	
+"{{c1::Eine Innovation Gap}} ist {{c2::eine Lücke zwischen den durch eine fehlende Innovation erreichten Vertrieb und den geplanten Vertriebskennzahlen}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Bendig-Schulz-Sickert-Innovation_Gap.png"" alt=""""><br />
+Innovation Gap}}}}"	
+"{{c1::Zero Based Budgeting}} ist {{c2::das Bottom-Up-Budgeting bei dem jeder Kostenposten jährlich vollständig begründet werden muss, anstatt auf Vorjahresbudgets aufzubauen}}. Im {{c1::Zero Based Budgeting}} startet jede Ausgabe bei {{c3::""null""}} und wird nur genehmigt, wenn {{c4::ihr Nutzen klar nachgewiesen ist und sie zu den strategischen Zielen beiträgt}}."	
+"<p>Zero Based Budgeting besteht aus mehreren Schritten:</p>
+<ol>
+<li>{{c1::Baselining}}: {{c1::Kosten und Nutzen definieren, Transparenz schaffen und Governance aufstellen}}</li>
+<li>{{c1::Value Identification}}: {{c1::Werthebel und Möglichkeiten definieren</li>
+<li>{{c1::Value Creation}}: {{c1::Nutzen schaffen und das Team einbinden</li>
+</ol>"	
+"Frage:<br />
+Welche Aussage über Gap-Oriented Budgeting ist falsch?<br />
+a) Das Vorgehen ist Top-Down<br />
+b) Das Vorgehen ist weit verbreitet und einfach anzuwenden<br />
+c) Die Ressourcenverfügbarkeit wird nicht berücksichtigt<br />
+d) Das Vorgehen ist stark abhängig von Vorhersagen und Annahmen"	b)
+{{c1::Gap-Oriented Budgeting}} ist {{c2::das Top-Down-Budgeting durch Berechnung der Innovation Gap, welche durch Budget in Bereiche zu schließen ist}}.	
+{{c1::Relatives Budgeting}} ist {{c2::das Top-Down-Budgeting durch die Berechnung des prozentualen Anteiles vom Profit}}.	
+"Frage:<br />
+Welche Aussage zum Competitive Budgeting ist falsch?<br />
+a) Der Ansatz ist Bottom-Up<br />
+b) Der Ansatz gibt keinen klaren strategischen Hinweis bei vielen Wettbewerbern<br />
+c) Forschungs- und Entwicklungs-Daten sind schwer vergleichbar<br />
+d) Der Ansatz sichert Wettbewerbsfähigkeit"	a)
+{{c1::Kompetitives Budgeting}} ist {{c2::das Top-Down-Budgeting durch die Bestimmung des Budgets auf Basis des Budgets von Wettbewerbern}}.	
+"Frage:<br />
+Ein Unternehmen passt sein jährliches F&amp;E-Budget jedes Jahr entsprechend der Inflationsrate an. Welche der folgenden Aussagen ist falsch?<br />
+a) Es ist ein Top-Down-Ansatz<br />
+b) Es ist leicht anzuwenden<br />
+c) Es soll sicherstellen, dass das Unternehmen wettbewerbsfähig bleibt<br />
+d) Es basiert auf historischen Entwicklungen statt Unternehmenszielen"	c)
+{{c1::Updated Budgeting}} ist {{c2::das Top-Down-Budgeting durch das jährliche Aktualisieren des Budgets}}.	
+{{c1::Bottom-Up-Budgeting}} ist {{c2::das Budgeting durch einen Bottom-Up-Ansatz, in welchem durch Projekte die finanzielle Planung gestaltet wird}}.	
+"Frage:<br />
+Was ist ein Vorteil des Top-Down-Budgeting?<br />
+a) Erwartungsmanagement<br />
+b) Es dauert länger und ermöglicht dadurch bessere Kommunikation<br />
+c) Es bezieht die gesamte Organisation breit ein<br />
+d) Es erhöht die Beteiligung über alle Ebenen im Unternehmen"	a)
+{{c1::Top-Down-Budgeting}} ist {{c2::das Budgeting durch einen Top-Down-Ansatz, in welchem durch KPIs die finanzielle Planung gestaltet wird}}.	
+"wahr oder falsch:  <br />
+Die Besitzersicht fragt primär nach der Marktattraktivität eines Produkts."	"falsch:  <br />
+Sie bewertet den organisatorischen Fit und interne Synergiepotenziale, nicht die Marktattraktivität."
+{{c1::Die Besitzersicht (Ownership Lens)}} ist {{c2::eine Methode zur Portfolioanalyse, welche Organisationseinheiten oder Produkte nach Unterstützung durch die Organisation und Synergieeffekten zu anderen Organisationseinheiten oder Produkten bewertet}}.	
+{{c1::Die Wertsicht (Value Lens)}} ist {{c2::eine Methode zur Portfolioanalyse, welche Organisationseinheiten oder Produkte nach finanzieller Performanz und nach zukünftig geplanter Werteerzeugung bewertet}}.	
+{{c1::Die Marktsicht (Market Lens)}} ist {{c2::eine Methode zur Portfolioanalyse, welche Organisationseinheiten oder Produkte nach Attraktivität des Marktes und kompetitiver Position bewertet}}.	
+"Frage:<br />
+Warum ist im Turnaround das gesamte Top Management stark involviert?"	Weil finanzielle Restrukturierung, operative Stabilisierung und strategische Neuausrichtung gleichzeitig erfolgen müssen und bereichsübergreifende Entscheidungen nötig sind.
+"Frage:<br />
+Welche Art von Management benötigt ein Turnaround Business?<br />
+a) Begrenzte bis keine Aufmerksamkeit<br />
+b) In-Depth Top Management<br />
+c) Begrenzte Aufmerksamkeit bei geplantem Carve-Out<br />
+d) Keine Aufmerksamkeit"	b)
+"wahr oder falsch:<br />
+Die Managementbeteiligung in Turnaround Businesses ist niedrig, da operative Teams weitgehend autonom arbeiten müssen."	"falsch:<br />
+Turnaround erfordert maximale Top-Management-Aufmerksamkeit, da finanzielle und strukturelle Stabilisierung eng geführt werden müssen."
+"wahr oder falsch:<br />
+In Turnaround Businesses ist die Rolle des CTO zentraler als die der Finanzführung, da primär technologische Sanierung im Vordergrund steht."	"falsch:<br />
+Der Fokus liegt auf operativer und finanzieller Stabilisierung, daher ist die Finanzführung besonders wichtig."
+"wahr oder falsch:<br />
+In Turnaround Businesses genügt es, nur einzelne Führungskräfte einzubinden, da operative Teams die wichtigsten Entscheidungen treffen."	"falsch:<br />
+Turnaround erfordert enge, kontinuierliche Einbindung des gesamten Top Managements."
+"wahr oder falsch:<br />
+Turnaround Businesses benötigen wenig Managementaufmerksamkeit, da operative Tätigkeiten im Fokus stehen."	"falsch:<br />
+Sie verlangen hohe Einbindung des gesamten Top Managements, da operative und finanzielle Maßnahmen eng gesteuert werden müssen."
+"wahr oder falsch:<br />
+Turnaround Businesses sollten M&amp;A-Aktivitäten offensiv ausbauen, um Wachstum zu erzeugen."	"falsch:<br />
+M&amp;A muss vorsichtig erfolgen, da Kapital knapp und Risiko hoch ist."
+"Frage:<br />
+Warum ist im Established Business die spezifische Einbindung des CMO strategisch sinnvoll?"	In reifen Märkten entsteht Wert primär durch Markenpflege, Differenzierung und Kundenerhalt, weshalb Marketingentscheidungen stärker über Wettbewerbsfähigkeit und Cashflow bestimmen als technologische Innovation.
+"wahr oder falsch:<br />
+Established Businesses erzielen bessere Ergebnisse, wenn das Top Management ständig tief in operative Entscheidungen eingreift."	"falsch:<br />
+Zu starke Einmischung untergräbt Effizienz und Rollenverteilung in stabilen Märkten."
+"wahr oder falsch:<br />
+Established Businesses profitieren selten von einer intensiven Managementsteuerung, da ihre Märkte stabile und vorhersehbare Strukturen aufweisen."	"wahr:<br />
+Übersteuerung würde unnötige Komplexität schaffen."
+"wahr oder falsch:<br />
+Established Businesses sollten ihre Managementeinbindung erhöhen, um Innovationstreiber wie in Development Businesses zu imitieren."	"falsch:<br />
+Reife Märkte verlangen begrenzte, selektive Einbindung statt innovationsgetriebener Übersteuerung."
+"wahr oder falsch:<br />
+In Established Businesses ist die Managementeinbindung begrenzt und fokussiert sich häufig auf den CMO."	"wahr:<br />
+In reifen Märkten steht Marketing zur Positionserhaltung stärker im Zentrum."
+"Frage:<br />
+Inwiefern führt die Managementstruktur eines Growth Business zu besonderen Anforderungen an die interne Kommunikation?"	Durch häufige Top-Management-Einbindung müssen Entscheidungen schnell, präzise und transparent kommuniziert werden, um Skalierungsprozesse und funktionsübergreifende Koordination sicherzustellen.
+"wahr oder falsch:<br />
+Growth Businesses benötigen nur gelegentliche Managementbeteiligung, da der Markt stabil ist."	"falsch:<br />
+Sie verlangen hohe und häufige Einbindung des gesamten Top Managements, um Skalierung und Wachstumschancen optimal zu steuern."
+"wahr oder falsch:<br />
+Growth Businesses benötigen primär technologische Expertise im Top Management, nicht jedoch umfassende Geschäftsführungskompetenz."	"falsch:<br />
+Skalierung umfasst Technologie, Markt, Finanzen und Operations gleichermaßen."
+"wahr oder falsch:<br />
+Growth Businesses benötigen weniger technische Top-Management-Expertise als Development Businesses."	"wahr:<br />
+Ihr Fokus liegt stärker auf Skalierung, Organisation und Marktdurchdringung."
+"wahr oder falsch:<br />
+Growth Businesses können auf regelmäßige Koordination im Top Management verzichten, da Prozesse bereits etabliert sind."	"falsch:<br />
+Wachstum erzeugt Komplexität, die eng abgestimmte Führung erfordert."
+"wahr oder falsch:<br />
+Growth Businesses können erfolgreich skalieren, ohne dass das Top Management regelmäßig in operative Entscheidungen eingebunden ist."	"falsch:<br />
+Hohe und häufige Einbindung ist notwendig, um komplexe Wachstumsprozesse zu steuern."
+"Frage:<br />
+Warum ist die Rolle des CTO in Development Businesses besonders wichtig?"	Weil technologische Entscheidungen und frühe Produktentwicklung maßgeblich über die zukünftige Marktposition entscheiden und hohe Unsicherheit bestehen kann.
+"Frage:<br />
+Warum wäre eine permanente, starke Einbindung des Top Managements in einem Development Business kontraproduktiv?"	Sie würde Agilität, Experimentierfreude und technische Exploration behindern, da frühe Innovationsphasen schnelle, iterative Entscheidungen erfordern, die nicht durch übermäßige Hierarchieprozesse verlangsamt werden dürfen.
+"Frage:<br />
+Welches Management benötigt ein Development Business?<br />
+a) Keine Top-Management-Aufmerksamkeit<br />
+b) Bedarfsorientiertes Top-Management<br />
+c) Häufige, tiefe Top-Management-Einbindung<br />
+d) Limitierte Top-Management-Aufmerksamkeit"	b)
+"wahr oder falsch:<br />
+Development Businesses sollten erfahrene Manager aus Established Businesses übernehmen, um früh stabile Strukturen zu schaffen."	"falsch:<br />
+Zu viel Struktur hemmt Exploration und frühe Innovation."
+"wahr oder falsch:<br />
+Ein Development Business kann durch frühzeitige CTO-Einbindung technologische Abhängigkeiten etablieren, die langfristig strategische Vorteile schaffen."	"wahr:<br />
+Früh gesetzte technologische Weichen beeinflussen spätere Marktpositionen."
+"wahr oder falsch:<br />
+Im Development Business ist der CTO für die operative Steuerung kaum relevant."	"falsch:<br />
+Der CTO spielt eine zentrale Rolle bei technischen Weichenstellungen."
+"wahr oder falsch:<br />
+In Development Businesses führt eine zu starke Einbindung des gesamten Top Managements häufig zu einer Verlangsamung von Innovationsprozessen."	"wahr:<br />
+Übermäßige Hierarchie kann agile, explorative Entscheidungen blockieren."
+"wahr oder falsch:<br />
+In Development Businesses sollte stets das gesamte Top Management stark und dauerhaft eingebunden sein."	"falsch:<br />
+Eine übermäßige Einbindung verlangsamt frühe Innovationsprozesse und hemmt Agilität."
+"wahr oder falsch:<br />
+In Development Businesses wird das Management nur nach Bedarf eingebunden, wobei insbesondere der CTO eine zentrale Rolle spielt."	"wahr:<br />
+Technologie- und Innovationsentscheidungen stehen im Vordergrund, weshalb der CTO besonders relevant ist."
+"Frage:<br />
+Welche Rolle spielt ein Turnaround Business im Portfolio?<br />
+a) Benötigt Finanzierung<br />
+b) Kurzfristige Ideengenerierung<br />
+c) Stabilität<br />
+d) Langfristiges Wachstumspotenzial"	a)
+"Frage:<br />
+Welchen Beitrag liefert ein Development Business im Portfolio?<br />
+a) Stabilität<br />
+b) Wachstum<br />
+c) Langfristige Wertschöpfung<br />
+d) Optionaler Wert"	d)
+"wahr oder falsch:<br />
+Turnaround Businesses haben das Ziel, massiv in Innovation zu investieren, um den Markt neu zu beleben."	"falsch:<br />
+Sie fokussieren sich auf Wertextraktion und die Bereitstellung von finanziellen Mitteln für andere Bereiche."
+"wahr oder falsch:<br />
+Turnaround Businesses investieren stark in Expansion, um Marktanteile zu gewinnen."	"falsch:<br />
+Sie konzentrieren sich auf Wertextraktion und Kapitalerhalt zur Finanzierung anderer Geschäftsfelder."
+"wahr oder falsch:<br />
+Turnaround Businesses können durch aggressive Reinvestitionen in das Kerngeschäft typischerweise verlorene Marktanteile zurückgewinnen."	"falsch:<br />
+Aggressive Reinvestitionen sind selten sinnvoll; Wert entsteht vor allem durch Restrukturierung, Rückbau und Liquiditätsoptimierung."
+"Frage:<br />
+Was ist der strategischer Fokus eines Established Business?<br />
+a) Langfristige Marktposition sichern, ohne aktiv Wachstum zu verfolgen<br />
+b) Wachstumschancen ausnutzen<br />
+c) Maximalen Cashflow extrahieren<br />
+d) Langfristige Wertschöpfung sichern"	a)
+"wahr oder falsch:<br />
+Established Businesses konzentrieren sich darauf, ihre Marktposition langfristig zu sichern und einen stabilen Cashflow zu gewährleisten."	"wahr:<br />
+Sie operieren in reifen Märkten mit planbarer Ertragslage."
+"wahr oder falsch:<br />
+Established Businesses priorisieren strategisch die Verteidigung ihrer Position, weil ihre Wettbewerbsfähigkeit stärker durch Effizienz als durch Marktexpansion bestimmt wird."	"wahr:<br />
+In reifen Märkten entsteht Wert primär durch operative Exzellenz und Kostendisziplin."
+"Frage:<br />
+Was sollte der strategische Fokus eines Growth Business sein?<br />
+a) Langfristige Wertschöpfung<br />
+b) Eine signifikante Marktposition erreichen<br />
+c) Positiven Cashflow sicherstellen<br />
+d) Vorsichtige Tests neuer Chancen"	a)
+"wahr oder falsch:<br />
+Growth Businesses können langfristige Wertschöpfung nur dann realisieren, wenn sie die Marktvolatilität aktiv zur Beschleunigung ihres Wachstums nutzen."	"falsch:<br />
+Ihr Wachstum basiert nicht auf Volatilität, sondern auf kontrolliertem, planbarem Marktwachstum und der Fähigkeit, dieses effizient zu nutzen."
+"wahr oder falsch:<br />
+Growth Businesses konzentrieren sich darauf, langfristige Wertschöpfung zu sichern und Marktwachstum aktiv zu nutzen."	"wahr:<br />
+Sie streben nachhaltiges Wachstum bei gleichzeitiger Profitabilität an."
+"wahr oder falsch:<br />
+Growth Businesses sollen vor allem kurzfristige Liquidität sichern."	"falsch:<br />
+Ihr Fokus liegt auf langfristiger Wertschöpfung und der Nutzung von Wachstumschancen."
+"wahr oder falsch:<br />
+Die strategische Priorität von Development Businesses besteht darin, Ressourcen konservativ einzusetzen, um langfristig stabile Cashflows zu sichern."	"falsch:<br />
+Sie müssen aggressiv wachsen und kapitalintensiv in Marktpositionen investieren, um in volatilen Märkten Relevanz aufzubauen."
+"wahr oder falsch:<br />
+Der strategische Fokus von Development Businesses liegt auf Geschwindigkeit, Wachstum und dem Nachweis langfristiger Wertschöpfung."	"wahr:<br />
+Hier geht es um schnelles Skalieren und das Etablieren einer relevanten Marktposition."
+"wahr oder falsch:<br />
+Der strategische Fokus von Development Businesses liegt auf Stabilität und Erhaltung bestehender Marktpositionen."	"falsch:<br />
+Development Businesses zielen auf Geschwindigkeit, Wachstum und den Aufbau einer signifikanten Marktposition ab."
+"Frage:<br />
+Wann kann ein Turnaround Business strategisch attraktiv sein?"	Wenn Restrukturierung oder Neupositionierung gelingt, kann trotz Marktrückgang kurzfristig Wert durch Effizienzsteigerung oder Nischenfokus geschaffen werden.
+"Frage:<br />
+Welche strategische Herausforderung ergibt sich typischerweise bei Turnaround Businesses?"	Sie müssen in schrumpfenden Märkten operative Effizienz steigern, Geschäftsmodelle transformieren oder sich aus dem Markt zurückziehen.
+"wahr oder falsch:<br />
+Turnaround Businesses befinden sich in degenerierenden Märkten mit weniger als 2 % Wachstum pro Jahr."	"wahr:<br />
+Sie kämpfen gegen schrumpfende Nachfrage und sinkende Profitabilität."
+"wahr oder falsch:<br />
+Turnaround Businesses operieren in Märkten mit hoher Wachstumsdynamik."	"falsch:<br />
+Sie befinden sich in degenerierenden Märkten mit unter 2 % Wachstum und sinkender Profitabilität."
+"wahr oder falsch:<br />
+Turnaround Businesses sind gekennzeichnet durch zunehmende Profitabilität, da weniger Wettbewerber verbleiben."	"falsch:<br />
+Ihre Profitabilität nimmt typischerweise weiter ab."
+"Frage:<br />
+Warum gelten Established Businesses als wichtige Cashflow-Träger?"	Weil sie in reifen, stabilen Märkten operieren, deren berechenbare Profitabilität langfristige finanzielle Stabilität ermöglicht.
+"wahr oder falsch:<br />
+Established Businesses befinden sich in der Reifephase ihres Lebenszyklus und wachsen zwischen 0 % und 5 % pro Jahr."	"wahr:<br />
+Ihr Markt ist weitgehend stabil und gut prognostizierbar."
+"wahr oder falsch:<br />
+Established Businesses befinden sich typischerweise in der Reifephase des Marktlebenszyklus."	"wahr:<br />
+Sie bieten geringes Marktwachstum (0 - 5 %) bei stabiler, gut kalkulierbarer Profitabilität."
+"wahr oder falsch:<br />
+Established Businesses weisen aufgrund ihres stabilen Marktes eine zufällige und volatile Profitabilität auf."	"falsch:<br />
+Ihre Profitabilität ist stabil und berechenbar."
+"Frage:<br />
+Ein Geschäftsfeld zeigt 6 % Marktwachstum und steigende Profitabilität. Welche Kategorie entspricht dies in der Market Lens?<br />
+a) Development Business<br />
+b) Growth Business<br />
+c) Established Business<br />
+d) Turnaround Business"	b)
+"wahr oder falsch:<br />
+Die Profitabilität von Growth Businesses ist typischerweise instabil und unberechenbar."	"falsch:<br />
+Sie ist durch stabiles Marktwachstum relativ verlässlich."
+"wahr oder falsch:<br />
+Growth Businesses weisen ein Marktwachstum zwischen 5 % und 10 % pro Jahr auf und operieren in kontrolliert wachsenden Märkten."	"wahr:<br />
+Sie bieten profitables Wachstum bei moderater Stabilität."
+"wahr oder falsch:<br />
+Growth Businesses zeichnen sich durch stagnierende Märkte mit geringem Wachstum aus."	"falsch:<br />
+Sie operieren in kontrolliert wachsenden Märkten mit 5 - 10 % Wachstum und stabiler Profitabilität."
+"Frage:<br />
+Warum ist die Profitabilität in Development Businesses schwer vorhersehbar?"	Weil stark wachsende Märkte häufig instabil, wettbewerbsintensiv und von technologischen oder regulatorischen Umbrüchen geprägt sind.
+"wahr oder falsch:<br />
+Development Businesses befinden sich in einem stark wachsenden Markt mit über 10 % Wachstum pro Jahr."	"wahr:<br />
+Sie zeichnen sich durch hohe Dynamik und unberechenbare Profitabilität aus."
+"wahr oder falsch:<br />
+Die Profitabilität von Development Businesses ist aufgrund hoher Marktvolatilität gut prognostizierbar."	"falsch:<br />
+Sie ist schwer vorhersagbar und stark schwankend."
+{{c1::Role Classification (Rollenklassifizierung)}} ist {{c2::das Portfoliomanagement über den Inhalte des Portfolios}}.	
+{{c1::Target Configuration (Zielkonfiguration)}} ist {{c2::das Portfoliomanagement über Veränderungen der Inhalte des Portfolios}}.	
+"Frage:<br />
+Warum ist die Kommunikation der Vision und Mission essenziell?"	Weil sie sicherstellt, dass alle Stakeholder die Ausrichtung, Motivation und langfristige Richtung des Unternehmens verstehen und unterstützen.
+"Frage:<br />
+Was sind zentrale Schritte zur Implementierung von Vision und Mission?"	Die kontinuierliche Kommunikation an alle Stakeholder sowie die Ausrichtung strategischer Ziele an Vision und Mission.
+"wahr oder falsch:<br />
+Die Ausrichtung strategischer Ziele an Vision und Mission ist optional, da diese Elemente langfristig stabil bleiben."	"falsch:<br />
+Ohne diese Ausrichtung entfalten Vision und Mission keine Steuerungswirkung."
+"wahr oder falsch:<br />
+Die Implementierung von Vision und Mission erfolgt ausschließlich durch interne Führungsentscheidungen und benötigt keine Kommunikation."	"falsch:<br />
+Ein zentraler Bestandteil ist die regelmäßige Kommunikation an alle Stakeholder."
+"wahr oder falsch:<br />
+Strategische Ziele müssen an Vision und Mission ausgerichtet werden, damit diese im operativen Handeln wirksam werden."	wahr
+"Beispiel:<br />
+Jugaad"	"<ul>
+<li>Pizza auf Motorhaube aufwärmen</li>
+</ul>"
+"Frage:<br />
+Welche Aussage trifft nicht auf Jugaad zu?<br />
+A) Do More With Less<br />
+B) Build Structures and Maintain Order<br />
+C) Think and Act Flexibly<br />
+D) Include the Margin"	b)
+"Frage:<br />
+Welcher Punkt trifft nicht auf frugale Innovation, spezifisch auf Jugaad zu?<br />
+a) Think and Act Rigidly<br />
+b) Do More With Less<br />
+c) Think and Act Flexibly<br />
+d) Include the Margin"	a)
+{{c1::Jugaad}} ist {{c2::ein Wort aus dem Hindi, welches eine Frugal Innovation beschreibt, die aus Not entstanden ist}}.	
+"{{c1::Die Cobb-Douglas-Funktion}} ist {{c2::eine Produktionsfunktion, welche den monetären Wert in Abhängigkeit zu Kapital und Arbeit stellt}}:<br />
+\(Y\) \(=\) {{c3::\(TPF \cdot K^{\alpha} \cdot L^{\beta}\)}} mit \(Y\) als monetäre Wert aller produzierten Güter in einem Jahr, {{c3::\(TPL\) als Total Factor Productivity, \(K\) als Kapitaleinsatz, \(\alpha\) als Elastizität des Kapitals, \(L\) als Arbeitseinsatz, \(\beta\) als Elastizität der Arbeit}}"	
+"Frage:<br />
+Welcher Typ ist das folgende Ziel: ""30 % unseres Umsatzes sollen innerhalb von 3 Jahren aus Chips der neuesten Generation stammen""?<br />
+a) Input-Ziel<br />
+b) Output-Ziel<br />
+c) Strukturelles Ziel<br />
+d) Prozess-Ziel"	b)
+{{c1::Ein Output-Ziel}} ist {{c2::ein messbares Ziel für ein Resultat}}.	
+"Frage:<br />
+Welcher Typ ist das folgende Ziel: ""Wir wollen 40 Ingenieure im Rapid Prototyping in den nächsten 12 Monaten ausbilden""?<br />
+a) Input-Ziel<br />
+b) Output-Ziel<br />
+c) Strukturelles Ziel<br />
+d) Prozess-Ziel"	"d)<br />
+Frage:  <br />
+Wie unterscheiden sich Prozess-Ziele von Input-Zielen? #s  <br />
+Input-Ziele regeln den Ressourceneinsatz, während Prozess-Ziele die Art und Weise definieren, wie ein Output im Prozess generiert wird."
+{{c1::Ein Prozess-Ziel}} ist {{c2::ein Ziel über die Generierung von einem Output in einem Prozess}}.	
+"Frage:<br />
+Welcher Typ ist das folgende Ziel: ""Wir wollen im nächsten Jahr 25 Senior-Forscher im Bereich Herz-Kreislauf einstellen.""?<br />
+a) Input-Ziel<br />
+b) Output-Ziel<br />
+c) Strukturelles Ziel<br />
+d) Prozess-Ziel"	a)
+{{c1::Ein Input-Ziel}} ist {{c2::ein Ziel über die zu investierenden Ressourcen}}.	
+"Frage:<br />
+Eine Technologie hat eine hohe relative Position, aber eine geringe Wichtigkeit. Welchen Quadranten entspricht dies in der Booz Allen Hamilton-Matrix?<br />
+a) Draw<br />
+b) Bet<br />
+c) Cash-In<br />
+d) Fold"	c)
+"Frage:<br />
+Eine Technologie hat eine niedrige relative Position, aber eine hohe Wichtigkeit. Welchen Quadranten entspricht dies in der Booz Allen Hamilton-Matrix?<br />
+a) Draw<br />
+b) Bet<br />
+c) Cash-In<br />
+d) Fold"	a)
+"Frage:<br />
+Welche Kennzahl ist nicht geeignet, die relative Technologieposition im der Booz Allen Hamilton-Matrix zu bewerten?<br />
+a) Anzahl der Patente<br />
+b) Anzahl der Mitarbeiter<br />
+c) F&amp;E-Ausgaben<br />
+d) Veränderungsrate"	b)
+"{{c1::Die Booz Allen Hamilton-Matrix}} ist {{c2::eine Methode zur Identifikation von Investitionen in Forschung und Entwicklung durch die Bewertung von Technologie in Hinblick auf ihre technologische Stärke und Wettbewerbsrelevanz}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Bendig-Schulz-Sickert-Booz_Allen_Hamilton-Matrix.png"" alt=""""><br />
+Booz Allen Hamilton-Matrix}}}}"	
+"{{c1::Die McKinsey-Matrix (GE-9-Field Matrix)}} ist {{c2::eine Methode zur Portfolioanalyse, welche Organisationseinheiten oder Produkte nach Marktattraktivität auf Grundlage von Porter's Five Forces und relativem Wettbewerbsvorteil auf Grundlage von Brand Equity sowie Profitabilität bewertet}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Bendig-Schulz-Sickert-McKinsey-Matrix.png"" alt=""""><br />
+McKinsey-Matrix}}}}"	
+"Frage:<br />
+Wo befinden sich Stars in der BCG-Matrix?<br />
+a) Geringes Wachstum, geringer Marktanteil<br />
+b) Hohes Wachstum, geringer Marktanteil<br />
+c) Geringes Wachstum, hoher Marktanteil<br />
+d) Hohes Wachstum, hoher Marktanteil"	d)
+"Frage:<br />
+Wo befinden sich Turnaround Businesses in der BCG-Matrix?<br />
+a) Geringes Wachstum, geringer Marktanteil<br />
+b) Hohes Wachstum, geringer Marktanteil<br />
+c) Geringes Wachstum, hoher Marktanteil<br />
+d) Hohes Wachstum, hoher Marktanteil"	a)
+"Frage:<br />
+Wo sind Cash Cows in der BCG-Matrix angesiedelt?<br />
+a) Geringes Wachstum, geringer Marktanteil<br />
+b) Hohes Wachstum, geringer Marktanteil<br />
+c) Geringes Wachstum, hoher Marktanteil<br />
+d) Hohes Wachstum, hoher Marktanteil"	c)
+"{{c1::Die BCG-Matrix}} ist {{c2::eine Methode zur Portfolioanalyse, welche Organisationseinheiten oder Produkte nach Marktwachstum und relativem Marktanteil bewertet}}. In {{c1::der BCG-Matrix}} basiert {{c3::das Marktwachstum}} auf {{c4::dem Produktlebenszyklus}}, während {{c3::der relative Marktanteil}} auf {{c4::der Erfahrungskurve}} basiert.<br />
+{{c1::{{c2::{{c3::{{c4::<img src=""2025-Bild-Bendig-Schulz-Sickert-BCG-Matrix.png"" alt=""""><br />
+BCG-Matrix}}}}}}}}"	
+"Frage:  <br />
+Was bedeutet ""valuable"" im VRIN-Framework?"	Eine Ressource ist wertvoll, wenn sie es dem Unternehmen ermöglicht, Chancen zu nutzen oder Bedrohungen abzuwehren.
+"Frage:<br />
+Welche Bedingung muss eine Core Competence nicht erfüllen, um ein Incremental Advantage hervorzurufen?<br />
+a) Nicht substituierbar (non-substitutable)<br />
+b) einzigartig (rare)<br />
+c) wertvoll (valuable)<br />
+d) nicht-nachahmbar (inimitable)"	a)
+"Frage:<br />
+Wofür steht VRIN?<br />
+a) Valuable, Rare, Inimitable, Non-Substitutable<br />
+b) Value-Driven, Rare, Intangible, Non-Replicable<br />
+c) Valuable, Reachable, Inimitable, Non-Substitutable<br />
+d) Vital, Rare, Inimitable, Non-Replaceable"	a)
+"<p>{{c1::Das VRIN Framework}} ist {{c2::ein Framework der ressourcenbasierten Sicht, nach dem Ressourcen folgende Eigenschaften besitzen müssen}}:</p>
+<ul>
+<li>{{c3::einzigartig (rare)}}</li>
+<li>{{c3::nicht-nachahmbar (inimitable)}}</li>
+<li>{{c3::nicht-substituierbar (non-substitutable)}}</li>
+<li>{{c3::wertvoll (valuable)}}</li>
+</ul>"	
+"{{c1::Porter's Value Chain}} ist {{c2ein Opportunity Framework zur Analyse der Wertschöpfungskette in einer Organisation zur Erzeugung und Lieferung von Wert durch Produkte und Leistungen sowie die Unterstützung dieses Prozesses zur Effektivitätssteigerung und Effizienzsteigerung}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Bendig-Schulz-Sickert-Porter's_Value_Chain.png"" alt=""""><br />
+Porter's Value Chain}}}}"	
+"wahr oder falsch:<br />
+Bei Business-Problemen erhöht KI automatisch die analytische Tiefe der Entscheidung."	"falsch:<br />
+KI liefert nur gute Ergebnisse, wenn Menschen kritisch prüfen, kontextualisieren und logisch weiterverarbeiten."
+"wahr oder falsch:<br />
+KI zeigt eine besonders hohe Effektivität bei kreativen Aufgaben wie Produktideen oder Innovationsentwicklung, da sie vielfältige Perspektiven kombiniert und die Qualität der Ideen steigert."	wahr
+"Frage:<br />
+Welche Phase des Gartner Hype Cycle entspricht folgendem: ""Interest wanes as experiments and implementations fail to deliver""?<br />
+a) Peak of Inflated Expectations<br />
+b) Trough of Disillusionment<br />
+c) Slope of Enlightenment<br />
+d) Plateau of Productivity"	b)
+"Frage:<br />
+Welche Phase des Gartner Hype Cycle beschreibt folgendes: ""Mainstream Adoption Starts To Take Off""?<br />
+a) Peak Of Inflated Expectations<br />
+b) Trough Of Disillusionment<br />
+c) Slope Of Enlightenment<br />
+d) Plateau Of Productivity"	d)
+"Frage:<br />
+Welche Phase im Gartner Hype Cycle beschreibt: ""Early publicity produces a number of early success stories and inflated expectations""?<br />
+a) Peak of Inflated Expectations<br />
+b) Trough of Disillusionment<br />
+c) Slope of Enlightenment<br />
+d) Plateau of Productivity"	a)
+"{{c1::Der Gartner Hype Cycle}} ist {{c2::ein Modell über die Diffusion und Adaption von Technologie}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Bendig-Schulz-Sickert-Gartner_Hype_Cycle.png"" alt=""""><br />
+Gartner Hype Cycle}}}}"	
+"{{c1::Der Kondratieff-Zyklus}} ist {{c2::eine Theorie, dass ich die Weltwirtschaft in langen, wellenförmigen Zyklen entwickelt, die jeweils durch Diffusion eines großen Technologieparadigma ausgelöst werden}}. Jede Welle im {{c1::Kondratieff-Zyklus}} beschreibt {{c2::eine Schlüsseltechnologie und deren makroökonomische Auswirkungen auf Wachstum, Struktur und Innovation}}.<br />
+{{c1::{{c2::{{c3::<img src=""2025-Bild-Bendig-Schulz-Sickert-Kondratieff-Zyklus.png"" alt=""""><br />
+Kondratieff-Zyklus}}}}}}"	
+"Frage:<br />
+Vervollständige den folgenden Satz: ""In the … the supply exceeds the demand for the first time.""<br />
+a) Tornado<br />
+b) Bowling Alley<br />
+c) Chasm<br />
+d) Main Street"	d)
+"Frage:<br />
+Vervollständige den folgenden Satz: ""The real challenge to ensuring an innovation takes hold is crossing the … as this is crossing the gap between early adopters and early majority.""<br />
+a) Tornado<br />
+b) Bowling Alley<br />
+c) Chasm<br />
+d) Main Street"	c)
+"Frage:<br />
+Warum ist die Tornado-Phase von Moore's Adaptionsmodell riskant, obwohl sie starkes Wachstum bringt?"	Weil übermäßige Expansion und fehlende Anpassung an Kundenbedürfnisse zu Qualitätsverlust, Überforderung der Organisation und Verlust des Fokus führen können.
+"Frage:<br />
+Was kennzeichnet die Tornado-Phase von Moore's Adaptionsmodell?"	Die Nachfrage wächst exponentiell, da die Early Majority den Massenmarkt bildet. Unternehmen standardisieren Produkte, skalieren die Produktion und priorisieren Wachstum vor Differenzierung.
+"Frage:<br />
+Was passiert in der Main Street-Phase von Moore's Adaptionsmodell?"	Das Marktwachstum flacht ab, das Angebot übersteigt die Nachfrage und Unternehmen sichern Erträge durch Nischenpflege, Produktverbesserungen und Zusatzleistungen.
+"Frage:<br />
+Wie kann ein Unternehmen ""Chasm"" überwinden?"	Durch Fokussierung auf eine Nische im pragmatischen Markt, klare Wertvorteile, Referenzkunden und den Aufbau einer dominanten Marktposition in diesem Segment.
+"wahr oder falsch:<br />
+Das ""Chasm"" bezeichnet den Moment, in dem ein Produkt massenhaft akzeptiert wird."	"falsch:<br />
+Das ""Chasm"" beschreibt die Kluft zwischen Early Adopters und Early Majority, die den Übergang vom Nischenmarkt in den Massenmarkt blockiert."
+"wahr oder falsch:<br />
+In der Main Street-Phase von Moore's Adaptionsmodell übersteigt erstmals das Angebot die Nachfrage."	"wahr:<br />
+Die Märkte sind gesättigt, der Wettbewerb steigt, und Unternehmen müssen durch Produktverbesserungen und Nischenfokus differenzieren."
+"wahr oder falsch:<br />
+In der Tornado-Phase von Moore's Adaptionsmodell wächst der Markt exponentiell, da die Early Majority den Massenmarkt bildet."	"wahr:<br />
+Hier steigt die Nachfrage sprunghaft, Produkte werden standardisiert, und Skalierung wird wichtiger als Anpassung."
+"wahr oder falsch:<br />
+In Moore's Adaptionsmodell wird empfohlen, möglichst viele Marktsegmente gleichzeitig zu bedienen, um ""Chasm"" zu überbrücken."	"falsch:<br />
+Er empfiehlt, eine klar definierte Nische zu dominieren und von dort schrittweise in angrenzende Segmente zu expandieren."
+{{c1::Moore's Adaptionsmodell}} ist {{c2::eine Erweiterung des Diffusionsmodell und erklärt, wie Innovation den Übergang von Nischenmärkten in den Massenmarkt schafft}}.	
+"Frage:<br />
+Welche Aussage ist keine Limitation des Technologie-S-Kurven-Konzepts zur Prognose?<br />
+a) Die Form der S-Kurven wird durch firmenspezifische Innovation beeinflusst<br />
+b) Die wahren Technologiegrenzen sind unbekannt<br />
+c) Überlegene Technologien werden evtl. nicht vom Kunden angenommen<br />
+d) S-Kurven sensibilisieren für Leistungsgrenzen von Technologien"	d)
+"Frage:<br />
+Welche Aussage über die Technologie-S-Kurve ist wahr?<br />
+a) Unternehmen können die Form der S-Kurve nicht beeinflussen<br />
+b) Die wahren Grenzen einer Technologie sind selten im Voraus bekannt<br />
+c) Die S-Kurve berücksichtigt Kundenadoption explizit<br />
+d) Technologieleistung ist leicht zu messen"	b)
+"wahr oder falsch:<br />
+Die Bedingung zum Technologiewechsel ist, wenn die Zuwachsrate beider Technologie-S-Kurven der Technologien gleich ist."	wahr
+"Frage:<br />
+Welche Strategie sollte laut Vorlesung in Phase II (""Technology Improvement"") der Technologie-S-Kurve verfolgt werden?<br />
+a) Arbeitsintensität verringern<br />
+b) Für den Markt optimieren<br />
+c) Technologie weiterentwickeln<br />
+d) Kosten reduzieren"	b)
+"Frage:<br />
+Wie hoch ist die Unsicherheit in der zweiten Phase der Technologie-S-Kurve (""Technology Improvement"")?<br />
+a) Sehr gering<br />
+b) Gering<br />
+c) Mittel<br />
+d) Hoch"	c)
+"{{c1::Die Technologie-S-Kurve}} ist {{c2::der Reifegrad von Technologie, welcher sich als S-Kurve in der Performanz äußert}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Bendig-Schulz-Sickert-Technologie-S-Kurve.png"" alt=""""><br />
+Technologie-S-Kurve}}}}"	
+"{{c1::Eine funktionale Struktur}} ist {{c2::eine Organisationsform, bei der Mitarbeitende nach gleichartigen Aufgaben, Funktionen oder Fachgebieten gruppiert werden}}. {{c1::Eine funktionale Struktur}} verbindet {{c3::Expertise und Wissen in einem Bereich mit der Entscheidungsfindung darüber}}.<br />
+{{c1::{{c2::{{c3::<img src=""2025-Bild-Schellhammer-Funktionale_Struktur.png"" alt=""""><br />
+Funktionale Struktur}}}}}}"	
+"Frage:<br />
+Welche drei Faktoren gehören zur grundlegenden ökonomischen Theorie der Total Factor Productivity?<br />
+a) Arbeit, Land, Kapital<br />
+b) Arbeit, Produkt, Kapital<br />
+c) Land, Produktion, Arbeit<br />
+d) Ausgaben, Arbeit, Land"	a)
+"Frage:<br />
+Welche Messgröße entspricht der Definition ""ökonomische Kennzahl, die Inputs von Technologie, Arbeit und Humankapital berücksichtigt"" (""economic figure that accounts for inputs caused by technology, labor and human capital"")?<br />
+a) New Product Announcements<br />
+b) Research and Development Spending<br />
+c) Innovation Surveys<br />
+d) Total Factor Productivity"	d)
+{{c1::Total Factor Productivity (MFP, Multi-Factor Productivity, TFP)}} ist {{c2::ein Produktivitätswachstums durch Effizienzsteigerungen durch Technologien, Arbeit und Humankapital}}.	
+"wahr oder falsch:<br />
+Dynamic Capabilities sind nicht übertragbar oder auslagerbar."	wahr
+"wahr oder falsch:<br />
+Dynamic Capabilities sind übertragbar."	"falsch:<br />
+Sie beruhen auf tiefem, unternehmensspezifischem Wissen, Erfahrung und Kultur und eignen sich daher nicht für Outsourcing"
+{{c1::Ein Orchestration Skill}} ist {{c2::eine Fähigkeit des Managements, bestimmte Vermögenswerte, Fähigkeiten und Wissen innerhalb und zwischen Organisationen so zu kombinieren, dass dadurch Wert geschaffen werden kann, der nicht durch den Markt direkt abgebildet werden kann}}.	
+{{c1::Cospezialisierung}} ist {{c2::die gegenseitige Abhängigkeit von Vermögenswerten oder Kompetenzen, deren gemeinsamer Einsatz mehr Wert schafft als die separate Nutzung}}.	
+"wahr oder falsch:<br />
+Ziel von Near-Decomposability ist es, lokale Autonomie mit übergreifender Integration als Microfoundation zu verbinden."	wahr
+{{c1::Near-Decomposability}} ist {{c2::der Zustand partieller Unabhängigkeit organisatorischer Teileinheiten, die weitgehend eigenständig agieren, aber weiterhin durch koordinierende Mechanismen miteinander verbunden bleiben}}.	
+"Frage:<br />
+Was bedeutet ""Reconfiguring"" im Rahmen einer Dynamic Capability?<br />
+a) Die Anpassung von Unternehmensprozessen zur Senkung von Kosten<br />
+b) Die Neuzuordnung von Ressourcen und Anpassung von Organisationsstrukturen<br />
+c) Das Outsourcing aller Kernprozesse<br />
+d) Die Diversifikation in fremde und nicht erschlossene Märkte"	b)
+{{c1::Reconfiguration}} ist {{c2::ein Prozess zur kontinuierlichen Neuausrichtung von Ressourcen, Strukturen und Routinen, um die organisationale Fitness in dynamischen Umwelten zu erhalten}}.	
+{{c1::Asset Orchestration}} ist {{c2::die Fähigkeit des Managements, Ressourcen und Kompetenzen zu koordinieren, neu auszurichten und komplementär einzusetzen, um Wertschöpfung zu sichern und interne Konflikte zu minimieren}}.	
+{{c1::Ein Anti-Cannibalization Bias}} ist {{c2::die Tendenz etablierter Unternehmen, Innovationen zu vermeiden, die bestehende Produkte oder Geschäftsmodelle des Unternehmens gefährden}}.	
+{{c1::Seizing}} ist {{c2::die Unternehmensfähigkeit, erkannte Chancen durch gezielte Investitionen in Produkte, Prozesse oder Dienstleistungen strategisch zu nutzen und zu realisieren}}.	
+"<p>Seizing besteht aus:</p>
+<ul>
+<li>{{c1::Berücksichtigung technologischer und marktlicher Wendepunkte}}: Investitionsentscheidungen orientieren sich an kritischen Übergangsphasen in der Technologie- oder Marktentwicklung}}</li>
+<li>{{c1::Kommerzialisierung erkannter Chancen: Nach dem Sensing erfolgt die Umsetzung durch Entwicklung und Markteinführung neuer Angebote}}</li>
+<li>{{c1::strategische Auswahl zwischen konkurrierenden Pfaden: Frühzeitig bestehen oft mehrere technologische oder marktliche Optionen, zwischen denen Unternehmen wählen müssen}}</li>
+</ul>"	
+{{c1::Sensing}} ist {{c2::die Unternehmensfähigkeit, neue Chancen und Entwicklungen in seiner Umwelt zu erkennen und aktiv mitzugestalten}}.	
+"<p>Sensing besteht aus:</p>
+<ul>
+<li>{{c1::Interpretative und kreative Aktivitäten: Scannen, Lernen, Interpretieren und Gestalten von Marktentwicklungen und Technologieentwicklungen}}</li>
+<li>{{c1::Investitionen in Forschung und Entwicklung, um technologische Möglichkeiten zu erschließen}}</li>
+<li>{{c1::Verständnis von Marktdynamiken und Kundenbedürfnissen}}</li>
+</ul>"	
+{{c1::Eine Microfoundation}} ist {{c2::ein konkreter organisatorischer und individueller Mechanismus, der dynamische Fähigkeiten durch Sensing, Seizing und Reconfiguration ermöglicht}}.	
+{{c1::Eine Ordinary Capability}} ist {{c2::eine Routine und ein Prozess, die es dem Unternehmen erlauben, das Kerngeschäft zu betreiben und bestehende Ressourcen effizient zu nutzen, ohne sie zu verändern}}.	
+{{c1::Evolutionary Fitness}} ist {{c2::ein Maß dafür, wie gut eine Fähigkeit das Unternehmen befähigt, im Marktumfeld erfolgreich zu bestehen}}.	
+{{c1::Technical Fitness}} ist {{c2::ein Maß dafür, wie effektiv eine Fähigkeit ihre spezifische Funktion erfüllt, unabhängig davon, ob sie wirtschaftlich erfolgreich ist}}.	
+"Beispiel:<br />
+Dynamic Capability"	"<ul>
+<li>innovative Produktionsentwicklung von Apple</li>
+<li>Skalierung von Serveranlagen zur Adaption von dynamischen Kapazitäten einer Plattform</li>
+</ul>"
+"Frage:<br />
+Auf welchem theoretischen Rahmen basiert die Perspektive der Dynamic Capabilities?<br />
+a) Market-Based View<br />
+b) Resource-Based View<br />
+c) Capacity-Based View<br />
+d) Strategy-Based View"	b)
+"Frage:<br />
+In welchen Industrien und Branchen sind Dynamic Capabilities besonders wichtig?<br />
+a) Industrien und Branchen mit geringem technologischen Wandel<br />
+b) Industrien und Branchen mit hoher regulatorischer Stabilität<br />
+c) Industrien und Branchen mit schnellem technologischen Wandel und globaler Konkurrenz<br />
+d) Industrien und Branchen mit starker Marktkonsolidierung"	c)
+"Frage:<br />
+Was bedeutet ""Sensing"" im Rahmen einer Dynamic Capability?<br />
+a) Übernahme von Best Practices von Marktbegleitern<br />
+b) Erkennen und Interpretieren von Chancen &amp; Bedrohungen<br />
+c) Minimierung von operationalen Kosten<br />
+d) Das Finanzmanagement eines Unternehmens"	b)
+"Frage:<br />
+Was sind die drei Komponenten einer Dynamic Capability?<br />
+a) Innovating, Capturing, Outsourcing<br />
+b) Sensing, Seizing, Reconfiguring<br />
+c) Planning, Coordinating, Monitoring<br />
+d) Learning, Organizing, Restructuring"	b)
+{{c1::Eine Dynamic Capability (dynamische Fähigkeit)}} ist {{c2::ein höherstufiger Prozess, mit denen Unternehmen bestehende Ressourcen und Kompetenzen erneuern, um Wettbewerbsvorteile in dynamischen Märkten zu sichern}}.	
+"<p>{{c1::Dynamic Capabilities}} bestehen aus:</p>
+<ol>
+<li>{{c2:.Sensing}}: {{c2::Fähigkeit, Chancen und Bedrohungen in der Umwelt zu erkennen}}</li>
+<li>{{c2:.Seizing}}: {{c2::Fähigkeit, erkannte Chancen in tragfähige Geschäftsmodelle, Produkte oder Investitionen zu überführen}}</li>
+<li>{{c2:.Reconfiguring}}: {{c2::Fähigkeit, die Organisation selbst kontinuierlich zu erneuern und anzupassen}}</li>
+</ol>"	
+"Frage:<br />
+Was ist unter Self-Reinforcing Automation zu verstehen?"	Ein sich selbst verstärkender Prozess, bei dem KI zunächst ergänzt, dann aber durch zunehmende Standardisierung immer mehr Aufgaben automatisiert.
+"wahr oder falsch:<br />
+Self-Reinforcing Automation beschreibt den Prozess, bei dem Automatisierung sich selbst verstärkt."	"wahr:<br />
+KI-gestützte Augmentierung strukturiert Arbeit so, dass sie in der Folge leichter vollständig automatisiert werden kann."
+{{c1::Das Self-Reinforcing Automation}} ist {{c2::der sich selbstverstärkenden Prozess, bei dem der Einsatz von KI zunächst menschliche Arbeit augmentiert, dadurch jedoch Aufgaben standardisiert und strukturierbar macht, was wiederum deren vollständige Automatisierung erleichtert}}.	
+"Frage:<br />
+Was bedeutet Augmenting Automation?"	KI verstärkt bestehende Automatisierung, indem sie Entscheidungsprozesse, Lernfähigkeit und Selbststeuerung in Systeme integriert.
+Welche gesellschaftlichen Risiken entstehen durch Augmenting Automation?	Zunehmende Ungleichheit, Arbeitsplatzpolarisierung, Deskilling und ethische Herausforderungen im Umgang mit algorithmischer Kontrolle.
+"wahr oder falsch:<br />
+Augmenting Automation bedeutet, dass KI bestehende Automatisierungssysteme unterstützt und erweitert."	"wahr:<br />
+KI verstärkt Automatisierung, indem sie Entscheidungslogiken, Mustererkennung und Selbststeuerung in Prozesse integriert."
+{{c1::Augmenting Automation}} ist {{c2::ein Prozess, bei dem KI bestehende Automatisierungssysteme erweitert und leistungsfähiger macht}}. {{c1::Augmenting Automation}} ersetzt Menschen nicht direkt, sondern {{c3::verstärkt die Automatisierung, sodass weniger menschliches Eingreifen nötig ist}}.	
+"wahr oder falsch:<br />
+Die Augmentation View betrachtet KI als Unterstützung menschlicher Fähigkeiten."	"wahr:<br />
+KI wird als Werkzeug gesehen, das Entscheidungsqualität, Produktivität und Effizienz menschlicher Arbeit erhöht."
+{{c1::Die Augmentation View}} ist das Verständnis, das KI als als Erweiterung und Unterstützung menschlicher Fähigkeiten versteht und davon ausgeht, dass die KI menschliche Entscheidungen verbessert und die Produktivität steigert.	
+"wahr oder falsch:<br />
+Die Replacement View geht davon aus, dass KI menschliche Arbeit vor allem ergänzt."	"falsch:<br />
+Sie geht davon aus, dass KI menschliche Arbeit ersetzt, insbesondere routinisierte und kognitive Aufgaben."
+{{c1::Die Replacement View}} ist {{c2::das Verständnis, das KI als substitutive Technologie versteht und davon ausgeht, dass die KI menschliche Arbeit ersetzt, indem sie Aufgaben der Menschen übernimmt}}.	
+"Frage:<br />
+Warum führt Augmentierung langfristig oft zur Reduktion menschlicher Arbeit?"	Weil KI durch Effizienzsteigerung und Standardisierung Arbeit modularisiert und dadurch schrittweise vollständig automatisierbar macht.
+"Frage:<br />
+Was sind die Auswirkungen von AI auf Arbeit?<br />
+a) Jobmotor &amp; Ausgleich<br />
+b) Ersetzen &amp; Augmentieren<br />
+c) Automatisierung &amp; Preservation<br />
+d) Digitalisierung &amp; nachhaltige Arbeitsverhältnisse"	b)
+"Frage:<br />
+Wie trägt Modularisierung zur KI-Augmentation bei?<br />
+a) Sie vereinfacht komplexe Aufgaben und macht sie automatisierbar<br />
+b) Sie macht Mitarbeitende unabhängiger<br />
+c) Sie fördert funktionsübergreifende Zusammenarbeit<br />
+d) Sie reduziert den Bedarf nach physischer Infrastruktur"	a)
+"Frage:<br />
+Wie wirkt sich der langfristige Einsatz von KI auf den Arbeitsmarkt aus?<br />
+a) Unternehmen bevorzugen Strukturen, die technische Berufe benachteiligen<br />
+b) Unternehmen können Arbeit weniger gut automatisch überwachen<br />
+c) Die verbleibende Arbeit für Menschen wird modularisiert und könnte später ebenfalls ersetzt werden<br />
+d) KI hat keinen signifikanten Einfluss auf Arbeitsmärkte"	c)
+"wahr oder falsch:<br />
+Augmentierung führt langfristig zu einer Zunahme menschlicher Beschäftigung."	"falsch:<br />
+Durch steigende Effizienz und Standardisierung werden Aufgaben automatisierbar, was die Beschäftigung tendenziell reduziert."
+"Frage:<br />
+Der Hollowing-Out-Effekt beschreibt die Zunahme mittlerer Qualifikations- und Einkommensgruppen durch Digitalisierung."	"falsch:<br />
+Er beschreibt den Rückgang mittlerer Tätigkeiten und die Polarisierung zwischen hoch- und niedrigqualifizierter Arbeit infolge von Automatisierung."
+{{c1::Der Hollowing-Out-Effekt}} ist {{c2::ein Effekt, welche die Erosion mittlerer Beschäftigungssegmente durch technologische Entwicklungen beschreibt}}. {{c1::Der Hollowing-Out-Effekt}} besteht aus {{c3::der zunehmenden Automatisierung routinisierter Tätigkeiten in der Mitte der Qualifikationspyramide, während sowohl hochqualifizierte, als auch niedrigqualifizierte Tätigkeiten zunehmen}}.	
+"Frage:<br />
+Was versteht man unter einem digitalen Unternehmen?"	Unternehmen, deren Geschäftsmodelle vollständig auf datengetriebener Technologie basieren und durch KI skalierbar gemacht werden.
+"wahr oder falsch:<br />
+Digitale Unternehmen zeichnen sich durch hohe Skaleneffekte und datengetriebene Prozesse aus."	"wahr:<br />
+Sie integrieren KI, Cloud, IoT und Analytics in ihre Geschäftsmodelle und erzeugen dadurch überlegene Effizienz und Marktmacht."
+{{c1::Ein digitales Unternehmen}} ist {{c2::ein Unternehmen, welches seine Geschäftsprozesse (fast) vollständig digitalisiert hat}}.	
+{{c1::Blitzscaling}} ist {{c2::eine Strategie zum extrem schnellen Unternehmenswachstums, bei der Geschwindigkeit über Effizienz gestellt wird, um in kurzer Zeit Marktführerschaft in einem großen, skalierbaren Markt zu erreichen}}.	
+"Beispiel:<br />
+Serviceinnovation"	"<ul>
+<li>CLASS mit Möglichkeiten, Landwirtschaftsprozesse zu automatisieren</li>
+</ul>"
+{{c1::Die Serviceinnovation}} ist {{c2::die Innovation von Prozessen zur Erstellung von Wert für Stakeholder}}.	
+"Frage:<br />
+Wie hängen F&amp;E und Absorptive Capacity zusammen?"	F&amp;E stärkt die Absorptive Capacity, und diese wiederum erhöht die Wirksamkeit und strategische Bedeutung von F&amp;E-Investitionen.
+"Frage:<br />
+Welche Rolle spielt Grundlagenforschung im Aufbau von Absorptive Capacity?"	Sie schafft breites, vernetztes Vorwissen und ermöglicht dadurch das Verständnis komplexer, zukünftiger Technologien; auch wenn sie kurzfristig keine direkten Erträge liefert.
+"wahr oder falsch:<br />
+Absorptive Capacity beeinflusst die F&amp;E-Ausgaben eines Unternehmens nicht direkt."	"falsch:<br />
+Sie vermittelt die Wirkung von Aneignbarkeit (Appropriability) und technologischen Chancen auf die F&amp;E-Intensität: Sie ist also zentral für Investitionsentscheidungen."
+"wahr oder falsch:<br />
+F&amp;E erzeugt neues Wissen und baut zugleich Absorptive Capacity auf."	"wahr:<br />
+F&amp;E erfüllt eine Doppelfunktion: Sie dient sowohl der Innovation als auch dem organisationalen Lernen."
+"Frage:<br />
+Wie beeinflusst Absorptive Capacity das Aspiration Level einer Organisation?"	Hohe Absorptive Capacity erhöht die Sensibilität für technologische Chancen und damit die Innovationsziele; geringe führt zu niedrigen, reaktiven Zielsetzungen.
+"Frage:<br />
+Was bedeutet ""Lockout"" im Kontext von Absorptive Capacity?<br />
+a) Fehlende frühe Investitionen verhindern spätere Nutzung neuer Chancen<br />
+b) Hohe Absorptive Capacity schließt Partnerschaften aus<br />
+c) Lockout verhindert die Verbreitung von Wissen<br />
+d) Überinvestitionen verringern Flexibilität"	a)
+"Frage:<br />
+Was beschreibt der Lockout-Effekt im Kontext von Absorptive Capacity?"	Unternehmen, die zu spät oder zu wenig in Wissen investieren, verlieren dauerhaft die Fähigkeit, neue Technologien zu verstehen und zu nutzen.
+"wahr oder falsch:<br />
+Der Lockout-Effekt der Absorptive Capacity beschreibt den Zustand, in dem Unternehmen durch mangelnde frühe Investitionen dauerhaft den Zugang zu neuem Wissen verlieren."	"wahr:<br />
+Er entsteht, wenn fehlende Vorinvestitionen die spätere Entwicklung von Absorptive Capacity stark erschweren oder verhindern."
+{{c1::Ein Absorptive Capacity Lockout}} ist {{c2::die fehlende und dauerhafte Absorptive Capacity einer Organisation}}, welche dazu führt, dass {{c3::eine Organisation die Fähigkeit verliert, neue Entwicklungen zu verstehen und zu nutzen}}.	
+"Frage:<br />
+Was bedeutet Cross-Functional Absorptive Capacity?"	Die funktionsübergreifende Fähigkeit, Wissen aus verschiedenen Abteilungen zu integrieren und für Innovation zu nutzen.
+"Frage:<br />
+Wie kann die Cross-Functional Absorptive Capacity von einzelnen Personen in einem Unternehmen erhöht werden?"	durch die Rotation von Personal durch verschiedene Abteilungen
+"Frage:<br />
+Wodurch entsteht Cross-Functional Absorptive Capacity?"	durch funktionsübergreifend Schnittstellen, überlappende Prozesse und direkte Kommunikation zwischen Organisationseinheiten
+"wahr oder falsch:<br />
+Cross-Functional Absorptive Capacity entsteht durch enge Zusammenarbeit zwischen Funktionsbereichen wie F&amp;E, Produktion und Marketing."	"wahr:<br />
+Sie ermöglicht den Wissenstransfer über Abteilungsgrenzen hinweg und beschleunigt Innovationsprozesse."
+{{c1::Cross-Functional Absorptive Capacity}} ist {{c2::die Absorptive Capacity einer Organisation, Wissen über verschiedene Funktionsbereiche hinweg zu teilen, zu verarbeiten und gemeinsam zu nutzen, um Innovation und Problemlösung zu beschleunigen}}.	
+"wahr oder falsch:<br />
+Gatekeeper verbinden externe Wissensquellen mit den internen Einheiten einer Organisation."	wahr
+"wahr oder falsch:<br />
+Gatekeeper verbinden internen Wissensquellen mit Stakeholdern außerhalb einer Organisation."	"falsch:<br />
+Gatekeeper verbinden externe Wissensquellen mit den internen Einheiten einer Organisation."
+{{c1::Gatekeeper}} in {{c2::der Innovation sind Personen innerhalb einer Organisation, die Wissen aus der Umwelt aufnehmen, übersetzen und intern weitergeben}}. {{c1::Gatekeeper}} verbinden externe Wissensquellen mit den internen Einheiten einer Organisation.	
+"Frage:<br />
+Warum bleibt externes Wissen ohne Gatekeeper oft ungenutzt?"	Weil die Organisation ohne diese Vermittler nicht über geeignete Mechanismen verfügt, um relevantes externes Wissen zu erkennen oder weiterzuleiten.
+"Frage:<br />
+Wie wirken Gatekeeper auf die Absorptive Capacity?"	Sie fungieren als Übersetzer und Vermittler zwischen externen Wissensquellen und internen Einheiten, wodurch externes Wissen verwertbar wird.
+"wahr oder falsch:<br />
+Gatekeeper sind für die strategische Entscheidungsfindung verantwortlich und gehören zwingend zum Top-Management."	"falsch:<br />
+Gatekeeper sind operative Wissensträger, nicht zwingend Führungskräfte, und fungieren als Schnittstelle zu externem Wissen."
+"wahr oder falsch:<br />
+Gatekeeper spielen eine zentrale Rolle bei der Realisierung von Absorptive Capacity."	"wahr:<br />
+Sie übersetzen externes Wissen in die interne Sprache der Organisation und fungieren als Schnittstellen zum Umfeld."
+{{c1::Eine Disruption}} ist {{c2::ein Prozess, in welchem ein Unternehmen mit weniger Ressourcen in der Lage ist, etablierte Unternehmen erfolgreich herauszufordern und auf dem Markt zu verdrängen}}.	
+"Frage:<br />
+Wann investieren Unternehmen typischerweise zu wenig in Absorptive Capacity?"	Wenn der Nutzen schwer messbar, langfristig und nicht direkt profitorientiert ist, besonders in neuen Wissensdomänen außerhalb des Kerngeschäfts.
+"Frage:<br />
+Warum ist Vorwissen entscheidend für die Entwicklung von Absorptive Capacity?"	Weil bestehendes, verwandtes Wissen die Grundlage bildet, um neue Informationen überhaupt zu identifizieren, zu verstehen und einzuordnen.
+"Frage:<br />
+Was ist die Definition von Absorptive Capacity einer Organisation?<br />
+a) Die Fähigkeit, Forschung und Entwicklung durchzuführen<br />
+b) Die Fähigkeit, externes Wissen zu erkennen, aufzunehmen und anzuwenden<br />
+c) Die Fähigkeit, rein internes Wissen zu erzeugen<br />
+d) Die Fähigkeit, in Technologieinfrastruktur zu investieren"	b)
+"Frage:<br />
+Welche organisatorischen Strukturen fördern Absorptive Capacity?"	offene Kommunikationswege, interdisziplinäre Teams, Wissensdiversität und Schnittstellen zwischen Abteilungen
+"Frage:<br />
+Welche Rolle spielt Wissensdiversität für die Absorptive Capacity?<br />
+a) Verbessert interne Kommunikation<br />
+b) Reduziert Assimilationsfähigkeit<br />
+c) Erhöht Lern- und Innovationsfähigkeit<br />
+d) Schafft Ineffizienzen"	c)
+"Frage:<br />
+Wie kann Absorptive Capacity als Wettbewerbsvorteil verstanden werden?"	Sie ermöglicht es Unternehmen, externe Wissensflüsse schneller, effektiver und gewinnbringender zu nutzen als die Konkurrenz, um so Innovationsvorsprünge aufzubauen.
+"Frage:<br />
+Wie unterscheiden sich individuelle und organisationale Absorptive Capacity?"	Individuelle Absorptive Capacity basiert auf kognitiven Strukturen und Erfahrung; organisationale entsteht durch Kommunikationsnetzwerke, Strukturen und gemeinsame Wissensbasen.
+"Frage:<br />
+Wovon hängt Absorptive Capacity primär ab?<br />
+a) Externe Wissensquellen<br />
+b) Innovationsfähigkeiten einer Organisation<br />
+c) Die Vielfalt der Skills in einer Organisation<br />
+d) Vorhandenes Wissen in einer Organisation"	d)
+"wahr oder falsch:<br />
+Absorptive Capacity beschreibt die Fähigkeit einer Organisation, neues Wissen zu schaffen."	"falsch:<br />
+Sie beschreibt die Fähigkeit, externes Wissen zu erkennen, zu assimilieren und wirtschaftlich zu nutzen, nicht die originäre Wissensproduktion."
+"wahr oder falsch:<br />
+Absorptive Capacity entsteht ausschließlich durch individuelles Lernen einzelner Mitarbeiter."	"falsch:<br />
+Sie ist mehr als die Summe individueller Fähigkeiten. Sie hängt auch von organisationalen Strukturen, Kommunikation und Wissensaustausch ab."
+"wahr oder falsch:<br />
+Absorptive Capacity ist abhängig von vorhandenem, verwandten Wissen von Personen und der Organisation selber."	wahr
+"wahr oder falsch:<br />
+Ein hoher Grad an Absorptive Capacity führt zu einer reaktiven Innovationsstrategie."	"falsch:<br />
+Unternehmen mit hoher Absorptive Capacity agieren proaktiv, erkennen technologische Chancen frühzeitig und handeln vorausschauend."
+"wahr oder falsch:<br />
+Ein zu hoher Grad an Spezialisierung innerhalb einer Organisation kann die Absorptive Capacity behindern."	"wahr:<br />
+Übermäßige Homogenität führt zur Abschottung nach außen nach dem Not-Invented-Here-Syndrom und verringert externe Lernfähigkeit."
+"wahr oder falsch:<br />
+Eine Organisation entwickelt die höchste Absorptive Capacity, wenn sie ein Gleichgewicht zwischen gemeinsamem Wissen für interne Verständigung und Wissensvielfalt für externe Offenheit und neue Perspektiven wahrt."	wahr
+"wahr oder falsch:<br />
+Vorwissen ist eine zentrale Voraussetzung für die Entwicklung von Absorptive Capacity."	"wahr:<br />
+Nur vorhandenes, verwandtes Wissen ermöglicht es, neue Informationen zu erkennen und sinnvoll einzuordnen."
+{{c1::Absorptive Capacity (ACAP)}} ist {{c2::die Fähigkeit von einer Organisation, neues, externe Informationen aufzunehmen, zu assimilieren und und in Innovationsprozesse anzuwenden}}.	
+"<p>Gründe für einen Unternehmensaufkauf sind:</p>
+<ul>
+<li>{{c1::Änderungen von Kundenverhalten}}</li>
+<li>{{c1::Einstieg in neue Märkte}}</li>
+<li>{{c1::Erwerb von neuen Technologien}}</li>
+<li>{{c1::Wachstum im bestehenden Markt}}</li>
+</ul>"	
+"Frage:<br />
+Warum gilt die Erzeugung neuer Marktstrukturen als tiefgreifendste Form der Disruption?"	Weil sie nicht nur Produkte oder Märkte verändert, sondern ganze Branchenlogiken neu definiert: Etwa durch Plattformökonomien, Netzwerkeffekte oder neue Wertschöpfungsketten.
+"Frage:<br />
+Wie tragen neue Produktions- oder Vertriebsmethoden zur Disruption eines Marktgleichgewichts bei?"	Durch Effizienzgewinne, Kostensenkungen oder neue Wertangebote verändern sie Wettbewerbsstrukturen und verschieben die Marktmechanismen zugunsten des Innovators.
+"wahr oder falsch:<br />
+Die Einführung eines neuen Produkts kann ein bestehendes Marktgleichgewicht (Equilibrium) disruptieren."	"wahr:<br />
+Ein neues Produkt verändert Nachfrage- und Wettbewerbsstrukturen, wodurch etablierte Marktteilnehmer verdrängt oder neue Segmente geschaffen werden können."
+"wahr oder falsch:<br />
+Die Nutzung neuer Ressourcen kann zur Disruption eines Equilibriums beitragen."	"wahr:<br />
+Neue Ressourcen (z. B. Daten, erneuerbare Energie, seltene Materialien) können bestehende Produktions- und Wertschöpfungssysteme verändern und neue Wettbewerbsvorteile schaffen."
+"wahr oder falsch:<br />
+Disruptive Innovationen können bestehende Monopole verstärken."	"wahr:<br />
+Innovationen können Markteintrittsbarrieren erhöhen oder neue Industriestrukturen schaffen, die monopolistische Vorteile ermöglichen."
+"wahr oder falsch:<br />
+Innovation wirkt nur dann disruptiv, wenn sie eine völlig neue Technologie einführt."	"falsch:<br />
+Auch eine neue Methode in Produktion oder Vertrieb kann das Marktgleichgewicht stören, wenn sie Kosten, Qualität oder Geschwindigkeit signifikant verändert."
+"wahr oder falsch:<br />
+Der Circular Flow beschreibt den Kreislauf von Gütern, Dienstleistungen und Geld zwischen Unternehmen und Haushalten."	"wahr:<br />
+Er zeigt, wie Einkommen, Ausgaben, Produktion und Konsum in einer Volkswirtschaft zyklisch miteinander verbunden sind."
+"wahr oder falsch:<br />
+Der Circular Flow beschreibt, wie Innovation Märkte disruptiert."	"falsch:<br />
+Er zeigt zunächst ein Gleichgewichtssystem, in dem ökonomische Aktivitäten regelmäßig verlaufen. Disruptionen stellen Abweichungen davon dar."
+"wahr oder falsch:<br />
+Ein Circular Flow setzt ein stabiles Marktgleichgewicht zwischen Angebot und Nachfrage voraus."	"wahr:<br />
+Nur wenn sich Angebot und Nachfrage im Gleichgewicht befinden, kann der Kreislauf stabil „zirkulieren“, ohne Überproduktion oder Nachfragelücken."
+"Frage:<br />
+Welche ökonomischen Akteure stehen im Zentrum des Circular Flow?"	Haushalte und Unternehmen: Haushalte stellen Produktionsfaktoren bereit, Unternehmen nutzen diese zur Produktion und zahlen dafür Einkommen, das wiederum für Konsum genutzt wird.
+"Frage:<br />
+Was bringt das Konzept des Circular Flow für das Verständnis von Innovation und Marktveränderung?"	Es bietet ein Ausgangsmodell, um zu verstehen, wie Innovation bestehende Gleichgewichte stört: Der Kreislauf wird durch Innovation unterbrochen oder neu konfiguriert.
+"Frage:<br />
+Was passiert mit dem Circular Flow, wenn Innovation in ein Gleichgewichtssystem eingreift?"	Innovation stört den stabilen Kreislauf, indem sie Produktionsprozesse, Konsumverhalten oder Marktstrukturen verändert. Das Gleichgewicht verschiebt sich zu einem neuen Equilibrium der Innovation.
+"Frage:<br />
+Wie lässt sich der Circular Flow mit dem Konzept des kompetitiven Equilibrium verbinden?"	Das kompetitive Equilibrium stellt den Zustand im Circular Flow dar, in dem alle Märkte geräumt sind und keine Akteure Anreize haben, ihr Verhalten zu ändern.
+{{c1::Ein Circular Flow}} ist {{c2::ein Markt, in welchem sich Nachfrage und Angebot in einem Marktgleichgewicht befinden und ökonomische Aktivitäten sich wiederholen, wobei sich jene Unternehmen in einem kompetitiven Equilibrium befinden}}.	
+"wahr oder falsch:<br />
+Nach der Definition von Schumpeter verschiebt eine Innovation das Equilibrium eines Systems in ein temporäres Quasi-Monopol, welche zu einem Profil führt."	wahr
+"Frage:<br />
+Warum führen neue Anforderungen zu Innovationen?"	Neue Kunden- oder Marktanforderungen zwingen Unternehmen, Produkte, Prozesse oder Technologien weiterzuentwickeln oder neu zu erfinden.
+"Frage:<br />
+Warum fördern neue Produkte Innovation?"	Neue Produkte entstehen aus Innovationsprozessen und treiben diese zugleich voran, indem sie Märkte verändern und neue Nachfrage generieren.
+"Frage:<br />
+Wie beeinflusst ausländischer Wettbewerb die Innovationsnotwendigkeit?"	Internationaler Wettbewerb erhöht den Innovationsdruck, da Unternehmen ihre Differenzierungsfähigkeit durch neue Produkte, Services oder Prozesse sichern müssen.
+"Frage:<br />
+Wie beeinflusst sich verändernde Nachfrage die Innovationsrelevanz?"	Dynamische Kundenbedürfnisse erfordern kontinuierliche Anpassung und Neuerfindung von Produkten und Dienstleistungen, um wettbewerbsfähig zu bleiben.
+"Frage:<br />
+Wie fördert die Sharing Economy Innovation?"	Die Sharing Economy führt zu neuen Geschäftsmodellen, die auf gemeinschaftlicher Nutzung von Ressourcen basieren und innovative Plattformlösungen erfordern.
+"Frage:<br />
+Wie hängen neue Märkte und Innovation zusammen?"	Neue Märkte schaffen Chancen für innovative Angebote, die bisher unerschlossene Bedürfnisse adressieren oder bestehende Lösungen neu kombinieren.
+"Frage:<br />
+Wie unterstützt Crowdsourcing Innovationsprozesse?"	Crowdsourcing ermöglicht die Einbindung externer Wissensquellen, wodurch Ideenvielfalt, Geschwindigkeit und Effizienz in der Innovationsentwicklung steigen.
+"Frage:<br />
+Was sind typische Fragen der Risikoanalyse?"	"<ul>
+<li>Sollte die Organisation in Anwendungssysteme/-dienste investieren?</li>
+<li>Welche Anforderungen der Stakeholder müssen bei dieser Veränderung berücksichtigt werden?</li>
+</ul>"
+{{c1::Eine Portfolioanalyse}} ist {{c2::eine qualitative Analyse über die Erreichung von Organisationsziele durch einzelne Elemente in einem Portfolio}}.	
+"Frage:<br />
+Welches SMART-Kriterium fehlt in diesem Ziel: ""We Want To Increase R&amp;D Spending Until 2026""<br />
+a) Specific<br />
+b) Measurable<br />
+c) Relevant<br />
+d) Time-Bound"	b)
+"Frage:<br />
+Wofür steht SMART?<br />
+a) Specific, Manageable, Attainable, Realistic, Timely<br />
+b) Simple, Measurable, Actionable, Reliable, Time-Bound<br />
+c) Strategic, Manageable, Achievable, Relevant, Trackable<br />
+d) Specific, Measurable, Achievable, Relevant, Time-Bound"	d)
+"<p>{{c1::SMART}} ist {{c2::ein Prinzip über die Definition und Festlegung von strategischen Zielen, welche folgende Eigenschaften besitzen sollten}}:</p>
+<ol>
+<li>{{c3::Specific: Spezifikation der Ziele}}</li>
+<li>{{c3::Measurable: Messbarkeit}}</li>
+<li>{{c3::Achievable: Erfüllbar im Rahmen eines Scopes}}</li>
+<li>{{c3::Relevant: Verbesserung der Organisation}}</li>
+<li>{{c3::Time-Bound: Spezifikation des Zeitrahmen}}</li>
+</ol>"	
+{{c1::Entrepreneurship}} ist {{c2::die unternehmerische Denken und Handeln, die durch das Erkennen und Nutzen von Marktveränderungen und Ungleichgewichten wirtschaftliche Dynamik erzeugt}}.	
+{{c1::Innovation Management (Innovationsmanagement)}} ist {{c2::die Planung, Organisation und Kontrolle aller Aufgaben, die im Kontext des Innovationsprozesses ausgeführt werden müssen}}.	
+"Frage:<br />
+Welche Eigenschaft gehört nicht zu einer Mission?<br />
+a) Sie muss in Geschichte, Identität und Werten verankert sein<br />
+b) Sie muss differenzieren und Einzigartigkeit erklären<br />
+c) Sie muss konkrete und gut begründete Ziele definieren<br />
+d) Sie muss knapp und eindeutig formuliert sein"	c)
+{{c1::Eine Mission}} ist {{c2: ist der Kernzweck, die Identität, die Festlegung von Verhaltensstandards, Werten und Zwecken einer Organisation zur Erfüllung von Nutzerbedürfnissen}}.	
+"Beispiel:<br />
+Generative KI"	"<ul>
+<li>ChatGPT</li>
+</ul>"
+{{c1::Generative KI}} ist {{c2::eine KI, welche auf die Generierung und Personalisierung von Inhalten spezialisiert ist}}. Die Generierung von Inhalten wird durch {{c3::Encoding von umfangreichen Datensätzen zur Erkennung von Munstern und Deconding}} ermöglicht.	
+{{c1::Ein Foundation Model}} ist {{c2::ein vortrainiertes KI-Modell zur Vorhersage des nächsten Tokens}}. {{c1::Ein Foundation Model}} besteht aus {{c2::einer Menge an Modelle}}.	
+"{{c1::Generatives Vortraining (Pretraining)}} ist {{c2::das Training eines Foundation Model durch einen großen Datensatz an Wörtern zur Vorhersage des nächsten Tokens}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Hoetter-Warmuth-Pretraining.png"" alt=""""><br />
+Pretraining eines LLM}}}}"	
+"<p>Strategische Planung besteht aus:</p>
+<ol>
+<li>{{c1::Vision &amp; Mission}}</li>
+<li>{{c1::Strategische Ziele}}</li>
+<li>{{c1::Unternehmensziele}}</li>
+<li>{{c1::Geschäftsziele}}</li>
+<li>{{c1::Funktionale Ziele}}</li>
+</ol>"	
+"Frage:<br />
+Wer ist ein Adopter, welcher technologische Neuerungen meist grundsätzlich ablehnt und Innovationen häufig blockiert?"	Laggard
+"Frage:<br />
+Welches Konsumentensegment ist durch starke Skepsis gekennzeichnet?<br />
+a) Early Majority<br />
+b) Late Majority<br />
+c) Early Adopters<br />
+d) Laggards"	d)
+{{c1::Ein Laggard}} ist {{c2::ein Adopter, welcher technologische Neuerungen meist grundsätzlich ablehnt und Innovationen häufig blockiert}}. {{c1::Laggard}} ist der späteste Adoptionszeitpunkt einer Technologie.	
+"Frage:<br />
+Wer ist ein risikoaverser Adopter, welcher ein neue Technologie nutzen, wenn diese sich breit durchgesetzt hat und der Einsatz nahezu unumgänglich ist?"	Late Majority
+{{c1::Eine Late Majority}} ist {{c2::ein risikoaverser Adopter, welcher ein neue Technologie nutzen, wenn diese sich breit durchgesetzt hat und der Einsatz nahezu unumgänglich ist}}.	
+"Frage:<br />
+Welches Konsumentensegment bevorzugt bei der Adoption neuer Technologien typischerweise den Marktführer?<br />
+a) Early Adopters<br />
+b) Early Majority<br />
+c) Late Majority<br />
+d) Laggards"	b)
+"Frage:<br />
+Wer ist ein Adopter, welcher ein neue Technologie nutzen, wenn diese bewiesen, stabil und wirtschaftlich sinnvoll ist?"	Early Majority
+{{c1::Eine Early Majority}} ist {{c2::ein Adopter, welcher ein neue Technologie nutzen, wenn diese bewiesen, stabil und wirtschaftlich sinnvoll ist}}.	
+"Frage:<br />
+Wer ist ein Adopter, welcher in neuen Technologien strategische Chancen und Wettbewerbsvorteile sieht und früh in die Adoption investieren, um davon zu profitieren?"	Early Adopter
+{{c1::Ein Early Adopter}} ist {{c2::ein Adopter, welcher in neuen Technologien strategische Chancen und Wettbewerbsvorteile sieht und früh in die Adoption investieren, um davon zu profitieren}}.	
+"Frage:<br />
+Wer ist ein risikofreudiger, technikaffiner Adopter mit begrenzter Kaufkraft, die neue Technologien aus Begeisterung für das Neue nutzen?"	Innovator
+{{c1::Ein Innovator}} ist {{c2::ein risikofreudiger, technikaffiner Adopter mit begrenzter Kaufkraft, die neue Technologien aus Begeisterung für das Neue nutzen}}. {{c1::Innovator}} ist der frühste Adoptionszeitpunkt einer Technologie.	
+{{c1::Technology Management (Technologiemanagement)}} ist {{c2::das Management von Forschung zur Technologie oder technologischen Problemen}}.	
+"Frage:<br />
+Welche Eigenschaft gehört nicht zu einer Vision?<br />
+a) Muss für all Stakeholder wünschenswert sein<br />
+b) Muss handlungsleitend für zukünftige Entscheidungen sein<br />
+c) Muss spezifisch definierte Ziele enthalten<br />
+d) Muss knapp formuliert und darf nicht mehrdeutig sein"	d)
+"Frage:<br />
+Welche Eigenschaft gehört nicht zu einer Vision?<br />
+a) Muss für all Stakeholder wünschenswert sein<br />
+b) Muss zeigen, wie sich das Unternehmen von anderen differenziert<br />
+c) Muss handlungsleitend für zukünftige Entscheidungen sein<br />
+d) Muss messbar sein"	b)
+{{c1::Eine Vision}} ist {{c2::ein Leitfaden für die Strategieentwicklung und den angestrebten Zukunftszustand eines Unternehmens}}.	
+"<p>Eine Vision ist:</p>
+<ul>
+<li>{{c1::erstrebenswert}}</li>
+<li>{{c1::handlungsleitend}}</li>
+<li>{{c1::inspirierend}}</li>
+<li>{{c1::messbar}}</li>
+<li>{{c1::motivierend}}</li>
+<li>{{c1::realisierbar}}</li>
+</ul>"	
+"<p>Eine Vision besitzt folgende Eigenschaften:</p>
+<ul>
+<li>{{c1::klar}}</li>
+<li>{{c1::konsistent}}</li>
+<li>{{c1::kontinuierlich }}</li>
+</ul>"	
+"{{c1::Diffusion in der Wirtschaft}} ist {{c2::der Prozess der räumlichen und zeitlichen Ausbreitung einer Innovation in einem sozialen Raum}}. {{c1::Die Diffusion einer Innovation}} findet durch {{c3::die Adoption einer Innovation durch einzelne Individuen}} statt. Ziel {{c1::der Diffusion}} ist {{c4::die Akzeptanz der Innovation}}.<br />
+{{c1::{{c2::{{c3::{{c4::<img src=""2023-Bild-Krcmar-Innovations-Diffusion.png"" alt=""""><br />
+Entwicklungszyklus von neuen Ideen und Technologien}}}}}}}}"	
+"<p>{{c1::Die Diffusion}} besteht aus:</p>
+<ul>
+<li>{{c2::Adoptionszeitpunkt}}</li>
+<li>{{c2::der Innovation selber}}</li>
+<li>{{c2::Kommunikationskanälen}}</li>
+<li>{{c2::sozialen Systemen}}</li>
+<li>{{c2::Zeit}}</li>
+</ul>"	
+"Beispiel:<br />
+Pionier"	"<ul>
+<li>OpenAI als Pionier für generative KIs</li>
+</ul>"
+{{c1::Der Pionier}} ist {{c2::ein Zeitpunkt des Markteintrittes in einen neuen Markt, welche eine Technologie entwickeln oder in den Markt einführen}}.	
+"Beispiel:<br />
+später Folger"	"<ul>
+<li>deepseek als später Folger von OpenAI</li>
+</ul>"
+"Frage:<br />
+Was ist ein Nachteil für späte Folger im Vergleich zu Pionieren beim Markteintritt?<br />
+a) Bestehende Geschäftsbeziehungen müssen aufgelöst werden<br />
+b) Gefahr vor Imitation<br />
+c) Hohe Unsicherheit über Markt, Technologie und Kunden<br />
+d) Hohe Anfangsinvestitionen in Forschung und Marketing"	a)
+"wahr oder falsch:<br />
+Als später Folger verfolgt man nie eine Imitations- oder Nischenstrategie."	falsch
+{{c1::Der späte Folger}} ist {{c2::ein Zeitpunkt des Markteintrittes in einem Markt mit bestehenden dominanten Design und einer Konkurrenz, welche ein Technologie anbietet}}.	
+"Beispiel:<br />
+Entwicklung"	"<ul>
+<li>Entwurf von gewählten Systemen</li>
+<li>Konstruktionen von gewählten Systemen</li>
+<li>Test von Systemen</li>
+</ul>"
+{{c1::Entwicklung}} ist {{c2::die Anwendung von Forschungsergebnissen}} zur {{c3::Entwicklung oder Verbesserung von Gütern oder Verfahren}}.	
+"wahr oder falsch:<br />
+Das strategische Ziel stammt aus der Vision und Mission einer Organisation."	wahr
+"wahr oder falsch:<br />
+Ein gutes strategisches Ziel muss spezifisch, messbar, umsetzbar, realistisch und zeitgebunden sein."	"falsch:<br />
+In einer komplexen Welt ist ein gutes strategisches Ziel spezifisch und messbar, muss aber nicht umsetzbar, realistisch oder zeitgebunden sein, da zu viel unbekannt ist. Es sollte nicht als Leistungsmaßstab mehrere Personen oder einem Team zugewiesen werden. Ziele können sich im Laufe der Zeit ändern, wenn die Organisation mehr lernt. Ein strategisches Ziel sollte eines sein, das die Organisation erreichen möchte, aber das ist nicht dasselbe wie zu wissen, dass das Ziel umsetzbar und wahrscheinlich erreichbar ist, was für ein Sprint-Ziel besser geeignet ist."
+{{c1::Ein strategisches Ziel}} ist {{c2::ein Unternehmensziel über das Erfolgspotential eines Unternehmens als Wettbewerbsvorteil}}, welcher anhand {{c3::der Preispositionierung}} bemessen wird. {{c1::Das strategische Ziel}} stammt aus {{c4::der Vision und Mission}} einer Organisation.	
+"wahr oder falsch:<br />
+Ein Patent wird für ein begrenzte Zeit gegeben."	wahr
+{{c1::Ein Patent}} ist {{c2::ein rechtlicher Schutzmechanismus gegen Produktimitation, welcher exklusive Rechte für eine Innovation dem Innovator zuspricht}}. Für {{c1::ein Patent}} muss {{c2::eine neue Innovation mit potentieller Anwendung auf einem Markt vorhanden sein}}.	
+"wahr oder falsch:<br />
+Synergieeffekte entstehen durch die kurzfristige Harmonisierung von Geschäftsfunktionen oder die langfristige Harmonisierung von Unternehmensfunktionen."	wahr
+{{c1::Eine Exploitation}} ist {{c2::die Ausnutzung von bestehenden Lösungen}} zur Schaffung von {{c2::Effizienz und Wachstum}} für das {{c4::operative Geschäft}}. Die Planung von {{c1::Exploitation}} ist {{c3::sequenziell}}.	
+{{c1::Exploitation}} besitzt eine {{c2::geringe Ungewissheit}} und ist grundsätzlich {{c2::stabiler}} als {{c3::Exploration}}.	
+"Frage:<br />
+Was machen digital transformierte Unternehmen überdurchschnittlich viel?<br />
+a) Explanation<br />
+b) Exploitation<br />
+c) Exhortation<br />
+d) Exploration"	d)
+{{c1::Eine Exploration}} ist {{c2::die Schaffung von Erfindungen und Innovationen}} von {{c3::neuen Produkten und Märkten}}. Die Planung von {{c1::Exploration}} ist {{c3::iterativ}}.	
+{{c1::Exploration}} besitzt eine {{c2::hohe Ungewissheit}} und ist grundsätzlich {{c2::instabiler}} als {{c3::Exploitation}}.	
+"Beispiel:<br />
+Market Breakthrough"	"<ul>
+<li>AirPods, da es Kundenbedürfnisse mit bestehenden Technologien besser erfüllt</li>
+</ul>"
+"{{c1::Ein Market Breakthrough}} ist {{c2::eine Produktinnovation mit einer hohen innovativen Bedürfnisbefriedigung und einer niedrigen Technologieinnovation}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Arten_der_Produktinnovation.png"" alt=""""><br />
+Arten der Produktinnovation}}}}"	
+"Beispiel:<br />
+Technological Breakthrough"	"<ul>
+<li>Glasfaser, da es eine neue Technologie verwendet aber für Kunden gleiche Bedürfnisse erfüllt</li>
+</ul>"
+"{{c1::Ein Technological Breakthrough}} ist {{c2::eine Produktinnovation mit einer niedrigen innovativen Bedürfnisbefriedigung und einer hohen Technologieinnovation}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Arten_der_Produktinnovation.png"" alt=""""><br />
+Arten der Produktinnovation}}}}"	
+"Beispiel:<br />
+Radical Innovation"	"<ul>
+<li>VR-Headset, da es eine neue Technologie ist, welche als Unterhaltungsmedium Kundenbedürfnisse auf eine neue und bessere Art und Weise erfüllen kann</li>
+</ul>"
+"Frage:<br>
+Ein Produkt hat einen hohen Technologiescore und einen hohe Marketscore. Welcher Innovationstyp beschreibt dies am besten?<br>
+a) Incremental Innovation<br>
+b) Radical Innovation<br>
+c) Market Breakthrough<br>
+d) Technology Breakthrough"	b)
+"wahr oder falsch:<br />
+Ein Produkt mit einer Radical Innovation besitzt eine fundamentale Änderung, welche Kundenbedürfnisse besser erfüllen kann, als andere Produkte."	wahr
+"wahr oder falsch:<br />
+Nur ein kleiner Anteil an neuen Produkten sind Radical Innovations."	wahr
+"wahr oder falsch:<br />
+Radical Innovation verkaufen sich deutlich besser."	"wahr:<br />
+Radical Innovation haben einen 6-mal höheren Verkaufsanteil als andere Produkte."
+"{{c1::Eine Radical Innovation}} ist {{c2::eine Produktinnovation mit einer hohen innovativen Bedürfnisbefriedigung und einer hohen Technologieinnovation}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Arten_der_Produktinnovation.png"" alt=""""><br />
+Arten der Produktinnovation}}}}"	
+Ein Produkt mit {{c1::einer Radical Innovation}} besitzt eine fundamentale Änderung, welche Kundenbedürfnisse besser erfüllen kann, als andere Produkte.	
+"Beispiel:<br />
+Incremental Innovation"	"<ul>
+<li>System-Rasierer, welcher sich über die Zeit weiterentwickelt, aber der bestehenden Produktidee treu bleibt</li>
+</ul>"
+"Frage:<br />
+Ein Produkt erzielt einen niedrigen Technologiescore und einen niedrigen Marketscore. Welcher Innovationstyp passt am besten?<br />
+a) Incremental Innovation<br />
+b) Radical Innovation<br />
+c) Market Breakthrough<br />
+d) Technology Breakthrough"	a)
+"wahr oder falsch:<br />
+Nur ein kleiner Anteil an neuen Produkten sind Incremental Innovation."	"falsch:<br />
+Ein großer Teil der Innovationen sind Incremental Innovations."
+"{{c1::Eine Incremental Innovation}} ist {{c2::eine Produktinnovation mit einer niedrigen innovativen Bedürfnisbefriedigung und einer niedrigen Technologieinnovation}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Arten_der_Produktinnovation.png"" alt=""""><br />
+Arten der Produktinnovation}}}}"	
+"<p>{{c1::Der Zeitpunkt des Markteintrittes}} besteht aus:</p>
+<ol>
+<li>{{c2::Pionier}}</li>
+<li>{{c2::früher Folger}}</li>
+<li>{{c2::später Folger}}</li>
+</ol>"	
+{{c1::Ein Businessmodell (business model)}} ist {{c2::ein Instrument der strategischen Planung und Kommunikation zwischen den einzelnen Stakeholdern zur Schaffung von Wertschöpfung}}. {{c1::Das Businessmodell}} ist dabei der Plan und die Grundlage {{c3::der Organisationsstruktur und finanziellen Architektur}} eines Unternehmens.	
+"<p>{{c1::Ein Businessmodell}} repräsentiert ein Unternehmen in Bezug auf folgende Eigenschaften:</p>
+<ul>
+<li>{{c2::beteiligte Stakeholder in der Schaffung der Wertschöpfung}}</li>
+<li>{{c2::Marktsegment, welches angesprochen werden soll}}</li>
+<li>{{c2::wie dem Konsumenten der Wert angeboten wird}}</li>
+<li>{{c2::Quelle des Umsatzes}}</li>
+<li>{{c2::Wahl der genutzten Technologien}}</li>
+</ul>"	
+{{c1::Die funktionsbezogene Strategie (Functional Strategy)}} ist {{c2::eine Strategieebene, welche die Strategie und Grundsatzentscheidungen von einzelnen Abteilungen, Stellen, Personen, Ressourcen und Prozessen umfasst}}.	
+"Frage:<br />
+Basierend auf der Beziehung zwischen Unternehmensstrategie und Geschäftsfeldstrategie, welche Eingabe ist kein direkter Input von der Unternehmensstrategie an die Geschäftsfeldstrategie?<br />
+a) High-Level Strategic Direction<br />
+b) HR-Strategieentwicklung<br />
+c) Unterstützung bei M&amp;A<br />
+d) Klare Governance-Modelle"	b)
+"Frage:<br />
+Basierend auf der Beziehung zwischen Unternehmensstrategie und Geschäftsfeldstrategie, welche Eingabe ist kein direkter Input von der Unternehmensstrategie an die Geschäftsfeldstrategie?<br />
+a) High-Level Strategic Direction<br />
+b) Top-Down Objectives<br />
+c) Governance Model<br />
+d) Operative Ressourcensteuerung"	d)
+"wahr oder falsch:<br />
+Geschäftsfeldstrategien sollen eine wettbewerbsdominante Position des jeweiligen Geschäftsfelds erzeugen und im Einklang mit der allgemeinen Unternehmensstrategie stehen."	wahr
+{{c1::Die Geschäftsfeldstrategie (Business Strategy, Geschäftsstrategie)}} ist {{c2::eine Strategieebene, welche die Strategie von einzelnen Geschäftsbereichsorganisationen in einem bestimmtem Markt umfasst}}.	
+{{c1::Die Geschäftsfeldstrategie}} ist so zu formulieren, dass sie im Einklang mit {{c2::den Unternehmensstrategien}} stehen.	
+"Frage:<br />
+Welche ist keine strategische Frage auf Unternehmensebene?<br />
+a) Welche Geschäftseinheit sollten wir verkaufen?<br />
+b) Welche Firma sollten wir kaufen?<br />
+c) Welche Märkte betreten wir mit bestehenden Produkten?<br />
+d) Welchen Preis setzen wir für ein neues Produkt?"	d)
+{{c1::Eine Unternehmensstrategie (Corporate Strategy)}} ist {{c2::eine Strategieebene, welche grundsätzlich Entscheidungen der Strategie und dem Scope einer gesamten Unternehmung umfasst}}.	
+"<p>Eine Unternehmensstrategie besteht aus:</p>
+<ul>
+<li>{{c1::Branche}}</li>
+<li>{{c1::Mission und Vision}}</li>
+<li>{{c1::Ressourcen und Strukturen}}</li>
+<li>{{c1::Unternehmensziel}}</li>
+</ul>"	
+Bei {{c1::Unternehmensstrategien}} handelt es sich um {{c2::strategische Entscheidungen}}, die {{c3::nicht dezentralisiert}} werden können, ohne dass {{c3::erhebliche Synergieeffekte verloren gehen}}.	
+"Beispiel:<br />
+Erfahrungskurve"	"<ul>
+<li>Automatisierung</li>
+<li>Einarbeitung von Mitarbeitern</li>
+<li>Routine</li>
+</ul>"
+"Frage:<br />
+Wie schnell kann der Erfahrungskurveneffekt umgesetzt werden?"	Der Erfahrungskurveneffekt benötigt eine gewisse Vorlaufzeit und kann nicht direkt umgesetzt werden.
+"wahr oder falsch:<br />
+Der Erfahrungskurveneffekt besagt, dass mit jeder Verdoppelung der Absatzmenge eines Produktes die im Zeitablauf kumulierten Stückkosten um einen bestimmten Prozentsatz sinken."	"falsch<br />
+Mit jeder Verdoppelung der kumulierten Absatzmenge eines Produktes sinken die Stückkosten."
+"{{c1::Die Erfahrungskurve (Experience Curve)}} ist {{c2::das dynamische Kostenmanagement durch die Verringerung des benötigten Input bei steigender Erfahrung}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Stockhinger-Erfahrungskurve.png"" alt=""""><br />
+Erfahrungskurve}}}}"	
+"Beispiel:<br />
+Disruptive Innovation"	"<ul>
+<li>Netflix hat den Videomarkt disruptiv transformiert, indem Netflix durch den Versand und das spätere Streaming Blockbuster als Unternehmen verdrängt hat</li>
+</ul>"
+{{c1::Disruptive Innovation (disruptive Innovation)}} ist {{c2::eine Innovation, bei dem Konsumenten ein Gut, ein Produkt oder eine Dienstleistung konsumieren können, welche davor nur für bestimmte Konsumenten zugänglich war}}. Bei {{c1::disruptiver Innovation}} handelt es sich um {{c3::einen evolutionären Prozess}}.	
+"<p>Charakteristische Eigenschaften von {{c1::disruptiven Innovationen}} sind:</p>
+<ul>
+<li>{{c2::geringerer Gewinn}}</li>
+<li>{{c2::zu Beginn ein kleinerer Markt, bis die Qualität den marktüblichen Standard erreicht hat}}</li>
+<li>{{c2::einfacheres Gut, Produkt oder Dienstleistung in einem Markt mit komplexen Gütern, Produkten oder Dienstleistungen}}</li>
+</ul>"	
+"Beispiel:<br />
+Geschäftsmodellinnovation"	"<ul>
+<li>flaschenpost.de mit einer neuen Wertepräposition</li>
+</ul>"
+"Frage:<br />
+Welcher Bestandteil gehört nicht zu denen, die ein Geschäftsmodell definieren?<br />
+a) Market Ceration: Wie schafft sich das Unternehmen einen Markt?<br />
+b) Value Proposition: Welchen Wert bietet das Unternehmen seinen Kunden und wichtigen Partnern, die an der Wertschöpfungskette beteiligt sind?<br />
+c) Value Chain: Wie schafft das Unternehmen den Wert?<br />
+d) Revenue Model: Wie verdient das Unternehmen Geld?"	a)
+"wahr oder falsch:<br />
+Die Geschäftsmodellinnovation führt zu Änderungen von wichtigen Bestandteilen eines Geschäftsmodell."	wahr
+{{c1::Die Geschäftsmodellinnovation (Business Model Innovation)}} ist {{c2::die Innovation des Geschäftsmodell, die Schaffung, das Marketing und die Vermittlung}} von {{c3::Wertschöpfung und Kundenbindung}}, welches eine Unternehmung {{c4::einem oder mehreren Kundensegmenten}} bietet, um {{c5::Gewinn}} über {{c5::Einnahmekanäle}} zu erwirtschaften.	
+"<p>Eine Geschäftsmodellinnovation besteht aus:</p>
+<ul>
+<li>{{c1::Revenue Model}}: {{c1::Wie das Unternehmen Geld verdient}}</li>
+<li>{{c2::Wertproposition}}: {{c2::Welchen Wert das Geschäft bietet}}</li>
+<li>{{c3::Wertschöpfungsarchitektur}}: {{c3::Wie der Wert generiert wird}}</li>
+</ul>"	
+"Frage:<br />
+Kann sich ein Dominant Design auch dann durchsetzen, wenn andere Designs technologisch überlegen sind?<br />
+a) Ja, aufgrund der selbstverstärkenden Effekte<br />
+b) Nein, technologische Überlegenheit setzt sich immer durch<br />
+c) Nur bei völliger Markttransparenz<br />
+d) Nur wenn gesetzlich vorgeschrieben"	a)
+"Frage:<br />
+Warum entsteht ein Dominant Design?<br />
+a) Aufgrund rein rechtlicher Vorgaben<br />
+b) Aufgrund steigender Skalenerträge und Netzwerkeffekten<br />
+c) Aufgrund zufälliger Marktentscheidungen<br />
+d) Aufgrund maximaler technologischer Überlegenheit"	b)
+"Frage:<br />
+Welcher Effekt verstärkt die Verbreitung eines Dominant Design selbstständig?<br />
+a) Preissenkungen<br />
+b) Selbstverstärkende Rückkopplungseffekte<br />
+c) Staatliche Subventionen<br />
+d) Sinkende Markteintrittsbarrieren"	b)
+{{c1::Ein Dominant Design}} ist {{c2::eine technologische oder gestalterische Lösung, die sich in einem Markt als Standard durchsetzt}}.	
+Während {{c1::etablierte Unternehmen}} insbesondere in der Festigung des {{c2::Dominant Designs}} einen strategischen Vorteil besitzen, besitzen {{c1::sich neu etablierende Unternehmen}} die große Opportunität in bei einem nicht etablierten oder absterbendem {{c2::Dominant Design}}.	
+"Beispiel:<br />
+Produktinnovation"	"<ul>
+<li>Adidas mit 3D-Druck-Methoden für Schuhe</li>
+</ul>"
+{{c1::Die Prozessinnovation (Process Innovation)}} ist {{c2::die Innovation der Produktion und Bereitstellung von Produkten und Dienstleistungen}}.	
+{{c1::Die Produktinnovation}} versucht ein Produkt oder eine Dienstleistung {{c2::kostengünstiger, qualitativ hochwertiger oder schneller}} bereitzustellen.	
+{{c1::Bereits bestehende Industrien}} präferieren {{c2::Prozessinnovation}}.	
+{{c1::Die Produktinnovation (Product Innovation)}} ist {{c2::die Innovation der Bestandteile eines Produktes oder einer Dienstleistung, welche neu ist oder signifikante Änderungen mit sich bringt}}. {{c1::Die Hochphase der Produktinnovation}} führt zu {{c3::der Etablierung des dominanten Designs}}.	
+{{c1::Sich neu entwickelnde Industrien}} präferieren {{c2::Produktinnovationen}}.	
+"Beispiel:<br />
+Frugal Innovation"	"<ul>
+<li>Nokia 1100 als günstiges, staubdichtes und wasserdichte Handy, welches spezifisch für Emerging Markets erstellt wurde und dadurch zum meistverkauftesten Handy aller Zeiten wurde</li>
+</ul>"
+{{c1::Eine Frugal Innovation}} ist {{c2::eine einfache, wartungsarme und kostengünstige Innovation für den durchschnittlichen Konsumenten}}.	
+"<p>Eigenschaften einer Frugal Innovation sind:</p>
+<ul>
+<li>{{c1::Fokus auf benötigte Kernfunktionalitäten}}</li>
+<li>{{c1::Optimierung bis zu dem benötigten Leistungsniveau}}</li>
+<li>{{c1::substanzielle Kostenreduktion bis zu 60 %}}</li>
+</ul>"	
+"Frage:<br />
+Welcher der folgenden Punkte ist laut Vorlesung kein Grund dafür, dass Innovation so schnell und erfolgskritisch geworden ist?<br />
+a) Etablierte Marktkräfte<br />
+b) Zunehmende Transparenz<br />
+c) Neue Technologien<br />
+d) Sich verändernde Nachfrage"	a)
+"Frage:<br />
+Welcher Punkt ist kein Grund für die hohe Bedeutung von Innovation?<br />
+a) Konstante Nachfrage<br />
+b) Neue Marktkräfte<br />
+c) Zunehmende Transparenz<br />
+d) Durchdringung von Digitalisierung"	a)
+"wahr oder falsch:<br />
+Patente sind ein guter Indikator für Innovation."	"falsch:<br />
+Sie sind ein guter Indikator für Innovation Input"
+"{{c1::Eine Innovation}} ist {{c2::die Erfindung und die Anwendung von einem Gut}} sowie die Schnittmenge von {{c3::Technologien, Unternehmungen und Werte}}. Als {{c1::Innovation}} wird auch eine {{c4::neue Idee, eine neue Praxis oder ein neues Objekt verstanden, welches von einem Adopter als neu empfunden wird}}.<br />
+{{c1::{{c2::{{c3::<img src=""2022-Bild-Stockhinger-Erfindung_und_Innovation.png"" alt=""""><br />
+Invention and Innovation}}}}}}"	
+"<p>Eigenschaften von Innovation sind :</p>
+<ul>
+<li>{{c1::disruptiv gegenüber bestehenden Unternehmensfunktionen}}</li>
+<li>{{c1::neue Produkte}}</li>
+<li>{{c1::risikofreudig}}</li>
+</ul>"	
+"Frage:<br />
+Was unterscheidet Innovation von Invention?<br />
+a) Google Maps ist eine Invention, während GPS eine Innovation ist<br />
+b) Invention bedeutet die erste kommerzielle Nutzung<br />
+c) Innovation ist ausschließlich auf die F&amp;E-Abteilung begrenzt<br />
+d) Für eine Invention braucht man wissenschaftliche und kreative Fähigkeiten"	d)
+{{c1::Erfindung (Invention)}} ist {{c2::die Umwandlung von Wissen in ein neues Gut}}. {{c1::Erfindungen}} sind {{c3::die treibende Kraft des Fortschrittes einer Gesellschaft}}.	
+{{c1::Erfindungen}} können zu {{c2::Innovationen}} werden, wenn {{c3::sie in einer Gesellschaft angewendet werden}}, müssen aber nicht zwingend zu einer werden.	
+{{c1::Die EBITDA (Earnings Before Interest and Taxes and Depreciation and Amortisation)}} ist {{c2::der operative Cashflow und besteht aus dem Ergebnis vor Zinsaufwand, Steuern und Abschreibungen}}.	
+{{c1::\(\text{EBITDA}\)}} \(=\) {{c2::\(\text{Earning after Taxes} + \text{Taxes} + \text{Interest} + \text{Depreciation/Amortization}\)}}	
+"Frage:<br />
+Welche rechtliche Schutzmaßnahme schützt kommunikative Designs wie z. B. Logos?<br />
+a) Patente<br />
+b) Gebrauchsmuster<br />
+c) Markenschutz<br />
+d) Urheberrecht"	c)
+{{c1::Eine Marke in der Wirtschaft}} ist {{c2::ein Instrument}} mit spezifischen Merkmalen, welches {{c2::sich gegenüber anderen Marken nachhaltig differenziert}}. {{c1::Eine Marke}} rahmt {{c3::ein Produkt}} ein und gibt ihr {{c3::eine Identität}}.	
+{{c1::Eine Marke}} ist {{c2::ein rechtlich geschütztes Zeichen und ein Kennzeichen}} für {{c3::die Urheberschaft und Warenherkunft}}.	
+{{c1::Ein Gut}} ist {{c2::eine Ware und Dienstleistung}}, die {{c3::konsumiert}} oder {{c3::bei der Produktion}} in {{c3::andere Güter umgewandelt werden kann}}.	
+{{c1::Der Discounted Cash Flow (DCF)}} ist {{c2::eine Methode zur Berechnung des zukünftig erwarteten Cashflows zur Unternehmensbewertung}}.	
+"Frage:<br />
+Welche Aussage zum Joint Venture Modell ist korrekt?<br />
+a) Weniger formelle Zusammenarbeit<br />
+b) Muss aus mindestens drei Parteien bestehen<br />
+c) Hat üblicherweise begrenzte Dauer<br />
+d) Sehr lose Assoziationen zweier Unternehmen"	c)
+"Frage:<br />
+Welche Aussage über Joint Ventures ist wahr?<br />
+a) Ein Joint Venture entsteht durch informelle Vereinbarungen<br />
+b) Ein Joint Venture kann Lernen und neue Chancen erzeugen<br />
+c) Ein Joint Venture erhöht zwingend die Investitionsgrößen<br />
+d) Ein Joint Venture ist zeitlich unbegrenzt"	b)
+{{c1::Ein Joint Venture (Gemeinschaftsunternehmen)}} ist {{c2::eine überbetriebliche Kooperation zur Gründung eines Tochterunternehmens durch zwei oder mehrere unabhängige Unternehmen}}. {{c1::Ein Joint Venture}} ist üblicherweise {{c3::zeitlich in seiner Dauer}} begrenzt.	

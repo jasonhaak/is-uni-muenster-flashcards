@@ -4,7 +4,7 @@
 
 Welcome to this repository containing Anki flashcards for the Master in Information Systems at the University of Münster.
 
-> Note: All flashcards were originally written in German. If an English deck is available, it is a AI-translated version.
+> Note: All flashcards were originally written in German. If an English deck is available, it is an AI-translated version.
 
 > Note: Some flashcards may appear in multiple decks, as the organization is based on categories rather than individual courses. As a result, a card might be included in both _Course 1_ and _Course 2_. This structure may also lead to the inclusion of supplementary material from other courses within a given deck.
 
@@ -26,6 +26,9 @@ This repository provides a comprehensive set of Anki flashcards that include:
 
 ## Included Modules
 - **BPM3**: Enterprise Architecture Management (SS 25) – Kalla
+	- **de**: Original deck in German
+	- **en**: AI-translated deck in English
+- **MDB1**: Technology and Innovation Strategy (WS 25/26) – Bending
 	- **de**: Original deck in German
 	- **en**: AI-translated deck in English
 - **MDB3**: Network Economics (SS 25) – Haines
@@ -77,4 +80,4 @@ While contributions are welcome, this repository is not actively maintained. I w
 - Track only the `.txt` for clear version history
 
 ## Author & Licence
-This flashcards were written by Jason Haak and are licensed under the Creative Commons Attribution-NonCommercial 4.0 International.
+These flashcards were written by Jason Haak and are licensed under the Creative Commons Attribution-NonCommercial 4.0 International.
