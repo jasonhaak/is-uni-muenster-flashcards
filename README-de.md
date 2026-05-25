@@ -25,13 +25,25 @@ Dieses Repository stellt eine Sammlung von Anki-Karteikarten bereit, die folgend
 - Zusätzliches Material aus Lehrbüchern und weiteren wissenschaftlichen Quellen
 
 ## Kurse
+- **BPM1**: Process Thinking (WS 25/26) – vom Brocke
+	- **de**: Originales Deck auf Deutsch
+	- **en**: KI-übersetztes Deck auf Englisch
 - **BPM3**: Enterprise Architecture Management (SS 25) – Kalla
+	- **de**: Originales Deck auf Deutsch
+	- **en**: KI-übersetztes Deck auf Englisch
+- **ENT2**: Start-Up Management (WS 25/26) – Bendig
 	- **de**: Originales Deck auf Deutsch
 	- **en**: KI-übersetztes Deck auf Englisch
 - **MDB1**: Technology and Innovation Strategy (WS 25/26) – Bending
 	- **de**: Originales Deck auf Deutsch
 	- **en**: KI-übersetztes Deck auf Englisch
+- **MDB2**: Leveraging Digital Technology (WS 25/26) – Teubner
+	- **de**: Originales Deck auf Deutsch
+	- **en**: KI-übersetztes Deck auf Englisch
 - **MDB3**: Network Economics (SS 25) – Haines
+	- **de**: Originales Deck auf Deutsch
+	- **en**: KI-übersetztes Deck auf Englisch
+- **MDB4**: Responsible Management (WS 25/26) – Schellhammer
 	- **de**: Originales Deck auf Deutsch
 	- **en**: KI-übersetztes Deck auf Englisch
 - **MDB5**: Digital Innovation and Sustainable Development (SS 25) – Püchel

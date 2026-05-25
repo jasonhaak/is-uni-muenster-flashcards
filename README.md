@@ -25,13 +25,25 @@ This repository provides a comprehensive set of Anki flashcards that include:
 - Additional material from textbooks and other academic sources
 
 ## Included Modules
+- **BPM1**: Process Thinking (WS 25/26) – vom Brocke
+  	- **de**: Original deck in German
+    - **en**: AI-translated deck in English
 - **BPM3**: Enterprise Architecture Management (SS 25) – Kalla
+	- **de**: Original deck in German
+	- **en**: AI-translated deck in English
+- **ENT2**: Start-Up Management (WS 25/26) – Bendig
 	- **de**: Original deck in German
 	- **en**: AI-translated deck in English
 - **MDB1**: Technology and Innovation Strategy (WS 25/26) – Bending
 	- **de**: Original deck in German
 	- **en**: AI-translated deck in English
+- **MDB2**: Leveraging Digital Technology (WS 25/26) – Teubner
+	- **de**: Original deck in German
+	- **en**: AI-translated deck in English
 - **MDB3**: Network Economics (SS 25) – Haines
+	- **de**: Original deck in German
+	- **en**: AI-translated deck in English
+- **MDB4**: Responsible Management (WS 25/26) – Schellhammer
 	- **de**: Original deck in German
 	- **en**: AI-translated deck in English
 - **MDB5**: Digital Innovation and Sustainable Development (SS 25) – Püchel
