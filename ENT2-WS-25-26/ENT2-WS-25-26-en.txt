@@ -1,0 +1,212 @@
+#separator:tab
+#html:true
+"Example:<br />
+Best Practices for convertible bonds"	"<ul>
+<li>carefully choose the size of the potential ownership share of the convertible bond</li>
+<li>consult a lawyer</li>
+<li>do not grant special rights such as veto rights or information privileges</li>
+<li>consider the consequences of an exit in advance</li>
+</ul>"
+{{c1::A company scholarship}} is {{c2::a grant in the context of founding a company by a public institution}}.	
+"Example:<br />
+Forms of Non-Dilutive Financing"	"<ul>
+<li>bank loan</li>
+<li>loan from a public bank</li>
+<li>mezzanine capital</li>
+<li>company scholarship</li>
+<li>Venture Debt</li>
+</ul>"
+{{c1::Non-Dilutive Financing}} is {{c2::non-dilutive financing}}.	
+"Example:<br />
+Advantages of bootstrapping"	"<ul>
+<li>no dependence on banks, investors, or third parties</li>
+<li>promotion of creativity</li>
+<li>conscious decisions and conscious handling of resources</li>
+</ul>"
+"Question:<br />
+What is Seed-Strapping in the financing context of start-ups?"	Seed-Strapping refers to an early financing logic in which a start-up bridges its seed phase as resource-efficiently as possible and with limited external dependence.
+{{c1::Bootstrapping}} is {{c2::the financing of a company through equity rather than debt capital}}.	
+"Example:<br />
+Principles of compensation"	"<ul>
+<li>reward for performance</li>
+<li>fairness and justice</li>
+<li>focus on long-term orientation</li>
+<li>competitiveness</li>
+<li>tax-optimized and understandable design</li>
+</ul>"
+"true or false:<br />
+The Managerial Power Theory explains a missing relationship between performance and management compensation."	"true:<br />
+The theory explains why a missing relationship between performance and compensation in management occurs more frequently."
+{{c1::The Managerial Power Theory}} is {{c2::a theory according to which management can influence its own compensation in its own favor when control structures are deficient}}.	
+{{c1::The Discrepancy Theory}} is {{c2::a theory according to which fairness of compensation is evaluated by comparing expected pay and actual pay}}.	
+{{c1::The Equity Theory}} is {{c2::a theory according to which fairness within compensation is evaluated by comparing input and output and tension arises when unfairness exists}}.	
+"Example:<br />
+Intrinsic motivators"	"<ul>
+<li>job satisfaction</li>
+<li>learning opportunities</li>
+<li>career path</li>
+<li>corporate culture</li>
+</ul>"
+"Example:<br />
+Extrinsic motivators"	"<ul>
+<li>bonus</li>
+<li>financial long-term incentives</li>
+<li>wage</li>
+<li>company car</li>
+</ul>"
+"Example:<br />
+Components of a shareholders' agreement"	"<ul>
+<li>details about the organization such as name or legal form</li>
+<li>registered office of the organization</li>
+<li>company shares</li>
+<li>business purpose</li>
+</ul>"
+{{c1::The business address}} is {{c2::the address of an organization at which the company can be reached}}.	
+{{c1::The administrative seat}} is {{c2::the place of the actual management of an organization}}.	
+{{c1::The registered office}} is {{c2::the seat of an organization specified in the shareholders' agreement, which is decisive for the jurisdiction of the registry court}}.	
+"Question:<br />
+Which main phases does the founding process include?"	The founding process includes preparation, founding, and management.
+"Example:<br />
+Steps of the founding phase"	"<ul>
+<li>founding with the notary</li>
+<li>open a bank account and pay share capital</li>
+<li>registration in the commercial register by the notary</li>
+<li>registration with the trade office and application for the tax number</li>
+</ul>"
+"true or false:<br />
+Notary consultations are usually free because they are covered by the preparation of a draft notarial deed or the notarization of a deed."	"true:<br />
+This applies regardless of difficulty, effort, and the number of consultation appointments."
+"true or false:<br />
+Trade tax in Germany is uniform regardless of the respective municipality."	"false:<br />
+Trade tax in Germany depends on the respective municipality."
+{{c1::Trade tax}} is {{c2::a tax on companies that is calculated on trade income}}.	
+"Question:<br />
+What is the maximum solidarity surcharge in Germany?"	The solidarity surcharge in Germany is up to 5.5 percent.
+{{c1::Solidarity surcharge}} is {{c2::a tax for natural persons and companies}}.	
+"true or false:<br />
+Most start-ups choose a corporation as their business form, especially a GmbH or UG."	"true:<br />
+Most start-ups choose a corporation, specifically a GmbH or UG."
+"Question:<br />
+How are corporations taxed?"	Corporations are taxed at the company level through trade tax, while shareholders tax income or dividends through income tax.
+"Question:<br />
+How are partnerships taxed?"	Partnerships are taxed at the individual level of the natural persons through income tax.
+"Question:<br />
+Which types of motivators does compensation consist of?"	Compensation consists of extrinsic and intrinsic motivators.
+"Example:<br />
+Factors of compensation"	"<ul>
+<li>fixed or variable compensation</li>
+<li>individual or organization-wide compensation</li>
+<li>short-term or long-term compensation</li>
+<li>monetary or share-based compensation</li>
+</ul>"
+{{c1::Compensation}} is {{c2::a system of rewards to motivate employees to achieve a common goal}}.	
+"Example:<br />
+Reasons against D&amp;O insurance"	"<ul>
+<li>maintaining the responsibility of management</li>
+<li>false security despite possible piercing of liability and reputational damage</li>
+<li>costs of the insurance</li>
+<li>limitations of D&amp;O insurance for business cases that are not covered</li>
+</ul>"
+"true or false:<br />
+D&amp;O insurance generally also covers fraud and illegal business."	"false:<br />
+D&amp;O insurance generally excludes fraud and illegal business."
+{{c1::D&amp;O insurance}} is {{c2::insurance that protects management, especially the managing directors, against management errors}}.	
+"Question:<br />
+How often must a shareholders' meeting be convened at minimum?"	A shareholders' meeting must be convened at least once per year.
+{{c1::The shareholders' meeting}} is {{c2::the highest decision-making body of a GmbH, in which the shareholders decide on central matters of the company}}.	
+"Question:<br />
+When is management personally liable?"	Management is personally liable if it neglects management duties, acts negligently, or makes decisions that run counter to the company's purpose.
+"true or false:<br />
+Management liability is already fully limited before incorporation and during the founding phase."	"false:<br />
+Before incorporation and during the founding phase, management liability is not limited."
+"Example:<br />
+Duties of management"	"<ul>
+<li>financial matters such as annual financial statements, bookkeeping, and liquidity checks</li>
+<li>legal matters such as insolvency filing, company registration, and contract monitoring</li>
+<li>shareholder management such as decision documentation, shareholders' meetings, and information duties</li>
+</ul>"
+{{c1::The Upper Echelons Theory}} is {{c2::a theory according to which management has a particularly strong influence on the success of a company through decisions}}.	
+"true or false:<br />
+The average age of start-up founders is about 25 years."	"false:<br />
+The average age is about 38 years."
+"true or false:<br />
+Most start-ups are founded by a single person."	"false:<br />
+They are founded in teams in about 80 % of cases, with about 2-3 people on average."
+"true or false:<br />
+Most start-ups are founded by a large team of more than 5 people."	"false:<br />
+They are founded in teams in about 80 % of cases, with about 2-3 people on average."
+"Question:<br />
+Within what period must over-indebtedness be reported?"	Over-indebtedness must be reported within six weeks.
+{{c1::Over-indebtedness}} is {{c2::the situation of a company in which the company's assets can no longer cover its existing liabilities}}.	
+"Question:<br />
+Within what period must insolvency be filed?"	Insolvency must be filed within three weeks.
+{{c1::Insolvency}} is {{c2::the situation of a company in which it can no longer meet its payment obligations}}.	
+"Question:<br />
+Approximately how high is corporate income tax in Germany?"	Corporate income tax in Germany is approximately 15 percent.
+{{c1::Corporate income tax}} is {{c2::a tax on the profit of a company}}.	
+{{c1::Income tax}} is {{c2::a tax on the income of a natural person}}.	
+"Question:<br />
+How is management appointed and terminated?"	Management is appointed by the shareholders' meeting under an employment contract and terminated by termination of the contract or dismissal.
+{{c1::Management}} is {{c2::the legal representative of a company and is entered in the commercial register}}.	
+"true or false:<br />
+Wages are significantly influenced by laws."	"true:<br />
+Minimum wage and other laws influence wages."
+"true or false:<br />
+A convertible bond differs from an option bond in that it does not contain an option but generally contains an obligation to convert into shares."	"false:<br />
+A convertible bond contains a conversion right of the creditor, but no general obligation to convert into shares."
+"true or false:<br />
+A convertible bond differs from an option bond in that it may only be converted if the share price has not risen since issuance."	"false:<br />
+A convertible bond can be converted within the term according to the previously specified conversion ratio; the statement about a share price that has not risen is not a defining distinction."
+"{{c1::A convertible bond}} is {{c2::a hybrid form of a debenture consisting of equity and debt capital, in which the creditor has the option during the debt term to convert the debt into shares at a previously specified conversion ratio}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Branger-Wandelanleihe.png"" alt=""""><br />
+Schematic representation of the course of a convertible bond}}}}"	
+"If {{c1::a convertible bond}} is not {{c2::converted}}, {{c1::the convertible bond}} is paid out like {{c2::a bond}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Branger-Wandelanleihe.png"" alt=""""><br />
+Schematic representation of the course of a convertible bond}}}}"	
+The issuance of {{c1::convertible bonds}} is {{c2::a conditional capital increase}}, which is why {{c3::subscription rights for existing shareholders}} arise.	
+"Question:<br />
+Which characteristics does a sole proprietorship have?"	A sole proprietorship has one owner, is taxed through income tax, is liable with the owner's private assets, is managed by the owner, and requires no minimum capital.
+"true or false:<br />
+When founding a sole proprietorship, there is no prescribed liability capital because the admission of silent partners is possible."	"false:<br />
+In a sole proprietorship, there is no prescribed minimum capital because the owner is liable with private assets; the possible admission of silent partners does not justify the liability logic."
+"Question:<br />
+Which problems does Principal-Agent Theory include?"	Principal-Agent Theory includes adverse selection, hold-up, and moral hazard as central information and incentive problems.
+"Example:<br />
+Principal-Agent Theory"	"<ul>
+<li>relationship between doctor and patient</li>
+<li>relationship between owner and management</li>
+</ul>"
+The {{c1::Principal-Agent Theory}} is a theory about examining the relationship between two subjects, specifically between principal and agent when there is a conflict of interest and asymmetric information distribution.	
+"Question:<br />
+Which characteristics does an entrepreneurial company have?"	An entrepreneurial company has at least one owner, is taxed with corporate income tax, has limited liability, is managed by management, and requires no minimum capital.
+"true or false:<br />
+The entrepreneurial company is an independent legal form alongside the GmbH."	"false:<br />
+The entrepreneurial company is not an independent legal form, but a special case of the Gesellschaft mit beschränkter Haftung."
+"Question:<br />
+What consequence does the absence of minimum capital have for the entrepreneurial company?"	Since no minimum capital is required, one quarter of the profit must be used to build up capital.
+{{c1::An entrepreneurial company (UG)}} is {{c2::a limited-liability corporation and a special case of the Gesellschaft mit beschränkter Haftung}}.	
+"true or false:<br />
+Limited liability can shift losses onto the economy."	"true:<br />
+Limited liability protects private assets, but can shift losses onto the economy."
+{{c1::Limited liability}} is {{c2::the prevention of loss of private assets in companies when management duties are complied with}}.	
+"Question:<br />
+Which information and incentive problems occur in an ideal-typical corporation and how are they mitigated?"	In an ideal-typical corporation, quality uncertainty before entering the company and behavioral uncertainty toward new shareholders arise; they are mitigated by liability limitation and control systems for monitoring.
+"Question:<br />
+How high is secondary market liquidity for an ideal-typical corporation?"	There is high secondary market liquidity: In an ideal-typical corporation, there is weak asymmetric information distribution between subsequent acquirers and first acquirers and therefore hardly any quality uncertainty in this respect. In addition, disclosure measures further weaken the asymmetry of information distribution. A market for trading already issued securities on secondary markets would therefore emerge.
+{{c1::An ideal-typical corporation}} serves {{c2::to reduce information requirements and coordination effort between shareholders and capital providers}}.	
+"Question:<br />
+What is a central disadvantage of an ideal-typical partnership?"	High coordination effort between several shareholders.
+"Question:<br />
+How high is secondary market liquidity for an ideal-typical partnership?"	There is hardly any or only little secondary market liquidity: In the ideal-typical partnership, there is a strongly asymmetric information distribution between subsequent and first acquirers and thus considerable quality uncertainty. The market for trading already issued securities on secondary markets would therefore not emerge due to adverse selection.
+"true or false:<br />
+If an ideal-typical partnership is to be expanded by many shareholders, it makes sense to delegate management to professional management."	"true:<br />
+The coordination costs of the large number of shareholders would exceed the costs incurred by appointing professional management."
+{{c1::An ideal-typical partnership}} serves {{c2::to grant comprehensive rights, especially information rights, participation rights, and termination rights}}.	
+"Example:<br />
+Components of the Growth Canvas"	"<ul>
+<li>1-HAG and 3-HAG</li>
+<li>90-Day Plan and Annual Priorities</li>
+<li>Core Competence and Core Customers</li>
+<li>KPI, OKR, and Value Proposition</li>
+<li>Purpose and Vivid Vision</li>
+</ul>"

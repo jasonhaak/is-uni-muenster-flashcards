@@ -1,0 +1,1561 @@
+#separator:tab
+#html:true
+"Question:<br />
+What does the Semiotic Shift mean in the difference between IT and digitalization?"	The Semiotic Shift describes the transition from fixed, static data representations in classical IT systems to dynamic, complex, and novel digital representations that open up new spaces of meaning and interpretation.
+"Question:<br />
+What does the Agential Shift describe in the context of digital technologies?"	The Agential Shift describes the shift of agency toward new actors, because digital technologies enable individuals, start-ups, and platforms to drive innovation independently of traditional organizations.
+"Question:<br />
+What does the Combinatorial Shift describe in the context of digital technologies?"	The Combinatorial Shift describes the possibility of modularly combining digital technologies and thereby creating new products, services, and business models through the recombination of existing digital building blocks.
+"Question:<br />
+What is meant by the Infrastructural Shift in the context of digitalization?"	The Infrastructural Shift denotes the development from isolated IT systems toward digital infrastructures and platforms that serve as a generative basis for new applications, services, and ecosystems.
+"Question:<br />
+What theoretical significance does the Agential Shift have for understanding digitalization?"	The Agential Shift expands the agency of technology through autonomous agents and shifts the analysis from purely human-centered control toward hybrid socio-technical interaction systems.
+"Question:<br />
+How can the difference between IT transformation and digital transformation be theoretically justified through the Economic Shift?"	The Economic Shift establishes that IT transformation primarily addresses efficiency and cost logic, whereas digital transformation changes value creation logics, business models, and market structures, making strategically new revenue mechanisms and ecosystem positioning, tactically new product and data architectures, and operationally new operating and governance mechanisms necessary.
+"Question:<br />
+What does the Economic Shift between IT and digitalization consist of?"	The Economic Shift describes the change from IT with a primary focus on efficiency and cost reduction toward digitalization with a focus on value creation, innovation, and the development of new business models.
+"true or false:<br />
+The Agential Shift implies that human actors are completely replaced by technology in digitalization."	"false:<br />
+The Agential Shift describes an expansion of technological agency through autonomous agents, not the complete elimination of human actors."
+"true or false:<br />
+The Combinatorial Shift means that digital systems are less flexible than traditional IT systems."	"false:<br />
+The Combinatorial Shift increases flexibility because modular digital components can be combined and reconfigured in many ways."
+"true or false:<br />
+The Economic Shift indicates that digitalization exclusively pursues monetary value creation."	"false:<br />
+The Economic Shift expands the focus from pure cost reduction toward diverse forms of value creation, including new business models and platform logics."
+"true or false:<br />
+The Semiotic Shift merely describes a technical improvement in data compression."	"false:<br />
+The Semiotic Shift concerns the way meaning is generated, changed, and reinterpreted through digital representations, not merely technical efficiency improvements."
+"true or false:<br />
+Compared with traditional Information Technologies, Digital Technologies have a higher innovation potential due to an Agential Shift and a Combinatorial Shift."	"true:<br />
+The Agential Shift enables new actors through digital technologies, while the Combinatorial Shift promotes the recombination of digital components and thereby creates exponential innovation opportunities."
+"Question:<br />
+What are challenges in IT/IS strategy implementation?"	Challenges in IT/IS strategy implementation particularly concern the lack of operationalization, which leads to programs, projects, and opportunities not being recognized.
+"Question:<br />
+What are challenges in IT/IS strategy implementation according to Ward, Peppard (2002)?"	Despite an understanding of the importance of strategic planning for IS, in the past decade many organizations have developed perfectly sensible IS strategies that have been left to gather dust, or have been implemented in a half-hearted manner […].
+"true or false:<br />
+A formally documented IT/IS strategy plan guarantees successful strategic alignment."	"false:<br />
+Alignment emerges through continuous coordination and implementation, not through formal documentation alone."
+"true or false:<br />
+Strategic IT/IS alignment is fulfilled when all IT projects of an organization can be formally mapped to strategic goals."	"false:<br />
+Formal mapping can create pseudo-alignment, because strategic alignment presupposes the coherent development of capabilities, architectural principles, and governance structures and only becomes visible in realized benefit effects and consistent decision logic."
+{{c1::Strategic IT/IS alignment}} is {{c2::the alignment between IT/IS strategy and business strategy while considering external market requirements and future resource needs for information resources}}.	
+"Question:<br />
+What steps does the strategic IT/IS planning process consist of?"	"<ol>
+<li>analysis of the business strategy</li>
+<li>analysis of internal ICT capabilities</li>
+<li>derivation of requirements for ICT</li>
+<li>analysis of the environment, market situation, technologies, standards, IT services of ICT</li>
+<li>development of an IT/IS strategy through the prioritization of requirements, based on the strengths and weaknesses of the current Information Infrastructure and Information Functions</li>
+<li>IT/IS portfolio initialization</li>
+</ol>"
+"Question:<br />
+Why is prioritization a core component of the Strategic IT/IS Planning process?"	Prioritization is necessary to allocate scarce resources efficiently to those initiatives that are expected to make the highest strategic contribution to benefits.
+"Question:<br />
+Why is stakeholder involvement critical in the SISP process?"	Stakeholder involvement increases acceptance, improves information quality, and reduces implementation risks.
+"Question:<br />
+What role does environmental analysis play in the Strategic IT/IS Planning process?"	Environmental analysis identifies external market conditions, technological trends, and competitive dynamics in order to strategically anticipate future requirements for IT/IS resources.
+"true or false:<br />
+The SISP process ends with the creation of a prioritized project portfolio."	"false:<br />
+In addition to portfolio decisions, the SISP process also includes governance structures, architectural principles, and implementation guidelines."
+"{{c1::The strategic IT/IS planning process (Strategic IT/IS Planning Process)}} is {{c2::a process for analyzing, evaluating, and creating strategic IT/IS planning in order to control developments of the Information System}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Teubner-Strategischer_IT$IS_Planungsprozess.png"" alt=""""><br />
+Strategic IT/IS planning process}}}}"	
+{{c1::A Service Header}} is {{c2::a summary of the essential contents of an SLA}}.	
+"Question:<br />
+What does a Service Module consist of?"	A Service Module consists of Standard Modules, which represent the core of a service or service platform and can be extended by Optional Modules.
+"Question:<br />
+What enables Mass Customization?"	Mass Customization is enabled by the modularization of standardized components that produce a product in combination.
+{{c1::Mass Customization}} is {{c2::the combination of standardized services with individualized completion, which satisfies individual customer needs better than mass-produced products while being cheaper than personalized products}}.	
+"Example:<br />
+Business Product Object"	"<ul>
+<li>ticket for a train as a manifestation of transportation as a product.</li>
+</ul>"
+{{c1::A Business Product Object}} is {{c2::a business object as an external factor that is a manifestation of a business product}}.	
+"Example:<br />
+Business Process Object"	"<ul>
+<li>invoicing process with invoice as a business process object</li>
+</ul>"
+{{c1::A Business Process Object}} is {{c2::a business object that influences and claims a process}}.	
+"Question:<br />
+What are properties of ITility Services?"	"<ul>
+<li>automation, standardization, and specialization</li>
+<li>provision takes place without any challenges or risks for the user of the service</li>
+<li>creates value for users of the service</li>
+<li>intangible good that requires an external factor, usually a business object in the form of a business process object or business product object, in order to manifest itself</li>
+<li>Mass Customization as mass configuration or as a set of Service Modules</li>
+<li>use of information objects in the form of IT as infrastructure</li>
+<li>production of ITility Services by IT and people [1:454-455]</li>
+</ul>"
+{{c1::An ITility Service}} is {{c2::a service that creates value by providing IT/IS services}}.	
+{{c1::A potential factor}} is {{c2::a good that is required as a factor for executing a service}}.	
+{{c1::An IT-based service}} is {{c2::a service that uses hardware or software as a potential factor}}.	
+"Question:<br />
+Why should potential factors for services be kept in stock?"	Since services are intangible goods, they cannot be kept in stock, which is why potential factors that may be needed to execute the service must be kept in stock in order to perform a service.
+{{c1::The General Theory of Services (GTS)}} is {{c2::a theory about services that are seen as intangible goods performed on and through external factors}}.	
+"Question:<br />
+What does the Information Resource Strategy consist of?"	"<ul>
+<li>identification of information sources</li>
+<li>information aggregation</li>
+<li>information authorization</li>
+<li>information provision</li>
+<li>information organization</li>
+<li>information reduction</li>
+<li>information structuring</li>
+<li>information verification</li>
+<li>information maintenance</li>
+</ul>"
+{{c1::The Information Resource Strategy (IR Strategy)}} is {{c2::a strategy for implementing all measures for collecting, storing, using, and providing information resources as well as all accompanying developments with regard to organization and culture}}.	
+"true or false:<br />
+A cost-benefit analysis of investments in IT infrastructure is useful."	"false:<br />
+A cost-benefit analysis of investments in IT infrastructure is not useful because infrastructure is a shared resource across several organizational units that defines the business model, which is difficult to quantify."
+"true or false:<br />
+IT Infrastructure Planning concerns infrastructure across the enterprise."	true
+{{c1::IT Infrastructure Planning}} is {{c2::the creation of new business models through the IT Infrastructure}}.	
+"Question:<br />
+How can IT/IS strategy be understood and used through a System of Plans?"	"IT/IS strategy is understood through a System of Plans as a set of domains that are connected to one another.<br />
+<img src=""2020-Bild-Teubner-IT$IS-Strategie_als_System_of_Plans.png"" alt=""""><br />
+IT/IS strategy as a System of Plans"
+"Question:<br />
+What can be criticized about an IT/IS strategy as an Application Portfolio?"	IT/IS strategy as an Application Portfolio can be criticized because IT/IS strategy does not consist exclusively of a portfolio, but should consider a number of additional factors such as Human Resource Management, organizational management, and infrastructure.
+"Question:<br />
+How can IT/IS strategy be understood and used through the Application Portfolio?"	IT/IS strategy is understood through the Application Portfolio as Strategic Information System Planning as well as further elements. In the Application Portfolio understanding, IT/IS strategy means determining which applications should be developed, prioritized, and implemented in which order.
+"Question:<br />
+What are properties of a Digital Infrastructure?"	"<ul>
+<li>adaptable and evolutionary</li>
+<li>building on an existing foundation</li>
+<li>shared with different groups</li>
+<li>open and not limited to a set of functions</li>
+<li>deeply rooted in society</li>
+</ul>"
+"true or false:<br />
+A Digital Infrastructure must be stable and flexible at the same time."	true
+"Question:<br />
+What is a Digital Platform according to Constantinides et al. (2018)?"	[…] a set of digital resources – including services and content - that enables value-creating interactions between external producers and consumers.
+{{c1::A Digital Platform}} is {{c2::a set of digital resources that enables value-creating interaction between different participants of a platform}}.	
+{{c1::A Digital Market Ecosystem}} is {{c2::an interorganizational form of collaboration for specific markets}}.	
+"Question:<br />
+What is a Digital Ecosystem according to Jacobides et al. (2018)?"	[Digital ecosystems are composed of] providers of complementary innovations, products, or services, who might belong to different industries and need not be bound by contractual arrangements.
+{{c1::A Digital Ecosystem}} is {{c2::an ecosystem that consists of complementary innovations, products, or services related to digitalization}}. {{c1::A Digital Ecosystem}} creates {{c3::new products and services}} through {{c3::the interaction and connection of organizations and stakeholders}}.	
+"Question:<br />
+What can be criticized about Digital Business Strategy?"	Digital Business Strategy can be criticized in that it is not an autonomous level between business strategy and IT/IS strategy, but should be seen as the intersection of business strategy and IT/IS strategy.
+"Question:<br />
+What can be criticized about merging IT/IS strategy and business strategy into a Digital Business Strategy?"	A merger of IT/IS strategy and business strategy into a Digital Business Strategy is also criticized because this does not separate IT/IS strategy and business strategy and can thus lead to ambiguity in the strategies.
+"Question:<br />
+How can an IT/IS strategy as a functional strategy and master plan be criticized?"	An IT/IS strategy as a functional strategy and master plan can be criticized because a plan for an IT department does not correspond to an IT/IS strategy and has only a functional dimension but no strategic dimension, which prevents Business-IT alignment.
+"{{c1::An IT/IS strategy as a functional strategy and master plan}} is {{c2::a plan for the effective and efficient control and management of an IT department within a functional structure}}.<br />
+{{c1::{{c2::<br />
+<img src=""2020-Bild-Teubner-IT$IS-Strategie_als_funktionale_Strategie.png"" alt=""""><br />
+IT/IS strategy as a functional strategy}}}}"	
+"Question:<br />
+What is the central thesis of Nicholas Carr's article ""IT Doesn’t Matter"" (2003)?"	Carr argues that, due to its ubiquity, standardization, and easy replicability, IT no longer represents a sustainable source of competitive advantage and should therefore primarily be managed defensively.
+"Question:<br />
+What strategic implication follows from Carr's commoditization thesis for IT management?"	The commoditization thesis implies that IT should be managed defensively, with a focus on risk control, cost efficiency, and standardization, while differentiation increasingly occurs through organizational capabilities and business models.
+"Question:<br />
+How can the central thesis of Nicholas Carr's article ""IT Doesn’t Matter"" (2003) be criticized?"	Not IT itself, but its use, embedding in processes, and organizational capabilities determine competitive advantage.
+"Question:<br />
+How can Carr's (2003) IT Doesn't Matter dilemma be transferred to AI?"	AI could become a commodity, while differentiation increasingly arises through data, application logic, organization, and business models.
+"true or false:<br />
+In the article ""IT Doesn’t Matter"" (2003), Carr argues that companies should achieve long-term competitive advantages through aggressive IT innovations."	"false:<br />
+Carr recommends managing IT defensively, controlling costs and risks, and following technological leaders rather than leading them."
+"true or false:<br />
+Carr's thesis ""IT Doesn’t Matter"" implies that IT is fundamentally irrelevant for strategic competitive advantages."	"false:<br />
+Carr argues that IT as infrastructure is commoditized, not that IT can no longer have strategic relevance."
+"Question:<br />
+What are values of ITIL?"	"<ul>
+<li>reduction of costs</li>
+<li>reduction of risks</li>
+<li>support of outcomes</li>
+</ul>"
+"Question:<br />
+What does an IT service contract consist of?"	"<ul>
+<li>prices</li>
+<li>roles and responsibilities</li>
+<li>contractual details</li>
+</ul>"
+{{c1::An IT Service Contract}} is {{c2::a contract about details of IT services within the framework of an IT Service Level Agreement}}.	
+"Question:<br />
+What is an IT Service Level Agreement according to ITIL (2019)?"	A documented agreement between a service provider and a customer that identifies both the services required and the expected level of service.
+{{c1::An IT Service Level Agreement}} is {{c2::an SLA between an IT/IS service provider and a customer that defines the service objects and the service level}}. A service in the {{1::IT Service Level Agreement}} is measured using {{c3::a service level}}.	
+"Question:<br />
+What does an IT service specification consist of?"	"<ul>
+<li>unique name</li>
+<li>functionalities provided for business processes</li>
+<li>quantity that can be consumed</li>
+<li>user group</li>
+<li>location where the IT service is provided</li>
+<li>supported business activities and business processes of the user group</li>
+<li>value enabled by supporting the user group for specific business processes and business tasks</li>
+<li>period during which the IT service is provided and available</li>
+</ul>"
+{{c1::IT Service Specification}} is {{c2::a description of the value created by an IT service}}.	
+{{c1::A resource dependency}} is {{c2::a dependency with regard to scarce resources and scarce goods}}.	
+{{c1::A technical dependency}} is {{c2::a dependency due to functional requirements, procedural requirements, data requirements, or hardware requirements}}.	
+{{c1::An outcome dependency}} is {{c2::a dependency with regard to the outcome of one component that has an influence on other components}}.	
+"Question:<br />
+What does IT/IS portfolio monitoring consist of?"	"<ul>
+<li>problem management</li>
+<li>checking projects with regard to cost, time, and outcome</li>
+<li>checking project status</li>
+<li>reevaluation of the portfolio</li>
+</ul>"
+"Question:<br />
+What does IT/IS portfolio composition consist of?"	"<ul>
+<li>approval of the investment<ol>
+<li>accept, with or without conditions</li>
+<li>postpone</li>
+<li>reject</li></ol></li>
+<li>investment balancing</li>
+<li>classification of investments<ul>
+<li>level of the Information Infrastructure</li>
+<li>reason for the investment</li>
+<li>risks</li>
+<li>corporate objective</li>
+<li>time horizon</li></ul></li>
+</ul>"
+"Question.<br />
+What does IT/IS portfolio initialization consist of?"	"<ul>
+<li>identification of dependencies: outcome dependencies, resource dependencies, synergy effects, technical dependencies</li>
+<li>review of the IT/IS investment: checking costs, benefits, urgency, and risks</li>
+</ul>"
+{{c1::IT/IS portfolio initialization}} is {{c2::the initialization of the IT/IS portfolio}}.	
+{{c1::The anticipated value}} is {{c2::the value that includes risks and uncertainty in the value calculation of investments and projects}}.	
+"true or false:<br />
+The total value of an aggregated value cannot be calculated as the sum of the business values of individual investments."	true
+{{c1::The aggregated value}} is {{c2::the value that results from synergies and conflicts through investments and projects}}.	
+{{c1::Financial Portfolio Theory}} is {{c2::a theory for maximizing profitability at a given risk}}.	
+"Question:<br />
+What does program closure consist of?"	"<ul>
+<li>documentation of errors and problems</li>
+<li>evaluation of the performance of employees who worked on the program</li>
+<li>evaluation of the success of the program</li>
+</ul>"
+{{c1::Program Closure}} is {{c2::the closure of a program}}.	
+"Question:<br />
+What does program planning consist of?"	"<ul>
+<li>definition of the program organization</li>
+<li>definition of reference points and milestones</li>
+<li>development of a master plan for all major program components</li>
+<li>establishment of overarching project management standards</li>
+<li>design of relations, governance, and contractual aspects with external partners</li>
+<li>clarification of interdependencies between projects</li>
+<li>organization of programs into detailed plans with assigned roles</li>
+<li>planning of projects</li>
+<li>refinement of the vision</li>
+<li>translation of the program vision into deliverables, a target state, or a target architecture</li>
+<li>preparation for change management</li>
+</ul>"
+{{c1::Program Planning (Program Set-Up, program initialization)}} is {{c2::the high-level planning for carrying out a program}}.	
+"Question:<br />
+What does program identification consist of?"	"<ul>
+<li>analysis and definition of the scope with regard to business areas and potential changes</li>
+<li>definition of business benefits and business values for stakeholders</li>
+<li>formulation of an appealing vision for the program in order to create visibility and support</li>
+<li>identification of the required expertise</li>
+<li>securing support from important stakeholders</li>
+<li>training and support in preparation for the program</li>
+</ul>"
+{{c1::Program Identification}} is {{c2::the definition of the missions, goals, and strategies of a program}}.	
+{{c1::Organizational development}} is {{c2::the development of the organization, the people within the organization, and organizational culture in order to improve the efficiency of the organization and overcome barriers with regard to change}}.	
+"Question:<br />
+Is the maturity of IT/IS investment processes generally rather high or rather low?"	The maturity of IT/IS investment processes in organizations is low, because although an IT/IS business case is required in more than 90 % of large organizations, it is presented to an investment committee in only 59 % of cases. 47 % of organizations do not monitor the project lifecycle.
+"Question:<br />
+What does the maturity level of IT/IS investment processes consist of?"	"<ul>
+<li>Ad-Hoc: IT/IS investments and associated projects happen without structure</li>
+<li>defined: standardization for IT/IS investments exists through tracking or monitoring</li>
+<li>Managed: IT/IS investments are determined and prioritized based on strategic goals</li>
+<li>synchronized: metrics and Total Cost Ownership for IT/IS investments are available</li>
+</ul>"
+"Question:<br />
+What causes operational urgency?"	"<ul>
+<li>architectural necessities</li>
+<li>business necessities</li>
+<li>legal obligations</li>
+<li>technical necessities</li>
+</ul>"
+{{c1::Operational urgency}} is {{c2::the criticality of the outcome of a project for a company}}.	
+"Question:<br />
+What causes project risk?"	"<ul>
+<li>dependencies on other projects</li>
+<li>dependencies on scarce resources</li>
+<li>complexity of the organization</li>
+<li>new technologies</li>
+<li>technological complexity</li>
+</ul>"
+{{c1::Project risk}} is {{c2::the risk of a project due to uncertainties about negative effects on the project goal}}.	
+{{c1::A cost assessment}} is {{c2::a listing of all expenditures for the entire lifecycle of a project}}.	
+"Question:<br />
+Why does the commoditization of IT according to Carr (2003) lead to a strategy shift in IT management?"	Because IT becomes business-critical but strategically interchangeable, the focus shifts from value creation to risk minimization, reliability, and cost efficiency.
+"true or false:<br />
+Through commoditization, IT is seen as a transport route like electricity and the railway network, through which certain goods, specifically information, can be transported faster."	"true<br />
+<img src=""2003-Bild-Carr-Commoditization_von_IT.png"" alt=""""><br />
+Commoditization of the railway network, electricity, and computers"
+"{{c1::The commoditization of IT}} is {{c2::the ubiquity, omnipresence, high capacity, and availability of IT}}. Through omnipresence and availability, a single organization can no longer create a competitive advantage through IT.<br />
+{{c1::{{c2::<img src=""2003-Bild-Carr-Commoditization_von_IT.png"" alt=""""><br />
+Commoditization of the railway network, electricity, and computers}}}}"	
+"Question:<br />
+What does program delivery consist of?"	"<ul>
+<li>addressing communication problems due to cultural differences</li>
+<li>coordination of program activities and workflows</li>
+<li>monitoring of projects and deliverables</li>
+<li>keeping motivation for the program high</li>
+<li>reporting the progress of the program</li>
+<li>handling scope changes</li>
+</ul>"
+{{c1::Program delivery}} is {{c2::the implementation and monitoring of projects within the framework of a program, which ends with achieving the goals, target states, or target architecture}}.	
+"Question:<br />
+What is the purpose of IT programs?"	The purpose of IT programs is the implementation of many heterogeneous IT-based components that are developed and implemented within IT projects. Due to the organization-wide integration of Information Infrastructure, in which it is socially embedded, it must be purposefully controlled through IT programs.
+"Question:<br />
+What is an IT program according to Teubner (2018)?"	IT programs typically encompass a  coordinated set of interrelated IT projects, which is seen as being structured to meet goals established by top management regarding the use of technology.
+"Question:<br />
+What properties does an IT program have?"	"<ul>
+<li>dependencies on external sources through expertise, information, and outsourcing</li>
+<li>triggers for changes through IT</li>
+<li>high technical complexity</li>
+<li>management of complexity through IT</li>
+<li>organization-wide and business impacts</li>
+<li>partnership between IT and business</li>
+<li>creation of IT-based competitiveness</li>
+<li>strategic importance for strategic goals</li>
+</ul>"
+"true or false:<br />
+IT programs are complex because of their deep integration into the organization and processes. They influence and change the Information Infrastructure as well as business and enterprise processes."	true
+{{c1::An IT Program}} is {{c2::a program as a set of IT projects for achieving a complex goal related to technology}}. The overarching goal of {{c1::IT programs}} is {{c3::the creation of an organization's Information Infrastructure}}.	
+"Question:<br />
+What is program management according to Lycett (2004)?"	[…] the coordinate  support, planning, prioritization and monitoring of projects to meet changing business need.
+{{c1::Program Management}} is {{c2::the planning, execution, and management of programs to achieve an organizational goal through the management of a set of projects}}.	
+"<p>Program management consists of several steps:</p>
+<ol>
+<li>{{c1::Programme Identification: vision, goal, and scope}}</li>
+<li>{{c2::Programme Planning: design, resources, and responsibilities}}</li>
+<li>{{c3::Programme Delivery: project execution, monitoring, controlling, reporting, Risk Management, and Issue Management}}</li>
+<li>{{c4::Programme Closure: Benefit Assessment}}</li>
+</ol>"	
+{{c1::The Magic Triangle}} is {{c22::a project management concept that relates quality, time, and budget}}.	
+"Question:<br />
+Which steps does IT project management consist of?"	"<ol>
+<li>initialization of an IT project</li>
+<li>set-up of an IT project</li>
+<li>monitoring and controlling of an IT project</li>
+<li>closure of an IT project</li>
+</ol>"
+"{{c1::IT project management}} is {{c2::project management with regard to IT products or IT-based solutions as the outcome of a project}}.<br />
+{{c1::{{c2::<img src=""2018-Teubner-Software_Engineering_und_Projektmanagement.png"" alt=""""><br />
+Software Engineering and project management}}}}"	
+{{c1::IT Program Management}} is {{c2::the management of programs within the framework of Technochange}}.	
+"true or false:<br />
+The impacts of technology and IT are deterministic and predictable."	"false:<br />
+These impacts are not predictable, as <br />
+described by Technochange."
+{{c1::Technochange}} is {{c2::the change of existing organizational structures through technology}}.	
+{{c1::A critical assumption}} is {{c2::an assumption that must be fulfilled in order to implement an undertaking successfully}}.	
+"Example:<br />
+Smart Connected Product"	"<ul>
+<li>autonomous wind turbines</li>
+<li>robot vacuum cleaners that analyze the room</li>
+<li>Philips Hue</li>
+<li>Tesla cars</li>
+</ul>"
+"Question:<br />
+What is a Smart Connected Product according to Porter, Heppelmann (2014)?"	Smart, connected products offer exponentially expanding opportunities for new functionality and capabilities that transcend traditional product boundaries. The changing nature of products is disrupting value chains and forcing companies to rethink nearly everything they do, from how they conceive, design, and source products; to how they manufacture, operate, and service them; to how they build and secure the necessary IT infrastructure.
+"Question:<br />
+How do Smart Connected Products influence Porter's Five Forces?"	They increase barriers to entry, shift rivalry away from price, but at the same time increase dependencies on IT providers and enable new entrants from adjacent systems.
+"Question:<br />
+What do Smart Connected Products consist of?"	"<ul>
+<li>component for connectivity: antenna, ports, and protocols for connecting with other devices</li>
+<li>physical component: mechanical components</li>
+<li>smart component: controllers, sensors, software, and storage</li>
+</ul>"
+"true or false:<br />
+A Smart Connected Product consists of IT, specifically a computer that stores, analyzes, and shares collected data via a cloud. This is enabled by a technology stack."	true
+"true or false:<br />
+Smart Connected Products reduce the power of IT providers within the value chain."	"false:<br />
+They often increase the power of IT providers through software, platform, and data dependencies."
+"true or false:<br />
+Smart Connected Products primarily shift competition from price competition toward system and ecosystem competition."	true
+"{{c1::A Smart Connected Product}} is {{c2::a Smart Product that enables external connectivity in order to exchange data and thus enable new capabilities outside the physical product}}. {{c1::Smart Connected Products}} extend {{c3::the value chain of a product}}.<br />
+{{c1::{{c2::{{c3::<img src=""2014-Bild-Porter-Heppelman-Technology_Stack_von_Smart_Connected_Products.png"" alt=""""><br />
+Technology Stack of Smart Connected Products}}}}}}"	
+{{c1::A cost-benefit analysis}} is {{c2::the comparison of costs from cost assessment and benefits from benefit assessment}}.	
+"Question:<br />
+What is the difference between IT/IS strategy and Enterprise Architecture Management?"	"While IT/IS strategy enters into a reciprocal and bilateral connection with corporate strategy, Enterprise Architecture Management is a top-down strategy with corporate strategy, because Enterprise Architecture Management models the functions of strategy and does not further influence it. In addition, Enterprise Architecture Management often neglects IT/IS strategy.<br />
+<img src=""2025-Bild-Teubner-Implementierung_einer_IT\(IS-Strategie_durch_IT\)IS-Architektur.png"" alt="""" /><br />
+Difference between an IT/IS strategy and Enterprise Architecture Management IT/IS architecture"
+"Question:<br />
+What distinguishes Enterprise Architecture from IT/IS architecture?"	Enterprise Architecture integrates business and IT structures holistically, whereas IT/IS architecture primarily describes the structure and interaction of information systems and technologies within the organization.
+"Question:<br />
+What is the purpose of an IT/IS business case?"	An IT/IS business case serves as a sound basis for decision-making by systematically evaluating strategic goals, benefit potentials, costs, risks, and alternatives and making their contribution to increasing enterprise value transparent.
+"Question:<br />
+What is an IT/IS Business Case according to Pearlson, Saunders (2013)?"	A Business Case takes the form of a structured document that lays out all relevant information needed to make a go/no-go decision. The business case for an IS project is also a way to establish priorities for investing in different projects, […] gain commitment from business managers, and create a basis for monitoring investments.
+"Question:<br />
+What central function does an IT/IS Business Case fulfill in strategic information management?"	An IT/IS Business Case serves as a structured decision framework that evaluates investments with regard to financial effects, strategic fit, risks, and organizational prerequisites and thereby creates transparency about the expected value contribution.
+"Question:<br />
+What does an IT/IS Business Case consist of?"	"<ol>
+<li>introduction and background: origin of the idea, motivation and goals, sponsors, stakeholders</li>
+<li>management summary: problem, options, impacts</li>
+<li>purpose: reason for the investment and the stakeholders affected by it</li>
+<li>options: available options and arguments for selection</li>
+<li>solution: requirements for functionality and design</li>
+<li>cost-benefit analysis: quantification of costs, benefits, advantages and disadvantages, arguments and expert estimates, and further multidimensional methods</li>
+<li>critical assumptions as required prerequisites for success and possible risks that could prevent success</li>
+<li>budget, required resources, milestones, and schedule</li>
+</ol>"
+"true or false:<br />
+An IT/IS Business Case ends with project approval."	"false:<br />
+A Business Case should be reviewed during the project and operating course and adapted to real developments."
+"true or false:<br />
+An IT/IS Business Case contains only monetarily quantifiable benefit components."	"false:<br />
+An IT/IS Business Case should also consider qualitative, strategic, and non-monetary benefit aspects."
+"true or false:<br />
+There is a positive correlation between creating an IT/IS Business Case and project success."	true
+"true or false:<br />
+Risk analyses are an optional component of an IT/IS Business Case."	"false:<br />
+Risk analyses are essential because IT/IS investments often involve technological, organizational, and market-related uncertainties."
+{{c1::An IT/IS Business Case}} is {{c2::a business case as a document for conveying all relevant information for an investment decision that is decided with regard to an information system for a business case}}.	
+"Question:<br />
+What creates the Project Benefit?"	"<ul>
+<li>cash flow</li>
+<li>efficiency improvement for the business</li>
+<li>revenue</li>
+<li>business development</li>
+<li>market growth</li>
+<li>competitive advantage</li>
+<li>cost savings</li>
+<li>quality improvement</li>
+</ul>"
+{{c1::A Project Benefit}} is {{c2::the financial and non-financial value of the outcome of a project}}.	
+"Example:<br />
+IT/IS service"	"<ul>
+<li>computer repair with a computer as an external factor</li>
+</ul>"
+"Question:<br />
+What is an IT service?"	"<ul>
+<li>a set of functions and resources</li>
+<li>free from technical decisions</li>
+<li>guaranteed performance at a specific price</li>
+</ul>"
+"true or false:<br />
+An IT/IS service supports the development of the Information Infrastructure. The IT/IS service represents a bridge between the provider and the customer."	true
+"<p>An IT/IS service consists of:</p>
+<ol>
+<li>{{c1::Header: summary of the IT/IS service}}</li>
+<li>{{c1::Object: IT service specification}}</li>
+<li>{{c1::Quality and Delivery: IT Service Level Agreement}}</li>
+<li>{{c1::legal matter: IT service contract}}</li>
+</ol>"	
+{{c1::Service Procurement}} is {{c2::the procurement of IT/IS services}}.	
+{{c1::IT Asset Procurement}} is {{c2::the procurement of IT components and IT assets}}.	
+"true or false:<br />
+The value of an IT/IS investment arises from financial, business, and technological aspects."	true
+{{c1::An IT/IS investment}} is {{c2::an investment in the Information Infrastructure that creates value by improving information and communication technology}}.	
+{{c1::The technical infrastructure architecture}} is {{c2::the architecture of the information and communication infrastructure}}.	
+{{c1::The communication architecture}} is {{c2::the architecture of data flows and information flows between people and/or applications}}.	
+"Question:<br />
+How can IT/IS architecture help with IT/IS strategy implementation?"	"IT/IS architecture can help with IT/IS strategy implementation by translating the intention of the IT/IS strategy into a solution, specifically into the Information Infrastructure in the form of an Architecture Blueprint.<br />
+<img src=""2025-Bild-Teubner-Implementierung_einer_IT\(IS-Strategie_durch_IT\)IS-Architektur.png"" alt="""" /><br />
+Implementation of an IT/IS strategy through IT/IS architecture"
+"Question:<br />
+What role does IT/IS architecture play in strategy implementation?"	IT/IS architecture functions as a mediating layer between strategic objectives and the concrete Information Infrastructure by translating strategic requirements into structured technical and organizational components.
+"true or false:<br />
+IT/IS architecture promotes cooperation between Business Managers and IT/IS Managers because it brings together the business perspective and the technical perspective and communicates them transparently."	true
+{{c1::An operational investment}} is {{c2::an investment in existing operational processes}}.	
+{{c1::A strategic IT/IS investment}} is {{c2::an IT/IS investment that has a relation to IT/IS strategy}}.	
+"Question:<br />
+Which areas does IT/IS strategy implementation affect?"	Through IT/IS strategy, IT/IS strategy implementation affects IT/IS architecture, through which IT/IS programs and IT/IS projects can be formed, which influence the Information Infrastructure and thus the Information Functions.
+"true or false:<br />
+IT/IS strategy implementation must be broken down into concrete, measurable, and resource-based tasks in order to be operationalized."	true
+"<p>IT/IS strategy implementation consists of several steps:</p>
+<ol>
+<li>{{c1::definition of strategic goals}}</li>
+<li>{{c1::translation of strategic goals into business requirements}}</li>
+<li>{{c1::development of an architecture}}</li>
+<li>{{c1::derivation of the Information Infrastructure through the architecture}}</li>
+</ol>"	
+"Question:<br />
+How do network effects influence the strategic importance of IS in digital markets?"	IS can act as platforms that generate network effects and thereby create asymmetric competitive advantages.
+"true or false:<br />
+A Digital Platform creates network externality, whereby the value of the platform grows with the number of participants on the platform."	true
+"true or false:<br />
+Platforms create an ecosystem."	true
+{{c1::A digital strategy}} is {{c2::a business strategy for addressing opportunities through digitalization}}.	
+"Question:<br />
+What do Digital Capabilities consist of?"	"<ul>
+<li>Absorptive Capacity</li>
+<li>agility</li>
+<li>innovation</li>
+<li>knowledge</li>
+</ul>"
+"true or false:<br />
+Digital Capabilities arise through digitalization."	true
+{{c1::A Co-Specialized Capability}} is {{c2::a set of capabilities from different areas of a company that are connected with one another}}.	
+"Example:<br />
+IT Capability"	"<ul>
+<li>architecture</li>
+<li>Business Knowledge</li>
+<li>IT management</li>
+<li>standards</li>
+<li>knowledge</li>
+</ul>"
+{{c1::IT/IS Ambidexterity}} is {{c2::a Dynamic Capability that enables companies to serve the demand for IT exploration and IT exploitation}}.	
+{{c1::Red Queen Competition}} is {{c2::competition among companies that forces them to progress in order to keep up with competitors}}.	
+"true or false:<br />
+Risks of Technological Turbulence can be minimized through agility, innovation of IT components, and innovation of IT architecture."	true
+{{c1::Complex Adaptive Business System}} is {{c2::the interdependence of different organizations}}.	
+"Question:<br />
+Why are digital technologies seen as infrastructure?"	"Through the continued adoption of digital technologies and the permanent availability of information as well as the resulting connectivity, digital technologies are seen as ""infrastructural"", that is, as infrastructure of our society, because they have become fundamental for daily routines as well as private and business life"
+"true or false:<br />
+Networks such as the Internet and mobile communication accelerate the effects of Digital Convergence."	true
+{{c1::Digital Convergence}} is {{c2::the homogenization of the representation of digital information through different devices, media, and channels, enabled by digital technologies}}.	
+"true or false:<br />
+Alliances can create competitive advantages that are not possible alone by using scaling effects and forming ecosystems."	"true:<br />
+An example is loyalty programs."
+"Example:<br />
+Digital Business Strategy"	"<ul>
+<li>Amazon builds a Digital Business Strategy through the ecosystem between eBooks (software), Kindle (hardware), and AWS (Web Services)</li>
+<li>Apple provides products with a short time in the supply chain and also provides many new products in a short time</li>
+<li>Google can exert significant influence on the mobile phone market by providing Android for free</li>
+<li>Platform businesses in which IT/IS strategy and business strategy are merged use a Digital Business Strategy because these cannot be considered independently of one another</li>
+</ul>"
+"Question:<br />
+What is a Digital Business Strategy according to Bharadwaj et al. (2013)?"	A digital business strategy is a organizational strategy formulated and executed by leveraging digital resources to create differential value.
+"Question:<br />
+What are factors of Digital Business Strategy?"	"<ul>
+<li>speed and coordination of decisions and provision of products and services and the resulting obsolescence of products</li>
+<li>sources of value creation that consist of information and coordination between different value-creation activities</li>
+<li>scaling effects that lead to Dynamic Capabilities, platforms, and resulting network effects</li>
+<li>scope of the portfolio of products, businesses, and activities as well as the inclusion of digital resources</li>
+</ul>"
+"true or false:<br />
+Digital Business Strategy is a purely functional IT strategy."	"false:<br />
+Digital Business Strategy integrates business and IT strategy transfunctionally by using digital resources for value creation, platform formation, and development of new business models."
+"true or false:<br />
+A Digital Business Strategy can primarily be used for purely digital products and digital services as well as Smart Connected Products."	true
+"true or false:<br />
+A Digital Business Strategy should iteratively develop and create Dynamic Capabilities."	true
+{{c1::Digital Business Strategy}} is {{c2::a transfunctional strategy between IT/IS strategy and the business strategy of a company for using digital resources to create value}}.	
+"{{c1::The Alignment View of IT/IS strategy}} is {{c2::a view of IT/IS strategy that the functional strategy of an organization must be aligned with the business strategy}}. IT/IS strategy can also influence business strategy.<br />
+{{c1::{{c2::<img src=""2020-Bild-Teubner-Stockhinger-Alignment.png"" alt=""""><br />
+Alignment View of IT/IS strategy}}}}"	
+"true or false:<br />
+The adaptation of an IT/IS strategy is insufficient in practice because incomplete IT/IS strategies are adapted and existing scientific knowledge is used."	true
+"Question:<br />
+What does the System Audit Grid consist of?"	"<ul>
+<li>Divest: low business value and low technology quality</li>
+<li>Maintain and Enhance: high business value and high technology quality</li>
+<li>Reassess: low business value and high technology quality</li>
+<li>Renew: high business value and low technology quality</li>
+</ul>"
+"{{c1::Value Chain Analysis}} is {{c2::an Opportunity Framework for analyzing the links between individual components and their links in the value chain}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Teubner-Value_Chain_Analysis.png"" alt=""""><br />
+Value Chain Analysis<br />
+<img src=""2025-Bild-Teubner-Value_Chain_Analysis_in_der_Pharmaindustrie.png"" alt=""""><br />
+Value Chain Analysis using the example of the pharmaceutical industry}}}}"	
+{{c1::The Information Intensity Matrix}} is {{c2::an Awareness Framework for classifying industries according to the intensity of information in the value chain and the information content of products and services}}.	
+"Question:<br />
+How do IT/IS strategy and business strategy influence each other?"	IT/IS strategy and business strategy influence each other: the business strategy specifies the strategic direction, while the IT/IS strategy can constrain, support, or enable it through Information Infrastructure and Information Functions.
+"Question:<br />
+Why is the integration of business and IT strategy central in the SISP process?"	Integration prevents isolated IT planning and ensures that IT investments contribute directly to realizing strategic business goals.
+"Question:<br />
+What is Strategic IT/IS Planning according to Earl (2003)?"	[…] interaction of method, process, and implementation, as well as the variety of activities and behaviours.
+"true or false:<br />
+Due to the complexity of IT, strategic IT/IS planning is often driven by an IT department, but for strategic alignment it should be driven by management. Partners, external consultants, suppliers, and providers should also be considered as additional stakeholders."	true
+"true or false:<br />
+Through the Contingency Model, strategic IT/IS planning depends not only on how good the plan is, but is also influenced by exogenous factors."	true
+"true or false:<br />
+SISP is successful when it leads to a complete and stable five-year roadmap that no longer needs to be adjusted."	"false:<br />
+SISP must be adaptive because technological and market dynamics require continuous reprioritization, learning loops, and governance for implementation, so that planning and adaptation are integral parts of the process."
+"true or false:<br />
+Strategic IT/IS Planning focuses exclusively on new systems and ignores existing IT landscapes."	"false:<br />
+SISP also includes the evaluation, consolidation, and modernization of existing IT resources."
+"true or false:<br />
+Strategic IT/IS Planning is exclusively technology-driven and independent of organizational capabilities."	"false:<br />
+Strategic IT/IS Planning considers organizational capabilities, management practices, and resource configurations as central success factors."
+"true or false:<br />
+Strategic IT/IS Planning is primarily an operational budgeting process for IT departments."	"false:<br />
+Strategic IT/IS Planning is a strategic process for the long-term alignment of IT/IS with corporate goals and competitive requirements."
+"true or false:<br />
+Strategic IT/IS Planning can be carried out without a clear corporate strategy."	"false:<br />
+Without a clearly defined corporate strategy, the SISP process lacks the strategic reference for prioritization and alignment."
+"true or false:<br />
+Strategic IT/IS Planning requires business strategy and IT strategy to be formulated strictly separately."	"false:<br />
+Modern approaches emphasize the integrated and reciprocal development of both strategy dimensions."
+"{{c1::Strategic IT/IS Planning (SISP, Strategic Information Systems Planning)}} is {{c2::the planning of strategic information management and IT/IS strategy}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Teubner-Strategischer_IT$IS_Planungsprozess.png"" alt=""""><br />
+Strategic IT/IS planning process}}}}"	
+{{c1::An IM strategy (information management strategy)}} is {{c2::a strategy concerning the roles and structure of IT in an organization as well as the relationships between employees and organizational units with the company}}.	
+"true or false:<br />
+The IS strategy is very similar, but not identical, to the Application Portfolio in IT/IS strategy."	true
+"true or false:<br />
+IS strategy is limited to selecting suitable software products."	"false:<br />
+IS strategy includes the design of information resources, application landscapes, governance structures, and organizational capabilities."
+"true or false:<br />
+IS strategy is primarily a technical architecture topic."	"false:<br />
+IS strategy is a holistic management topic that includes technology, organization, processes, and competition."
+{{c1::An IS strategy (Information Systems Strategy)}} is {{c2::a strategy concerning business cases for using IT and the associated selection of technologies, suppliers, technical standards, and architectural decisions}}. {{c1::The IS strategy}} therefore deals with {{c3::management aspects related to IT in order to support business strategy, form an IT master plan, or plan an IT department}}.	
+{{c1::An IT strategy (information technology strategy)}} is {{c2::a strategy concerning the use of applications through IT}}. {{c1::The IT strategy}} therefore deals with questions concerning {{c3::computers, communication devices, data, and applications}}.	
+{{c1::IS Conservative}} is {{c2::an IT/IS strategy in which an organization operates safely in a market and, as a late follower, implements established opportunities and technologies}}. {{c1::An IS Conservative}} creates {{c3::value}} through {{c3::the exploitation of existing elements}}.	
+{{c1::IS Innovator}} is {{c2::an IT/IS strategy in which an organization is innovative in a market and, as a pioneer or early follower, discovers, develops, and uses potential opportunities and technologies}}. {{c1:.An IS Innovator}} creates {{c3::innovation}} through {{c3::exploration of new elements}}.	
+"<p>Types of IT/IS strategy are:</p>
+<ul>
+<li>{{c2::a basic attitude or basic mindset regarding the role of IT in an organization}}</li>
+<li>{{c2::management of IT in an organization in order to build an understanding of investments in information systems, management, and deployment}}</li>
+<li>{{c2::master plan for developing the Information Infrastructure in connection with the business strategy in order to support or enable it}}</li>
+<li>{{c2::use of IT to pursue and support business strategy}}</li>
+<li>{{c2::administrative plan in the form of a functional strategy for IT units to support the implementation and execution of business strategies}}</li>
+</ul>"	
+"Question:<br />
+Why is the business value approach strategically significant for IS?"	It focuses on the contribution of information systems to corporate performance and connects investment decisions with the achievement of strategic goals.
+"Question:  <br />
+What does ""valuable"" mean in the VRIN Framework?"	A resource is valuable when it enables the company to exploit opportunities or defend against threats.
+"Question:<br />
+Which condition does a Core Competence not have to fulfill in order to create an Incremental Advantage?<br />
+a) non-substitutable<br />
+b) rare<br />
+c) valuable<br />
+d) inimitable"	a)
+"Question:<br />
+What does VRIN stand for?<br />
+a) Valuable, Rare, Inimitable, Non-Substitutable<br />
+b) Value-Driven, Rare, Intangible, Non-Replicable<br />
+c) Valuable, Reachable, Inimitable, Non-Substitutable<br />
+d) Vital, Rare, Inimitable, Non-Replaceable"	a)
+"<p>{{c1::The VRIN Framework}} is {{c2::a framework of the resource-based view according to which resources must have the following properties}}:</p>
+<ul>
+<li>{{c3::rare}}</li>
+<li>{{c3::inimitable}}</li>
+<li>{{c3::non-substitutable}}</li>
+<li>{{c3::valuable}}</li>
+</ul>"	
+"{{c1::Porter's Value Chain}} is {{c2::an Opportunity Framework for analyzing the value chain in an organization for creating and delivering value through products and services as well as supporting this process to increase effectiveness and efficiency}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Bendig-Schulz-Sickert-Porter's_Value_Chain.png"" alt=""""><br />
+Porter's Value Chain}}}}"	
+"{{c1::The Kondratieff cycle}} is {{c2::a theory that the global economy develops in long wave-like cycles, each triggered by the diffusion of a major technological paradigm}}. Each wave in the {{c1::Kondratieff cycle}} describes {{c2::a key technology and its macroeconomic effects on growth, structure, and innovation}}.<br />
+{{c1::{{c2::{{c3::<img src=""2025-Bild-Bendig-Schulz-Sickert-Kondratieff-Zyklus.png"" alt=""""><br />
+Kondratieff cycle}}}}}}"	
+{{c1::Job specialization (Job Design)}} is {{c2::the extent to which tasks can be broken down into individual activities and assigned to individual employees as specific responsibilities}}. {{c1::Job specialization}} leads to {{c3::employees performing highly specialized tasks and activities}}.	
+"Question:<br />
+Why is Ambidexterity particularly challenging for established organizations?"	Because existing structures, incentive systems, and cultures often prefer exploitation over exploration.
+"Question:<br />
+How does the concept of Ambidexterity help in analyzing organizational dilemmas?"	It provides an analytical framework for recognizing and organizationally designing simultaneous requirements for exploitation and exploration.
+"true or false:<br />
+Ambidexterity describes the ability to avoid exploration and exploitation at the same time."	"false:<br />
+Ambidexterity describes the ability to manage exploration and exploitation simultaneously."
+{{c1::Ambidexterity}} is {{c2::a Dynamic Capability for enabling exploration and exploitation simultaneously through existing resources}}. {{c1::Ambidexterity}} combines {{c3::the adaptation of solutions and the improvement of existing solutions}}.	
+"Question:<br />
+Under what condition can IT nevertheless be strategically effective?"	IT becomes strategically effective when it is combined with specific organizational capabilities, processes, knowledge, and management competencies, thereby creating resource bundles that are difficult to imitate.
+"Question:<br />
+Why does IT alone not provide a sustainable competitive advantage in the sense of the resource-based view?"	IT as a generic technology is easy to imitate and available on the market, so by itself it does not establish a sustainable competitive advantage in the sense of the Resource-Based View.
+"Question:<br />
+Why are competitive advantages through IT often easy to reproduce?"	Many IT solutions are based on generic, purchasable software products that map standardized business processes and can therefore be imitated quickly and cheaply by competitors.
+"Question:<br />
+Why are competitive advantages through IT often only short-term?"	New technologies diffuse quickly in the market and become industry standards, causing initial competitive advantages through IT to be rapidly leveled out.
+"Question:<br />
+Which IT-related resources can create a competitive advantage according to the resource-based view?"	Information Infrastructure, information systems, IT personnel, and IT-related knowledge can create competitive advantages if they are valuable, rare, difficult to imitate, and organizationally embedded.
+"Question:<br />
+Which five forces determine the attractiveness of an industry according to Porter?"	"<ul>
+<li>threat of new entrants</li>
+<li>threat of substitutes</li>
+<li>rivalry among existing competitors</li>
+<li>bargaining power of suppliers</li>
+<li>bargaining power of buyers</li>
+</ul>"
+{{c1::Porter's Five Forces}} is {{c2::an Opportunity Framework for analyzing market positioning within the market-based view}}.	
+"<p>Porter's Five Forces consists of:</p>
+<ul>
+<li>{{c1::customers and their bargaining power}}</li>
+<li>{{c1::suppliers and their bargaining power}}</li>
+<li>{{c1::barriers to market entry and potential market participants}}</li>
+<li>{{c1::rivalry from competitors with similar products and services}}</li>
+<li>{{c1::substitution by other products and services}}</li>
+</ul>"	
+"Question:<br />
+What are success factors of strategic information systems?"	"<ul>
+<li>consideration of external stakeholders, competitors, and market companions</li>
+<li>building an understanding of customers and customer needs</li>
+<li>focus on increasing value in value creation instead of reducing costs</li>
+<li>focus on business-driven innovations instead of technology-driven innovations</li>
+<li>incremental development</li>
+<li>use of the information from the strategic information system</li>
+<li>sharing the benefits and advantages with suppliers, customers, consumers, and market companions</li>
+</ul>"
+{{c1::An Executive Information System (EIS)}} is {{c2::a management information system}}.	
+"Question:<br />
+What are challenges of management information systems?"	"<ul>
+<li>missing data and information in the system</li>
+<li>missing context and reference that make it possible to generate knowledge from the data</li>
+</ul>"
+{{c1::A management information system}} is {{c2::a strategic information system for management}}.	
+"Question:<br />
+Which types of strategic information systems serve to improve value creation for customers?"	Systems that improve value creation for customers by creating additional benefit, for example through better services, individualized offerings, or increased transparency along customer interaction.
+"Question:<br />
+Which types of strategic information systems enable the effective integration of information within an organization?"	Systems for integrating information within an organization connect data, processes, and units in order to increase coordination, transparency, and efficiency across departmental boundaries.
+"Question:<br />
+Which strategic information systems support management in strategy development?"	Systems for supplying information to management provide decision-relevant data and analyses that are used to develop, evaluate, and adapt corporate strategies.
+"Question:<br />
+Which strategic information systems change customer or supplier relationships?"	Systems for distributing information with customers or suppliers enable new forms of interaction and collaboration and can thereby fundamentally change the structure of customer or supplier relationships.
+"Question:<br />
+Which strategic information systems aim to improve internal operations?"	Systems for improving internal operations optimize processes, lower costs, increase productivity, and improve the quality of internal service provision.
+"Question:<br />
+Which two basic types of competitive advantages does Porter distinguish?"	Cost leadership and differentiation
+"{{c1::Porter's Generic Strategies}} is {{c2::an Opportunity Framework for classifying a value with regard to the source and scope of competitive advantage}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Teubner-Porter's_Generic_Strategies.png"" alt=""""><br />
+Porter's Generic Strategies}}}}"	
+"<p>Porter's Generic Strategies consists of:</p>
+<ul>
+<li>{{c1::Cost Focus}}: {{c1::differentiated market coverage and cost leadership as competitive advantage}}</li>
+<li>{{c1::Cost Leadership}}: {{c1::undifferentiated market coverage and cost leadership as competitive advantage}}</li>
+<li>{{c1::Differentiation}}: {{c1::undifferentiated market coverage and differentiation as competitive advantage}}</li>
+<li>{{c1::Differentiation Focus}}: {{c1::differentiated market coverage and differentiation as competitive advantage}}</li>
+</ul>"	
+"Question:<br />
+What does a market-based view of strategic information systems consist of?"	"<ul>
+<li>IT increases market transparency while at the same time managing to differentiate one's own offerings from others</li>
+<li>IT increases the visibility of offerings</li>
+<li>IT can make market entry easier for an organization and harder for competitors</li>
+<li>IT can create new ways to satisfy customer needs</li>
+<li>IT can reduce transaction costs for an organization and create a lock-in effect for competitors</li>
+</ul>"
+"true or false:<br />
+Strategic information systems primarily originate from the IT department."	"false:<br />
+Strategic information systems arise through the linking of supply and demand and are therefore market- and business-driven, not IT-driven."
+"true or false:<br />
+Strategic information systems create a lasting competitive advantage."	"false:<br />
+Competitive advantages through strategic information systems are usually temporary because competitors can imitate successful solutions or functionally substitute them."
+"true or false:<br />
+Strategic information systems are the result of a careful, fully planned strategy."	"false:<br />
+Strategic information systems often develop evolutionarily and incrementally through experiments, adaptations, and learning in the market environment."
+"true or false:<br />
+Strategic information systems represent an entirely new class of information systems."	"false:<br />
+Strategic information systems are not an independent system class, but arise through the creative and innovative use of existing, conventional information systems."
+"Question:<br />
+How is an effective strategic information system achieved?"	"<ul>
+<li>the extension of products, services, and customer relationships through increased information</li>
+<li>the improvement of information supply to management</li>
+<li>the connection of the organization with external partners</li>
+</ul>"
+"Question:<br />
+What does an effective strategic information system consist of?"	"<ul>
+<li>an external focus, not an internal focus</li>
+<li>focus on business processes, not technologies</li>
+<li>increase in information density, not the automation of information</li>
+<li>increase in values, not reduction of costs</li>
+</ul>"
+"Example:<br />
+Strategic Information System"	"<ul>
+<li>the flight reservation system SABRE of American Airlines</li>
+</ul>"
+"Question:<br />
+What is a Strategic Information System according to Frenzel (1999)?"	Strategic information systems (SIS) are information systems whose unique function or specific application shapes the organization’s competitive strategy and provides competitive advantage for the firm that owns them. SIS may operate in any area of the firm supporting administrative or technical activities. SIS may be visible to customers, such as order entry systems, or may be confidential internal applications like design automation systems. Strategic systems shape the competitive posture and strategy of the firms that own them and perhaps even alter the entire industry.
+"Question:<br />
+What is a strategic information system?"	A strategic information system is an information system that shapes or supports the competitive strategy of a company and can thereby sustainably influence market position or industry structure.
+"true or false:<br />
+Strategic Information Systems are their own system class that can be technically distinguished clearly from operational systems."	"false:<br />
+Strategic impact arises through the creative use and embedding of conventional systems in competitive contexts, not through a clearly new technical system class."
+"true or false:<br />
+Strategic information systems primarily arise from technological innovation initiatives of the IT department."	"false:<br />
+Strategic information systems typically arise from business-oriented initiatives that affect customer or supplier relationships, while the IT department primarily enables technical implementation."
+"true or false:<br />
+Strategic information systems necessarily arise from strategic IT/IS projects."	"false:<br />
+Strategic information systems can also emerge evolutionarily from operational initiatives and are not necessarily the result of formally strategic projects."
+"true or false:<br />
+Strategic information systems create sustainable competitive advantages because they are unique by definition."	"false:<br />
+Strategic information systems can create competitive advantages, but they are often imitable and therefore usually lead only to temporary advantages."
+"true or false:<br />
+Strategic information systems can be fully explained by Porter's Five Forces model."	"false:<br />
+Although Five Forces analyzes competitive effects, it does not capture internal resource and capability dimensions."
+"true or false:<br />
+Strategic information systems are by definition innovation-driven and disruptive."	"false:<br />
+Strategic impact can also arise through incremental, creative use of existing systems."
+{{c1::A strategic information system}} is {{c2::an information system that influences the strategy and competitive advantage of an organization}}.	
+"true or false:<br />
+A Business Case should be based exclusively on quantifiable, certain benefit assumptions."	"false:<br />
+A sound Business Case also considers uncertain, qualitative, and strategic effects as well as scenario analyses."
+{{c1::A Business Case}} is {{c2::a justified decision proposal that shows how a planned organizational measure or initiative contributes to improving a company's financial performance}}.	
+"<p>The value creation process of IT consists of:</p>
+<ol>
+<li>{{c1::Strategic Imperative: strategic decisions for IT}}</li>
+<li>{{c2::IT Expenditure: IT investments}} </li>
+<li>{{c3::IT Assets: acquisition of IT systems}}</li>
+<li>{{c4::IT Impacts: use of IT systems}}</li>
+<li>{{c5::Organisational Performance: development of competitive advantages}}<br />
+{{c1::{{c2::{{c3::{{c4::{{c5::<img src=""2025-Bild-Teubner-Wertschoefungsprozess_von_IT.png"" alt=""""><br />
+Value creation process of IT}}}}}}}}}}</li>
+</ol>"	
+"Question:<br />
+How does the Contingency Model explain the relationship between ICT use and company success?"	The Contingency Model explains that the contribution of ICT use to company success is not direct, but is moderated by situational influencing factors such as strategy, organizational design, and management practices, so that IT investments lead to higher productivity or profitability only when they are embedded in a contextually appropriate way.
+"Question:<br />
+How does the Contingency Model explain why identical ERP systems can lead to different performance effects?"	The Contingency Model explains that IT effects are moderated by context factors such as organizational design, integration, management quality, and strategy, so that identical systems can either increase productivity or generate friction losses depending on process maturity, governance, and complementary practices.
+"true or false:<br />
+In the contingency approach, IT has an effect independently of the organizational context as long as enough is invested."	"false:<br />
+The contingency approach specifically emphasizes that IT effects depend strongly on the organizational and strategic context."
+"{{c1::A Contingency Model}} is {{c2::a research approach in which additional factors beyond input and output are included in the analysis}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Teubner-Contingency_Model.png"" alt=""""> <br />
+Contingency Model}}}}"	
+{{c1::A Black Box Study}} is {{c2::a research approach that includes only input and output in the analysis}}.	
+"true or false:<br />
+Normative information management consists not only of considering internal stakeholders, but also external stakeholders, laws, and society."	true
+{{c1::Normative Information Management}} is {{c2::the normative management of IT and the legitimacy of information collection and information storage}}.	
+"true or false:<br />
+Operational information management does not contribute to strategic competitiveness."	"false:<br />
+Operational excellence in service provision, stability, and security forms the basis for strategic innovation capability."
+{{c1::Operational Information Management}} is {{c2::the operational management of tasks of the Information Infrastructure}}.	
+"Question:<br />
+What function does tactical information management fulfill in the portfolio and program context?"	Tactical information management prioritizes, coordinates, and synchronizes IT initiatives in order to implement strategic target architectures step by step.
+{{c1::Tactical Information Management}} is {{c2::the tactical management of the Information Infrastructure according to the IT/IS strategy}}.	
+"<p>Tactical information management consists of:</p>
+<ul>
+<li>{{c1::definition of the Information Infrastructure Architecture}}</li>
+<li>{{c1::planning and control of IT/IS Investments}}</li>
+</ul>"	
+{{c1::Strategic Information Management}} is {{c2::the strategic management of IT/IS strategy and the application of IT to create value within an organization}}.	
+In strategic information management, IT is used to obtain {{c1::competitive advantages}}.	
+"Question:<br />
+What implication does the distinction between Information Resources, Application Systems, and ICT Infrastructure have for the design of IT governance?"	The distinction implies differentiated governance mechanisms because Information Resources require ownership, quality, and access policy, Application Systems require lifecycle and portfolio decisions, and ICT Infrastructure prioritizes standardization and resilience, so that responsibilities strategically, decision rights tactically, and control processes operationally must be designed domain-specifically.
+"Question:<br />
+How do strategic, tactical, and operational information management differ with regard to their decision focus?"	Strategic information management defines long-term target images, competitive positioning, and fundamental architectural principles; tactical information management concretizes these in the form of programs, portfolios, and architectural decisions, while operational information management is responsible for the daily provision, maintenance, and control of information systems and infrastructure.
+{{c1::Normative management}} is {{c2::the management of the identity, legitimacy, and ethics of an organization, which is directly connected to the success of an organization}}.	
+{{c1::Tactical management}} is {{c2::the management of tactical goals and strategic IT/IS investments through the operationalization and implementation of strategies}}.	
+"Question:<br />
+What does strategic management consist of?"	"<ul>
+<li>definition of an organization in its environment</li>
+<li>definition of business goals</li>
+<li>definition of measures to achieve the business goal</li>
+<li>acquisition of resources to achieve the business goals</li>
+</ul>"
+{{c1::Strategic management}} is {{c2::the management of the strategy of an organization}}.	
+{{c1::Automation Value}} is {{c2::the benefit and value of IT that arises from the automation of processes}}.	
+"{{c1::A Grey Box Study}} is {{c2::a research approach in which input variables are analyzed that influence certain additional variables and thereby influence an output variable}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Teubner-Grey_Box_Study.png"" alt=""""><br />
+Grey Box Study}}}}"	
+{{c1::Computer Capital}} is {{c2::the capital invested in IT. Computer Capital can increase a company's efficiency and market value}}.	
+{{c1::A Situational Study}} is {{c2::a research approach that examines how relationships are moderated by situational influencing factors}}.	
+"true or false:<br />
+The contribution of IT investments in the form of Information Technology and Digital Technology to company success is not direct, but context-dependent and organizationally mediated."	"true:<br />
+Empirical studies show that IT investments alone are no guarantee of higher productivity or profitability. What is decisive is how technology is integrated into business processes, structures, and management practices. The organizational effects of IT vary depending on type of use and objective. Different IT types create different value contributions through efficiency, innovation, or market value."
+"Question:<br />
+What are explanatory approaches to the Solow Paradox?"	"<ul>
+<li>redistribution: achieved productivity gains are not reflected in overall economic productivity, but pass through to consumers or a few market leaders as Digital Leaders in the sense of the winner-takes-it-all effect</li>
+<li>unobserved or unrecorded effects of IT: due to mismodeling or mismeasurement of capital stock, investment capital in ICT, or labor</li>
+<li>delayed effect: positive effects of IT investments occur only with a time lag because organizational adjustments, process changes, and societal transformations are necessary</li>
+</ul>"
+"Question:<br />
+What does the Solow Paradox explain in the context of IT investments?"	The Solow Paradox describes the phenomenon that despite extensive IT investments, no proportional productivity increases are measurable, which is explained, among other things, by mismeasurement, redistribution effects, or delayed effects.
+"Question:<br />
+How does the concept of the information system explain the productivity paradox of information technology?"	The concept of the information system shows that information technology alone does not create value, but becomes productivity-effective only through its embedding in social structures, processes, and management practices, so that pure IT investments without organizational adaptation need not deliver measurable productivity gains.
+"true or false:<br />
+The Solow Paradox fundamentally refutes the assumption that IT increases productivity."	"false:<br />
+The Solow Paradox points to measurement and modeling problems as well as delayed adjustment processes, not to the fundamental ineffectiveness of IT."
+{{c1::The Solow Paradox (IT Productivity Paradox)}} is {{c2::a phenomenon that despite massive investments in ICT, no correspondingly clear increases in productivity or economic growth are measurable}}.	
+{{c1::Capital-Labour Substitution}} is {{c2::the replacement of labor by capital}}. The reason for {{c1::Capital-Labour Substitution}} is that {{c3::the productivity of capital is higher than that of labor}}.	
+"true or false:<br />
+Capital deepening leads to constantly increasing marginal returns in the long term."	"false:<br />
+With increasing capital intensity, marginal returns typically decline, so additional investments generate lower productivity gains."
+"true or false:<br />
+Technological progress is equivalent to capital deepening."	"false:<br />
+Capital deepening describes the increase in capital use per unit of labor, while technological progress changes the technical relationship between input and output and is measured as Total Factor Productivity."
+{{c1::Capital Deepening}} is {{c2::the increase in capital stock per unit of labor}}.	
+"Question:<br />
+Which three factors belong to the basic economic theory of Total Factor Productivity?<br />
+a) labor, land, capital<br />
+b) labor, product, capital<br />
+c) land, production, labor<br />
+d) expenditures, labor, land"	a)
+"Question:<br />
+Which metric corresponds to the definition ""economic figure that accounts for inputs caused by technology, labor and human capital""?<br />
+a) New Product Announcements<br />
+b) Research and Development Spending<br />
+c) Innovation Surveys<br />
+d) Total Factor Productivity"	d)
+{{c1::Total Factor Productivity (MFP, Multi-Factor Productivity, TFP)}} is {{c2::productivity growth through efficiency improvements by technologies, labor, and human capital}}.	
+"true or false:<br />
+Technological progress changes productivity positively by minimizing the required input or maximizing output."	"true<br />
+<img src=""2025-Bild-Teubner-Produktivitatet_und_Technologie.png"" alt=""""><br />
+Technological progress"
+"Question:<br />
+What causes changes in labor productivity?"	"<ul>
+<li>utilization of production capacity</li>
+<li>use of technologies</li>
+<li>technological progress</li>
+</ul>"
+"<hr />
+<p>{{c1::Labor productivity}} is {{c2::a measure of productivity that relates the output of production to the input factor of labor}}:<br />
+{{c1::\(\text{Labor productivity}\)}} \(=\) {{c3::\(\frac{\text{Output in quantity units} }{\text{Input as amount of labor} }\)}}</p>"	
+"{{c1::Total productivity}} is {{c2::a measure of productivity that relates the output and associated monetary units of production to the inputs and associated monetary units}}:<br />
+{{c1::\(\text{Total productivity}\)}} \(=\) {{c3::\(\frac{\text{Output in quantity units} \cdot \text{monetary units} }{\text{Input in quantity units} \cdot \text{monetary units} }\)}}"	
+"{{c1::Factor productivity}} is {{c2::a measure of productivity that relates the output of production to a single input factor}}:<br />
+{{c1::\(\text{Factor productivity}\)}} \(=\) {{c3::\(\frac{\text{Output in quantity units} }{\text{Quantity of a single input factor} }\)}}"	
+"Example:<br />
+Dynamic Capability"	"<ul>
+<li>innovative product development by Apple</li>
+<li>learning processes of an organization</li>
+<li>scaling server systems to adapt dynamic capacities of a platform</li>
+</ul>"
+"Question:<br />
+On which theoretical framework is the Dynamic Capabilities perspective based?<br />
+a) Market-Based View<br />
+b) Resource-Based View<br />
+c) Capacity-Based View<br />
+d) Strategy-Based View"	b)
+"Question:<br />
+In which industries and sectors are Dynamic Capabilities particularly important?<br />
+a) industries and sectors with low technological change<br />
+b) industries and sectors with high regulatory stability<br />
+c) industries and sectors with rapid technological change and global competition<br />
+d) industries and sectors with strong market consolidation"	c)
+"Question:<br />
+What does ""Sensing"" mean in the context of a Dynamic Capability?<br />
+a) adoption of best practices from market companions<br />
+b) recognizing and interpreting opportunities &amp; threats<br />
+c) minimization of operational costs<br />
+d) the financial management of a company"	b)
+"Question:<br />
+What are the three components of a Dynamic Capability?<br />
+a) Innovating, Capturing, Outsourcing<br />
+b) Sensing, Seizing, Reconfiguring<br />
+c) Planning, Coordinating, Monitoring<br />
+d) Learning, Organizing, Restructuring"	b)
+"true or false:<br />
+Dynamic Capabilities are enabled by research and development as well as by digital technologies."	true
+{{c1::A Dynamic Capability (DCV, Dynamic Capability View)}} is {{c2::a higher-level process with which companies renew existing resources and competencies in order to secure competitive advantages in dynamic markets}}.	
+"<p>{{c1::Dynamic Capabilities}} consist of:</p>
+<ol>
+<li>{{c2::Sensing}}: {{c2::ability to recognize opportunities and threats in the environment}}</li>
+<li>{{c2::Seizing}}: {{c2::ability to transfer recognized opportunities into viable business models, products, or investments}}</li>
+<li>{{c2::Reconfiguring}}: {{c2::ability to continuously renew and adapt the organization itself}}</li>
+</ol>"	
+{{c1::Operational management}} is {{c2::the management of operational activities through the use of the value chain defined by an organization}}. {{c1::In operational management}}, work is carried out within the scope defined in strategic management.	
+"{{c1::The Software Development Process}} is {{c2::a process for developing software}}.<br />
+{{c1::{{c2::<img src=""2018-Teubner-Software_Engineering_und_Projektmanagement.png"" alt=""""><br />
+Software Engineering and project management}}}}"	
+"<p>The Software Development Process consists of several steps:</p>
+<ol>
+<li>{{c1::requirements definition}}</li>
+<li>{{c1::high-level design}}</li>
+<li>{{c1::detailed design}}</li>
+<li>{{c1::implementation}}</li>
+<li>{{c1::integration}}</li>
+</ol>"	
+"Question:<br />
+What does architecture orientation mean in the IT Service Management context?"	Architecture orientation describes the structured decomposition of IT services into consistent service and component architectures in order to enable transparency, standardization, and cost calculation.
+"Question:<br />
+What is the best-known IT Service Management framework?"	ITIL
+"true or false:<br />
+IT Service Management is suitable in Bimodal IT for Mode 2, which creates innovation."	"false:<br />
+IT Service Management is bureaucratic, but very stable. It is suitable for Mode 1."
+"true or false:<br />
+IT Service Management is fast and flexible."	"false:<br />
+IT Service Management is slow and stable."
+"true or false:<br />
+IT Service Management primarily aims at innovation and rapid market adaptation."	"false:<br />
+IT Service Management primarily aims at stability, standardization, and efficient provision of reliable IT services and thereby mainly supports exploitation-oriented activities."
+{{c1::IT Service Management (ITSM)}} is {{c2::a paradigm that views IT from the perspective of service orientation}}.	
+"<p>IT Service Management has the following properties:</p>
+<ul>
+<li>{{c1::industry orientation}}: {{c1::production of IT services like industrial goods through architecture orientation and process orientation}}</li>
+<li>{{c2::customer centricity}}: {{c2::IT services should be aligned with the needs of organizational units and employees}}</li>
+<li>{{c3::market orientation}}: {{c3::individual organizational units and employees are customers who use IT services from the service provider}}</li>
+</ul>"	
+"true or false:<br />
+Digital technologies enrich physical products, making them Smart Connected Products, which allows them to create competitive advantages."	true
+{{c1::A digital technology}} is {{c2::a technology that influences the core and value of a product, service, or organization}}.	
+"true or false:<br />
+IT/IS investments can be fully justified through direct cost savings."	"false:<br />
+Many IT/IS investments create indirect effects such as quality improvement, flexibility, or innovation capability that cannot be captured purely on the cost side."
+"true or false:<br />
+IT/IS investments create value across structures, processes, and organizational capabilities. Productivity effects arise when IT is purposefully embedded in processes and linked to corporate goals."	true
+"Question:<br />
+What is IT/IS Portfolio Management according to De Reyck et al. (2005)?"	[IT/IS Portfolio Management] considers the entire portfolio of projects a company is engaged in, in order to make decisions in terms of which projects are to be given priority, and which projects are to be added to or removed from the portfolio
+"true or false:<br />
+In IT/IS Portfolio Management, the IT/IS investment budget is used to create an aggregated value through the investments, which is maximized as anticipated value in order to create enterprise value."	true
+"true or false:<br />
+IT/IS Portfolio Management is a purely financial instrument without strategic implications."	"false:<br />
+IT/IS Portfolio Management integrates strategic prioritization, risk assessment, and resource alignment."
+{{c1::IT/IS Portfolio Management}} is {{c2::the management of an IT/IS portfolio in order to make decisions about programs and projects with regard to risks and benefits}}.	
+"<p>IT/IS Portfolio Management consists of several steps:</p>
+<ol>
+<li>{{c1::IT/IS portfolio initialization}}</li>
+<li>{{c1::IT/IS portfolio composition}}</li>
+<li>{{c1::IT/IS portfolio monitoring}}</li>
+</ol>"	
+"Question:<br />
+What is an IT/IS architecture according to Teubner (1999)?"	Put simply, an Information Architecture is a coarse Information Model marked down to the most essential components of an organization’s information infrastructure. In analogy to the use of the term ‘architecture’ in the building domain, where it designates the arrangement of a building and its unifying and coherent structure, an Information Architecture depicts the essential elements of business information processing in relation to each other.
+{{c1::The IT/IS architecture (information architecture)}} is {{c2::a conceptual framework of the architecture of information systems, information, and the relation between them for developing a targeted Information Infrastructure}}.	
+{{c1::The information architecture}} is {{c2::the structuring abstraction of the existing or planned enterprise architecture}}.	
+"<p>The IT/IS architecture consists of:</p>
+<ul>
+<li>{{c1::application architecture, data architecture, and information architecture}}</li>
+<li>{{c1::information resource architecture}}</li>
+<li>{{c1::technical infrastructure architecture}}</li>
+</ul>"	
+"true or false:<br />
+An IT/IS project often includes IT/IS Asset Procurement."	true
+"true or false:<br />
+A project implements one IT/IS investment each."	true
+{{c1::An IT/IS project}} is {{c2::a project and the project management for realizing an IT/IS investment in the form of modifying, improving, or extending the Information Infrastructure}}.	
+"Question:<br />
+Which IT/IS governance archetypes in the MIT Framework enable autonomous decision-making within individual organizational units?"	"<ul>
+<li>Anarchy</li>
+<li>Feudal</li>
+</ul>"
+"Question:  <br />
+Which two factors are decisive for determining the governance archetype within an organization according to the MIT Framework?"	"<ul>
+<li>the number of decision-makers involved</li>
+<li>the organizational distribution of decision rights (central vs. decentralized responsibility)</li>
+</ul>"
+"true or false:  <br />
+The Federal archetype within the MIT Framework describes a governance structure in which decisions are made exclusively by top management."	"false:  <br />
+The Federal archetype means that decisions are made jointly by central IT and individual business units, not exclusively by top management."
+"true or false:<br />
+Most governance domains have a Federal archetype."	true
+"true or false:<br />
+Most governance domains have a Feudal archetype."	false
+"true or false:<br />
+IT Investment usually has a Business Monarchy archetype."	true
+"true or false:<br />
+IT Investment usually has an IT Monarchy archetype."	false
+{{c1::The MIT Framework}} is {{c2::an IT/IS governance framework with governance domains and governance archetypes}}.	
+"<p>{{c1::The MIT Framework}} consists of five governance domains:</p>
+<ol>
+<li>{{c2::IT Principles: rules and policies for the use of IT}}</li>
+<li>{{c2::IT Architecture: technical framework conditions and standards}}</li>
+<li>{{c2::IT Infrastructure Strategies: decisions about IT infrastructure}}</li>
+<li>{{c2::Business Application Needs: required and prioritized applications}}</li>
+<li>{{c2::IT Investment and Prioritization: budgeting and selection of IT investments}}</li>
+</ol>"	
+"<p>{{c1::The MIT Framework}} consists of six governance archetypes:</p>
+<ol>
+<li>{{c2::Business Monarchy: executive level makes decisions}}</li>
+<li>{{c2::IT Monarchy: IT executive level makes decisions}}</li>
+<li>{{c2::Federal: joint decision by central IT and business units}}</li>
+<li>{{c2::IT Duopoly: IT leadership and another group make decisions}}</li>
+<li>{{c2::Feudal: individual business units decide autonomously}}</li>
+<li>{{c2::Anarchy: individuals or small groups decide autonomously}}</li>
+</ol>"	
+"Example:<br />
+Digitisation"	"<ul>
+<li>use of digital invoices</li>
+<li>conversion of printed magazines into digital magazines</li>
+</ul>"
+"Question:<br />
+How does Digitisation differ from Digital Innovation?"	Digitisation is the conversion of analog data into digital formats. Digital Innovation describes new applications or combinations of digital technologies that create social, economic, or ecological added value.
+"Example:<br />
+Digitalisation"	"<ul>
+<li>use of digital invoices</li>
+<li>conversion of printed magazines into digital magazines</li>
+</ul>"
+{{c1::Digitisation}} is {{c2::the conversion of analog information into digital information}}. This allows an analog medium to be transferred into a state in which it can be {{c3::stored, changed, and transmitted independently of the data carrier}}.	
+"Question:<br />
+What is a program in the context of program management?"	A program is an overarching undertaking to achieve strategic goals that consists of several interconnected projects as well as accompanying organizational change measures.
+"Question:<br />
+What is a program according to Teubner (2018)?"	Programs, in contrast, are perceived as “big” organizational undertakings involving a larger number of projects in support of common, superordinate business goals. More formally, programs can be defined as large-scale initiatives involving a set of interrelated projects and organizational measures that are intended to collectively realize a value.
+"Question:<br />
+What typical duration does a program have?"	A program is also limited in time, but often extends over several years and is oriented toward strategic milestones rather than individual deliverables.
+"Question:<br />
+What goal does a program pursue?"	A program pursues the goal of realizing strategic benefit or overarching organizational goals that go beyond the results of individual projects.
+"Question:<br />
+How is the scope of a program defined?"	The scope of a program includes several goal-dependent investments that are implemented through a combination of projects and change measures.
+"Question:<br />
+How is the success of a program measured?"	The success of a program is measured by the realized benefit for stakeholders and by the contribution to achieving strategic corporate goals.
+"true or false:<br />
+A program creates value not only by achieving all projects, but through the combination of these projects."	true
+{{c1::A program in project management}} is {{c2::a set of projects for achieving a strategic goal}}, in order to coordinate {{c3::several projects that may be dependent on one another}}.	
+"Question:  <br />
+What is the goal of a Target Architecture in IT/IS strategy development?"	A shared future image of technology, processes, and capabilities for aligning IT infrastructure with strategic corporate goals.
+{{c1::A Target Architecture}} is {{c2::a blueprint of a future Information Infrastructure for implementing an IT/IS strategy}}.	
+"{{c1::The IT/IS strategy process}} consists of several steps:<br />
+{{c2::IT/IS strategy}} -&gt; {{c3::IT/IS architecture}} -&gt; {{c4::IT/IS projects}} -&gt; {{c5::Information Infrastructure}}"	
+"Example:<br />
+ Information Infrastructure Strategy"	"<ul>
+<li>technologies that are required</li>
+</ul>"
+"true or false:  <br />
+Information Infrastructure Strategy is about how IT functions are implemented."	"false:  <br />
+It describes what is implemented. How something is implemented is treated in the Information Function Strategy."
+{{c1::The Information Infrastructure Strategy}} concerns {{c2::what should be implemented in the Information Infrastructure}}.	
+"Example:<br />
+Information Function Strategy"	"<ul>
+<li>determination of capabilities required for the Information Infrastructure</li>
+<li>people who maintain the Information Infrastructure</li>
+<li>should a central IT department be created or should decisions be made decentrally</li>
+<li>which tasks must be performed by the Information Infrastructure</li>
+<li>which tasks should be performed internally or outsourced</li>
+<li>how tasks should be coordinated and controlled</li>
+</ul>"
+{{c1::The Information Function Strategy (Derivative IT/IS Strategy Domain)}} is {{c2::the strategy for fulfilling the Information Functions for the Information Infrastructure}}. {{c1::The Information Function Strategy}} concerns {{c3::how the Information Infrastructure should be implemented}}.	
+"<p>The Information Functions Strategy consists of:</p>
+<ul>
+<li>{{c1::organization of the Information Function}}</li>
+<li>{{c1::outsourcing}}</li>
+<li>{{c1::staffing}}</li>
+<li>{{c1::control, evaluation, and decision-making of IT}}</li>
+</ul>"	
+"Question:<br />
+What is an IT/IS strategy according to Teubner, Stockhinger (2020)?"	IT/IS strategy traditionally deals with technology and systems as well as with the information resources stored, processed, and exchanged by these.
+"true or false:<br />
+The Chief Information Officer is responsible for planning the IT/IS strategy."	true
+"{{c1::An IT/IS strategy}} is {{c2::a strategy for developing information systems, investments in information systems, and the management of information systems in an organization in order to achieve long-term competitiveness and success}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Teubner-IT-IS_Strategy_Model.png"" alt=""""><br />
+IT/IS Strategy Model}}}}"	
+{{c1::The IT/IS strategy}} enables {{c2::the Information Infrastructure Strategy and the business strategy}} to influence each other. Both are formed within the framework of a corporate strategy.	
+An IT/IS strategy can be driven by {{c1::the current state or a target state}} in order to {{c2::manage IT units of an organization}}.	
+"<p>Roles of Information Infrastructure in organizations are:</p>
+<ul>
+<li>{{c1::Backbone}}: {{c1::linking functions and processes with the information system}}</li>
+<li>{{c2::Basis}}: {{c2::foundation for information supply as a Shared Service for all users}}</li>
+</ul>"	
+{{c1::Technology Emergence}} is {{c2::a view of IT that it is driven by social influences and organizational processes and is a response to social needs}}.	
+{{c1::Technology Determinism}} is {{c2::a view of IT that it is an objective component that has a deterministic influence on organizations}}.	
+"Example:<br />
+Application Platform"	"<ul>
+<li>database systems with database functions</li>
+</ul>"
+{{c1::An Application Platform}} is {{c2::a component of the technical infrastructure and provides generic software functions that are used by application systems}}. {{c1::Application platforms}} provide functions that {{c3::cannot necessarily be used directly by a user}}.	
+"Question:<br />
+With which modeling element is System Software modeled in ArchiMate?"	"<img src=""2025-Bild-Kalla-System_Software.png"" alt="""">"
+{{c1::System Software}} is {{c2::an active structure of the technology layer as software for integrating, commissioning, and controlling hardware}} for {{c3::the storage, execution, and use of software}}.	
+"Question:<br />
+What strategic significance do Application Systems have within IT/IS strategy?"	Application Systems concretize strategic priorities through the selection and design of those systems that enable competitive advantages, efficiency gains, or new business models.
+"{{c1::An application system}} is {{c2::a technical system in the form of an application that solves a business problem through the orchestration of software and hardware}}.<br />
+{{c1::{{c2::<img src=""2014-Bild-Teubner-Klein-Applikationssystem_im_Schichtenmodell.png"" alt=""""><br />
+Application system in the layer model}}}}"	
+"true or false:  <br />
+The POSC classification describes a layered architecture for information systems."	"false:  <br />
+The POSC classification stands for Planning, Organization, Staffing, and Controlling - it classifies management tasks, not architectures."
+{{c1::The POSC classification}} is {{c2::a categorization of management tasks into Planning, Organization, Staffing, and Controlling}}.	
+{{c1::An Information Function}} is {{c2::a task for planning, creating, carrying out, maintaining, and further developing the Information Infrastructure in an organization}}. {{c1::Information Functions}} represent a cross-organizational function that supports {{c3::other business functions in value creation}}.	
+"<p>{{c1::Factors of Information Functions}} are:</p>
+<ul>
+<li>{{c2::business-related}}<ul>
+<li>{{c2::responding to requirements}}</li>
+<li>{{c2::promoting business-oriented IT applications}}</li>
+<li>{{c2::providing vision}}</li></ul></li>
+<li>{{c3::provider-related}}<ul>
+<li>{{c3::managing external providers}}</li>
+<li>{{c3::providing information for purchasing and sourcing}}</li></ul></li>
+<li>{{c4::technology-related}}<ul>
+<li>{{c4::building a flexible technical infrastructure}}</li>
+<li>{{c4::providing new and existing technologies}}</li></ul></li>
+</ul>"	
+"<p>The Information Functions consist of:</p>
+<ul>
+<li>{{c1::tasks in Application Systems Management}}</li>
+<li>{{c1::tasks in Information Resource Management}}</li>
+<li>{{c1::tasks in Technical Infrastructure Management}}</li>
+</ul>"	
+{{c1::Infrastructure in strategy}} is {{c2::a shared and scalable resource at the organizational level}} that supports {{c3::different business processes and business functions}}.	
+"Example:<br />
+Information Infrastructure"	"<ul>
+<li>databases</li>
+<li>hardware</li>
+<li>network</li>
+<li>software</li>
+</ul>"
+"true or false:<br />
+An Information Infrastructure is a fully plannable and controllable system with clearly defined boundaries."	"false:<br />
+An Information Infrastructure has grown historically, is open, evolutionary, and only centrally controllable to a limited extent."
+"true or false:<br />
+Information Infrastructures can be completely replaced by target architectures in transformation programs because standards make evolution deterministic."	"false:<br />
+Information Infrastructures are open, path-dependent, and co-evolve with organization and market, so target architectures merely represent guardrails and strategically evolutionary capability, tactically migration paths, and operationally coexistence management remain necessary."
+"{{c1::Information Infrastructure (IIS)}} is {{c2::an ICT infrastructure that takes all measures to collect, store, use, and provide information, communication, and consolidation of information efficiently and effectively}}.<br />
+{{c1::{{c2::<img src=""2014-Bild-Teubner-Klein-Integrated_IIS.png"" alt=""""><br />
+Layer model of an integrated Information Infrastructure}}}}"	
+"<p>The Information Infrastructure consists of:</p>
+<ol>
+<li>{{c1::information resources}}</li>
+<li>{{c1::application systems}}</li>
+<li>{{c1::technical infrastructure}}</li>
+</ol>"	
+{{c1::Information Work}} is {{c2::the task of supplying information to users and organizations}}.	
+"true or false:<br />
+The Hawthorne effect is an effect in interviews in which the interviewer does not represent a neutral instance and can thereby subjectively influence the interviewed person and the interview."	true
+{{c1::Change Management}} is {{c2::the management of change processes with regard to the organization, people, and technologies in order to implement a change based on a strategy}}.	
+{{c1::A defensive IT strategy}} is {{c2::a strategy in which the influence of ICT is pushed back}}.	
+{{c1::A moderate IT strategy}} is {{c2::a strategy that considers ICT development as a component in the overall context of a company for developing specific areas of a company}}.	
+{{c1::An aggressive IT strategy}} is {{c2::a strategy based on the assumption that ICT development is of the highest importance for securing business success potential}}.	
+{{c1::The IT momentum strategy}} is {{c2::a strategy based on the assumption that current ICT development is sufficient for future business requirements and that new technologies should be approached cautiously}}.	
+{{c1::An application (Application Software)}} is {{c2::software for providing functions to users}}.	
+"true or false:<br />
+In the Strategic Alignment Model, IT/IS strategy is considered a separate strategy that must be aligned with other strategies."	true
+"{{c1::The Strategic Alignment Model (SAM)}} is {{c2::a model for representing the relationship between IT and organization, which is depicted through strategic integration and operational integration}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Krcmar-Strategic_Alignment_Model.png"" alt=""""><br />
+Strategic Alignment Model}}}}"	
+A Balanced Scorecard (BSC) is {{c2::a method for cost-benefit analysis and a concept for measuring, documenting, and controlling activities in an organization}}.	
+Components of the Balanced Scorecard are linked with each other {{c1::through cause-effect chains}} and enable the tracking of {{c2::leading (drivers) as well as lagging (outcome) indicators}}.	
+"<p>{{c1::A Balanced Scorecard}} consists of:</p>
+<ul>
+<li>{{c2::Customer}}</li>
+<li>{{c2::Financial}}</li>
+<li>{{c2::Internal Process}}</li>
+<li>{{c2::Learning and Growth}}</li>
+</ul>"	
+{{c1::A functionality}} is {{c2::a simple function that supports a business process or business task}}.	
+"Question:<br />
+What is project management according to Teubner (2018)?"	Projects strive for producing a specific outcome in a defined quality within a given cost and time frame.
+{{c1::Project management}} is {{c2::the management of projects with regard to creating a specific output with a defined quality within a given time and with given costs}}.	
+"Question:<br />
+What is the main goal of an Enterprise Architecture?"	Supporting rational decision-making through the analysis of Enterprise Architecture models to obtain decision-relevant information.
+"Question:<br />
+What is an Enterprise Architecture according to ISO/IEC/IEEE 2011?"	The fundamental organization of a system, embodied in its components, their relationships to each other and to the environment, as well as the principles that guide design and further development.
+"true or false:<br />
+Enterprise Architecture is a purely IT concept for managing system landscapes."	"false:<br />
+EA is interdisciplinary and includes businesses, processes, organizations, information, applications, and technologies."
+{{c1::An Enterprise Architecture}} is {{c2::the fundamental organization of a system into its components and relationships to one another, to the environment, and to its architectural principles}}.	
+{{c1::The Enterprise Architecture}} is defined by {{c2::the set of hardware, software, and communication infrastructure, as well as organizational structures and business processes}} of a company.	
+"<p>The Enterprise Architecture consists of:</p>
+<ul>
+<li>{{c1::application architecture, data architecture, and information architecture}}</li>
+<li>{{c1::information resource architecture}}</li>
+<li>{{c1::organizational architecture}}</li>
+<li>{{c1::strategic architecture}}</li>
+<li>{{c1::technical infrastructure architecture}}</li>
+</ul>"	
+"true or false:<br />
+ICT Infrastructure is identical to individual specialist applications such as ERP or CRM systems."	"false:<br />
+ICT Infrastructure represents a shared technical and organizational basis, whereas ERP or CRM are specific application systems."
+{{c1::Technical Infrastructure}} is {{c2::the set of prerequisite infrastructure needed for installing and using software applications}}.	
+{{c1::The technical infrastructure}} represents the foundations of {{c2::technical functionalities}} and therefore has a {{c3::lasting character}}.	
+"<p>A technical infrastructure consists of:</p>
+<ol>
+<li>{{c1::Application Platforms}}</li>
+<li>{{c1::System Software}}</li>
+<li>{{c1:: Hardware}}</li>
+</ol>"	
+{{c1::Infrastructure in computer science}} is {{c2::the set of hardware and software for processing, storage, and communication through technical infrastructure and organizational infrastructure}}.	
+"{{c1::The IT/IS portfolio}} is {{c2::the systematic listing and analysis of an organization's information systems}}. {{c1::The IS portfolio}} supports {{c3::investment decisions}} for the {{c3::identification of projects that maximize value for an organization}}.<br />
+{{c1::{{c2::{{c3::<img src=""2025-Bild-Teubner-IT-IS-Portfolio.png"" alt=""""><br />
+Exemplary IT/IS portfolio}}}}}}"	
+The IT/IS portfolio is usually structured according to criteria {{c2::of costs, benefits, and risks}}.	
+"Question:<br />
+What strategic role do information resources play?"	Information resources such as data and knowledge function as strategic assets that enable competitive advantages when they are valuable, rare, and difficult to imitate.
+"true or false:<br />
+Information Resources are purely technical in nature and independent of organizational knowledge."	"false:<br />
+Information Resources explicitly also include tacit knowledge, competencies, and organizational routines."
+{{c1::An information resource}} is {{c2::a reusable information source that must be maintained and kept in good condition as part of information quality management}}.	
+"Example:<br />
+Pioneer"	"<ul>
+<li>OpenAI as a pioneer for generative AIs</li>
+</ul>"
+{{c1::The pioneer}} is {{c2::a point in time of market entry into a new market by actors that develop a technology or introduce it into the market}}.	
+"<p>{{c1::ITIL 4}} consists of four dimensions to ensure a holistic approach to Service Management:</p>
+<ul>
+<li>{{c2::information and technologies}}</li>
+<li>{{c2::organizations and people}}</li>
+<li>{{c2::partners and suppliers}}</li>
+<li>{{c2::value streams and processes}}</li>
+</ul>"	
+"Question:<br />
+How does ITIL support the continual improvement of IT services?"	ITIL integrates the principle of Continual Service Improvement, which systematically analyzes performance indicators and identifies optimization potential.
+"true or false:<br />
+ITIL is primarily a strategic framework because it aligns the service portfolio with corporate strategy."	"false:<br />
+ITIL is primarily an operational and tactical best-practice framework for service provision that can support strategic alignment but does not replace strategic decisions about value logic, business models, and portfolio allocation."
+"true or false:<br />
+ITIL processes are universal and can be implemented identically regardless of organizational context."	"false:<br />
+ITIL processes must be adapted to the size, maturity level, industry, and strategic orientation of the organization."
+"{{c1::ITIL (Information Technology Infrastructure Library)}} is {{c2::an IT Service Management Framework of integrated process descriptions and role descriptions for planning, creating, monitoring, and controlling high-quality and economical IT products and IT services}}. {{c1::ITIL}} is the standard in the area of {{c3::Service Management}}.<br />
+{{c1::{{c2::{{c3::<img src=""2026-Bild-Teubner-IT_Service_Value_Chain_in_ITIL_V4.png"" alt=""""><br />
+IT Service Value Chain in ITIL V4}}}}}}"	
+"Question:<br />
+What does Business-IT Alignment mean in the context of EAM?"	It describes the alignment between strategic business goals and the capabilities of IT architecture in order to achieve optimal value creation.
+"true or false:<br />
+Business-IT Alignment represents one of the most important concerns for IT management."	true
+"{{c1::Business-IT Alignment}} is {{c2::the role of strategy that gives impulses to an information system and is influenced by it}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Krcmar-Alignment_und_Enable.png"" alt=""""><br />
+Alignment and Enablement}}}}"	
+"Question:<br />
+What is a Service according to ITIL (2019)?"	[A Service is a] means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks.
+"Question:<br />
+What is a Service according to The Open Group (2023)?"	A service is the externally visible behavior of the providing system from the perspective of systems that use that service. For the users, only this exposed behavior and the offered value, together with non-functional aspects, are relevant.
+"true or false:<br />
+A service is used to realize state changes."	true
+"{{c1::A Service}} is {{c2::a set of functions and the resulting behavior that an object provides to its environment and thereby creates value}}.<br />
+{{c1::{{c2::<img src=""2024-Bild-Schoenberger-Service-Definition.png"" alt=""""><br />
+Service Definition}}}}"	
+{{c1::Enterprise value}} is {{c2::the value of a company through the measurement of company performance, strategic implications, and technical efficiency}}.	
+"Question:<br />
+What is a project?"	A project is a time-limited undertaking with a clearly defined beginning and end that aims to achieve a concretely described result in specified quality, time, and within defined cost and resource constraints.
+"Question:<br />
+What typical duration does a project have?"	A project is time-limited and usually lasts several months to a year or longer, but always has a predefined start and end point.
+"Question:<br />
+What goal does a project pursue?"	A project pursues the goal of providing a specific result or product whose scope, quality, time, and costs are clearly defined and measurable.
+"Question:<br />
+How is the scope of a project defined?"	The scope of a project refers to a single clearly delimited investment or measure that is planned, implemented, and completed independently.
+"Question:<br />
+How is the success of a project measured?"	The success of a project is assessed based on adherence to scope, quality, time, and costs.
+{{c1::A project}} is {{c2::an undertaking to achieve a defined goal with a defined budget and time frame}}. {{c1::A project}} is isolated from other {{c1::projects}}.	
+"true or false:<br />
+When an organization begins adopting an agile approach, managers should shield Scrum teams from changes and uncertainties caused by those who do not yet understand agile approaches."	"false:<br />
+Change and uncertainty are part of life. Instead of resisting these influences, agile leadership should support teams in developing the ability to deal with change and uncertainty. Agile leaders should support teams in working with their environment so that people in the value chain pursue a common goal."
+{{c1::Agility is the capability}} {{c2::to recognize a changing environment and the resulting innovation opportunities and to use them quickly but also effectively}}	
+"Example:<br />
+Digitalization"	"<ul>
+<li>digitalization of processes that not only leads to digitisation of analog processes into digital processes, but also brings socio-economic and organizational changes</li>
+<li>Smart Inventory Management</li>
+</ul>"
+"Question:<br />
+What is digitalization according to Teubner, Stockhinger (2020)?"	Digitalization refers to the interplay between digital technologies and social and institutional processes that render these technologies infrastructural so that they eventually shape our modern society and economy and are shaped by it.
+{{c1::Digitalization}} is {{c2::all socio-economic and technological changes caused by digital technologies and their influence on digital infrastructure}}. {{c1::Digitalization}} has social, organizational, regulatory, and economic influence.	
+"true or false:<br />
+Rationality leads to structured planning of strategies."	true
+"true or false:<br />
+Synergy effects arise through the short-term harmonization of business functions or the long-term harmonization of corporate functions."	true
+{{c1::A synergy effect}} is {{c2::an effect in which one component has a positive effect on another component}}.	
+{{c1::Automation}} is {{c2::the substitution of human labor by machines or technology}}.	
+{{c1::Information}} is {{c2::an intangible good that includes a meaningful connection to data in the form of action-determining knowledge for decision-making about past, present, and future events, facts, processes, and states}}.	
+Information is not consumed even with {{c1::repeated use}} and can therefore be reused.	
+{{c1::The Chief Digital Officer (CDO)}} is {{c2::a position at the executive level of a company}} that is responsible for {{c3::the corporate strategy for digital transformation}}. {{c1::The Chief Digital Officer}} is therefore a Boundary Spanner between {{c4::IT/IS and other business units}}.	
+"Question:<br />
+Briefly and precisely discuss what is meant by the return on the differential investment."	It refers to the interest on the difference between different amounts of capital invested at the risk-free interest rate.
+"Question:<br />
+In which phase of the investment process does the target-actual comparison occur?"	control phase
+"true or false:<br />
+The terms action, objects, and time fall under the definition of investment."	true
+{{c1::An investment}} is {{c2::the use of resources to achieve payments or other outcomes in the future}}.	
+"{{c1::The investment process}} consists of several steps:<br />
+{{c2::problem statement}} -&gt; {{c3::analysis}} -&gt; {{c4::evaluation}} -&gt; {{c5::implementation}} -&gt; {{c6::control}}"	
+"true or false:<br />
+The object of action of information and communication technology is the physical basis for the application landscape."	true
+"{{c1::Information and communication technology (ICT)}} is {{c2::a layer of information management as well as the basic technology and the set of technology for storing, processing, communicating, and bundling information through computers}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Teubner-Informations_und_Kommunikationstechnologie.png"" alt=""""><br />
+Information and communication technology}}}}"	
+"Question:<br />
+At which competitive level is the focus of the Market-Based View?"	at the strategic business unit
+"Question:<br />
+What is the overarching goal of the Market-Based View?"	growth through cash flow balance in the lifecycle of business units
+"Question:<br />
+What is the strategic focus of the Market-Based View?"	defending and expanding existing businesses as well as adapting to market and competitive conditions
+"Question:<br />
+What is the basic idea of the Market-Based View?"	The Market-Based View sees the company as a portfolio of business units. Strategic success is based on positioning in the market and adaptation to external competitive conditions.
+"Question:<br />
+What is the basis of competition in the Market-Based View?"	product-related cost advantages or differentiation advantages
+"Question:<br />
+Which statement about the Resource-Based View (RBV) and Market-Based View (MBV) is correct?<br />
+a) MBV emphasizes correct timing when purchasing resources<br />
+b) RBV explains intra- and inter-industry performance differences<br />
+c) MBV explains differences within an industry<br />
+d) MBV sees industry choice, timing, and positioning as competitive advantage"	d)
+"Question:<br />
+What role does top management play in the Market-Based View?"	it allocates financial resources to strategic business units
+"Question:<br />
+What is the character of strategic advantages in the Market-Based View?"	they are time-limited, erode easily, are business-specific, and easily observable
+"Question:<br />
+What is the role of business units in the Market-Based View?"	Business units function as independent profit centers and are owners of people and resources.
+"Question:<br />
+Where does the competitive advantage of the Market-Based View lie?"	in product-related cost advantages or differentiation advantages
+"true or false:<br />
+In the Market-Based View, top management allocates financial resources to strategic business units."	true
+"true or false:<br />
+The basis of competition in the Market-Based View is enterprise-wide core competencies."	"false:<br />
+it is based on product-related cost or differentiation advantages"
+"true or false:<br />
+The Market-Based View is based on a long-term planning horizon."	"false:<br />
+the Market-Based View works in the short to medium term"
+"true or false:<br />
+The Market-Based View operates predominantly in mature and rather static markets."	true
+"true or false:<br />
+The Market-Based View pursues a rather defensive strategic focus and adapts to market forces."	true
+"true or false:<br />
+The market-based view explains competitive advantages primarily through internal capabilities of an organization."	"false:<br />
+The market-based view explains competitive advantages primarily through industry structure and competitive intensity."
+"true or false:<br />
+Strategic advantages of the Market-Based View are rather long-lasting and difficult to imitate."	"false:<br />
+they are time-limited, business-specific, and easily observable"
+{{c1::The market-based view}} is {{c2::a view of strategy that assumes that competitive advantage is created through adaptability, market positioning and timing within a market, and strategic positioning in that market}}.	
+A {{c1::competitive advantage}} in {{c2::the market-based view}} can be created through price positioning.	
+"Question:<br />
+What is the overarching goal of the Resource-Based View?"	sustainable growth through development, use, and transfer of core competencies
+"Question:<br />
+What is the strategic focus of the Resource-Based View?"	strengthening existing businesses and opening up new markets through the use and expansion of internal competencies
+"Question:<br />
+What is the basic idea of the Resource-Based View?"	The Resource-Based View considers the company as a portfolio of resources and capabilities. Competitive advantage arises from the development, use, and combination of company-specific competencies or resources.
+"Question:<br />
+What is the basis of competition in the Resource-Based View?"	the use and combination of enterprise-wide core competencies
+"Question:<br />
+What role does top management play in the Resource-Based View?"	it integrates resources and capabilities into an enterprise-wide business concept
+"Question:<br />
+What is the character of strategic advantages in the Resource-Based View?"	they are long-lasting, difficult to attack, and based on hidden knowledge
+"Question:<br />
+What is the role of business units in the Resource-Based View?"	They serve as competence centers for accumulating and developing resources and capabilities.
+"Question:<br />
+How is the company interpreted in the Resource-Based View?"	as a portfolio of resources and capabilities that are used and further developed across the enterprise
+"Question:<br />
+Where does the competitive advantage of the Resource-Based View lie?"	in the use and combination of unique, difficult-to-imitate corporate competencies
+"true or false:<br />
+The Resource-Based View mainly considers the company as a portfolio of capabilities and resources that are used across the enterprise."	true
+"true or false:  <br />
+The Resource-Based View focuses only on external market resources."	"false:  <br />
+The Resource-Based View considers internal, unique resources of an organization as a source of sustainable competitive advantages."
+"true or false:<br />
+The Resource-Based View assumes dynamic and rather emerging markets."	true
+"true or false:<br />
+The Resource-Based View pursues a rather defensive strategic focus and mainly reacts to competitive forces."	"false:<br />
+It is rather offensive and uses internal competencies for expansion."
+"true or false:<br />
+Strategic advantages of the Resource-Based View are considered long-lasting, difficult to attack, and often based on hidden knowledge."	true
+{{c1::The resource-based view}} is {{c2::a view of strategy that assumes that competitive advantage is created through unique, valuable, inimitable, and non-substitutable resources according to the VRIN Framework or VRIO Framework}}.	
+"Question:<br />
+What is the central difference between strategy as plan and strategy as pattern?"	Strategy as plan describes intended actions, whereas strategy as pattern denotes the actually realized behavior of a company that is recognizable over time.
+"Question:<br />
+What is strategy according to Johnson, Scholes, Whittington (2008)?"	Strategy is the direction and scope of an organization over the long term, which achieves advantage in a changing environment through its configuration of resources and competences with the aim of fulfilling stakeholder expectations.
+"true or false:<br />
+A strategy provides a short-term orientation framework for future action."	false
+"true or false:<br />
+A strategy secures alignment between strategic decisions and is therefore more than merely the sum of strategic decisions."	true
+"true or false:<br />
+Strategy primarily describes operational measures for short-term efficiency improvement."	"false:<br />
+Strategy is a long-term orientation framework that determines the selection and combination of activities and only frames operational measures."
+"true or false:<br />
+Strategies provide a rigid framework and cannot be adapted when environmental conditions change."	false
+"true or false:<br />
+Strategies are the link between goals and operational decisions."	true
+"true or false:<br />
+Goals are an integral component of a strategy."	false
+"{{c1::A strategy}} is {{c2::a long-term flexible orientation framework for future actions and planning for achieving goals and advantages in a changing environment through the use of resources in operational measures in order to fulfill stakeholder expectations}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Ziele_Strategien_Massnahmen.png"" alt=""""><br />
+Goals, strategies, and measures in context}}}}"	
+"<p>A strategy is:</p>
+<ul>
+<li>{{c1::Pattern of activities}}</li>
+<li>{{c1::perspective, vision, and orientation}}</li>
+<li>{{c1::plan for implementation}}</li>
+<li>{{c1::Ploy to outsmart competitors}}</li>
+<li>{{c1::position consisting of products and services in a market}}</li>
+</ul>"	
+"<p>{{c1::A strategy}} has the following properties:</p>
+<ul>
+<li>{{c2::influenced by external influences and competition of an organization}}</li>
+<li>{{c2::relation to the survival and profitability of the company}}</li>
+<li>{{c2::set of activities}}</li>
+<li>{{c2::includes major decisions for broad areas of a company}}</li>
+<li>{{c2::future-oriented}}</li>
+</ul>"	
+{{c1::Operations Management}} is {{c2::the design, planning, control, and monitoring of all industrial value creation processes required for developing, creating, and delivering products and services}}.	
+{{c1::The application architecture}} is {{c2::the architecture of applications, applications, and services that supports business functions and business processes}}.	
+{{c1::The&nbsp;data architecture}}&nbsp;is {{c2::the management of data with the help of information systems to describe enterprise data in a data model}}. In {{c1::the data architecture}}, {{c3::a target data architecture is described through the identification and analysis of data and&nbsp;information needed in the&nbsp;business architecture}}.	
+"Question:<br />
+What is a Service Level Agreement according to Karten (1997)?"	[A SLA is a] formal negotiated agreement which helps to identify expectations, clarify responsibilities, and facilitate communication between a service provider and its customers.
+{{c1::A Service Level Agreement (SLA)}} is {{c2::a framework contract by a service provider regarding the type of service, specifically the service object and the quality of the service, the service level}}.	
+{{c1::The architecture of a system}} is {{c2::the blueprint, literature, language, and all decisions needed to design and represent the system of functions and structures}}.	
+"Example:<br />
+complementary good"	"<ul>
+<li>human capital</li>
+<li>Social Capital</li>
+</ul>"
+{{c1::A complementary good}} is {{c2::an associated good to other goods}}.	
+{{c1::An increase in demand for a related good}} leads to {{c2::an increase in demand for the complements}}.	
+{{c1::Productivity}} is {{c2::a measure that relates the output of production to the input required to generate this output}}.	
+{{c1::\(\text{Productivity}\)}} \(=\) {{c2::\(\frac{\text{Output in quantity units} }{\text{Input in quantity units} }\)}}	
+Through {{c1::saving activities}} and {{c1::investment activities}}, {{c2::productivity}} can be increased.	
+{{c1::A decline}} {{c2::in productivity}} is associated with {{c1::an increase}} {{c3::in unemployment}}.	
+"Example:<br />
+IT Operations Management?"	"<ul>
+<li>administrative tasks: procurement of hardware and technologies, inventory, warehousing, license management</li>
+<li>Security &amp; Compliance: auditing, data security, Disaster Recovery</li>
+<li>technical tasks: Facility Management, Hardware Deployment, Software Deployment</li>
+<li>maintenance tasks: monitoring, updating, maintenance</li>
+<li>User Services: user administration, Helpdesk</li>
+</ul>"
+"Question:<br />
+What is the central goal of IT Operations Management?"	IT Operations Management aims to ensure the stable, efficient, and secure provision of IT services in ongoing operations while meeting service-level requirements.
+"Question:<br />
+What does IT Operations Management consist of?"	"<ul>
+<li>administrative tasks</li>
+<li>Security &amp; Compliance</li>
+<li>technical tasks</li>
+<li>User Services</li>
+<li>maintenance</li>
+</ul>"
+"true or false:<br />
+IT Operations Management primarily deals with innovation projects and digital business models."	"false:<br />
+IT Operations Management primarily focuses on stability, availability, performance, and efficiency of existing IT services."
+{{c1::IT Operations Management}} is {{c2::the creation of an organizational structure and processes for operating and controlling the Information Infrastructure}}.	
+"Question:<br />
+How does IT architecture support Business-IT Alignment?"	IT architecture translates strategic business requirements into structured IT components and ensures coherence between business processes and IT systems.
+"Question:<br />
+What relationship exists between IT architecture and IT Portfolio Management?"	IT Portfolio Management prioritizes initiatives along strategic goals, while IT architecture ensures the structural coherence and technical consistency of these initiatives.
+"true or false:<br />
+The strategic importance of IT necessarily decreases with increasing IT standardization."	"false:<br />
+Standardized IT can remain strategically relevant if it is embedded in unique organizational configurations."
+"Question:<br />
+How does program management differ from project management from a benefit realization logic in information management?"	Program management is benefit-oriented and controls interdependencies, change, and capability building for goal achievement, whereas project management optimizes scope, time, and costs with a deliverable orientation, which is why strategically benefit hypotheses, tactically Benefits Governance, and operationally adoption and operational capability must be established as success criteria of the program.
+"true or false:<br />
+Programs differ from projects merely by their longer duration."	"false:<br />
+Programs are strategically aligned bundles of interdependent projects with benefit responsibility, not merely temporally larger projects."
+"Question:<br />
+How can the Solow Paradox be interpreted with redistribution effects as a portfolio control problem?"	If IT value is redistributed through competition to consumers or digital market leaders, low productivity signals arise at the macroeconomic level while high firm-specific profits are possible, which is why portfolio management must strategically consider differentiation potential, tactically positioning in value networks, and operationally monetization mechanisms.
+"true or false:<br />
+A high maturity level in ITIL processes is a sufficient condition for successful Digital Business because operational stability eliminates all innovation risks."	"false:<br />
+ITIL maturity stabilizes operations but does not replace product strategy, platform logic, or data-based value creation; digital success additionally requires exploration, governance, and architecture for generativity."
+"Question:<br />
+Why is the distinction between IT and IS central for strategic alignment?"	Because alignment must integrate not only technological resources, but also organizational structures, competencies, and decision processes that are included in the concept of IS.
+"Question:<br />
+What distinguishes Information Technology from an Information System?"	Information Technology denotes the technical infrastructure of hardware, software, and networks, whereas an Information System is a socio-technical system that integrates IT, people, and organizational processes to enable information supply and value creation.
+"Question:<br />
+How does Information Systems (IS) differ from Information Technology (IT) from a strategic perspective?"	IT denotes technological resources such as hardware, software, and networks, whereas IS as a socio-technical system additionally includes people, processes, and organizational structures and thus enables strategic value creation.
+"true or false:<br />
+IT and IS are interchangeable terms from a strategic perspective."	"false:<br />
+IT denotes technical means, whereas IS represent strategically relevant socio-technical systems."
+"Question:<br />
+What is Technological Turbulence?"	Technological Turbulence describes the speed of technological change within an industry.
+"true or false:<br />
+Technological Turbulence weakens the relationship between digital orientation and environmental performance."	"false:<br />
+Technological Turbulence strengthens the positive relationship because digitally oriented firms can respond better to changes."
+"Question:<br />
+How much budget is available on average for IT in a company?"	2-10 %
+"true or false:<br />
+A large part of IT costs is used for ongoing cost items, while investments and improvement account for only a small part."	"false:<br />
+The ratio between operational costs and investments is approximately balanced."
+"true or false:<br />
+On average across all industries, a company has an IT budget of 10 - 15 % of revenue."	"false:<br />
+The average is approximately 2 - 10 %."
+"true or false:<br />
+On average over the period between 2010 - 2020, the IT budget in companies was reduced."	"false:<br />
+It was increased."
+A large part of the IT/IS budget is used for {{c1::adapting and maintaining the Information Infrastructure}} and only a small part is used for investment in {{c1::IT/IS strategy and innovation}}.	
+"Question:<br />
+How does IT Operations Management differ from strategic information management?"	IT Operations Management focuses on operational operation and service provision, whereas strategic information management defines long-term target images and competitive advantages.
+"<p>{{c1::Tasks in Application Systems Management}} are:</p>
+<ul>
+<li>{{c2::Application Architecture Management}}</li>
+<li>{{c2::Business Software Engineering}}</li>
+<li>{{c2::Enterprise Application Integration}}</li>
+<li>{{c2::integration of software applications}}</li>
+</ul>"	
+"<p>{{c1::Tasks in Information Resource Management}} are:</p>
+<ul>
+<li>{{c2::data quality management}}</li>
+<li>{{c2::data backup}}</li>
+<li>{{c2::Enterprise Data Modelling}}</li>
+<li>{{c2::Enterprise Information Integration}}</li>
+<li>{{c2::information compliance}}</li>
+</ul>"	
+"<p>Goals of information management are:</p>
+<ul>
+<li>with regard to organizational goals: {{c1::information supply}}</li>
+<li>with regard to corporate goals: {{c1::ensuring efficient use of information}}</li>
+<li>{{c1::implementation of an Information Infrastructure}}</li>
+</ul>"	
+"<p>Challenges of Big Data are:</p>
+<ul>
+<li>{{c1::Compliance}}</li>
+<li>{{c1::creation of new tasks, processes, and responsibilities}}</li>
+<li>{{c1::transformation of data}}</li>
+</ul>"	
+"true or false:<br />
+Information systems are purely technical systems without a social dimension."	"false:<br />
+Information systems are socio-technical systems that integrate people, processes, and technology."
+"{{c1::An information system (IS)}} is {{c2::a layer of information management and a socio-technical system that includes human and machine subsystems}}. {{c1::An information system}} is used for {{c3::optimal provision of information and communication according to economic criteria}}.<br />
+{{c1::{{c2::{{c3::<img src=""2025-Bild-Teubner-Informationssystem.png"" alt=""""><br />
+Information system}}}}}}"	
+"{{c1::Information management (IM)}} is {{c2::a subarea of organizational leadership that has the task of ensuring the best possible use of the information resource for organizational goals}}. This is enabled by {{c4::the development and leadership of an Information Infrastructure}}. {{c1::Information management}} is an elementary component of {{c3::corporate management}}.<br />
+{{c1::{{c2::{{c3::<img src=""2023-Bild-Krcmar-Struktur_des_Informationsmanagements.png"" alt=""""><br />
+Structure of information management}}}}}}"	
+{{c1::A value chain}} is {{c2::the sum of all technological and economic activities of a company to conduct business and create value}}.	
+{{c1::Profitability}} is {{c2::the ability of production to generate revenues that exceed its costs}}.	
+{{c1::\(\text{Profitability}\)}} \(=\) {{c2::\(\frac{G}{B}\) with \(G\) as profit, \(B\) as reference value}}	
+"<p>{{c1::Tasks in Technical Infrastructure Management}} are:</p>
+<ul>
+<li>{{c2::Identity and Access Management}}</li>
+<li>{{c2::network security}}</li>
+<li>{{c2::standardization}}</li>
+<li>{{c2::virtualization}}</li>
+</ul>"	
