@@ -1,0 +1,1518 @@
+#separator:tab
+#html:true
+"Frage:<br />
+Warum ist es analytisch wichtig, Organisationen auch als politische Arenen zu betrachten?"	Weil Entscheidungen häufig aus Verhandlungen, Interessen und Machtkonstellationen entstehen und nicht allein aus rationalen Zieloptimierungen.
+"Frage:<br />
+Was bedeutet es, Organisationen als politische Arenen zu verstehen?"	Organisationen werden als Räume verstanden, in denen Akteure mit unterschiedlichen Interessen Macht einsetzen, um Entscheidungen zu beeinflussen und Konflikte auszuhandeln.
+"Frage:<br />
+Was ist die Politische Arena-Theorie nach Gorgiou (1973)?"	[Organisations are] arbitrary focusses of interests, marketplaces whose structures and processes are the outcomes of the complex accommodations made by actors exchanging a variety of incentives and pursuing a diversity of goals.
+"wahr oder falsch:<br />
+Organisationen sind aus Sicht der Political-Arena-Theorie zielgerichtete, einheitlich handelnde Akteure."	"falsch:<br />
+Organisationen sind Austragungsorte divergierender Interessen, in denen Ziele durch Verhandlungen entstehen."
+{{c1::Die Politische Arena-Theorie}} ist {{c2::eine Theorie über Organisationen, dass Organisationen keine eigenen Ziele haben können und Austragungsort für Verhandlungen und Interesse zwischen Akteuren sind}}.	
+{{c1::Die Coalition-Theorie}} ist {{c2::eine Theorie zu Organisationen, dass eine Organisation aus einer Gruppe von Teilnehmenden, spezifisch einer Koalition besteht, welche Teil des Entscheidungsprozesses sind}}. Ziele sind {{c1::in der Coalition-Theorie}} nicht das Ergebnis von Macht einzelner Einheiten, sondern entstehen durch {{c3::Verhandlungen innerhalb der Koalition}}.	
+{{c1::Satisfaction}} ist {{c2::eine Theorie von Organisationen und deren Ziele, dass diese nicht maximiert, sondern gegeneinander aufgewogen werden soll und eine Lösung für alle ausreichend gut sein muss}}.	
+"Beispiel:<br />
+Equilibrium-Theorie"	"<ul>
+<li>Investoren investieren Geld für Dividenden</li>
+<li>Mitarbeiter arbeiten für Geld</li>
+</ul>"
+"Frage:<br />
+Was ist die Equilibrium-Theorie nach March, Simon (1968)?"	Each sought inducements in return for their contributions; for example, employees contributed work in return for wages and other gratuities, investors contributed funds in return for financial returns and certain levels of security.
+{{c1::Die Equilibrium-Theorie}} ist {{c2::eine Theorie über Organisationen, dass eine Organisation nur effektiv sein kann, wenn ein Gleichgewicht zwischen den Beiträge der Beteiligten und der Kompensation an Beteiligten vorhanden ist}}. In {{c1::der Equilibrium-Theorie}} existiert zudem ein Peak Coordinator, üblicherweise das Management, welche auf die Zustimmung und Mitwirkung anderer Akteure angewiesen ist.	
+"Frage:<br />
+Was ist ein Peak Coordinator nach Papandreou (1952)?"	"The Peak Coordinator is conceived as performing the integrating function; he is conceived as formulating the preference system of the enterprise. He does so, however, under the ""weight"" of the unconscious and conscious influences exerted upon him."
+{{c1::Ein Peak Coordinator}} ist {{c2::ein Modell einer Einheit, in welchem eine Einheit durch verschiedene Ziele beeinflusst wird, um ein zu maximierendes Ziel zu erreichen}}. {{c1::Ein Peak Coordinator}} stellt somit klassisch {{c3::das Management}} dar.	
+"Frage:<br />
+Was ist Kritik am Rational Actor Model?"	"<ul>
+<li>die fehlende Konkretisierung in Bezug zur kurzfristigen oder langfristigen Profitmaximierung</li>
+<li>eindimensionales Denken</li>
+<li>Ungewissheit in Bezug zu ökonomischen Entscheidungen für eine Gewinnmaximierung</li>
+</ul>"
+"Frage:<br />
+Warum ist das Rational Actor Model für Organisationen nur begrenzt realistisch?"	Weil Organisationen aus multiplen Akteuren mit unterschiedlichen Interessen bestehen und Entscheidungen unter Unsicherheit getroffen werden.
+"wahr oder falsch:<br />
+Das Rational Actor Model ist ein frühes Modell der Organisationslehre."	wahr
+{{c1::Das Rational Actor Model}} ist {{c2::ein Modell einer Organisation, in welchem die Organisation als ein rationales Individuum gesehen wird, um sein Ziel zur Profitmaximierung zu erreichen}}.	
+{{c1::Ein System of Systems}} ist {{c2::eine Menge an verschiedenen Produktsystemen sowie externen Information, welche miteinander koordiniert und optimiert werden, um ein Ecosystem zu schaffen}}.	
+"Beispiel:<br />
+Produktsystem"	"<ul>
+<li>Integration und Verbindung von Smart Connected Products im der Agrarwirtschaft: Traktoren, Bodenfräse, Anpflanzer</li>
+</ul>"
+{{c1::Ein Produktsystem}} ist {{c2::eine Menge an miteinander verbundenen Produkten, um ein Bedürfnis befriedigen zu können}}.	
+"Frage:<br />
+Waus besteht die technologie-getriebene Erweiterung von Produkten?"	"<ol>
+<li>Produkt</li>
+<li>Smartes Produkt</li>
+<li>Smart Connected Product</li>
+<li>Produktsystem</li>
+<li>System of Systems<br />
+<img src=""2022-Bild-Stockhinger-Erweiterung_von_Produkten_durch_Technologie.png"" alt=""""><br />
+Erweiterung von Produkten durch Technologie</li>
+</ol>"
+"<p>Fähigkeiten von Smart Connected Products sind:</p>
+<ol>
+<li>{{c1::Monitoring}}: {{c1::Sensoren und externe Daten}}</li>
+<li>{{c2::Controlling}}: {{c2::Steuerung und Personalisierung}}</li>
+<li>{{c3::Optimierung}}: {{c3::Nutzung von Algorithmen und Analysen in Kombination mit Real-Time-Monitoring zur Verbesserung der Effizienz und des Output}}</li>
+<li>{{c4::Autonomie}}: {{c4::Kombination von Monitoring, Controlling, Optimierung zur Erreichung von Autonomie}}</li>
+</ol>"	
+"wahr oder falsch:<br />
+Aufgrund der Commodization von IT können kompetitive Vorteil von IT nur schwerer realisiert werden, weshalb eine IT/IS-Budgetierung notwendig ist."	wahr
+{{c1::Kultureller Pluralismus}} ist {{c2::eine Sicht auf Kultur, welche Kultur als integraler Bestandteil einer Organisation sieht, welche nicht beeinflusst werden kann}}.	
+"Frage:<br />
+Was sind Werkzeuge des Cultural Engineering?"	"<ul>
+<li>Kompensation und Vergütung</li>
+<li>Personalbeschaffung</li>
+<li>Personalentwicklung</li>
+</ul>"
+{{c1::Cultural Engineering}} ist {{c2::die Beeinflussung einer Organisationskultur durch das Management von Identität und Verhalten durch Kontrolle und Power}}.	
+{{c1::Die Fragmentierungsperspektive}} ist {{c2::eine Perspektive auf Kultur, in welcher Kultur als mehrdeutig gesehen wird, weshalb ein Konsens nur innerhalb einer bestimmten Situation für eine bestimmte Zeit in einem bestimmten Kontext getroffen werden kann}}. Kultur wird in {{c1::der Fragmentationsperspektive}} daher als {{c3::eine Aufgabe für das Sensemaking}} gesehen.	
+"Frage:<br />
+Was ist eine Subkultur nach Hatch (2012)?"	A subculture is a subset of an organization‘s members that identifies itself as a distinct group within the organization based either on similarity or familarity.
+{{c1::Eine Subkultur}} ist {{c2::eine Menge an Mitgliedern, welche sich innerhalb Kultur als eigene Gruppe identifizieren}}. {{c1::Subkultur}} entsteht aus {{c3::Ähnlichkeit und Homogenität oder aus der häufigen Interaktion}}.	
+{{c1::Die Differenzierungsperspektive}} ist {{c2::eine Perspektive auf Kultur mit einer heterogene Sicht sowie internen und externen Einflüssen, in welcher verschiedene Subkulturen mit verschiedenen Werten existieren}}. Kultur wird in {{c1::der Differenzierungsperspektive}} daher als {{c3::ein Navigationswerkzeug für die Erkennung von Widerstand}} gesehen.	
+"{{c1::Die Integrationsperspektive}} ist {{c2::eine Perspektive auf Kultur mit einer homogenen Sicht und homogenen Werten innerhalb der Kultur}}. Kultur wird in {{c1::der Integrationsperspektive}} daher als {{c3::ein Werkzeug des Management}} gesehen.<br />
+{{c1::{{c2::{{c3::<img src=""2026-Bild-Schellhammer-Integrationsperspektive_auf_Kultur.png"" alt=""""><br />
+Integrationsperspektive auf Kultur}}}}}}"	
+"Frage:<br />
+Woraus besteht eine High-Performance-Kultur?"	"<ul>
+<li>einem hohen Mitarbeiterengagement</li>
+<li>eine höhere Verantwortungsübernahme der Mitarbeiter</li>
+<li>eine höhere Verfügbarkeit an Ressourcen für Mitarbeiter</li>
+</ul>"
+"Frage:<br />
+Was ist ein zentrales Risiko von Forced Ranking-Systemen?"	Demotivation, Ungerechtigkeitsempfinden und Verzerrung realer Leistungsunterschiede.
+"Frage:<br />
+Was ist Forced Ranking nach Cooper, Argyris (1998)?"	Forced ranking (FR) is a performance intervention, which can be defined as an evaluation method of forced distribution, where managers are required to distribute ratings for those being evaluated, into a pre-specified performance distribution ranking.
+"wahr oder falsch:<br />
+Forced Ranking dient der individuellen Förderung aller Mitarbeitenden."	"falsch:<br />
+Forced Ranking dient primär der Identifikation von Leistungsunterschieden und Entscheidungsunterstützung, nicht der individuellen Förderung."
+{{c1::Forced Ranking}} ist {{c2::das Performance Management anhand der Bell-Kurve oder eine Verteilung, in welcher Mitarbeitende in begrenzte Kategorien eingestuft werden}}.	
+"Frage:<br />
+Was sind Nachteile von Performance Management Systemen?"	"<ul>
+<li>bei Kategorisierung und Filterung von untalentierten Mitarbeitenden wird eine fortlaufende Bewertung verzerrt</li>
+<li>Entwicklung von möglicher Unzufriedenheit, wenn die wahrgenommene Leistung nicht der eingeordneten Kategorie entspricht</li>
+<li>unternehmensweite Bewertungen sind durch eine heterogene Menge an Mitarbeiten erschwert</li>
+</ul>"
+"Frage:<br />
+Was sind Vorteile von Forced Ranking?"	"<ul>
+<li>Entscheidungsfindung von Fragen in Bezug von Personal durch quantifizierbare Methoden</li>
+<li>Identifikation von besonders talentierten Mitarbeitenden</li>
+<li>Zwang zur Bewertung von Mitarbeitenden</li>
+</ul>"
+{{c1::Performance Management}} ist {{c2::die Personalentwicklung durch das Monitoring und die Kontrolle von Leistungsstandards von Mitarbeitenden, um diese fördern zu können und Feedback zu ermöglichen}}.	
+{{c1::Ein Performance Management System}} ist {{c2::ein System zum Performance Management}}.	
+"Frage:<br />
+Was ist der Scanlon-Plan nach Schuster (1983)?"	The average worker is able to make and, given the right kind of circumstances wants to make important contributions to the solution of production problems […] the present work force is a reservoir of creativity and experience that, it properly tapped, has the potential to greatly increase productivity.
+"Frage:<br />
+Woraus besteht der Scanlon-Plan?"	"<ul>
+<li>Aufteilung eines Gewinns auf Basis des Unternehmenserfolg mit allen Mitarbeitenden</li>
+<li>Unternehmenskultur der Partnerschaft</li>
+<li>Verhandlungsprozess durch das Management und Mitarbeiter</li>
+</ul>"
+Der Scanlon-Plan ist {{c1::eine Methode zur Personalentwicklung und Kompensation durch Mitarbeitende und das Management}}.	
+{{c1::Eine Bonusvergütung}} ist {{c2::eine Vergütung in Form einer einmaligen Zahlung auf Basis von bestimmten Metriken}}.	
+"Beispiel:<br />
+Employee Benefit"	"<ul>
+<li>betriebliche Altersvorsorge</li>
+<li>Gesundheitsversicherungen</li>
+</ul>"
+{{c1::Ein Employee Benefit}} ist {{c2::eine nicht-monetäre Vergütung für Mitarbeitende}}.	
+{{c1::Eine Gainshare}} ist {{c2::eine Vergütung in Form einer Beteiligung der Mitarbeitenden an dem Gewinn des Unternehmen}}.	
+{{c1::Eine Akkordvergütung (Leistungszulage, Merit Pay)}} ist {{c2::eine Vergütung, welche nach dem Arbeitsergebnis bemessen wird}}.	
+{{c1::Eine Grundvergütung}} ist {{c2::eine Vergütung in Form eines Stundenlohn}}.	
+{{c1::Ein Applicant Tracking System}} ist {{c2::ein System zur automatischen Sortierung und Filterung von Bewerbungen im Rahmen des Personalrecruiting}}.	
+{{c1::Demand-Skills-Profiling}} ist {{c2::das Mapping der Anforderungen und Fähigkeiten von einem Kandidat, um diesen für die Personalauswahl auswählen zu können}}.	
+{{c1::Personalauswahl}} sind {{c2::alle Werkezuge, Methoden und Kriterien, anhand welcher eine Person für eine vakante Stelle ausgewählt wird}}.	
+{{c1::Das Personalrecruiting}} ist {{c2::die Suche nach qualifizierten Bewerbern für einen Arbeitsplatz, um eine vakante Stelle mit einem geeigneten Person zu füllen}}.	
+"wahr oder falsch:<br />
+Mitarbeiterengagement fördert, wie produktiv Mitarbeitende sind. Zudem tendieren engagierte Mitarbeiter weniger häufig dazu, negative Emotionen zu verspüren."	wahr
+"wahr oder falsch:<br />
+Managementengagement ist bedeutend, da es beeinflusst, wie engagiert ihr Team ist. Aus diesem Grund sollte ein möglichst hohes Managementengagement gefördert werden."	wahr
+{{c1::Ein STAR (Skilled Through Alternative Routes)}} ist {{c2::eine Person, welche durch nicht-konventionelle Wege Fähigkeiten erlangt hat und einem Quereinsteiger entspricht}}.	
+"Frage:<br />
+Was sind Motivatoren für den Wechsel des Arbeitgebers bei aktiv suchenden Angestellten?"	gewünschte höhere Seniorität oder mehr Verantwortung
+"Frage:<br />
+Was sind Motivatoren für den Wechsel des Arbeitgebers bei nicht aktiv suchenden Angestellten?"	eine potentiell höhere Vergütung
+"Frage:<br />
+Was ist das bevorzugte Arbeitsmodell von Angestellten?"	ein hybrides Modell in Vollzeit
+"Frage:<br />
+was sind die größten Deal Breaker der Personalbeschaffung?"	"<ol>
+<li>Kompensation</li>
+<li>Work-Life Balance</li>
+<li>Jobsicherheit</li>
+</ol>"
+"wahr oder falsch:<br />
+Ein großer Teil an angestellten Personen  nimmt ihre Verhandlungsposition als positiv und einflussreich gegenüber Unternehmen wahr."	wahr
+"wahr oder falsch:<br />
+Ein großer Teil an angestellten Personen wird häufig, 74 % davon mehrfach im Jahr, eine Jobmöglichkeit angeboten."	wahr
+"wahr oder falsch:<br />
+Kompensation hat den höchsten Einfluss auf die Personalbeschaffung, da eine zu geringe Kompensation der größte Grund für eine abgelehnte Einstellung ist."	wahr
+"wahr oder falsch:<br />
+Eine angebotene Work-Life Balance hat einen hohen Einfluss auf Personalbeschaffung, da dieser als ein wichtigster Aspekte der Arbeit wahrgenommen wird. Daher sollte der Mitarbeiter als ganze Person betrachtet werden und individuelle Bedürfnisse mit einer guten Work-Life Balance gelöst werden."	wahr
+"wahr oder falsch:<br />
+Der Bewerbungsprozess hat Einfluss auf die Personalbeschaffung, da bei einer negativen Erfahrung im Bewerbungsprozess mehr als die Hälfte der Bewerbenden den Arbeitgeber unattraktiv wahrnehmen. Daher sollten Bewerbungsprozesse auf den Bewerbenden zentriert sein."	wahr
+"Frage:<br />
+Was ist eine Kultur mit hoher Erfolgsorientierung?"	"<ul>
+<li>Australien</li>
+<li>Japan</li>
+</ul>"
+"Frage:<br />
+Was ist eine Kultur mit niedriger Erfolgsorientierung?"	"<ul>
+<li>Dänemark</li>
+<li>Schweden</li>
+</ul>"
+"Frage:<br />
+Was ist Unsicherheitsvermeidung nach Hofstede, Peterson (2000)?"	assertiveness and competitiveness versus modesty and caring
+{{c1::Erfolgsorientierung}} ist {{c2::ein Kulturfaktor, welcher beschreibt, wie Orientiert auf den Erfolg eine Kultur ist}}.	
+"Frage:<br />
+Warum ist Unsicherheitsvermeidung nicht gleichzusetzen mit Risikoaversion?"	Unsicherheitsvermeidung beschreibt den Umgang mit Ambiguität und Unklarheit, nicht die Ablehnung von Risiken an sich.
+"Frage:<br />
+Was ist eine Kultur mit hoher Unsicherheitsvermeidung?"	"<ul>
+<li>Japan</li>
+<li>Russland</li>
+</ul>"
+"Frage:<br />
+Was ist eine Kultur mit niedriger Unsicherheitsvermeidung?"	"<ul>
+<li>Schweden</li>
+<li>Singapur</li>
+</ul>"
+"wahr oder falsch:<br />
+Hohe Unsicherheitsvermeidung begünstigt Innovation und Experimentieren."	"falsch:<br />
+Hohe Unsicherheitsvermeidung begünstigt Regeln, Standardisierung und Planung und erschwert Experimentieren."
+{{c1::Unsicherheitsvermeidung}} ist {{c2::eine Kulturdimension, welche beschreibt, wie offen eine Kultur für neue Ideen und Risiken ist}}.	
+"Frage:<br />
+Was beschreibt die Kulturdimension Power Distance?"	Den Grad, zu dem Ungleichverteilung von Macht, Status und Autorität von weniger mächtigen Mitgliedern akzeptiert und erwartet wird.
+"Frage:<br />
+Was ist eine Kultur mit hoher Power Distance?"	"<ul>
+<li>arabische Länder</li>
+<li>Russland</li>
+</ul>"
+"Frage:<br />
+Was ist eine Kultur mit niedriger Power Distance?"	"<ul>
+<li>Dänemark</li>
+<li>Israel</li>
+</ul>"
+"Frage:<br />
+Was ist eine Power Distance nach Hofstede, Peterson (2000)?"	the extent to which the less powerful members of organizations and institutions (like the family) expect and accept that power [wealth, prestige] is distributed unequally
+"wahr oder falsch:<br />
+Eine hohe Power Distance führt typischerweise zu offener Kritik gegenüber Vorgesetzten."	"falsch:<br />
+Hohe Machtdistanz begünstigt Akzeptanz von Hierarchie und Zurückhaltung gegenüber Autoritäten, insbesondere in öffentlichen Situationen."
+{{c1::Eine Power Distance}} ist {{c2::ein Kulturfaktor, welcher beschreibt, wie stark eine Diskrepanz zwischen Power in einer Kultur akzeptiert wird}}.	
+"Frage:<br />
+Woraus besteht mentale Programmierung?"	"<ul>
+<li>an Ritualen teilnehmen</li>
+<li>Verständnis für Symbole aufbauen</li>
+<li>Vorbilder wahrnehmen</li>
+<li>Werte erlernen</li>
+</ul>"
+{{c1::Mentale Programmierung}} ist {{c2::die Erlernung von Kultur in einer Gesellschaft}}.	
+"Frage:<br />
+Kultur beeinflusst, wie Management-Entscheidungen interpretiert werden. Das Management muss daher kulturelle Aspekte von Verantwortlichkeit und Autorität beachten, um eine Änderung herbeizuführen."	wahr
+"Frage:<br />
+Was ist das Kernmerkmal von Psychological Safety?"	Das Vertrauen, interpersonelle Risiken eingehen zu können, ohne negative Konsequenzen befürchten zu müssen.
+"Frage:<br />
+Wodurch entsteht Psychological Safety?"	"<ul>
+<li>Fehlbarkeit anerkennen</li>
+<li>Neugier fördern</li>
+<li>Probleme als Lernerfahrung sehen</li>
+</ul>"
+"wahr oder falsch:<br />
+Psychological Safety ist eine stabile Persönlichkeitseigenschaft von Teams."	"falsch:<br />
+Sie wird situativ und fortlaufend durch Führungshandeln und Interaktion erzeugt oder zerstört."
+{{c1::Psychological Safety}} ist {{c2::die individuelle Wahrnehmungen, Risiken ohne Angst vor negativen Konsequenzen eingehen zu können}}. Eine hohe {{c1::Psychological Safety}} führt dazu, dass {{c3::Fehler zugegeben werden, Risiken eingegangen werden und neue Ideen geäußert werden}}.	
+"Frage:<br />
+Was ist die zentrale Idee hinter Belbins Teamrollenmodell?"	Effektive Teams benötigen eine ausgewogene Kombination komplementärer Verhaltensrollen, nicht nur hohe individuelle Leistung.
+"wahr oder falsch:<br />
+Belbins Teamrollen beschreiben Persönlichkeitsmerkmale von Menschen."	"falsch:<br />
+Belbins Rollen beschreiben beobachtbares Teamverhalten in bestimmten Kontexten, nicht stabile Persönlichkeitseigenschaften."
+"wahr oder falsch:<br />
+Ein Team mit vielen Plants ist besonders gut in der Umsetzung komplexer Aufgaben."	"falsch:<br />
+Plants erzeugen kreative Ideen, benötigen aber Implementer und Completer Finisher für strukturierte Umsetzung."
+"<p>Belbins Teamrollen bestehen aus:</p>
+<ul>
+<li>{{c1::Co-Ordinator}}: Richtet das Team auf gemeinsame Ziele aus, erkennt Stärken der Mitglieder und delegiert Aufgaben zielgerichtet</li>
+<li>{{c2::Completer Finisher}}: Sichert die Qualität der Arbeit, indem er Ergebnisse sorgfältig prüft, Fehler aufdeckt und Aufgaben perfektioniert</li>
+<li>{{c3::Implementer}}: Übersetzt Ideen in praktikable Pläne und setzt diese strukturiert, zuverlässig und effizient um</li>
+<li>{{c4::Monitor Evaluator}}: Analysiert Optionen nüchtern und logisch, bewertet Alternativen objektiv und unterstützt fundierte Entscheidungen</li>
+<li>{{c5::Plant}}: Entwickelt kreative, unkonventionelle Ideen und Lösungsansätze für komplexe oder neuartige Probleme</li>
+<li>{{c6::Resource Investigator}}: Knüpft aktiv externe Kontakte, erkundet Chancen und bringt neue Ideen und Impulse von außen ins Team ein</li>
+<li>{{c7::Shaper}}: Treibt das Team mit Energie und Durchsetzungsstärke voran und sorgt dafür, dass Fokus und Momentum erhalten bleiben</li>
+<li>{{c8::Specialist}}: Liefert tiefgehendes Fachwissen und spezifische Kompetenzen in einem klar abgegrenzten Themengebiet</li>
+<li>{{c9::Teamworker}}: Fördert den Zusammenhalt im Team, unterstützt andere flexibel und sorgt durch Diplomatie für ein kooperatives Arbeitsklima</li>
+</ul>"	
+"<p>Phasen von Teamentwicklung sind:</p>
+<ol>
+<li>{{c1::Forming}}: {{c1::Kennenlernen; Konflikte vermeiden; Status, Macht und Rollen klären}}</li>
+<li>{{c2::Storming}}: {{c2::Spannungen entstehen aufgrund von Aufgaben; Koalitionsbildung; Bemühungen, Teamziele und individuelle Bedürfnisse und Arbeitsstile in Einklang zu bringen}}</li>
+<li>{{c3::Norming}}: {{c3::Entwicklung eines gemeinsamen Verständnisses von Rollen, Verantwortlichkeiten und Normen}}</li>
+<li>{{c4::Performing}}: {{c4::Funktionieren als Einheit mit klarer und stabiler Struktur}}</li>
+<li>{{c5::Adjourining}}: {{c5::Auflösung des Teams; Abschließen von Aufgaben; Austausch von Ideen; Feier des Erfolgs}}</li>
+</ol>"	
+"Frage:<br />
+Was sind Eigenschaften von dysfunktionalen Teams?"	"<ul>
+<li>Angst vor Konflikten</li>
+<li>fehlender Fokus auf Teamarbeit</li>
+<li>fehlendes Commitment</li>
+<li>fehlendes Vertrauen</li>
+<li>Vermeidung von Verantwortlichkeit</li>
+</ul>"
+"wahr oder falsch:<br />
+Erfolgreiche Teams scheitern meist an fehlender fachlicher Kompetenz."	"falsch:<br />
+Häufige Ursachen sind fehlendes Vertrauen, Angst vor Konflikten und mangelnde psychologische Sicherheit."
+"Frage:<br />
+Warum gewinnt Distributed Leadership in wissensintensiven Organisationen an Bedeutung?"	Weil Wissen verteilt ist und Führung nicht effektiv zentralisiert werden kann.
+{{c1::Distributed Leadership}} ist {{c2::das kollektive Leadership einer Gruppe}}.	
+"Frage:<br />
+Was ist das zentrale Legitimationsprinzip von Servant Leadership?"	Legitimität entsteht durch Dienst an Mitarbeitenden, nicht durch formale Macht.
+"Frage:<br />
+Was ist Servant-Leadership nach Greenleaf (1970)."	A servant-leader focuses primarily on the growth and well-being of people and the communities to which they belong. While traditional leadership generally involves the accumulation and exercise of power by one at the “top of the pyramid,” servant leadership is different. The servant-leader shares power, puts the needs of others first and helps people develop and perform as highly as possible.
+"wahr oder falsch:<br />
+Servant Leadership fokussiert primär auf Kontrolle und Zielerreichung durch Autorität."	"falsch:<br />
+Servant Leadership stellt das Dienen, Empowerment und die Entwicklung anderer in den Mittelpunkt."
+{{c1::Servant-Leadership}} ist {{c2::das Leadership, welches sich auf das Dienen gegenüber Mitarbeiten, Kunden und dem Unternehmen ausrichtet, welchen im professionellen und persönlichen Kontext geholfen werden soll}}.	
+"wahr oder falsch:<br />
+Postmoderne Leadership-Theorien ersetzen Führung durch formale Regeln und Prozesse."	"falsch:<br />
+Sie ersetzen die Person des Leaders durch Prozesse wie Sinnstiftung, Sprache, Aushandlung und Deutung."
+{{c1::Postmodernes Leadership}} ist {{c2::das Leadership, in welchem das Leadership nicht zwingend in einer Person liegt und durch Autorität oder Hierarchien gegeben ist, sondern durch Prozesse definiert wird}}.	
+"Frage:<br />
+Welche zwei Hauptdimensionen umfasst das Situational Leadership Model?"	Führungsstil und Reifegrad der Mitarbeitenden.
+"Frage:<br />
+Welcher Führungsstil ist im Situational Leadership Model angemessen bei Mitarbeitenden, die fähig, aber nicht willig sind?"	Partizipieren (Participating)
+"Frage:<br />
+Welcher Führungsstil ist im Situational Leadership Model geeignet für Mitarbeitende, die nicht fähig und nicht willig sind?"	Dirigieren (Telling)
+"Frage:<br />
+Welcher Führungsstil passt im Situational Leadership Model zu Mitarbeitenden, die nicht fähig, aber willig sind?"	Überzeugen (Selling)
+"Frage:<br />
+Welcher Führungsstil wird im Situational Leadership Model bei fähigen und willigen Mitarbeitenden angewendet?"	Delegieren (Delegation)
+"wahr oder falsch:<br />
+Beim Führungsstil ""Dirigieren (Telling)"" im Situational Leadership Model erhalten Mitarbeitende viel Entscheidungsspielraum."	"falsch:<br />
+Entscheidungen werden vorgegeben und eng kontrolliert."
+"wahr oder falsch:<br />
+Beim Führungsstil ""Überzeugen (Selling)"" im Situational Leadership Model werden Entscheidungen ohne Erklärung einfach vorgegeben."	"falsch:<br />
+Entscheidungen werden erklärt und aktiv begründet, um Akzeptanz zu schaffen."
+"wahr oder falsch:<br />
+Das Situational Leadership Model berücksichtigt ausschließlich die Persönlichkeit der Führungskraft."	"falsch:<br />
+Es berücksichtigt den Führungsstil und den Reifegrad der Mitarbeitenden."
+"wahr oder falsch:<br />
+Der Führungsstil ""Delegieren (Delegation)"" im Situational Leadership Model bedeutet, dass Verantwortung und Entscheidungsbefugnis an Mitarbeitende übergeben werden."	wahr
+"wahr oder falsch:<br />
+Der Führungsstil ""Delegieren (Delegation)"" im Situational Leadership Model ist besonders geeignet für Mitarbeitende, die weder fähig noch willig sind."	"falsch:<br />
+Delegieren ist geeignet für fähige und willige Mitarbeitende."
+"wahr oder falsch:<br />
+Der Führungsstil ""Dirigieren (Telling)"" im Situational Leadership Model zeichnet sich durch klare Anweisungen und enge Leistungsüberwachung aus."	wahr
+"wahr oder falsch:<br />
+Der Führungsstil ""Partizipieren (Participating)"" im Situational Leadership Model fördert Ideenaustausch und Einbindung der Mitarbeitenden in Entscheidungsprozesse."	wahr
+"wahr oder falsch:<br />
+Der Führungsstil ""Partizipieren (Participating)"" im Situational Leadership Model verzichtet vollständig auf die Einbindung der Mitarbeitenden."	"falsch:<br />
+Mitarbeitende werden aktiv in Ideenfindung und Entscheidungen einbezogen."
+"wahr oder falsch:<br />
+Der Reifegrad ""fähig, aber nicht willig"" im Situational Leadership Model beschreibt Mitarbeitende mit Kompetenz, jedoch geringer Motivation oder Unsicherheit."	wahr
+"wahr oder falsch:<br />
+Der Reifegrad ""fähig, aber nicht willig"" im Situational Leadership Model erfordert in der Regel weniger Unterstützung und mehr Delegation."	"falsch:<br />
+Er erfordert eher Unterstützung und Motivation als reine Delegation."
+"wahr oder falsch:<br />
+Der Reifegrad ""fähig und willig"" im Situational Leadership Model beschreibt Mitarbeitende mit hoher Kompetenz und hoher Motivation."	wahr
+"wahr oder falsch:<br />
+Der Reifegrad ""nicht fähig, aber willig"" im Situational Leadership Model beschreibt Mitarbeitende mit hoher Motivation, aber fehlender Kompetenz."	wahr
+"wahr oder falsch:<br />
+Der Reifegrad ""nicht fähig, aber willig"" im Situational Leadership Model kennzeichnet Mitarbeitende mit Motivation, aber fehlenden Fähigkeiten."	wahr
+"wahr oder falsch:<br />
+Der Reifegrad ""nicht fähig und nicht willig"" im Situational Leadership Model beschreibt Mitarbeitende mit hoher Kompetenz und hoher Motivation."	falsch: Er beschreibt Mitarbeitende mit geringer Kompetenz und geringer Motivation.
+"wahr oder falsch:<br />
+Im Situational Leadership Model gibt es einen festen Führungsstil, der für alle Situationen optimal ist."	"falsch:<br />
+Der Führungsstil muss situativ an den Reifegrad angepasst werden."
+"wahr oder falsch:<br />
+""Überzeugen (Selling)"" im Situational Leadership Model bedeutet, dass Führungskräfte Entscheidungen treffen und diese aktiv begründen."	wahr
+"{{c1::Das Situational Leadership Model}} ist {{c2::ein Modell über das Leadership und den Führungsstil, welches abhängig von dem Reifegrad von zu führenden Personen ist}}.<br />
+{{c1::{{c2::<img src=""2026-Schellhammer-Situational_Leadership_Model.png"" alt=""""><br />
+Situational Leadership Model}}}}"	
+"Frage:<br />
+Aus was besteht die Kontingenztheorie?"	"<ul>
+<li>dem Führungsstil</li>
+<li>der Situation, bestehend aus Führer-Mitarbeiter-Beziehung, Aufgabenstruktur und Machtposition des Leaders</li>
+</ul>"
+"wahr oder falsch:<br />
+Die Kontingenztheorie geht davon aus, dass Führungskräfte ihren Stil flexibel anpassen sollten."	"falsch:<br />
+Kontingenztheorie nimmt einen relativ stabilen Führungsstil an; die Situation muss zur Führungskraft passen."
+"wahr oder falsch:<br />
+In besonders günstigen und in besonders ungünstigen Führungssituationen in der Kontingenztheorie führt ein aufgabenorientierter Führungsstil zu höherem Erfolg, während sich in Situationen mittlerer Günstigkeit der personenorientierte Führungsstil besser eignet."	wahr
+{{c1::Die Kontingenztheorie (Contingency Model)}} ist {{c2::eine Theorie und ein Modell, in welchem die Effektivität von Leadership von der Situation abhängig ist}}.	
+{{c1::Autoritärer Leadership}} ist {{c2::das Leadership, in welchem ein Leader Aufgaben delegiert}}.	
+{{c1::Demokratisches Leadership}} ist {{c2::das Leadership, in welchem ein Leader eine Gruppe an Personen erlaubt, sich selber zu organisieren und Ziele sowie Aufgaben innerhalb dieser Gruppe zu bilden und zu lösen}}.	
+{{c1::Leadership als Verhaltensweise}} ist {{c2::das Leadership, welches sich dadurch kennzeichnet, was der Leader macht. Leadership kann dadurch gelernt und erlernt werden}}.	
+"Frage:<br />
+Warum gelten Trait-Theorien für Leadership heute als problematisch?"	Sie liefern geringe Prognosekraft, ignorieren situative Einflüsse und unterschätzen organisationale sowie kulturelle Kontexte.
+"wahr oder falsch:<br />
+Leadership als Charaktereigenschaft kann nur schwer untersucht werden, da verschieden Faktoren, andere Charaktereigenschaften und Kontexte einen Einfluss auf Leadership haben."	wahr
+"wahr oder falsch:<br />
+Trait-Theorien gehen davon aus, dass universelle Führungseigenschaften existieren, die unabhängig vom Kontext wirksam sind."	"falsch:<br />
+Empirische Studien zeigen geringe Konsistenz, Führungseffektivität ist stark kontextabhängig."
+{{c1::Leadership als Charaktereigenschaft}} ist {{c2::das Leadership, welches tief in der Persönlichkeit des Leaders verankert ist}}.	
+"wahr oder falsch:<br />
+Organisationskultur beeinflusst die Unternehmensleistung in viele verschiedene Weisen, die komplex sind und schwer zu greifen sind."	wahr
+"Frage.<br />
+Was sind Perspektiven auf die Organisationskultur?"	"<ul>
+<li>Differenzierungsperspektive: Nutzung von Kultur als ein Instrument, um Entscheidungen zu treffen</li>
+<li>Fragmentierungsperspektive</li>
+<li>Integrationsperspektive: Nutzung von Kultur, definierten Methoden und Instrumenten um eine Organisationskultur zu erreichen</li>
+<li>Wahrnehmung als ein Baustein der Organisation</li>
+<li>Wahrnehmung als ein Instrument, um vordefinierte Ziele zu erreichen</li>
+</ul>"
+"wahr oder falsch:<br />
+Verhaltensmuster werden durch Kultur stabilisiert."	wahr
+"Frage:<br />
+Besteht eine starke oder schwache Verbindung zwischen symbolischen Ergebnissen und substanziellen Ergebnissen?"	Es besteht nur eine schwache Verbindung zwischen symbolischen Ergebnissen wie Kultur, Erwartungshaltung, Werten und Wahrnehmung sowie substanziellen Ergebnissen wie Budget, Lohn und Profit.
+{{c1::Organisationskultur-Management}} ist {{c2::das Management der Organisationskultur sowie die Entwicklung eines Konsens um die Definition von Aktivitäten am Arbeitsplatz}}.	
+"Frage:<br />
+Wie werden Organisationskultur und Unternehmensideologie in Zusammenhang bewertet? Werden sie gleichgestellt oder differenziert?"	Organisationskultur und Unternehmensideologie werden vom Management oft gleichgestellt, müssen aber differenziert werden, da die Unternehmensvision meist nur eine Beschreibung der angezielten Organisationskultur ist.
+"Frage:<br />
+Was ist eine gute Kultur nach Baker (1980)?"	Good cultures are characterized by norms and values supportive of excellence, teamwork, profitability, honesty, a customer service orientation, pride in one’s work, and commitment to the organization. Most of all, they are supportive of adaptability – the capacity to thrive over the long run despite new competition, new regulations, new technological developments, and the strains of growth.
+{{c1::Eine gute Kultur}} ist {{c2::eine Kultur, welche gute und positive Werte, Einstellungen und Verhaltensweise in eine friedliche Koexistenz vereinheitlicht}}.	
+"Frage:<br />
+Was sind Probleme von Organisationskulturen?"	"<ul>
+<li>Limitierung der Organisationskultur durch die Kategorisierung in gute Eigenschaften und schlechte Eigenschaften</li>
+<li>Messung von Kultur durch eindimensionale Methoden wie eine starke Unternehmenskultur</li>
+<li>Vernachlässigung von verschiedenen Subkulturen</li>
+</ul>"
+"wahr oder falsch:<br />
+Eine starke Organisationskultur ist immer inklusiv."	"falsch:<br />
+Eine starke Kultur kann auch ausschließend wirken und bestehende Macht- oder Bias-Strukturen verstärken."
+"Frage:<br />
+Warum ist Interpretation zentral für kulturelle Dynamik?"	Weil erst durch Interpretation Symbole Bedeutung erhalten und Annahmen bestätigt oder verändert werden können.
+{{c1::Interpretation}} in {{c2::der Kultur ist ein Prozess, durch welchen Erfahrungen, Ereignisse oder Artefakte mit Bedeutung versehen werden}}.	
+{{c1::Retroaktive Symbolisierung}} ist {{c2::der Prozess zur Symbolisierung, in welchem ein bestehendes Symbol ein Artefakt beeinflusst und die symbolische Bedeutung hervorhebt}}.	
+{{c1::Proaktive Symbolisierung}} ist {{c2::der Prozess zur Symbolisierung, in welchem Artefakte mit einer signifikanten Bedeutung ein Symbol erzeugen}}.	
+"wahr oder falsch:<br />
+Retroaktive Realisierung liegt vor, wenn kulturelle Werte nicht nur gedacht oder geteilt, sondern aktiv in Handlungen umgesetzt werden, die sichtbare und dauerhafte Spuren in der Organisation hinterlassen."	"falsch:<br />
+Proaktive Realisierung liegt vor."
+{{c1::Retroaktive Realisierung}} ist {{c2::der Prozess zur Realisierung, in welchem bereits entstandene Artefakte im Nachhinein auf Werte und Erwartungen wirken}}.	
+"wahr oder falsch:<br />
+Proaktive Realisierung liegt vor, wenn kulturelle Werte nicht nur gedacht oder geteilt, sondern aktiv in Handlungen umgesetzt werden, die sichtbare und dauerhafte Spuren in der Organisation hinterlassen."	wahr
+{{c1::Proaktive Realisierung}} ist {{c2::der Prozess zur Realisierung, in welchem kulturelle Annahmen, Erwartungen und Werte durch konkretes Handeln materialisiert werden}}.	
+{{c1::Realisierung}} ist {{c2::der Prozess zur Transformation von Werten in Erwartungen, welche sich in der Realität ausprägen}}.	
+{{c1::Retroaktive Manifestation}} ist {{c2::eine Manifestation, durch den Werte auf bestehende Annahmen zurückwirken und diese bestätigen oder verändern}}.	
+{{c1::Proaktive Manifestation}} ist {{c2::eine Manifestation, durch den Annahmen gewisse Erwartungen erzeugen, welche die Wahrnehmung, Gedanken und Gefühle prägen}}. {{c1::Diese proaktive Manifestation}} erzeugt dadurch Werte, welche als {{c3::wünschenswert}} empfunden werden.	
+{{c1::Manifestierung (Manifestation)}} ist {{c2::ein Prozess, in welchen ein zunächst nicht-wahrnehmbarer Bestandteil, meist Annahmen, wahrgenommen werden kann}}.	
+"Frage:<br />
+Wodurch entsteht kulturelle Dynamik?"	"<ul>
+<li>Interpretierungsprozesse</li>
+<li>Manifestationsprozesse: Wandelung von immaterielle Annahmen in wahrnehmbare Werte</li>
+<li>Realisierungsprozesse</li>
+<li>Symbolisierungsprozesse</li>
+</ul>"
+"Frage:<br />
+Woraus besteht kulturelle Dynamik?"	"<ul>
+<li>Annahmen</li>
+<li>Artefakten</li>
+<li>Symbolen</li>
+<li>Werten</li>
+</ul>"
+"{{c1::Kulturelle Dynamik (Cultural Dynamic)}} ist {{c2::die Evolution von Kulturen und kulturellen Prozessen in Bezug zu Stabilität}}.<br />
+{{c1::{{c2::<img src=""1993-Bild-Hatch-Kulturelle_Dynamik.png"" alt=""""><br />
+Modell der kulturellen Dynamic}}}}"	
+"Frage:<br />
+Woraus besteht das Garbage Can-Modell?"	"<ul>
+<li>Lösungen</li>
+<li>Möglichkeiten</li>
+<li>Problemen</li>
+<li>Teilnehmenden</li>
+</ul>"
+"wahr oder falsch:<br />
+Das Garbage-Can-Modell beschreibt Entscheidungsfindung als linear und rational."	"falsch:<br />
+Das Modell beschreibt Entscheidungen als zufällige Kopplung von Problemen, Lösungen, Teilnehmenden und Gelegenheiten."
+{{c1::Das Garbage Can-Modell}} ist ein {{c2::Modell, in welchem die Entscheidungsfindung als Ausgang einer Interpretation mehrerer unklarer Ziele und ungewissen Umwelteinflüsse ist}}.	
+{{c1::Das Rational Decision Making (rationale Entscheidungsfindung)}} ist {{c2::die Entscheidungsfindung innerhalb eines strukturierten Prozess mit einer sicher vorhersehbaren Umwelt, welche durch Annahmen gestützt werden kann}}.	
+"<p>Das Rational Decision Making besteht aus mehreren Schritten:</p>
+<ol>
+<li>{{c1::Problemdefinition}}</li>
+<li>{{c2::Alternativensuche}}</li>
+<li>{{c3::Identifikation von Entscheidungskriterien}}</li>
+<li>{{c4::Allokation von Gewichtungen zu den Entscheidungskriterien}}</li>
+<li>{{c5::Evaluation von Alternativen}}</li>
+<li>{{c6::Selektion der besten Alternative}}</li>
+</ol>"	
+"Frage:<br />
+Was sind Strategien zur Entwicklung von Power?"	"<ul>
+<li>Abhängigkeiten und Interdependenzen entwickeln</li>
+<li>Allianzen aufbauen</li>
+<li>ein persönliches Netzwerk entwickeln</li>
+<li>Kontrolle über Informationsflüsse erlangen</li>
+<li>Kontrolle über Prozesse zur Entscheidungsfindung erlangen</li>
+<li>Validierung durch dritte Experten</li>
+</ul>"
+"Frage:<br />
+Wodurch entsteht Power?"	"<ul>
+<li>Charaktereigenschaften einer Person</li>
+<li>Erfahrung</li>
+<li>Fähigkeiten, andere Personen zu Sanktionieren</li>
+<li>formelle Autorität</li>
+<li>Kontrolle über knappe Güter</li>
+<li>persönliches Netzwerk</li>
+</ul>"
+{{c1::Autorität}} ist {{c2::die Akzeptanz und Erwartung von der Nutzung von Power eines Akteurs}}.	
+"Frage:<br />
+Was ist Power nach Dahl (1957)?"	A has power over B to the extent that he can get B to do something that B would not otherwise do.
+"Frage:<br />
+Was ist Power nach Mintzberg (1985)?"	[…] politics involves those activities or behaviors through which power is developed and used in organizational settings. Power is a property of a system at rest; politics is the study of power in action.
+"Frage:<br />
+Woraus besteht Power?"	"<ul>
+<li>der Durchsetzung einer Entscheidung</li>
+<li>der Unterdrückung von Meinungsäußerungen</li>
+<li>der Unterdrückung der Meinungsbildung</li>
+</ul>"
+"wahr oder falsch:<br />
+Power ist ausschließlich an formale Hierarchiepositionen gebunden."	"falsch:<br />
+Power kann auch aus Expertise, Netzwerken, Kontrolle über Ressourcen oder der Reduktion von Unsicherheit entstehen."
+{{c1::Power}} ist {{c2::der Einfluss und die Macht über Personen, um diese zu etwas zu bewegen, was diese ohne die Power des befehligenden Akteurs sonst nicht tun würden}}.	
+{{c1::Ein Whistleblowing Game}} ist {{c2::ein politisches Spiel in Form eines Konfliktes, welches von dem Whistleblowing und dem angestrebten Wechsel von Politik und Strategie handelt}}.	
+{{c1::Ein Strategic Candidate Game}} ist {{c2::ein politisches Spiel in Form eines Konfliktes, welches von der Sicherung von Personen für vakante Stellen handelt}}.	
+{{c1::Ein Empire Building Game}} ist {{c2::ein politisches Spiel in Form eines Konfliktes, welches von dem Aufbau und der Unterwerfung von Personen handelt}}.	
+{{c1::Ein Alliance Building Game}} ist {{c2::ein politisches Spiel in Form eines Konfliktes, welches von dem Aufbau und der Sicherung von Allianzen handelt}}.	
+{{c1::Ein Budgeting Game (Budgetierungsspiel)}} ist {{c2::ein politisches Spiel in Form eines Konfliktes, welches von der Allokation von Ressourcen handelt}}.	
+{{c1::Ein Insurgency Game (Insurrektionsspiel)}} ist {{c2::ein politisches Spiel in Form eines Konfliktes, welches von ausführenden Personen gegen herrschende Personen ausgeführt wird}}.	
+"<p>Arten von Politiksystemen sind:</p>
+<ul>
+<li>Autokratie: {{c1::Power wird durch ein Individuum oder eine kleine Gruppe ausgeübt}}</li>
+<li>Bürokratie: {{c2::Power wird durch Regeln, Wissen und Einfluss ausgeübt}}</li>
+<li>Demokratie: {{c3::Power ist unter Menschen geteilt}}</li>
+<li>Technokratie: {{c4::Power wird durch Wissen und Erfahrung ausgeübt}}</li>
+</ul>"	
+{{c1::Die dunkle Seite einer Organisation}} ist {{c2::ein nicht-öffentlicher und versteckter Bereich}}.	
+"Beispiel:<br />
+Typische organisationale Entscheidungen mit politischem Charakter"	"<ul>
+<li>Beförderungen</li>
+<li>Budgetzuweisungen</li>
+<li>Projektfreigaben</li>
+</ul>"
+"Frage:<br />
+Wie sind Organisationen als politische Systeme zu sehen und zu definieren?"	Organisationen können als politische Systeme gesehen werden, in welches auf eine dynamische Umwelt mit Unsicherheit und Ambiguität flexibel und adaptiv arbeiten muss.
+"wahr oder falsch:<br />
+Organisatorische Politik ist per Definition unethisch und schädlich für Organisationen."	"falsch:<br />
+Politik ist ein normales Mittel zur Koordination divergierender Interessen und nicht notwendigerweise unethisch, sondern konstitutiv für Organisationen."
+"Frage:<br />
+Wie sind Organisationen als Maschinen zu sehen und zu definieren?"	Organisationen können als Maschinen gesehen werden, in welchen es zwischen den fest definierten Bestandteilen eine Ordnung gibt, um ein Ziel zu erreichen. In dieser Maschine gibt es Menschen, Kapital, Informationen und Technologien, die in Relation zueinander stehen.
+"Frage:<br />
+Wodurch entstehen Spannungen in Organisationen?"	"<ul>
+<li>Diversität von Perspektiven</li>
+<li>Entscheidungsfindungsprozesse über knappe Güter</li>
+<li>Interdependenzen von Aufgaben</li>
+<li>unterschiedliche Denkensweisen</li>
+</ul>"
+"wahr oder falsch:<br />
+Spannungen in Unternehmen entstehen durch Interessenskonflikte, welche auf eine unterschiedliche Verteilung von Power basiert. Diese Spannungen in Unternehmen werden durch unternehmenspolitische Maßnahmen gelöst."	wahr
+{{c1::Ein Smart Product}} ist {{c2::ein Produkt, welches ein Smart Device integriert und durch Software und Elektronik die Nutzungsmöglichkeit erweitert}}.	
+{{c1::Die Value Chain Dispersion and Integration}} ist {{c2::die Koordination und Integration von Kunden und Geschäftspartnern in der Wertschöpfungskette durch das Internet}}.	
+"wahr oder falsch:<br />
+Die Value Chain Automation ermöglicht es, Verbindungen innerhalb und außerhalb von einer Organisation aufzubauen und zu verstärken."	wahr
+{{c1::Value Chain Automation (Wertschöpfungskettenautomatisierung)}} ist {{c2::die Automatisierung der Wertschöpfungskette durch das automatisierte Sammeln und Verarbeiten von Informationen durch IT}}.	
+"<p>Die Stufen des IT-getriebenen Wettbewerbs sind:</p>
+<ol>
+<li>1960 - 1980: {{c1::Value Chain Automation}}</li>
+<li>1980 - 2000: {{c2::Value Chain Dispersion and Integration}}</li>
+<li>Seit 2000: {{c3::Smart Connected Products}}</li>
+</ol>"	
+"wahr oder falsch:<br />
+Menschen arbeiten der Theorie Y nach aufgrund von Geld."	falsch
+"wahr oder falsch:<br />
+Menschen arbeiten der Theorie Y nach aufgrund von Interesse und Vergnügen."	wahr
+{{c1::Theorie Y}} ist {{c2::eine Theorie zum Verhalten von Menschen innerhalb der X-Y-Theorie, welches besagt, dass Menschen durch intrinsischen Faktoren beeinflusst werden}}. Laut {{c1::Theorie Y}} {{c2::wollen Menschen Arbeiten und sind motiviert}}, weshalb {{c3::sie im Rahmen von Empowerment ermächtigt und unterstützt werden müssen}}.	
+"wahr oder falsch:<br />
+Menschen arbeiten der Theorie X nach aufgrund von Geld."	wahr
+"wahr oder falsch:<br />
+Menschen arbeiten der Theorie X nach aufgrund von Interesse und Vergnügen."	falsch
+{{c1::Theorie X}} ist {{c2::eine Theorie zum Verhalten von Menschen innerhalb der X-Y-Theorie, welches besagt, dass Menschen durch extrinsische Faktoren beeinflusst werden}}. Laut {{c1::Theorie X}} {{c2::vermeiden Menschen grundlegend Arbeit und sind nicht motiviert}}, weshalb {{c3::sie gesteuert und kontrolliert werden müssen}}.	
+"wahr oder falsch:<br />
+Theorie X und Theorie Y sind objektive Beschreibungen menschlichen Verhaltens."	"falsch:<br />
+Es handelt sich um grundlegende Managementannahmen, die sich selbst erfüllend auswirken können."
+{{c1::X-Y-Theorie}} ist {{c2::eine Motivationstheorie, dass Menschen Arbeit als Belohnung oder als Last ansehen}}.	
+{{c1::Die Erwartungstheorie}} ist {{c2::eine Motivationstheorie, dass die Motivation von Erwartungen an die Fähigkeit zur Erfüllung von Aufgaben und den damit einhergehenden Belohnung geknüpft wird}}.	
+"{{c1::Die Motivationstheorie}} ist {{c2::eine Theorie, dass Mitarbeiter durch Motivation produktiv werden}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Schellhammer-Motivationstheory.png"" alt=""""><br />
+Motivationstheorie}}}}"	
+"Frage:<br />
+Wie viele Personen haben kein Motivationsbezug zu der Arbeit und fallen deshalb unter das Quiet Quitting?"	ca. 72 %
+"wahr oder falsch:<br />
+Quiet Quitting ist die Verbindung der Arbeit mit keinem Bezug mehr zu Motivation."	wahr
+{{c1::Der War for Talents}} ist {{c2::eine Lücke zwischen der vorhandenen Menge an Menschen der Arbeitet und den notwendigen Mitarbeitern}} aufgrund von {{c3::einem Mangel an Menschen, Fähigkeiten oder Talenten}}.	
+"wahr oder falsch:<br />
+Zwischen individueller Autonomie und Kontrolle besteht ein Zielkonflikt und eine Spannung."	wahr
+"wahr oder falsch:<br />
+Organisationen sind soziale Räume, da diese durch die Kollaboration, Identität, Motivation, Symbole und Beziehung von und zwischen Mitarbeitern geprägt ist. Menschen innerhalb einer Organisations werden nämlich nicht nur durch Geld, sondern auch durch anderen Elemente motiviert."	wahr
+{{c1::Personalbeschaffung}} ist {{c2::das Personalrecruiting and die Personalauswahl}}.	
+"wahr oder falsch:<br />
+Leadership bedeutet primär Durchsetzungskraft und Kontrolle."	"falsch:<br />
+Leadership bedeutet Sinnstiftung, Orientierung unter Unsicherheit und verantwortungsvolle Gestaltung von Spannungen."
+"wahr oder falsch:<br />
+Leadership ist primär eine Frage formaler Autorität und hierarchischer Position."	"falsch:<br />
+Postmoderne Leadership-Ansätze betonen, dass Führung auch ohne formale Position entstehen kann und relational sowie emergent ist."
+{{c1::Leadership}} ist {{c2::eine Eigenschaft und ein Verhalten zur Aktivierung von Menschen um Energie, Eigeninitiative, Änderungen, Inspiration oder Sinnstiftung anzuregen}}.	
+"Frage:<br />
+Warum sollte Management sich mit Organisationskultur beschäftigen?"	Kultur strukturiert Erwartungen zu Verantwortung, Autorität, Risiko, Kommunikation und Zusammenarbeit und beeinflusst damit die Wirksamkeit von Führung, Veränderung und Koordination.
+"Frage:<br />
+Woraus besteht eine Organisationskultur?"	"<ul>
+<li>gemeinsamer Sprache</li>
+<li>Geschichte</li>
+<li>Identität</li>
+<li>Interpretationsschemen</li>
+<li>Rollen</li>
+<li>Werten</li>
+</ul>"
+"wahr oder falsch:<br />
+Eine Organisationskultur kann durch Normen gesteuert werden, die das Verhalten und die Einstellung von Personen einer Organisation stark beeinflusst."	wahr
+"wahr oder falsch:<br />
+Eine Organisationskultur wird durch das Leadership von Führungspersonen gebildet und gesteuert."	wahr
+"wahr oder falsch:<br />
+Organisationskultur ist vollständig durch formale Regeln steuerbar."	"falsch:<br />
+Kultur basiert auf geteilten Annahmen und Bedeutungen, die sich formaler Kontrolle weitgehend entziehen."
+"wahr oder falsch:<br />
+Computerkriminalität ist strafbar und muss zur Anzeige gebracht werden."	wahr
+"wahr oder falsch:<br />
+Nach der Marktmissbrauchsverordnung müssen Cybersecurity-Vorfälle mit der Öffentlichkeit veröffentlicht werden."	wahr
+"wahr oder falsch:<br />
+Im Rahmen der gesetzlichen Meldepflicht müssen Datenschutzverletzungen nach der Datenschutzgrundverordnung innerhalb von 36 Stunden gemeldet werden."	"falsch:<br />
+Diese müssen innerhalb von 72 Stunden gemeldet werden."
+{{c1::Ein ökonomischer-Lock-in-Effekt}} ist {{c2::ein Lock-in-Effekt, welcher aufgrund von Zufriedenheit oder finanziellen Vorteilen mit Produkten oder Leistungen entsteht}}.	
+{{c1::Ein Marken-Lock-in-Effekt}} ist {{c2::ein Lock-in-Effekt, welcher aufgrund von Vertrauen, Markenpräferenz oder Bindung an eine Marke entsteht}}.	
+{{c1::Ein technischer Lock-in-Effekt}} ist {{c2::ein Lock-in-Effekt, welcher durch Produkte oder Leistungen entsteht, die nur mit bestimmten System kompatibel sind}}.	
+{{c1::Ein vertraglicher Lock-in-Effekt}} ist {{c2::ein Lock-in-Effekt, welcher durch eine vertragliche Bindung entsteht}}.	
+"Frage:<br />
+Was sind Faktoren zum Erhalt der Differenzierungs-Strategie?"	"<ul>
+<li>Erzeugung von Ecosystems</li>
+<li>Reinvestition von Kapital zur Differenzierung</li>
+<li>Schaffung von Barrieren zur Erschwerung von Imitationen</li>
+<li>Schaffung von Kosten eines Systemwechsel, um ein Lock-in-Effekt zu erzeugen</li>
+<li>Verknüpfung von Bereichen in der Wertschöpfungskette</li>
+</ul>"
+"Frage:<br />
+Was sind Faktoren zum Erhalt der Preisführer-Strategie?"	"<ul>
+<li>effektiver Produktionsprozess</li>
+<li>effiziente Distributionskanäle</li>
+<li>exklusiver Zugriff auf günstige Ressourcen</li>
+<li>Verfügbarkeit von Kapital</li>
+</ul>"
+"Frage:<br />
+Was ist eine Fokus-Strategie nach Scholes et al. (2014)?"	A focus strategy targets a narrow segment and tailors its products or services to the needs of that specific segment to the exclusion of others.
+{{c1::Eine Fokus-Strategie}} ist {{c2::eine Strategie, welche eine Fokussierung auf einen Markt oder Nischenmarkt anstrebt, um spezifische Bedürfnisse zu befriedigen}}.	
+"Frage:<br />
+Was ist eine Differenzierungs-Strategie nach Scholes et al. (2014)?"	Differentation involves uniqueness along some dimension that is sufficiently valued by customers to allow a price premium.
+"wahr oder falsch:<br />
+Die Differenzierungs-Strategie führt durchschnittlich zum höchsten Preis und höchsten Profit."	wahr
+{{c1::Eine Differenzierungs-Strategie}} ist {{c2::eine Strategie, welche eine Differenzierung der Produkte oder Leistungen durch einen einzigartigen oder besseren USP anstrebt, um einen höheren Preis zu erzielen}}.	
+"Frage:<br />
+Was beschreibt das VRIO-Framework im Kontext der ressourcenbasierten Sicht?"	Es bewertet Ressourcen danach, ob sie wertvoll, selten, schwer imitierbar und organisatorisch eingebettet sind, um nachhaltige Wettbewerbsvorteile zu erklären.
+"<p>{{c1::Das VRIO Framework}} ist {{c2::ein Framework der ressourcenbasierten Sicht, nach dem Ressourcen folgende Eigenschaften besitzen müssen}}:</p>
+<ul>
+<li>{{c3::einzigartig (rare)}}</li>
+<li>{{c3::nicht-nachahmbar (inimitable)}}</li>
+<li>{{c3::Unterstützung der Organisation (organizational support)}}</li>
+<li>{{c3::wertvoll (valuable)}}</li>
+</ul>"	
+"Frage:<br />
+Wodurch wird operationale Effektivität umgesetzt?"	Operationale Effektivität wird durch die Umsetzung von Best Practices innerhalb der Wertschöpfungskette und die Nutzung von aktuellen Technologien erreicht.
+"wahr oder falsch:<br />
+Durch eine operationale Effektivität kann eine Preisführerschaft oder ein Price Premium angestrebt werden."	wahr
+"wahr oder falsch:<br />
+Operationale Effektivität kann durch Best Practices allein zu einem nachhaltigen kompetitiven Vorteil führen."	"falsch:<br />
+Best Practices können imitiert werden; nachhaltige Vorteile entstehen erst durch strategische Positionierung und Trade-offs."
+{{c1::Operationale Effektivität}} ist {{c2::die Durchführung von Aktivitäten, welche eine Organisation besser als ihre Wettbewerber durchführt, um einen kompetitiven Vorteil zu erhalten}}.	
+"wahr oder falsch:<br />
+Durch eine strategische Positionierung können Wettbewerber abgewehrt, die eigene Positionierung verbessert und Marktdynamiken antizipiert werden."	wahr
+"wahr oder falsch:<br />
+Die strategische Positionierung besteht im Kern aus Trade-Offs, also der Menge an Aktivitäten, die nicht durchgeführt wird."	wahr
+{{c1::Strategische Positionierung}} ist {{c2::die einzigartige Durchführung von Aktivitäten, welche eine Organisation von ihren Wettbewerbern abhebt}}. Durch {{c1::eine strategische Positionierung}} kann {{c3::eine Qualitätsführerschaft}} angestrebt werden.	
+"{{c1::Kompetitiver Vorteile}} entstehen durch {{c2::die Verbindung zwischen einer einzigartigen Werteproposition, einer Ausrichtung an einen spezifischen Markt, verbundene und komplementäre Produkte und Dienstleistungen und Netzwerkexternalitäten}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Stockhinger-Kompetitive_Vorteile.png"" alt=""""><br />
+Neue Wegen zur Entwicklung von kompetitiven Vorteilen}}}}"	
+"wahr oder falsch:<br />
+Die Umsetzung eine Strategie erfolgt über die Zeit und ist im dauerhaften Wandel."	"wahr<br />
+<img src=""2025-Bild-Schellhammer-Umsetzung_einer_Strategie.png"" alt=""""><br />
+Umsetzung einer Strategie"
+{{c1::Die Corporate Sustainability Due Diligence Directive (CSDDD)}} ist {{c2::ein Sustainability Reporting zur Identifikation und Vermeidung von potentiellen und tatsächlichen negativen Auswirkungen auf die Umwelt und Gesellschaft von Wertschöpfungsaktivitäten eines Unternehmens}}.	
+"wahr oder falsch:<br />
+Creating Shared Value beeinflusst Innovationen, globales Wachstum und die Wohlfahrt eine Gesellschaft."	wahr
+"wahr oder falsch:<br />
+Creating Shared Value nutzt Ressourcen eines Unternehmens, um sozialen Wert als ökonomischen Wert zu generieren."	wahr
+"Frage:<br />
+Wodurch entsteht Creating Shared Value?"	"<ul>
+<li>Redefinition von Produkte, Leistungen und Märkten, um diese und in Bereichen anzubieten, die den Zugang dazu benötigen</li>
+<li>Unterstützung der Entwicklung von Industrien</li>
+<li>Verbesserung der Produktivität ihrer Wertschöpfungskette</li>
+</ul>"
+"Frage:<br />
+Was ist eine kompetitive Strategie nach Porter (1996)?"	Competitive strategy is about being different. […] It means deliberately choosing a different set of activities to deliver a unique mix of value.
+{{c1::Eine kompetitive Strategie (Competitive Strategy)}} ist {{c2::eine Strategie, durch welche eine Organisation durch die Positionierung, Fähigkeiten und Ressourcen effektiver ist als Wettbewerber}}.	
+{{c1::Agilität}} ist {{c2::eine Organisationsform, in welcher funktionsübergreifende, selbstorganisierte Teams iterativ und anpassungsfähig an komplexen Problemen arbeiten}}.	
+"wahr oder falsch:<br />
+Lead Links ähnelt teilweise einer traditionellen Führungsposition, unterliegt aber den gemeinsamen Governance-Regeln ihres Circles."	wahr
+{{c1::Ein Lead Link}} ist {{c2::eine Rolle, die für die Vergabe anderer Rollen und die Zuteilung von Ressourcen verantwortlich ist}}.	
+"wahr oder falsch:<br />
+Mitarbeitende in einem Cabal schließen sich spontan den Teams an, deren Arbeit sie für bedeutend halten."	wahr
+{{c1::Ein Cabal}} ist {{c2::ein multidisziplinäres Projektteam, das sich spontan bildet, um ein wichtiges Ziel zu verfolgen}}.	
+{{c1::Ein Circle in der Holacracy}} ist {{c2::eine Gruppe von Rollen, die gemeinsam auf ein bestimmtes Ziel oder einen Zweck hinarbeiten}}. {{c1::Circles}} können sich je nach den Bedürfnissen der Organisation bilden oder wieder auflösen.	
+"{{c1::Eine Teal Organization}} ist {{c2::eine Organisationsform, in welcher Mitarbeitende sich selber organisieren und steuern, um gemeinsam ein organisches, dynamisches System mit Zweck zu bilden}}.<br />
+In {{c1::einer Teal Organization}} werden Entscheidungen {{c3::dezentral, schrittweise und von unten nach oben}} getroffen."	
+"Frage:<br />
+Was sind Herausforderungen von Selbstorganisation?"	"<ul>
+<li>Bezahlung und Kompensation von Arbeit: Durch verschiedene Rollen und Verantwortlichkeiten, die ein Mitarbeiter tätigen kann, wird ein Vergleich zwischen diesen erschwert</li>
+<li>erschwerte Einstellung von Personal</li>
+<li>On-Product Work: Arbeit ist durch Verantwortlichkeiten und Selbstorganisation fragmentiert</li>
+</ul>"
+{{c1::Ein Colleague Letters of Understanding (CLOU)}} ist {{c2::ein formelles Verständnis von Aktivitäten, Zielen und Metriken, welche von den Mitarbeitenden verfasst wird}}.	
+"wahr oder falsch:<br />
+Podularity stammt aus der agilen Softwareentwicklung."	wahr
+{{c1::Podularity}} ist {{c2::ein Organisationsform zur Selbstorganisation, in welcher Pods bestimmte Aufgaben in kleine Increments mit minimalen Planungsaufwand erzeugen und erfüllen}}.	
+{{c1::Holakratie}} ist {{c2::eine Organisationsform der Selbstorganisation, bei dem Autorität und Entscheidungsbefugnisse auf Kreisen verteilt werden}}. Governance in {{c1::Holacracy}} wird durch {{c3::eine festgelegte Verfassung}} geregelt, welche {{c3::Rollen, Entscheidungsprozesse und Verantwortlichkeiten genau beschreibt}}.	
+"wahr oder falsch:<br />
+In selbstorganisierten Organisationen existiert keine Hierarchie mehr."	"falsch:<br />
+Hierarchie besteht weiterhin, wird jedoch über Rollen statt über feste Personen definiert."
+"wahr oder falsch:<br />
+In Selbstorganisation werden alle Entscheidungen im Konsens getroffen."	"falsch:<br />
+Entscheidungen sollen auf der Qualität von Ideen beruhen, nicht auf Mehrheits- oder Konsenslogik."
+"wahr oder falsch:<br />
+Selbstorganisierte Organisationen verzichten vollständig auf Organisationsstrukturen."	"falsch:<br />
+Auch selbstorganisierte Organisationen verfügen meist über klar abgegrenzte Ober- und Untergruppen."
+"wahr oder falsch:<br />
+Eine Überbetonung von Exploitation kann zu einer Failure Trap führen."	"falsch:<br />
+Eine Überbetonung von Exploitation kann zu einer Kompetenzfalle führen; Failure Traps entstehen durch eine Überbetonung von Exploration."
+{{c1::Eine Failure Trap}} ist {{c2::eine Herausforderung bei übermäßiger Exploration, welche zu erhöhtem Risiko und dem Ignorieren von Kernkompetenzen führt}}.	
+{{c1::Eine Kompetenzfalle}} ist {{c2::eine Herausforderung bei übermäßiger Exploitation, welche zu einer Stagnation führt und Herausforderungen bei Marktänderungen oder technologischen Wandel mit sich bringt}}.	
+"<p>{{c1::Digital Innovation}} ist getrieben durch {{c2::Generativität}}, welche folgende Eigenschaften benötigt:</p>
+<ul>
+<li>{{c3::Homogenität der Daten}}</li>
+<li>{{c3::Programmierbarkeit und Änderbarkeit}}</li>
+<li>{{c3::aus sich selbst verweisend und aufbauend, meist in Ebenen, Prozesse, Produkte und Services}}</li>
+</ul>"	
+"wahr oder falsch:<br />
+Standardisierung stellt das Fundament für Innovation dar, welche die bestehende Standardisierung verbessern kann. Dennoch stehen Standardisierung und Innovation in einen Zielkonflikt."	wahr
+"Frage:<br />
+Was sind Gründe für Standardisierung?"	"<ul>
+<li>Erfüllung von Geschäftsanforderungen, Sicherheitsanforderungen und Compliance</li>
+<li>Kosteneinsparung</li>
+<li>Verbesserung der Qualität</li>
+</ul>"
+"Frage:<br />
+Was ist IT-Standardisierung nach Lazor (2020)?"	Standardized technology reduces complexity and offers benefits such as cost savings through economies of scale, ease of integration, improved efficiency, and better IT support. It also simplifies your management of IT.
+"Frage:<br />
+Was sind Vorteile einer Matrixstruktur?"	"<ul>
+<li>bereichsübergreifende Kommunikation</li>
+<li>interdisziplinäre Zusammenarbeit</li>
+<li>strategische Anpassungsfähigkeit</li>
+</ul>"
+"Frage:<br />
+Was ist das zentrale strukturelle Problem der Matrixorganisation?"	duale Berichtslinien und daraus resultierende Konflikte über Prioritäten und Ressourcen
+"Frage:<br />
+Was sind Nachteile einer Matrixstruktur?"	"<ul>
+<li>erhöhter Kommunikationsaufwand</li>
+<li>komplexere Struktur durch doppelte Hierarchie</li>
+<li>Konflikte zwischen Vorgesetzen</li>
+<li>unklare Ressourcenverteilung</li>
+</ul>"
+"wahr oder falsch:<br />
+In der Matrixstruktur sind Verantwortlichkeiten immer eindeutig zuordenbar."	"falsch:<br />
+Verantwortung und Rechenschaftspflichten sind oft diffus und schwer kontrollierbar."
+"{{c1::Die Matrixstruktur}} ist {{c2::eine Organisationsform durch die kombiniert funktionaler Struktur und divisionaler Strukturen}}. Mitarbeiter in {{c1::der Matrixstruktur}} sind {{c3::gleichzeitig einer Funktionsleitung und einer Projekt- oder Produktleitung}} unterstellt.<br />
+{{c1::{{c2::{{c3::<img src=""2025-Bild-Schellhamer-Matrixstruktur.png"" alt=""""><br />
+Matrixstruktur}}}}}}"	
+{{c1::Die Chain of Command (Befehlskette)}} ist {{c2::eine durchgängige Linie der Autorität von der obersten bis zur untersten Ebene einer Organisation}}. {{c1::Die Chain of Command}} legt fest, {{c3::wer wem unterstellt ist und definiert dadurch Zuständigkeiten und Verantwortlichkeiten}}.	
+"Frage:<br />
+Was sind Nachteile einer divisionalen Struktur?"	"<ul>
+<li>Informationsbarrieren zwischen Divisionen</li>
+<li>nachlassendes Zusammengehörigkeitsgefühl</li>
+<li>Ressourcenkonflikte</li>
+</ul>"
+"Frage:<br />
+Warum führt die divisionale Struktur häufig zu Ressourcenkonflikten?"	Weil Divisionen eigenständige Ziel-, Budget- und Erfolgsverantwortung tragen und Kooperation schwächer institutionalisiert ist.
+"Frage:<br />
+Was sind Vorteile einer divisionalen Struktur?"	"<ul>
+<li>Entlastung des Top-Managements</li>
+<li>höhere Kundenorientierung</li>
+<li>schnellere Entscheidungen</li>
+</ul>"
+"Frage:<br />
+Unter welchen Bedingungen ist eine divisionale Struktur besonders sinnvoll?"	Bei differenzierten Kundenbedürfnissen, heterogenen Märkten und ausreichender Zahlungsbereitschaft.
+"wahr oder falsch:<br />
+Die Aufteilung von divisionalen Strukturen erfolgt meist nach Produkten, Kundengruppen oder Regionen."	wahr
+"wahr oder falsch:<br />
+Die divisionale Struktur gruppiert Aufgaben nach Inputs und Kompetenzen."	"falsch:<br />
+Divisionale Strukturen gruppieren nach Outputs wie Produkten, Märkten oder Regionen."
+"{{c1::Eine divisionale Struktur}} ist {{c2::eine Organisationsform, bei der das Unternehmen in weitgehend selbstständige sogenannte Divisionen gegliedert wird}}. {{c1::Jede Division}} verfügt über {{c3::eigene Ressourcen und Funktionen}}, wodurch {{c4::Entscheidungen näher am Markt getroffen werden können}}.<br />
+{{c1::{{c2::{{c3::{{c4::<img src=""2025-Bild-Schellhammer-Divisionale_Struktur.png"" alt=""""><br />
+Divisionale Struktur}}}}}}}}"	
+"Beispiel:<br />
+Boundary Spanner"	"<ul>
+<li>horizontal übergreifende Organisationseinheiten</li>
+<li>vertikale übergreifende Organisationseinheiten</li>
+</ul>"
+"Frage:<br />
+Welche Funktion erfüllen Boundary Spanner in divisionalen Strukturen?"	Sie fördern Koordination, Wissensaustausch und Kohärenz zwischen autonomen Divisionen.
+"wahr oder falsch:<br />
+Boundary Spanner fördern den Austausch, das Verständnis und die Kooperation zwischen unterschiedlichen Einheiten oder Interessengruppen einer Organisation."	wahr
+"wahr oder falsch:<br />
+Boundary Spanners reduzieren automatisch Ressourcenkonflikte zwischen Divisionen."	"falsch:<br />
+Sie können Konflikte moderieren, aber strukturelle Interessengegensätze nicht vollständig auflösen."
+"wahr oder falsch:<br />
+Boundary Spanner reduzieren strukturelle Komplexität, indem sie formale Hierarchien ersetzen."	"falsch:<br />
+Boundary Spanner ergänzen bestehende Strukturen, indem sie Informations- und Bedeutungsgrenzen überbrücken."
+"wahr oder falsch:<br />
+Boundary Spanners sind vor allem in kleinen, homogenen Organisationen notwendig."	"falsch:<br />
+Boundary Spanners sind besonders in großen, differenzierten Organisationen mit Kommunikations- und Koordinationsproblemen wichtig."
+{{c1::Ein Boundary Spanner}} ist {{c2::eine Person, die zwischen zwei oder mehr Organisationseinheiten arbeitet und als Bridge zwischen diesen agiert}}.	
+"Frage:<br />
+Was sind Nachteile einer funktionalen Struktur?"	"<ul>
+<li>geringe Anpassungsfähigkeiten bei abteilungsübergreifenden Aufgaben</li>
+<li>Inseldenken</li>
+<li>übermäßige Betonung fachlicher Expertise</li>
+</ul>"
+"Frage:<br />
+Was sind Vorteile einer funktionalen Struktur?"	"<ul>
+<li>Arbeitsteilung</li>
+<li>eindeutige Zuständigkeiten</li>
+<li>spezialisierte Karrierepfade</li>
+</ul>"
+"Frage:<br />
+Welche zentralen Schwächen informeller Organisationsstrukturen treten bei Wachstum auf?"	Unklare Zuständigkeiten, fehlende Entscheidungswege, geringe Orientierung für neue Mitarbeitende und Vernachlässigung politischer Prozesse.
+"wahr oder falsch:<br />
+Eine informelle Struktur beeinflusst Informationsflüsse, Zusammenarbeit und Entscheidungsprozesse, existiert parallel zur formalen Hierarchie und kann deren Wirkung entweder unterstützen oder unterlaufen."	wahr
+"wahr oder falsch:<br />
+Eine informelle Struktur ist dauerhaft für wachsende Organisationen geeignet."	"falsch:<br />
+Informelle Strukturen sind in frühen Phasen hilfreich, führen bei Wachstum jedoch zu Unklarheit, Ineffizienz und Koordinationsproblemen."
+{{c1::Eine informelle Struktur}} ist {{c2::eine inoffizielle, nicht formal festgelegte Organisationsstruktur. Sie entsteht spontan durch persönliche Kontakte, soziale Interaktionen und gegenseitiges Vertrauen}}.	
+{{c1::Formalisierung im Management}} ist {{c2::der Grad, in dem Arbeitsabläufe, Aufgaben und Verhaltensweisen durch Regeln, Verfahren und Standards festgelegt und vereinheitlicht sind}}.	
+{{c1::Dezentralisierung im Management}} ist {{c2::der Grad, in dem Entscheidungsbefugnisse auf untere Ebenen der Organisation übertragen werden}}.	
+{{c1::Zentralisierung im Management}} ist {{c2::der Grad, in dem Entscheidungsbefugnisse auf zentrale Stellen konzentriert sind}}.	
+"wahr oder falsch:<br />
+Departmentalization ist  die Zusammenfassung und Einbindung von Aufgaben und Personen zu Abteilungen und in die Organisation."	wahr
+"wahr oder falsch:<br />
+Bimodal IT wird häufig als Zustand einer Transition verstanden, in welchem die Mode 1 IT und Mode 2 IT in eine gemeinsame agile Abteilung reintegriert wird. Dadurch kann Wissen geteilt und die Ambidexterity erhöht werden."	wahr
+{{c1::IT-Agilität}} ist {{c2::die Fähigkeit von IT, Innovationsmöglichkeiten zu erkennen sowie diese schnell und effektiv zu nutzen}}.	
+"Frage:<br />
+Was sind Gründe für Bimodal IT?"	"<ul>
+<li>Notwendigkeit von IT-Agilität zur Reduktion der Cycle Time</li>
+<li>wachsender interner und externer Druck auf Innovationen</li>
+</ul>"
+{{c1::Ein Digital Lab}} ist {{c2::ein Umfeld, in welchem mitarbeitende sich auf Entrepreneurship und Innovation fokussieren können}}.	
+"wahr oder falsch:<br />
+Ein Organisationsdiagramm dient zur Orientierung von internen und externen Stakeholdern in Bezug zu Aufgaben, Verantwortungen und Bereichen."	wahr
+"wahr oder falsch:<br />
+Organisationsdesign betrifft ausschließlich formale Organigramme."	"falsch:<br />
+Organisationsdesign umfasst auch Entscheidungsrechte, Koordinationsmechanismen, Kontrollsysteme und Rollenverteilungen."
+{{c1::Organisationsdesign}} ist {{c2::der Prozess zur Strukturierung einer Organisation zu einer Organisationsstruktur}}.	
+"<p>Organisationsdesign besteht aus:</p>
+<ul>
+<li>{{c1::Arbeitsspezialisierung}}</li>
+<li>{{c1::Chain of Command}}</li>
+<li>{{c1::Departmentalization}}</li>
+<li>{{c1::Formalisierung}}</li>
+<li>{{c1::Leitungsspanne}}</li>
+<li>{{c1::Zentralisierung und Dezentralisierung}}</li>
+</ul>"	
+"Frage:<br />
+Was ist Adhocracy nach Lunding et al. (2015)?"	The projectification of business and working life is ongoing and strong. […] Not only do people relate to projects and to project organizing in their working lifes, but they even speak and think of their daily activities in project terms.
+"wahr oder falsch:<br />
+Adhocratie eignet sich besonders für stabile, stark standardisierte Umgebungen."	"falsch:<br />
+Adhocratie eignet sich für dynamische, wissensintensive und innovationsgetriebene Umfelder."
+{{c1::Eine Adhocracy}} ist {{c2::eine Organisationsform, in welcher temporäre Strukturen für ein spezifisches Ziel gebildet werden}}. In {{c1::der Adhocracy}} entstehen dadurch fließende Beziehungen.	
+"Frage:<br />
+Welches Menschenbild liegt klassischen Organisationstheorien zugrunde?"	Menschen werden als rational-ökonomisch handelnde, austauschbare Teile eines Produktionssystems verstanden.
+"wahr oder falsch:<br />
+Klassische Organisationstheorien gehen davon aus, dass Organisationen primär soziale Bedürfnisse der Mitarbeitenden erfüllen sollen."	"falsch:<br />
+Klassische Organisationstheorien verstehen Organisationen primär als Instrumente zur effizienten Ziel- und Produktionserreichung."
+"wahr oder falsch:<br />
+Koordination findet in der klassischen Organisationtheorie Top-Down statt."	wahr
+{{c1::Klassische Organisationstheorie}} ist {{c2::eine Theorie über Organisationen, dass es nach dem Scientific Management einen besten universellen Ansatz gibt, durch welchen die Produktion maximiert werden kann}}.	
+"Frage:<br />
+Was sind drei zentrale Merkmale bürokratischer Organisationen?"	"<ul>
+<li>formalisierte Regeln</li>
+<li>klare Hierarchien</li>
+<li>Trennung von Person und Amt</li>
+</ul>"
+"wahr oder falsch:<br />
+Bürokratische Regeln fördern grundsätzlich Innovation."	"falsch:<br />
+Regeln erhöhen Effizienz und Vorhersagbarkeit, können aber Anpassung und Innovation begrenzen."
+{{c1::Bürokratie}} sind {{c2::alle Organisationsfunktionen und Organisationsformen, welche standardisierte und formelle Regeln besitzen}}.	
+"Frage:<br />
+Was ist das zentrale Prinzip von Scientific Management?"	Die Trennung von Planung (Management) und Ausführung (Arbeiter) auf Basis wissenschaftlich definierter Arbeitsstandards.
+"Frage:<br />
+Was ist Scientific Management nach Wren, Bedeian (2009)?"	"<blockquote>
+  <p>The principal object of management should be to secure the maximum prosperity for the employer, coupled with the maximum prosperity for each employee.</p>
+</blockquote>"
+"wahr oder falsch:<br />
+Scientific Management nach Taylor geht davon aus, dass Arbeiter grundsätzlich intrinsisch motiviert sind."	"falsch:<br />
+Taylor ging von einer natürlichen Neigung zur Leistungsvermeidung (soldiering) aus und setzte auf Kontrolle und Anreizsysteme."
+{{c1::Scientific Management}} ist {{c2::eine strukturierter Ansatz zum Management, von Menschen und Maschinen, basierend auf Daten}}. {{c1::Scientific Management}} teilt Planung und Durchführung auf.	
+"<p>Scientific Management besteht aus:</p>
+<ol>
+<li>{{c1::Entwicklung eines methodischen Ansatzes}}</li>
+<li>{{c1::Methodische Auswahl und Fortbildung von Mitarbeitenden}}</li>
+<li>{{c1::Methodik und Mitarbeitende verbinden}}</li>
+<li>{{c1::Spezialisierung und Kooperationen zwischen Management und auszuführender Arbeit}}</li>
+</ol>"	
+"Frage:<br />
+Warum ist es für Organisationen schwierig, Standardisierung und Innovation gleichzeitig zu verfolgen?"	Weil Standardisierung Varianz reduziert, Risiken minimiert und bestehende Fähigkeiten optimiert, während Innovation Varianz erhöht, Risiken eingeht und bestehende Fähigkeiten infrage stellt.
+"wahr oder falsch:<br />
+Standardisierung und Innovation stehen immer in einem unauflösbaren Widerspruch."	"falsch:<br />
+Sie stehen in einem Zielkonflikt, können jedoch über Ambidexterity-Ansätze (z. B. strukturell oder kontextuell) miteinander verbunden werden."
+"wahr oder falsch:<br />
+Standardisierung und Innovation verfolgen identische kulturelle und organisatorische Ziele."	"falsch:<br />
+Standardisierung fokussiert Effizienz, Risikominimierung und Stabilität, während Innovation auf Anpassungsfähigkeit, Wachstum und Risikobereitschaft ausgerichtet ist."
+"wahr oder falsch:<br />
+Zwischen Kontrolle und Effizienz sowie Adaptivität und Innovation besteht ein Zielkonflikt und eine Spannung."	wahr
+{{c1::Ein Entrepreneurial Start-Up Plan}} ist {{c2::ein Plan für ein Entrepreneurship}}.	
+{{c1::Intrapreneurship}} ist {{c2::das Entrepreneurship innerhalb einer bestehenden Organisation, um neue Produkte, Dienstleistungen oder Geschäftsfelder zu entwickeln und Innovationen von innen heraus vorantreibt}}.	
+{{c1::Klassisches Entrepreneurship}} ist {{c2::das Entrepreneurship mit neuen Ideen, Produkten oder Technologien}}.	
+{{c1::Serial Entrepreneurship}} ist {{c2::das Entrepreneurship, in welchem mehrere Organisation gegründet werden, wobei die Führung langfristig abgegeben wird}}.	
+{{c1::Monopreneurship}} ist {{c2::das Entrepreneurship, in welchem eine Organisation langfristig gegründet und geführt wird}}.	
+"Beispiel:<br />
+Micropreneurship"	"<ul>
+<li>Mikrobrauereien</li>
+</ul>"
+{{c1::Micropreneurship}} ist {{c2::das Entrepreneurship, eine kleine und tragfähige Organisation zu erzeugen, ohne die Absicht, es zu vergrößern}}.	
+"Beispiel:<br />
+wachstumsorientierter Entrepreneurship"	"<ul>
+<li>Google</li>
+<li>Facebook</li>
+<li>Tesla</li>
+<li>Uber</li>
+</ul>"
+{{c1::Wachstumsorientierter Entrepreneurship}} ist {{c2::das Entrepreneurship, eine Organisation wachsen zu lassen und erheblichen Einfluss in der Branche oder Gesellschaft zu erlangen}}.	
+"<p>Gründe für Entrepreneurship sind:</p>
+<ul>
+<li>{{c1::Autonomie und Selbstbestimmung}}</li>
+<li>{{c1::finanzielle Motivation}}</li>
+<li>{{c1::Sinn und Wirkung}}</li>
+</ul>"	
+{{c1::Ein Entrepreneur}} ist {{c2::eine Person, die neue oder verbesserte Produkte oder Dienstleistungen entwickelt und die Initiative ergreift, diese Idee durch Planung und den Einsatz der erforderlichen Ressourcen in die Realität umzusetzen}}.	
+"Frage:<br />
+Wast ist Kritik an der Financial Bottom Line?"	Kritik an der Financial Bottom Line ist insbesondere die fehlende Berücksichtigung von potentiellen Externalitäten, welche den Wert als Kapital beeinflussen können. Potentiell kann eine versuchte Werteerhöhung in Form von Kapital dadurch sogar zu einer negativen Wohlfahrt führen.
+Die Financial Bottom Line folgt dem Utilitarismus, weil {{c1::in der Financial Bottom Line versucht wird, der Wert als Kapital zu maximieren}}.	
+"<p>Funktionen von Management sind:</p>
+<ol>
+<li>{{c1::Planung}}</li>
+<li>{{c1::Organisation}}</li>
+<li>{{c1::Führung}}</li>
+<li>{{c1::Kontrolle}}</li>
+</ol>"	
+"<p>Rollen von Managern sind:</p>
+<ul>
+<li>{{c1::Entscheidungsträger}}: {{c1::Entrepreneur, Ressourcenallokation, Verhandler}}</li>
+<li>{{c2::Informant}}: {{c2::Monitoring, Sprecher, Übermittler}}</li>
+<li>{{c3::Kontaktperson}}: {{c3::Anführer, Bindeglied, Vorbild}}<br />
+{{c1::{{c2::{{c3::<img src=""2025-Bild-Dyck-Caza-Aure-Leaman-Marcus-Jimenez-Management-Funktionen_und_Rollen_von_Managern.png"" alt=""""><br />
+Funktionen von Management und Rollen von Managern}}}}}}</li>
+</ul>"	
+{{c1::Eine B Corp}} ist {{c2::ein Unternehmen, das unabhängige Zertifizierung hohe Standards in den Bereichen soziale und ökologische Leistung, Transparenz und Rechenschaft nachweisen kann}}.	
+{{c1::Social and Ecological Thought Management (SET)}} ist {{c2::das Management zur Erreichung eines nachhaltigen Profits bei gleichzeitiger Reduktion von negativen Externalitäten und Erzeugung von positiven Externalitäten}}.	
+{{c1::Triple Bottom Line Management}} ist {{c2::das Management der Triple Bottom Line zur Förderung der finanziellen Einflüsse und Reduzierung von sozioökologischen Externalitäten}}.	
+"Frage:<br />
+Gründe für verantwortungsvolles Verhalten sind Beziehungen zu Stakeholdern und Reduktion von Spannungen innerhalb der Beziehungen, moralische Beweggründe sowie ökonomische Beweggründe."	wahr
+"Frage:<br />
+Was ist der zentrale Unterschied zwischen Financial Bottom Line (FBL) zu der Triple Bottom Line (TBL) Management?"	FBL fokussiert ausschließlich auf die Maximierung des finanziellen Unternehmenserfolgs, während TBL zusätzlich soziale und ökologische Auswirkungen systematisch berücksichtigt.
+"Frage:<br />
+Was ist eine Financial Bottom Line nach Friedman (1976)?"	There is one and only one social responsibility of business: to use its resources and engage in activities designed to increase profits so long as it stays within the rules of the game, which is to say, engages in open and free competition without deception or fraud.
+"wahr oder falsch:<br />
+Die Kritik an Financial Bottom Line Management richtet sich primär gegen fehlende Effizienz."	"falsch:<br />
+Die zentrale Kritik betrifft die systematische Vernachlässigung sozialer und ökologischer Externalitäten trotz wirtschaftlicher Effizienz."
+"wahr oder falsch:<br />
+Grundlage der Financial Bottom Line, ist das jede Maximierung des ökonomischen Wertes auch die Wohlfahrt der Gesellschaft maximiert."	wahr
+"wahr oder falsch:<br />
+Nach der Financial-Bottom-Line-Logik maximiert Gewinnmaximierung automatisch die gesellschaftliche Wohlfahrt."	"wahr:<br />
+Dies gilt innerhalb der Annahme funktionierender Marktregeln und fehlender oder korrekt internalisierter Externalitäten."
+{{c1::Die Financial Bottom Line}} ist {{c2::ein Konzept, dass eine Organisation ihren finanziellen Wert maximieren muss und daher nur nach ihren ökonomischen Einfluss gemessen werden sollte}}.	
+"wahr oder falsch:<br />
+Das Resultat einer Marktwirtschaft ist abhängig zu den Regeln des Marktes, nicht den Motiven der Resultate."	wahr
+"wahr oder falsch:<br />
+Traditionelle Ethik scheitert an der technosozialen Intransparenz aufgrund der Geschwindigkeit von technologischer Entwicklungen. Da klare Regeln und vorhersehbare Folgen fehlen, muss moralisches Handeln auf Charakterbildung und technomoralischen Tugenden beruhen."	wahr
+{{c1::Technosoziale Intransparenz (Technosocial Opacity)}} ist {{c2::die Schwierigkeit, zu erkennen und zu verstehen, wie komplexe Technologien gesellschaftliche Ergebnisse und ethische Folgen beeinflussen}}.	
+{{c1::Legitimität}} ist {{c2::die angenommene Akzeptanz und Validität einer Handlung}}.	
+"Frage:<br />
+Wie wirkt Corporate Social Responsibility risikomindernd?"	Corporate Social Responsibility reduziert sowohl direkte Risiken (z. B. durch Umweltprogramme) als auch indirekte Risiken durch vertrauensvolle Stakeholderbeziehungen und verbesserte Frühwarnsysteme.
+"wahr oder falsch:<br />
+Corporate Social Responsibility hat nur ein begrenzten Bezug zum Geschäft und fokussiert sich mehr auf Reputation."	wahr
+"wahr oder falsch:<br />
+Corporate Social Responsibility-Maßnahmen wie Spenden haben keinen Effekt auf die Innovationsfähigkeit."	"falsch:<br />
+Corporate Social Responsibility kann Innovationsfähigkeit fördern, da breitere Stakeholder-Beziehungen neue Wissensquellen und Lernprozesse initiieren."
+"Frage:<br />
+Warum gelten Global Reporting Initiative-Standards als zentrales Instrument von Corporate Sustainability Reporting?"	Weil sie ein international anerkanntes, stakeholderbasiertes Rahmenwerk zur strukturierten Nachhaltigkeitsberichterstattung bereitstellen.
+"wahr oder falsch:  <br />
+Die Global Reporting Initiative ist ein Gesetz und keine freiwillige Initiative."	"falsch:  <br />
+Die GRI ist ein freiwilliges Reporting-Framework, das Standards für Nachhaltigkeitsberichterstattung liefert, jedoch selbst keine gesetzliche Regelung ist."
+{{c1::Die Global Reporting Initiative}} ist {{c2::ein Reporting Framework für Standards im Bezug zum Sustainability Reporting}}.	
+"wahr oder falsch:  <br />
+Die Corporate Sustainability Reporting Directive gilt nur für große Unternehmen mit mehr als 500 Mitarbeitenden."	"falsch:  <br />
+Die CSRD gilt auch für mittelgroße Unternehmen, da sie die Reichweite der bisherigen Non-Financial Reporting Directive erweitert."
+{{c1::Die Corporate Sustainability Reporting Directive (CSRD)}} ist {{c2::ein Gesetz der EU über die verpflichtende Abgabe eines Sustainability Reports}}. {{c1::Die CSRD}} enthält Einflüsse von einem Unternehmen auf {{c3::die Umwelt}}, {{c3::den Klimawandel}}, {{c3::die Gesellschaft}} und {{c3::die Sustainability Governance}}. Umgekehrt enthält {{c1::die CSRD}} auch {{c4::die Einflüsse der Umwelt auf das Unternehmen}}.	
+"Frage:<br />
+Wie kann KI für Sustainable Reporting genutzt werden?"	KI kann eingesetzt werden, um bestimmte Berichtsanforderungen vorab zu definieren. Dies spart Zeit vor und während der Interaktion mit verschiedenen Stakeholdern.
+"wahr oder falsch:<br />
+Aufgrund eines fehlenden Standards für Sustainability Reports sind viele dieser Bericht inkonsistent."	wahr
+{{c1::Ein Sustainability Report (Nachhaltigkeitsbericht, Sustainability Reporting)}} ist {{c2::ein nicht-finanzieller, transparenter Bericht über die ESG Performance für Shareholder}}. Durch {{c1::ein Sustainability Report}} kann ein Verständnis für {{c3::die Auswirkungen der Geschäftsaktivitäten auf Umwelt und Gesellschaft}} geschafft werden.	
+"Frage:<br />
+Was it Social Entrepreneurship nach Saebi et al. (2019)?"	It’s the dual mission of the social enterprise, or as an entrepreneurial process or activity that creates social value.
+{{c1::Social Entrepreneurship (soziales Unternehmertum)}} ist {{c2::das unternehmerische Denken und Handeln zum Wohle der Gesellschaft}}. Der Erfolg von {{c1::sozialem Unternehmertum}} wird nicht allein anhand finanzieller Gewinne bewertet, sondern vielmehr anhand {{c3::des sozialen Nutzens}}.	
+"<p>Eigenschaften von Selbstorganisation sind:</p>
+<ul>
+<li>{{c1::kontextueller Leadership}}: {{c2::Leitung wird durch mehrere Rollen durchgeführt, nicht von spezifischen Personen}}</li>
+<li>{{c1::Teams gestalten und verwalten sich selbst}}: {{c3::Teams sind ineinander geschachtelt und organisieren sich innerhalb dieser}}</li>
+<li>{{c1::Teams sind die Strukturen}}: {{c4::Teams sind die zentralen Bausteine von Organisationen, in welchen Rollen, Verantwortlichkeiten und Rollen definiert werden}}</li>
+</ul>"	
+"Frage:<br />
+Was ist die zentrale Idee der Triple Bottom Line?"	Unternehmerischer Erfolg soll entlang ökonomischer, sozialer und ökologischer Dimensionen gleichzeitig bewertet und gesteuert werden.
+"wahr oder falsch:<br />
+In der Triple Bottom Line werden Business Cases gebildet, die sowohl finanzielle, als auch soziale und ökologische Faktoren verbinden."	wahr
+"wahr oder falsch:<br />
+Wirtschaftliche Nachhaltigkeit stellt die wichtigste Dimension für den Erfolg digitaler Transformation dar."	"falsch:<br />
+Nicht nur wirtschaftliche Nachhaltigkeit, sondern eine Bewertung entlang der Triple Bottom Line (ökonomisch, sozial, ökologisch) ist notwendig."
+{{c1::Die Triple Bottom Line}} ist {{c2::ein Konzept, dass Organisationen nicht nur nach dem ökonomischen Einfluss, sondern auch nach dem sozialen Einfluss und ökologischen Einfluss gemessen werden sollen}}. Innerhalb {{c1::der Triple Bottom Line}} sollen {{c3::sozio-ökologische Externalitäten}} reduziert werden	
+Im Rahmen {{c1::der Tripe Bottom Line}} müssen Organisationen {{c2::CO2-Neutralität}}, {{c2::den Schutz von Biodiversität}} und {{c2::Prinzipien der Circular Economy}} in ihr Business Model integrieren.	
+{{c1::Ein Interesse}} ist {{c2::eine Prädisposition zu einem Ziel, Wert, Bedürfnis, Erwartung oder einer anderen Intention}}.	
+"Beispiel:<br />
+Symbol"	"<ul>
+<li>Logos</li>
+<li>Geschichten</li>
+<li>Metaphern</li>
+<li>Rituale</li>
+</ul>"
+{{c1::Ein Symbol}} ist {{c2::eine Representation einer bewussten Assoziation oder unterbewussten Assoziation, welche einem Element einer weitere und abstraktere Bedeutung gibt}}.	
+{{c1::Das IoT (Internet der Dinge, Internet of Things)}} ist {{c2::ein Netzwerk von Smart Connected Products, welches durch Sensoren die physische Welt digital erfassen und Impulse über Aktoren in die physische Welt überführen kann}}.	
+"wahr oder falsch:<br />
+Ein Smart Device ist ein Gerät, welches Daten über Nutzer und dessen Umgebung erfassen kann."	wahr
+{{c1::Ein Smart Device}} ist {{c2::ein Gerät, welches durch bestimmte Fähigkeiten seine physischen Eigenschaften erweitern kann und als künstlicher Akteur agiert}}.	
+"Frage:<br />
+Was ist das Ziel von Human Resource Management?"	Die Gewinnung, Entwicklung, Bindung und der verantwortungsvolle Einsatz von Mitarbeitenden zur Erreichung organisationaler Ziele.
+{{c1::Personalmanagement (HRM, Human Resource Management, Personalwesen)}} ist {{c2::der Prozess und das Management der Personalbeschaffung, Personalentwicklung und der Mitarbeiterbindung}}.	
+{{c1::Interpretation (Interpretierbarkeit) in der Logik}} ist {{c2::das Verständnis der Zusammenhänge zwischen Input und Output}}.	
+{{c1::Ein Konflikt}} ist {{c2::die Manifestation von verschiedenen Interessen, welche in Spannung zueinander stehen}}.	
+"Beispiel:<br />
+Franchising"	"<ul>
+<li>McDonald's</li>
+</ul>"
+{{c1::Franchising}} ist {{c2::ein Geschäftsmodell, bei dem ein Franchisegeber einem Franchisenehmer ein vollständiges Paket zur Unternehmensgründung inklusive Marke, Leistungen und Technologien anbietet}}.	
+{{c1::Management}} ist {{c2::die Zuweisung und die Nutzung menschlicher Arbeitskraft, materieller Ressourcen, Informationen und weiterer Ressourcen zur zielorientierten Steuerung}} für {{c3::ein Ziel einer Organisation}}.	
+"<p>Management besteht aus:</p>
+<ul>
+<li>{{c1::Entscheiden}}</li>
+<li>{{c1::Kontrollieren}}</li>
+<li>{{c1::Menschen entwickeln und fördern}}</li>
+<li>{{c1::Organisieren}}</li>
+<li>{{c1::Planen}}</li>
+<li>{{c1::Setzen von Zielen und Visionen}}</li>
+</ul>"	
+{{c1::Die Standardisierung (Standard)}} ist {{c2::die Konsensbildung mit allen relevanten Stakeholdern zur Formulierung in eine konkreten, technisch nutzbaren Weise}}.	
+"<p>Eigenschaften von Standardisierung sind:</p>
+<ul>
+<li>{{c1::auf bestehenden Unternehmensstrukturen aufbauend}}</li>
+<li>{{c1::Kosten und Profit}}</li>
+<li>{{c1::operative Effizienz}}</li>
+<li>{{c1::risikoavers}}</li>
+</ul>"	
+"Frage:<br />
+Wie beeinflusst Organisationskultur die Wirksamkeit formaler Strukturen?"	Kultur prägt, wie Regeln interpretiert, Rollen ausgefüllt und Entscheidungsbefugnisse tatsächlich ausgeübt werden.
+"wahr oder falsch:<br />
+Eine Organisationsstruktur besteht aus der Arbeitsteilung und Koordinierung und Integration der Arbeitsteilung."	wahr
+"wahr oder falsch:<br />
+Organisationale Strukturen sind statisch und sollten über den gesamten Lebenszyklus eines Unternehmens unverändert bleiben."	"falsch:<br />
+Organisationen müssen ihre Strukturen im Zeitverlauf an Wachstum, Technologie, Marktanforderungen und Kooperationsbedarfe anpassen."
+"wahr oder falsch:<br />
+Organisationsstrukturen sind wertneutral und unabhängig von Kultur."	"falsch:<br />
+Organisationsstrukturen sind kulturell eingebettet und spiegeln Annahmen, Werte und Machtverhältnisse wider."
+{{c1::Eine Organisationsstruktur}} ist {{c2::die formelle Struktur von Menschen und Aufgaben in einer Organisation}}.	
+"Frage:<br />
+Was ist eine Unternehmenskultur nach Bain?"	Company culture is at the heart of competitive advantage, because it determines how things are done and how people behave; it is the hardest thing for competitors to copy. High performers create an environment with a unique personality and soul, and with a passion for performances - so that people make the right decisions and do the right thing wherever they are in the business.
+{{c1::Eine Unternehmenskultur}} ist {{c2::eine Kultur, welche durch ein Management aufgrund von Power geschaffen wurde}}.	
+"Frage:<br />
+Was ist die Kritik an bestehender Information Systems-Forschung zur digitalen Transformation in Bezug zu Nachhaltigkeit?"	Dass sie zu stark auf wirtschaftliche Nachhaltigkeit fokussiert ist und soziale sowie ökologische Nachhaltigkeit vernachlässigt, obwohl diese für eine ganzheitliche Transformation entscheidend sind.
+{{c1::Die digitale Transformation}} ist {{c2::die Nutzung neuer digitaler Technologien, um wesentliche organisatorische Verbesserungen zu ermöglichen}}.	
+"Beispiel:<br />
+Artefakt (Kultur)"	"<ul>
+<li>Gesten</li>
+<li>Logo</li>
+<li>Spitznamen</li>
+<li>Sprache</li>
+<li>Zeremonien</li>
+</ul>"
+{{c1::Ein Artefakt in der Kultur}} ist {{c2::manifestierbare und obervierbare Ausprägung einer Kultur, welches auf Werten und Annahme basiert}}.	
+"Frage:<br />
+Was ist Politik nach Morgan (1997)?"	[…] politics provides a means of creating order out of diversity while avoiding forms of totalitarian rule.
+{{c1::Politik}} ist {{c2::die Zusammenbringung von miteinander in Konflikt stehenden Interessen zur Erreichung von einem höheren Ziel}}.	
+{{c1::Ein Produkt}} ist {{c2::ein physikalisches oder jegliche andere materielle Komposition, die wirtschaftlich genutzt werden kann}}.	
+{{c1::Kontrolle}} ist {{c2::das Sicherstellen der Übereinstimmung von Handlungen und Ergebnisse mit den geplanten Zielen, Werten und Standards einer Organisation}}. {{c1::Kontrolle}} umfasst sowohl {{c3::das Erkennen und Korrigieren von Abweichungen}} als auch {{c3::das Verstärken positiver Leistungen}}.	
+{{c1::Führung}} ist {{c2::das Beeinflussen, Motivieren und Anleiten von Mitarbeitenden, damit ihre Handlungen auf die organisatorischen Ziele ausgerichtet sind}}.	
+"Frage:<br />
+Was ist eine Organisation nach Mintzberg (1983)?"	Organizations are arbitrary focusses of interests, marketplaces whose structures and processes are the outcomes of the complex accommodations made by actors exchanging a variety of incentives and pursuing a diversity of goals.
+"wahr oder falsch:<br />
+Eine Organisation bietet normalerweise bestimmte Leistungen in Form von Produkten oder Dienstleistungen an."	wahr
+"wahr oder falsch:<br />
+Organisationen sind primär rationale Systeme, in denen Entscheidungen objektiv entlang gemeinsamer Ziele getroffen werden."	"falsch:<br />
+Organisationen sind pluralistische Systeme mit divergierenden Interessen, in denen Entscheidungen häufig durch Macht, Aushandlung und Politik zustande kommen."
+{{c1::Eine Organisation}} ist {{c2::offenes soziotechnisches System zur Bildung von Organisationsstrukturen und zur Zielerreichung}}.	
+"<p>Organisationen besteht aus:</p>
+<ul>
+<li>{{c1::Arbeitsteilung}}</li>
+<li>{{c1::einer eigenen Identität und Organisationskultur}}</li>
+<li>{{c1::formalen Regeln und informellen Regeln}}</li>
+<li>{{c1::Hierarchien sowie Über- und Unterordnungsverhältnissen}}</li>
+<li>{{c1::Koordination von Beziehungen}}</li>
+<li>{{c1::Verantwortlichkeiten und Zuständigkeiten}}</li>
+</ul>"	
+"Frage:<br />
+Was unterscheidet individualistische von kollektivistischen Kulturen?"	Individualistische Kulturen betonen Selbstverantwortung und direkte Kommunikation, kollektivistische Kulturen priorisieren Gruppenharmonie, Beziehungen und Kontext.
+"wahr oder falsch:<br />
+Individualismus als Kulturfaktor bedeutet, dass Teamarbeit in solchen Kulturen kaum funktioniert."	"falsch:<br />
+Individualistische Kulturen arbeiten effektiv in Teams, betonen jedoch persönliche Verantwortung und individuelle Beiträge."
+"wahr oder falsch:<br />
+Kulturen mit einem niedrigen Individualismus sind China und Mexiko. Kulturen mit einem hohen Individualismus sind die USA und Kanada."	wahr
+{{c1::Individualismus}} ist ein{{c2:: Kulturfaktor, welcher beschreibt, wie hoch Personen in einer Kultur in ein Kollektiv eingebunden sind}}.	
+"Beispiel:<br />
+Annahme"	"<ul>
+<li>Grundeinstellung zu der Realität</li>
+<li>Grundeinstellung zu sozialen Konstrukten und Gemeinschaft</li>
+<li>Grundeinstellung zu der Wahrheit</li>
+</ul>"
+"wahr oder falsch:<br />
+Annahmen werden als Reaktion auf Probleme durch die externe Umwelt gebildet."	wahr
+{{c1::Eine Annahme}} ist {{c2::eine grundsätzlich unterbewusste und selbstverständliche Aussage}} über {{c2::eine Umwelt}}.	
+{{c1::Eine Annahme}} unterstellt {{c2::einem Wirkungszusammenhang}} innerhalb eines Systems.	
+"Frage:<br />
+Was ist das langfristige Ziel der Reintegrated Bimodal IT?"	Die Zusammenführung beider IT-Modi zu einer scheinbar einheitlichen IT-Funktion mit hoher Agilität und Innovationsfähigkeit bei gleichzeitiger Stabilität im Hintergrund.
+"{{c1::Eine Reintegrated Bimodal IT}} ist eine Bimodal IT, welche {{c2::ihre Projekte in der Digital IT durchführt und die Traditional IT als Backend nutzt}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Stockhinger-Bimodal_IT.png"" alt=""""><br />
+Arten der Bimodal IT}}}}"	
+"Frage:<br />
+Wann ist eine Subdivisional Bimodal IT besonders geeignet?"	Wenn Organisationen sowohl Stabilität als auch Innovation benötigen und beide Modi unter einer gemeinsamen IT-Führung koordiniert werden sollen.
+"{{c1::Eine Subdivisional Bimodal IT}} ist eine Bimodal IT, welche {{c2::die Traditional IT und Digital IT in einer Abteilung zusammenführt}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Stockhinger-Bimodal_IT.png"" alt=""""><br />
+Arten der Bimodal IT}}}}"	
+"wahr oder falsch:<br />
+Die Divisionally Separated Bimodal IT verursacht die geringste organisatorische Disruption."	"falsch:<br />
+Sie verursacht die höchste organisatorische Disruption, da eine separate digitale Einheit außerhalb der traditionellen IT aufgebaut wird."
+"{{c1::Eine Divisionally Separated Bimodal IT}} ist eine Bimodal IT, welche {{c2::die Traditional IT und Digital IT in eigene Divisionen aufteilt}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Stockhinger-Bimodal_IT.png"" alt=""""><br />
+Arten der Bimodal IT}}}}"	
+"wahr oder falsch:<br />
+Eine Project-By-Project Bimodal IT ist gut für Unternehmen, welche träge gegenüber Änderungen reagieren."	wahr
+"Frage:<br />
+Was ist das Ziel des Project-by-Project-Bimodal IT?"	Innovative Projekte selektiv agil umzusetzen, während andere Projekte weiterhin traditionellen Governance-Strukturen folgen.
+"{{c1::Eine Project-By-Project Bimodal IT}} ist eine Bimodal IT, welche {{c2::die Traditional IT und Digital IT in Projekte aufgeteilt}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Stockhinger-Bimodal_IT.png"" alt=""""><br />
+Arten der Bimodal IT}}}}"	
+"wahr oder falsch:<br />
+Bimodal IT wird primär eingeführt, um IT-Kosten zu senken."	"falsch:<br />
+Bimodal IT wird eingeführt, um gleichzeitig Stabilität und Innovationsfähigkeit in der IT zu ermöglichen."
+"{{c1::Eine Bimodal IT (bimodale IT)}} ist {{c2::der Aufbau von einer digitalen IT, parallel zu einer bestehenden traditionellen IT}}, um {{c3::Innovation zu ermöglichen}}.<br />
+{{c1::{{c2::{{c3::<img src=""2023-Bild-Stockhinger-Bimodal_IT.png"" alt=""""><br />
+Arten der Bimodal IT}}}}}}"	
+"wahr oder falsch:<br />
+Traditional IT wird durch typische Wasserfall-Ansätze entwickelt, um Risiken zu vermindern."	wahr
+"{{c1::Eine Traditional IT (Core IT, Industrial IT, Mode 1 IT, traditionelle IT)}} ist eine IT, die auf {{c2::Leistung}}, {{c2::Sicherheit}} und {{c2::Stabilität}} fokussiert ist.<br />
+{{c1::Eine Traditional IT}} wird für {{c3::IT-zentrierte Services}} eingesetzt."	
+"Frage:<br />
+Für eine Investition kann ein Gewinn oder ein Verlust auftreten. Handelt es sich um eine sichere Erwartung, Erwartung mit Risiko oder Erwartung mit Unsicherheit?"	Erwartung mit Unsicherheit
+{{c1::Ungewissheit (Unsicherheit)}} ist {{c2::eine Informationssituation, bei dem keine Informationen über eine Menge von Zuständen bekannt sind}}. Dadurch steht nicht fest, welcher Zustand eintreten wird.	
+{{c1::Die Werte (Values) einer Kultur}} sind {{c2::grundsätzliche und ethische Einstellungen, Erwartungen, Prinzipien, Ziele und Standards einer Kultur}}.	
+"Frage:<br />
+Was ist Kultur nach Louis (1985)?"	a set of understandings or meanings shared by a group of people. The meanings are largely tacit among members, are clearly relevant to the particular group, and are distinctive to the group. Meanings are passed on to new group members […] [culture’s content is] the totality of socially transmitted behavior patterns, a style of social and artistic expression, a set of common understandings.
+"Frage:<br />
+Wie wird Kultur gebildet?"	Kultur wird anhand von Problemen gebildet, validiert und in eine Gemeinschaft integriert, sodass diese an neue Mitglieder der Gemeinschaft weitergegeben werden. Kultur ist daher von einer Gruppe von Menschen erlernt.
+"wahr oder falsch:<br />
+Jegliche Form von Kultur kann Stärken hervorrufen, welche als kompetitiver Vorteile gesehen werden können."	wahr
+"wahr oder falsch:<br />
+Kultur beeinflusst nur weiche Faktoren wie Kommunikation, nicht aber Leistung."	"falsch:<br />
+Kultur beeinflusst Leistung indirekt über Koordination, Motivation, Entscheidungsqualität und Zusammenarbeit."
+"wahr oder falsch:<br />
+Kultur ist direkt beobachtbar und objektiv messbar."	"falsch:<br />
+Kultur ist ein theoretisches Konstrukt, das nicht direkt beobachtbar ist, sondern aus Verhaltensweisen, Symbolen und Aussagen erschlossen wird."
+{{c1::Kultur (Culture)}} ist {{c2::ein Konstrukt über die Menge an Verhaltensweisen, Artefakten, Werten, Normen, Annahmen, Wissen und Ziele einer Gesellschaft}}.	
+"Beispiel:<br />
+Preisführer-Strategie"	"<ul>
+<li>1-Euro-Läden</li>
+<li>unabhängige Tankstellen</li>
+</ul>"
+"Frage:<br />
+Was ist Preisführer-Strategie nach Scholes et al. (2014)?"	Cost-leadership strategy involves becoming the lowest-cost organization in a domain of activity.
+"wahr oder falsch:<br />
+Die Preisführer-Strategie führt durchschnittlich zum höchsten Profit."	"falsch:<br />
+Die Differenzierungs-Strategie führt durchschnittlich zum höchsten Profit."
+"wahr oder falsch:<br />
+Ein Preis-KKV ist ein eindimensionales Konstrukt."	"richtig:<br />
+Es kann in einem Markt nur einen Preisführer geben."
+"wahr oder falsch:<br />
+Eine Preisführer-Strategie erfordert auf der Nachfragerseite ein hohes Maß an Effizienz bei gleichzeitiger Effektivität."	falsch
+"wahr oder falsch:<br />
+Eine zeitlich stabile und wirtschaftliche Preisführerschaft erfordert in der Regel entweder Elemente einer kostenbasierten oder Elemente einer beurteilungsorientierten Preisführerstrategie. Elemente beider Strategien kombiniert man nicht."	falsch
+"wahr oder falsch:<br />
+Um eine Preisführer-Strategie zu realisieren, kann auf die Ausnutzung von Erfahrungskurveneffekten verzichtet werden."	falsch
+{{c1::Eine Preisführer-Strategie (KKV-Preis, Preisführerschaft)}} ist {{c2::eine KKV-Dimensionen, welche einen KKV durch eine kostenbasierte Preisführer-Strategie und eine beurteilungsorientierte Preisführer-Strategie erlangt}}.	
+"wahr oder falsch:<br />
+Ein kompetitiver Vorteil ist schwer zu imitieren, da diese aus einem System an Aktivitäten besteht."	wahr
+{{c1::Ein kompetitiver Vorteile (Competitive Advantage)}} ist {{c2::ein Vorteil, der durch die Entwicklung eines USP aus Kernaktivitäten und Fähigkeiten entsteht}}. {{c1::Ein kompetitiver Vorteil}} entsteht durch {{c2::operationale Effektivität und eine strategische Positionierung}}.	
+{{c1::Eine Ablauforganisation (Operational Organization)}} ist die Gliederung von einem Unternehmen in {{c2::organisatorische Teileinheiten}}, welche nach {{c3::dem Ablauf des betrieblichen Geschehens}} geschlüsselt werden.	
+{{c1::Eine Aufbauorganisation (Structural Organization)}} ist die Gliederung von einem Unternehmen in {{c2::organisatorische Teileinheiten}}, welche nach {{c3::Aufgaben und Kompetenzen der einzelnen Teileinheiten}} geschlüsselt werden.	
+In {{c1::der Aufbauorganisation}} wird zwischen {{c2::Leitungsstellen}} und {{c2::Ausführungsstellen}} unterschieden.	
+{{c1::Die Planung}} sind {{c2::alle Maßnahmen und Überlegungen}}, durch die es möglich wird, aus {{c2::einer Anzahl von Alternativen zur Lösung eines Problems die im Hinblick auf ein Ziel günstigere Alternative herauszufinden}}.	
+{{c1::Die Planung}} wird {{c2::durch Szenariotechniken}} mit entsprechenden Definitionen und Eintrittswahrscheinlichkeiten durchgeführt.	
+"<p>Planung besteht aus:</p>
+<ul>
+<li>{{c1::Abstimmung von Aktivitäten}}</li>
+<li>{{c1::Festlegen von Strategien und Zielen}}</li>
+<li>{{c1::Prioritätenfestlegung}}</li>
+<li>{{c1::Treffen von Entscheidungen}}</li>
+</ul>"	
+"Die Planung ist üblicherweise ein Prozess aus mehreren Schritten:<br />
+{{c1::Zielbildung}} -&gt; {{c2::Problemanalyse}} -&gt; {{c3::Alternativensuche und Bewertung (iterativ)}} -&gt; {{c4::Entscheidung}} -&gt; {{c5::Realisation}} -&gt; {{c6::Kontrolle}}"	
+"Frage:<br />
+Was bedeutet Projectification von Arbeit?"	Dass Arbeit zunehmend in temporären Projekten organisiert und auch mental als Projekt verstanden wird.
+"Beispiel:<br />
+Externalität"	"<ul>
+<li>Erfindungen: Positive Externalität</li>
+<li>Impfungen: Positive Externalität</li>
+<li>Treibhausgas: Negative Externalität</li>
+<li>Zigarettenrauch: Negative Externalität</li>
+</ul>"
+"{{c1::Eine Externalität (externer Effekt)}} sind {{c2::Kosten oder Nutzen}} der {{c2::Entscheidungen einer Partei}}, welche {{c2::die Wohlfahrt}} von {{c2::unbeteiligten dritten Parteien}} beeinflusst.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Wohlfahrtsverlust.png"" alt=""""><br />
+Wohlfahrtsverlust}}}}"	
+"{{c1::Externalitäten}} können {{c2::zu einem Marktversagen führen}}, wenn die durch die {{c1::Externalität}} erzeugten Kosten {{c3::nicht durch den Verkäufer getragen werden}}, da ein Wohlfahrtsverlust entsteht.<br />
+{{c1::{{c2::{{c3::<img src=""2021-Bild-Sieg-Wohlfahrtsverlust.png"" alt=""""><br />
+Wohlfahrtsverlust}}}}}}"	
+Eine Externalität kann positiv oder negativ sein. Positive Externalitäten führen zu {{c1::selbst-erfüllenden Erwartungen}}, während negative Externalitäten zu {{c1::selbst-widerlegenden Erwartungen}} führen.	
+{{c1::Ein Individualisierungs-Lock-in-Effekt}} ist {{c2::ein Lock-in-Effekt, welcher durch einen hohen Grad an Personalisierung oder Individualisierung der Leistungen an Kunden entsteht}}.	
+Es existiert eine Korrelation zwischen {{c1::Umweltbilanz}} und {{c2::finanziellen Erfolg}}, in welcher {{c3::eine niedrigere CO2-Bilanz}} zu einem {{c3::höheren Return of Assets und Tobin's Q}} führt.	
+{{c1::Die Leitungsspanne}} ist {{c2::der Faktor der Ebenen, welche die Anzahl der Stellen auf der zweiten Ebene angibt}}.	
+"{{c1::Eine Digital IT (Agile IT, digitale IT, Mode 2 IT)}} ist eine IT, die auf {{c2::Agilität}}, {{c2::Geschwindigkeit}} und {{c2::Innovation}} fokussiert ist.<br />
+{{c1::Eine Digital IT}} wird für {{c3::kundenzentrierte Services}} eingesetzt."	
+"Frage:  <br />
+Was beschreibt Generativität im Kontext von Digital Innovation?"	Generativität beschreibt die Fähigkeit digitaler Technologien, vielseitig und unvorhersehbar für Innovationen genutzt zu werden, z. B. durch Programmierbarkeit, Änderbarkeit und Schichtenarchitekturen.
+"Frage:<br />
+Was ist Digital Innovation nach Nambisan et al. (2017)?"	Die Schaffung und Veränderung von Marktangeboten, Geschäftsprozessen oder Geschäftsmodellen, die aus der Nutzung digitaler Technologien resultieren.
+"Frage:<br />
+Was ist ein Beispiel für eine digitale Technologie, die als digitale Innovation gilt, und welches SDG adressiert sie besonders?"	IoT-basierte Sensornetzwerke in der Landwirtschaft gelten als digitale Innovation, da sie durch Eigenschaften wie Programmierbarkeit und Generativität neuartigen Werte in der Landwirtschaft schafft. Sie adressiert insbesondere SDG 2, indem sie Erträge steigern, Wasserverbrauch reduzieren und nachhaltige Lebensmittelproduktion unterstützen.
+"Frage:  <br />
+Wie kann man eine digitale Technologie wie Blockchain-Technologie im Lieferkettenmanagement dahingehend bewerten, ob sie als digitale Innovation gilt?"	Sie erfüllt Kriterien digitaler Innovation, da sie eine neue Kombination von IT nutzt und durch digitale Eigenschaften wie Änderbarkeit, Generativität und Persistenz nachhaltige Transformation ermöglicht.
+"wahr oder falsch:<br />
+Digitale Innovation setzt zwingend voraus, dass die zugrundeliegende Technologie völlig neu ist."	"falsch:<br />
+Eine digitale Innovation kann auch durch neue Kombinationen bestehender digitaler Eigenschaften entstehen, wenn sie gesellschaftlichen oder ökologischen Mehrwert erzeugt."
+"{{c1::Digital Innovation}} ist {{c2::ein Gut, Prozess oder Geschäftsmodell}}, welches {{c3::als neu wahrgenommen wird}}, {{c3::fundamentale Änderungen beinhaltetet}} und {{c3::in oder durch IT verkörpert wird}}. {{c1::Digital Innovation}} erzeugen durch {{c4::Digitalisierung}} eine neue Form vom Wert.<br />
+{{c1::{{c2::{{c3::{{c4::<img src=""2025-Bild-Schellhammer-Digital_Innovation.png"" alt=""""><br />
+Digital Innovation}}}}}}}}"	
+{{c1::Das Humankapital (Human Capital)}} ist {{c2::ein Produktionsfaktor}} in Form von {{c2::Fähigkeiten, Wissen, Ideen und Engagement der Arbeitskräften}}.	
+"{{c1::Ein Lock-in-Effekt (Vendor Lock-In)}} ist {{c2::der erschwerte Systemwechsel durch produktpolitische oder marketingbasierte Maßnahmen}} durch {{c3::die Erhöhung der Kosten eines Systemwechsels}}.<br />
+{{c1::{{c2::{{c3::<img src=""2022-Bild-Stockhinger-Microsoft_Windows_business_canvas.png"" alt=""""><br />
+Lock-in-Effekt am Beispiel von Microsoft Windows}}}}}}"	
+{{c1::Die Erwartungswert-Theorie}} ist eine Theorie zur Erklärung {{c2::der Arbeitsmotivation}}, nach welcher {{c3::das menschliche Verhalten durch positive und negative Gratifikation beeinflusst wird, weshalb Menschen motiviert sind, positiv und erstrebenswerte Ziele verfolgt werden}}.	
+"{{c1::Maslows Bedürfnispyramide (Bedürfnishierarchie)}} ist {{c2::eine hierarchische Anordnung der Bedürfnisse}}, bei welcher {{c2::das nächst höheres Bedürfnis erst dann befriedigt werden kann, wenn das hierarchisch untergeordnete Bedürfnis befriedigt ist}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Wikipedia-Dynamische_Beduerfnishierarchie_nach_Abraham_Maslow.svg"" alt=""""><br />
+Dynamische Darstellung der Bedürfnishierarchie}}}}"	
+Maslows Bedürfnishierarchie ist {{c1::theoretisch}} fundiert und empirisch {{c1::nur unzureichend}} nachweisbar.	
+"wahr oder falsch:<br />
+Funktionale Strukturen sind besonders anpassungsfähig in dynamischen und heterogenen Märkten."	"falsch:<br />
+Sie reagieren häufig langsam auf Umweltveränderungen und fördern Silodenken."
+"{{c1::Eine funktionale Struktur}} ist {{c2::eine Organisationsform, bei der Mitarbeitende nach gleichartigen Aufgaben, Funktionen oder Fachgebieten gruppiert werden}}. {{c1::Eine funktionale Struktur}} verbindet {{c3::Expertise und Wissen in einem Bereich mit der Entscheidungsfindung darüber}}.<br />
+{{c1::{{c2::{{c3::<img src=""2025-Bild-Schellhammer-Funktionale_Struktur.png"" alt=""""><br />
+Funktionale Struktur}}}}}}"	
+"Frage:<br />
+Was ist eine verantwortungsvolle Führungsreaktion auf kulturelle Differenzen im Team?"	Schaffung gemeinsamer Bedeutungsrahmen, explizite Klärung von Erwartungen, Kombination von Struktur und Flexibilität sowie Förderung gegenseitigen Verständnisses.
+"Frage:<br />
+Wie können kulturelle Unterschiede zu Konflikten in internationalen Teams führen?"	Durch unterschiedliche Erwartungen an Entscheidungsfindung, Risiko, Hierarchie, Kommunikation und Geschwindigkeit.
+"wahr oder falsch:<br />
+Kulturelle Unterschiede lassen sich durch Stereotype effektiv managen."	"falsch:<br />
+Responsible Management erfordert kulturelle Sensibilität statt Stereotypisierung."
+"Frage:<br />
+Was beschreibt der Hawthorne-Effekt?"	Die Leistungssteigerung von Mitarbeitenden aufgrund der wahrgenommenen Aufmerksamkeit und sozialen Einbindung, nicht primär wegen physischer Arbeitsbedingungen.
+"Frage:<br />
+Welche zentrale Erkenntnis ergab sich aus den Hawthorne-Studien für das Management?"	Organisationen sind soziale Systeme, in denen Motivation, Beziehungen und informelle Gruppen entscheidend für Leistung sind.
+"wahr oder falsch:<br />
+Die Hawthorne-Studien widerlegten die Bedeutung monetärer Anreize vollständig."	"falsch:<br />
+Sie relativierten monetäre Anreize, zeigten aber vor allem die Bedeutung sozialer Beziehungen und Anerkennung."
+"Frage:<br />
+Was ist die zentrale These von Nicholas Carrs Artikel ""IT Doesn’t Matter"" (2003)?"	Carr argumentiert, dass IT aufgrund ihrer Ubiquität, Standardisierung und leichten Replizierbarkeit keine nachhaltige Quelle für Wettbewerbsvorteile mehr darstellt und daher primär defensiv gemanagt werden sollte.
+"Frage:<br />
+Welche strategische Implikation ergibt sich aus der Commoditization-These von Carr für das IT-Management?"	Die Commoditization-These impliziert, dass IT defensiv gemanagt werden sollte, mit Fokus auf Risikokontrolle, Kosteneffizienz und Standardisierung, während Differenzierung zunehmend durch organisatorische Fähigkeiten und Geschäftsmodelle erfolgt.
+"Frage:<br />
+Wie kann die  zentrale These von Nicholas Carrs Artikel ""IT Doesn’t Matter"" (2003) kritisiert werden?"	Nicht IT selbst, sondern die Nutzung, Einbettung in Prozesse und organisatorische Fähigkeiten bestimmt den Wettbewerbsvorteil.
+"Frage:<br />
+Wie lässt sich das IT Doesn't Matter-Dilemma von Carr (2003) auf KI übertragen?"	KI könnte zur Commodity werden, während Differenzierung zunehmend durch Daten, Anwendungslogik, Organisation und Geschäftsmodelle entsteht.
+"wahr oder falsch:<br />
+Carr argumentiert im Artikel ""IT Doesn’t Matter"" (2003), dass Unternehmen durch aggressive IT-Innovationen langfristige Wettbewerbsvorteile erzielen sollten."	"falsch:<br />
+Carr empfiehlt, IT defensiv zu managen, Kosten und Risiken zu kontrollieren und technologischen Führern eher zu folgen als sie anzuführen."
+"wahr oder falsch:<br />
+Carrs These ""IT Doesn’t Matter"" impliziert, dass IT für strategische Wettbewerbsvorteile grundsätzlich irrelevant ist."	"falsch:<br />
+Carr argumentiert, dass IT als Infrastruktur commoditisiert ist, nicht jedoch, dass IT keine strategische Relevanz mehr haben kann."
+"Frage:<br />
+Warum führt die Commoditization von IT laut Carr (2003) zu einem Strategiewechsel im IT-Management?"	Weil IT zwar geschäftskritisch, aber strategisch austauschbar wird, verschiebt sich der Fokus von Wertschöpfung auf Risikominimierung, Verlässlichkeit und Kosteneffizienz.
+"wahr oder falsch:<br />
+IT wird durch die Commoditization als Transportweg wie Elektrizität und das Zugnetz gesehen, durch welches bestimmte Güter, spezifisch Informationen, schneller transportiert werden können."	"wahr<br />
+<img src=""2003-Bild-Carr-Commoditization_von_IT.png"" alt=""""><br />
+Commoditization des Zugnetzes, von Elektrizität und Computern"
+"{{c1::Die Commoditization von IT}} ist {{c2::die Ubiquität, Allgegenwärtigkeit, hohe Kapazität und Verfügbarkeit von IT}}. Durch die Omnipräsenz und Verfügbarkeit kann eine einzelne Organisation keinen kompetitiven Vorteil mehr durch IT erzeugen.<br />
+{{c1::{{c2::<img src=""2003-Bild-Carr-Commoditization_von_IT.png"" alt=""""><br />
+Commoditization des Zugnetzes, von Elektrizität und Computern}}}}"	
+"Beispiel:<br />
+Smart Connected Product"	"<ul>
+<li>autonome Windanlagen</li>
+<li>Staubsaugroboter, welche den Raum analysieren</li>
+<li>Philips Hue</li>
+<li>Tesla-Autos</li>
+</ul>"
+"Frage:<br />
+Was ist ein Smart Connected Product nach Porter, Heppelmann (2014)?"	Smart, connected products offer exponentially expanding opportunities for new functionality and capabilities that transcend traditional product boundaries. The changing nature of products is disrupting value chains and forcing companies to rethink nearly everything they do, from how they conceive, design, and source products; to how they manufacture, operate, and service them; to how they build and secure the necessary IT infrastructure.
+"Frage:<br />
+Wie beeinflussen Smart Connected Products die Five Forces nach Porter?"	Sie erhöhen Markteintrittsbarrieren, verschieben Rivalität weg vom Preis, erhöhen aber zugleich Abhängigkeiten von IT-Anbietern und ermöglichen neue Marktteilnehmer aus angrenzenden Systemen.
+"Frage:<br />
+Woraus bestehen Smart Connected Products?"	"<ul>
+<li>Komponente für Konnektivität: Antenne, Ports und Protokolle zur Verbindung mit anderen Geräten</li>
+<li>physische Komponente: Mechanische Bestandteile</li>
+<li>smarte Komponente: Controller, Sensoren, Software und Speicher</li>
+</ul>"
+"wahr oder falsch:<br />
+Ein Smart Connected Product besteht aus IT, spezifisch ein Computer, welcher aufgenommene Daten über eine Cloud speichert, analysiert und teilt. Dieses wird durch einen Technology Stack ermöglicht."	wahr
+"wahr oder falsch:<br />
+Smart Connected Products reduzieren die Macht von IT-Anbietern innerhalb der Wertschöpfungskette."	"falsch:<br />
+Sie erhöhen häufig die Macht von IT-Anbietern durch Software-, Plattform- und Datenabhängigkeiten."
+"wahr oder falsch:<br />
+Smart Connected Products verschieben Wettbewerb primär von Preiswettbewerb hin zu System- und Ökosystemwettbewerb."	wahr
+"{{c1::Ein Smart Connected Product}} ist {{c2::ein Smart Product, welches eine externe Konnektivität ermöglicht, um Daten auszutauschen und somit die neue Fähigkeiten außerhalb des physischen Produktes ermöglicht}}. {{c1::Smart Connected Products}} erweitern {{c3::die Wertschöpfungskette eines Produktes}}.<br />
+{{c1::{{c2::{{c3::<img src=""2014-Bild-Porter-Heppelman-Technology_Stack_von_Smart_Connected_Products.png"" alt=""""><br />
+Technology Stack von Smart Connected Products}}}}}}"	
+"Frage:<br />
+Auf welche Bereiche wirkt sich die IT/IS-Strategieimplementierung aus?"	Die IT/IS-Strategieimplementierung wirkt sich durch die IT/IS-Strategie auf die IT/IS-Architektur aus, durch welche IT/IS-Programm und IT/IS-Projekte gebildet werden können, welche die Information Infrastructure und somit auf die Information Functions beeinflussen.
+"wahr oder falsch:<br />
+Eine IT/IS-Strategieimplementierung muss in konkrete, messbare und ressourcenbasierte Aufgaben heruntergebrochen werden, um operationalisiert werden zu können."	wahr
+"<p>Die IT/IS-Strategieimplementierung besteht aus mehreren Schritten:</p>
+<ol>
+<li>{{c1::Definition von strategischen Zielen}}</li>
+<li>{{c1::Übersetzung von strategischen Zielen in Geschäftsanforderungen}}</li>
+<li>{{c1::Entwicklung einer Architektur}}</li>
+<li>{{c1::Ableitung der Information Infrastructure durch die Architektur}}</li>
+</ol>"	
+"Frage:<br />
+Welches ist kein Bestandteil des Transformational Leadership-Modells?<br />
+a) Idealized Influence<br />
+b) Inspirational Motivation<br />
+c) Intellectual Stimulation<br />
+d) Collective Consideration"	d)
+{{c1::Transformational Leadership}} ist {{c2::das proaktive Leadership, in welchem eine Führungskraft bestehende Organisationsstrukturen ändert und Mitarbeiter ermutigt, gemeinsam Ziele zu erreichen}}. {{c1::Transformational Leadership}} inspiriert Mitarbeiter und fördert diese individuell.	
+{{c1::Arbeitsspezialisierung (Job Design)}} ist {{c2::das Maß, in dem Aufgaben in einzelne Tätigkeiten zerlegt und als spezifische Verantwortlichkeiten einzelnen Mitarbeitern zugewiesen werden können}}. {{c1::Arbeitsspezialisierung}} führt dazu, dass {{c3::Mitarbeitende hochspezialisierte Aufgaben und Tätigkeiten durchführen}}.	
+{{c1::Sequential Ambidexterity (Temporal Ambidexterity)}} ist {{c2::die Ambidexterity, in welcher eine Organisation zwischen Exploration und Exploitation wechseln kann}}. In {{c1::der Sequential Ambidexterity}} werden {{c3::Exploration und Exploitation durch Zeit getrennt}}.	
+"Frage:<br />
+Warum ist Ambidexterity für etablierte Organisationen besonders herausfordernd?"	Weil bestehende Strukturen, Anreizsysteme und Kulturen häufig Exploitation gegenüber Exploration bevorzugen.
+"Frage:<br />
+Wie hilft das Konzept der Ambidexterity bei der Analyse organisatorischer Dilemmata?"	Es bietet ein analytisches Rahmenwerk, um gleichzeitige Anforderungen an Exploitation und Exploration zu erkennen und organisatorisch zu gestalten.
+"wahr oder falsch:<br />
+Ambidexterity beschreibt die Fähigkeit, Exploration und Exploitation zeitgleich zu vermeiden."	"falsch:<br />
+Ambidexterity beschreibt die Fähigkeit, Exploration und Exploitation gleichzeitig zu managen."
+{{c1::Ambidexterity}} ist {{c2::eine Dynamic Capability, um Exploration und Exploitation durch bestehende Ressourcen gleichzeitig zu ermöglichen}}. {{c1::Ambidexterity}} kombiniert {{c3::die Adaption von Lösungen sowie die Verbesserung von bestehenden Lösungen}}.	
+"Frage:<br />
+Unter welcher Bedingung kann IT dennoch strategisch wirksam sein?"	IT wird strategisch wirksam, wenn sie mit spezifischen organisatorischen Fähigkeiten, Prozessen, Wissen und Managementkompetenzen kombiniert wird und dadurch schwer imitierbare Ressourcenbündel entstehen.
+"Frage:<br />
+Warum liefert IT im Sinne der ressourcenbasierten Sichtweise allein keinen nachhaltigen Wettbewerbsvorteil?"	IT als generische Technologie ist leicht imitierbar und am Markt verfügbar, sodass sie für sich genommen keinen nachhaltigen kompetitiven Vorteil im Sinne der Resource-Based View begründet.
+"Frage:<br />
+Warum sind kompetitive Vorteile durch IT oft leicht reproduzierbar?"	Viele IT-Lösungen basieren auf generischen, kaufbaren Softwareprodukten, die standardisierte Geschäftsprozesse abbilden und daher von Wettbewerbern schnell und kostengünstig nachgeahmt werden können.
+"Frage:<br />
+Warum sind Wettbewerbsvorteile durch IT häufig nur kurzfristig?"	Neue Technologien diffundieren schnell im Markt und werden zum Branchenstandard, wodurch anfängliche Wettbewerbsvorteile durch IT rasch nivelliert werden.
+"Frage:<br />
+Welche IT-bezogenen Ressourcen können laut ressourcenbasierter Sichtweise einen Wettbewerbsvorteil erzeugen?"	Information Infrastructure, Informationssysteme, IT-Personal sowie IT-bezogenes Wissen können Wettbewerbsvorteile erzeugen, sofern sie wertvoll, selten, schwer imitierbar und organisatorisch eingebettet sind.
+"Frage:<br />
+Welche zwei Grundtypen von Wettbewerbsvorteilen unterscheidet Porter?"	Kostenführerschaft und Differenzierung
+"{{c1::Porter's Generic Strategies (Wettbewerbsmatrix)}} ist {{c2::ein Opportunity Framework zur Einordnung von einem Wert in Bezug zu der Quelle und des Umfanges des kompetitiven Vorteils}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Teubner-Porter's_Generic_Strategies.png"" alt=""""><br />
+Porter's Generic Strategies}}}}"	
+"<p>Porter's Generic Strategies besteht aus:</p>
+<ul>
+<li>{{c1::Cost Focus}}: {{c1::Differenzierte Marktbearbeitung und Kostenführer als kompetitiver Vorteil}}</li>
+<li>{{c1::Cost Leadership}}: {{c1::Undifferenzierte Marktbearbeitung und Kostenführer als kompetitiver Vorteil}}</li>
+<li>{{c1::Differentiation}}: {{c1::Undifferenzierte Marktbearbeitung und Differenzierung als kompetitiver Vorteil}}</li>
+<li>{{c1::Differentiation Focus}}: {{c1::Differenzierte Marktbearbeitung und Differenzierung als kompetitiver Vorteil}}</li>
+</ul>"	
+"Frage:<br />
+Welche fünf Kräfte bestimmen nach Porter die Attraktivität einer Branche?"	"<ul>
+<li>Bedrohung durch neue Anbieter</li>
+<li>Bedrohung durch Substitute</li>
+<li>Rivalität unter bestehenden Wettbewerbern</li>
+<li>Verhandlungsmacht der Lieferanten</li>
+<li>Verhandlungsmacht der Käufer</li>
+</ul>"
+{{c1::Porter's Five Forces}} ist {{c2::ein Opportunity Framework zur Analyse der Marktpositionierung innerhalb der marktbasierten Sicht}}.	
+"<p>Porter's Five Forces besteht aus:</p>
+<ul>
+<li>{{c1::Kunden und deren Verhandlungsstärke}}</li>
+<li>{{c1::Lieferanten und deren Verhandlungsstärke}}</li>
+<li>{{c1::Markteintrittsbarrieren und potentielle Marktteilnehmer}}</li>
+<li>{{c1::Rivalität durch Mitbewerber mit ähnlichen Produkten und Leistungen}}</li>
+<li>{{c1::Substitution durch andere Produkte und Leistungen}}</li>
+</ul>"	
+"wahr oder falsch:<br />
+Ein Business Case sollte ausschließlich auf quantifizierbaren, sicheren Nutzenannahmen basieren."	"falsch:<br />
+Ein fundierter Business Case berücksichtigt auch unsichere, qualitative und strategische Effekte sowie Szenarioanalysen."
+{{c1::Ein Business Case}} ist {{c2::eine begründete Entscheidungsvorlage, die zeigt, wie eine geplante organisatorische Maßnahme oder Initiative zur Verbesserung der finanziellen Leistungsfähigkeit eines Unternehmens beiträgt}}.	
+"Frage:<br />
+Was ist ein Service nach ITIL (2019)?"	[A Service is a] means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks.
+"Frage:<br />
+Was ist ein Service nach The Open Group (2023)?"	A service is the externally visible behavior of the providing system from the perspective of systems that use that service. For the users, only this exposed behavior and the offered value, together with non-functional aspects, are relevant.
+"wahr oder falsch:<br />
+Ein Service wird genutzt, um Zustandsänderungen zu realisieren."	wahr
+"{{c1::Ein Service (Dienst)}} ist {{c2::ist eine Menge an Funktionen und das daraus resultierende Verhalten, welche ein Objekt seiner Umwelt zu Verfügung stellt und dadurch Wert erzeugt}}.<br />
+{{c1::{{c2::<img src=""2024-Bild-Schoenberger-Service-Definition.png"" alt=""""><br />
+Service Definition}}}}"	
+"wahr oder falsch:<br />
+Wenn eine Organisation beginnt, einen agilen Ansatz zu übernehmen, sollten Manager Scrum Teams vor Änderungen und Unsicherheiten schützen, die von denen verursacht werden, die agile Ansätze noch nicht verstehen."	"falsch:<br />
+Veränderungen und Unsicherheit gehören zum Leben. Anstatt sich diesen Einflüssen zu widersetzen, sollte eine agile Leitung Teams dabei unterstützen, die Fähigkeit zu entwickeln, mit Veränderungen und Unsicherheit umzugehen. Agile Leitungen sollten die Teams bei der Zusammenarbeit mit ihrem Umfeld unterstützen, damit die Menschen in der Wertschöpfungskette ein gemeinsames Ziel verfolgen."
+{{c1::Agilität ist die Fähigkeit}}, {{c2::eine sich wandelnde Umwelt sowie daraus resultierende Innovationsmöglichkeiten zu erkennen und diese schnell, aber auch effektiv zu nutzen}}	
+"Frage:<br />
+Was ist Contextual Ambidexterity nach Birkinshaw, Gibson (2004)?"	Contextual ambidexterity is viewed as a meta-level capacity where the simultaneous pursuing of exploration and exploitation is built on the processes or systems that encourage individuals to divide their time between activities.
+"wahr oder falsch:<br />
+Contextual Ambidexterity baut auf dem Verhalten, soziologische Prozesse und Beziehungen von Ambidexterity."	wahr
+"wahr oder falsch:<br />
+Contextual Ambidexterity erfordert vor allem formale strukturelle Trennung."	"falsch:<br />
+Contextual Ambidexterity basiert primär auf kulturellen, sozialen und verhaltensbezogenen Mechanismen, nicht auf formaler Trennung."
+{{c1::Die Contextual Ambidexterity (kontextuelle Ambidextrie)}} ist {{c2::die Zusammenführung von Exploration und Exploitation in die Prozesse und Systeme einer Organisation, spezifisch in eine Organisationseinheit}}.	
+"Frage:<br />
+Was ist Structural Ambidexterity nach Birkinshaw, Gibson (2004)?"	Structurally ambidextrous firms separate the explorative from the exploitative unit, each with different management, processes, structures, and cultures.
+{{c1::Die Structural Ambidexterity (strukturelle Ambidextrie)}} ist {{c2::die Trennung von Exploration und Exploitation in einzelne Organisationseinheiten}}.	
+"Frage:<br />
+Was ist Organizational Ambidexterity nach Tushman, O’Reilly (1996)?"	Organizational ambidexterity is the ability of an organization to manage both incremental, continuous improvements and radical, discontinuous challenges at the same time.
+"wahr oder falsch:<br />
+Organizational Ambidexterity beschreibt die Fähigkeit einer Organisation, Exploration und Exploitation gleichzeitig zu betreiben."	wahr
+{{c1::Die Organizational Ambidexterity (Ambidexterität, organisationale Ambidextrie)}} ist {{c2::die Fähigkeit einer Organisation, die Dynamik zwischen Exploration und Exploitation zu nutzen}}.	
+"Frage:<br />
+Auf welcher Wettbewerbsebene liegt der Fokus der Market-Based View?"	auf der strategischen Geschäftseinheit
+"Frage:<br />
+Was ist das übergeordnete Ziel der Market-Based View?"	Wachstum durch Cashflow-Balance im Lebenszyklus der Geschäftseinheiten
+"Frage:<br />
+Was ist der strategische Fokus der Market-Based View?"	Verteidigung und Ausbau bestehender Geschäfte sowie Anpassung an Markt- und Wettbewerbsbedingungen
+"Frage:<br />
+Was ist die Grundidee der Market-Based View?"	Die Market-Based View sieht das Unternehmen als Portfolio von Geschäftseinheiten. Der strategische Erfolg basiert auf der Positionierung im Markt und der Anpassung an externe Wettbewerbsbedingungen.
+"Frage:<br />
+Was ist die Grundlage des Wettbewerbs in der Market-Based View?"	produktbezogene Kostenvorteile oder Differenzierungsvorteile
+"Frage:<br />
+Welche Aussage über die Resource-Based View (RBV) und Market-Based View (MBV) ist korrekt?<br />
+a) MBV betont korrektes Timing beim Ressourcenkauf<br />
+b) RBV erklärt intra- und interindustrielle Leistungsunterschiede<br />
+c) MBV erklärt Unterschiede innerhalb einer Branche<br />
+d) MBV sieht Branchenwahl, Timing und Positionierung als Wettbewerbsvorteil"	d)
+"Frage:<br />
+Welche Rolle spielt das Top-Management in der Market-Based View?"	es verteilt finanzielle Ressourcen auf strategische Geschäftseinheiten
+"Frage:<br />
+Wie ist der Charakter strategischer Vorteile in der Market-Based View?"	sie sind zeitlich begrenzt, erodieren leicht, sind geschäftsspezifisch und gut beobachtbar
+"Frage:<br />
+Wie ist die Rolle der Geschäftseinheiten in der Market-Based View?"	Geschäftseinheiten fungieren als eigenständige Profitcenter und sind Eigentümer von Personen und Ressourcen.
+"Frage:<br />
+Worin liegt der Wettbewerbsvorteil der Market-Based View?"	in produktbezogenen Kostenvorteilen oder Differenzierungsvorteilen
+"wahr oder falsch:<br />
+Das Top-Management verteilt in der Market-Based View finanzielle Mittel an strategische Geschäftseinheiten."	wahr
+"wahr oder falsch:<br />
+Die Grundlage des Wettbewerbs in der Market-Based View sind unternehmensweite Kernkompetenzen."	"falsch:<br />
+sie basiert auf produktbezogenen Kosten- oder Differenzierungsvorteilen"
+"wahr oder falsch:<br />
+Die Market-Based View legt einen langfristigen Planungshorizont zugrunde."	"falsch:<br />
+die Market-Based View arbeitet kurz- bis mittelfristig"
+"wahr oder falsch:<br />
+Die Market-Based View operiert überwiegend in reifen und eher statischen Märkten."	wahr
+"wahr oder falsch:<br />
+Die Market-Based View verfolgt einen eher defensiven strategischen Fokus und passt sich an Marktkräfte an."	wahr
+"wahr oder falsch:<br />
+Die marktbasierte Sicht erklärt Wettbewerbsvorteile primär durch interne Fähigkeiten einer Organisation."	"falsch:<br />
+Die marktbasierte Sicht erklärt Wettbewerbsvorteile primär durch Branchenstruktur und Wettbewerbsintensität."
+"wahr oder falsch:<br />
+Strategische Vorteile der Market-Based View sind eher langlebig und schwer imitierbar."	"falsch:<br />
+sie sind zeitlich begrenzt, geschäftsspezifisch und gut beobachtbar"
+{{c1::Die marktbasierte Sicht (Market-Based View)}} ist {{c2::eine Sicht der  Strategie, welche davon ausgeht, dass ein kompetitiver Vorteil durch die Anpassungsfähigkeit, Marktpositionierung und Timing innerhalb eines Marktes sowie die strategische Positionierung in diesem Markt erzeugt wird}}.	
+Ein {{c1::kompetitiver Vorteil}} in {{c2::der marktbasierten Sicht}} kann durch die Preispositionierung erzeugt werden.	
+"Frage:<br />
+Was ist das übergeordnete Ziel der Resource-Based View?"	nachhaltiges Wachstum durch Entwicklung, Nutzung und Transfer von Kernkompetenzen
+"Frage:<br />
+Was ist der strategische Fokus der Resource-Based View?"	Stärkung bestehender Geschäfte und Erschließung neuer Märkte durch Nutzung und Ausbau interner Kompetenzen
+"Frage:<br />
+Was ist die Grundidee der Resource-Based View?"	Die Resource-Based View betrachtet das Unternehmen als Portfolio von Ressourcen und Fähigkeiten. Der Wettbewerbsvorteil entsteht aus der Entwicklung, Nutzung und Kombination unternehmensspezifischer Kompetenzen oder Ressourcen.
+"Frage:<br />
+Was ist die Grundlage des Wettbewerbs in der Resource-Based View?"	die Nutzung und Kombination unternehmensweiter Kernkompetenzen
+"Frage:<br />
+Welche Rolle spielt das Top-Management in der Resource-Based View?"	es integriert Ressourcen und Fähigkeiten zu einem unternehmensweiten Geschäftskonzept
+"Frage:<br />
+Wie ist der Charakter strategischer Vorteile in der Resource-Based View?"	sie sind langlebig, schwer angreifbar und beruhen auf verborgenem Wissen
+"Frage:<br />
+Wie ist die Rolle der Geschäftseinheiten in der Resource-Based View?"	Sie dienen als Kompetenzzentren zur Ansammlung und Entwicklung von Ressourcen und Fähigkeiten.
+"Frage:<br />
+Wie wird das Unternehmen in der Resource-Based View interpretiert?"	als Portfolio von Ressourcen und Fähigkeiten, die unternehmensweit genutzt und weiterentwickelt werden
+"Frage:<br />
+Worin liegt der Wettbewerbsvorteil der Resource-Based View?"	in der Nutzung und Kombination einzigartiger, schwer imitierbarer Unternehmenskompetenzen
+"wahr oder falsch:<br />
+Die Resource-Based View betrachtet das Unternehmen hauptsächlich als Portfolio von Fähigkeiten und Ressourcen, die unternehmensweit genutzt werden."	wahr
+"wahr oder falsch:  <br />
+Die Resource-Based View fokussiert sich nur auf externe Marktressourcen."	"falsch:  <br />
+Der Resource-Based View betrachtet interne, einzigartige Ressourcen einer Organisation als Quelle nachhaltiger Wettbewerbsvorteile."
+"wahr oder falsch:<br />
+Die Resource-Based View geht von dynamischen und eher entstehenden Märkten aus."	wahr
+"wahr oder falsch:<br />
+Die Resource-Based View verfolgt einen eher defensiven strategischen Fokus und reagiert vor allem auf Wettbewerbskräfte."	"falsch:<br />
+Sie ist eher offensiv und nutzt interne Kompetenzen zur Expansion."
+"wahr oder falsch:<br />
+Strategische Vorteile der Resource-Based View gelten als langlebig, schwer angreifbar und häufig auf verborgenem Wissen basierend."	wahr
+{{c1::Die ressourcenbasierte Sicht (Resource-Based View)}} ist {{c2::eine Sicht der Strategie, welche davon ausgeht, dass ein kompetitiver Vorteil durch einzigartige, wertvolle, nicht-nachahmbare und nicht-substituierbare Ressourcen nach dem VRIN Framework bzw. VRIO Framework erzeugt wird}}.	
+"Frage:<br />
+Was ist der zentrale Unterschied zwischen Strategie als Plan und Strategie als Muster?"	Strategie als Plan beschreibt intendierte Handlungen, während Strategie als Muster das tatsächlich realisierte, über die Zeit erkennbare Verhalten eines Unternehmens bezeichnet.
+"Frage:<br />
+Was ist Strategie nach Johnson, Scholes, Whittington (2008)?"	Strategy is the direction and scope of an organization over the long term, which achieves advantage in a changing environment through its configuration of resources and competences with the aim of fulfilling stakeholder expectations.
+"wahr oder falsch:<br />
+Eine Strategie bietet einen kurzfristigen Orientierungsrahmen für zukünftiges Handeln."	falsch
+"wahr oder falsch:<br />
+Eine Strategie sichert Alignment zwischen strategischen Entscheidungen und ist daher mehr als nur die Summe der strategischen Entscheidungen."	wahr
+"wahr oder falsch:<br />
+Strategie beschreibt primär operative Maßnahmen zur kurzfristigen Effizienzsteigerung."	"falsch:<br />
+Strategie ist ein langfristiger Orientierungsrahmen, der die Wahl und Kombination von Aktivitäten bestimmt und operative Maßnahmen nur rahmt."
+"wahr oder falsch:<br />
+Strategien liefern ein starres Gerüst und können bei sich ändernden Bedingungen der Umwelt nicht angepasst werden."	falsch
+"wahr oder falsch:<br />
+Strategien sind das Bindeglied zwischen Zielen und operativen Entscheidungen."	wahr
+"wahr oder falsch:<br />
+Ziele sind fester Bestandteil einer Strategie."	falsch
+"{{c1::Eine Strategie}} ist {{c2::ist ein langfristiger flexibler Orientierungsrahmen für zukünftige Handlungen und die Planung zur Erreichung von Zielen und Vorteilen in einer sich wandelnden Umwelt durch die Nutzung von Ressourcen in operativen Maßnahmen, um Stakeholder-Erwartungen zu erfüllen}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Ziele_Strategien_Massnahmen.png"" alt=""""><br />
+Ziele, Strategien und Maßnahmen im Zusammenhang}}}}"	
+"<p>Eine Strategie ist:</p>
+<ul>
+<li>{{c1::Pattern (Muster) von Aktivitäten}}</li>
+<li>{{c1::Perspektive, Vision und Ausrichtung}}</li>
+<li>{{c1::Plan zur Umsetzung}}</li>
+<li>{{c1::Ploy (Trick), um Wettbewerber auszutricksen}}</li>
+<li>{{c1::Position, bestehend aus Produkten und Leistungen in einem Markt}}</li>
+</ul>"	
+"<p>{{c1::Eine Strategie}} besitzt folgende Eigenschaften:</p>
+<ul>
+<li>{{c2::beeinflusst durch externe Einflüsse und Wettbewerb einer Organisation}}</li>
+<li>{{c2::Bezug zum Überleben und der Profitabilität des Unternehmens}}</li>
+<li>{{c2::Menge an Aktivitäten}}</li>
+<li>{{c2::umfasst große Entscheidungen für weite Bereiche einer Unternehmung}}</li>
+<li>{{c2::zukunftsorientiert}}</li>
+</ul>"	
+{{c1::Eine Wertschöpfungskette (Value Chain)}} ist {{c2::die Summe aller technologischen und ökonomischen Aktivität einer Unternehmung um Geschäfte durchzuführen und Wert zu erzeugen}}.	
+"Frage:<br />
+Warum sind Patente nur ein eingeschränkter Indikator für Innovation?"	Weil sie vor allem Innovation Input abbilden, nicht jedoch erfolgreiche Anwendung oder Wertschöpfung.
+"Frage:<br />
+Welcher der folgenden Punkte ist kein Grund dafür, dass Innovation so schnell und erfolgskritisch geworden ist?<br />
+a) Etablierte Marktkräfte<br />
+b) Zunehmende Transparenz<br />
+c) Neue Technologien<br />
+d) Sich verändernde Nachfrage"	a)
+"Frage:<br />
+Welcher Punkt ist kein Grund für die hohe Bedeutung von Innovation?<br />
+a) Konstante Nachfrage<br />
+b) Neue Marktkräfte<br />
+c) Zunehmende Transparenz<br />
+d) Durchdringung von Digitalisierung"	a)
+"wahr oder falsch:<br />
+Innovation setzt zwingend technologische Neuartigkeit voraus."	"falsch:<br />
+Innovation kann auch durch neue Kombinationen bestehender Technologien, Prozesse oder Geschäftsmodelle entstehen."
+"wahr oder falsch:<br />
+Patente sind ein guter Indikator für Innovation."	"falsch:<br />
+Sie sind ein guter Indikator für Innovation Input."
+"{{c1::Eine Innovation}} ist {{c2::die Erfindung und die Anwendung von einem Gut}} sowie die Schnittmenge von {{c3::Technologien, Unternehmungen und Werte}}. Als {{c1::Innovation}} wird auch eine {{c4::neue Idee, eine neue Praxis oder ein neues Objekt verstanden, welches von einem Adopter als neu empfunden wird}}.<br />
+{{c1::{{c2::{{c3::<img src=""2022-Bild-Stockhinger-Erfindung_und_Innovation.png"" alt=""""><br />
+Invention and Innovation}}}}}}"	
+"<p>Eigenschaften von Innovation sind :</p>
+<ul>
+<li>{{c1::disruptiv gegenüber bestehenden Unternehmensfunktionen}}</li>
+<li>{{c1::neue Produkte}}</li>
+<li>{{c1::risikofreudig}}</li>
+</ul>"	

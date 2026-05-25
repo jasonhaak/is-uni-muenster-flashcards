@@ -1,0 +1,200 @@
+#separator:tab
+#html:true
+"wahr oder falsch:<br />
+Geschäftsprozessmanagement kann Innovation verhindern, wenn es vor allem Exploitation statt Exploration unterstützt."	"wahr:<br />
+Geschäftsprozessmanagement verhindert häufig Innovation, weil es häufig Exploitation vor Exploration priorisiert."
+"wahr oder falsch:<br />
+Digital Traces sind für Process Science nur relevant, wenn sie keine Zeitinformationen enthalten."	"falsch:<br />
+Digital Traces besitzen zeitbezogene Informationen, die analysiert werden können und die Analyse sozio-technischer Phänomene ermöglichen."
+{{c1::Ein Digital Trace}} ist {{c2::eine aufgezeichnete Aktivität, die entsteht und hinterlassen wird, wenn Menschen digitale Technologien in sozio-technischen Systemen nutzen}}.	
+{{c1::Process Sophistication}} ist {{c2::die Nutzung einer Vielzahl von Prozessdesign-Methoden, um Erfahrungen zu erzeugen, die über Kundenanforderungen hinausgehen}}.	
+{{c1::Die Automatisierung von Control Flow}} ist {{c2::die Automatisierung mehrerer Prozesse, die durch ein Workflow Management System orchestriert werden}}.	
+{{c1::Conversational Business Process Management}} ist {{c2::das Management von Geschäftsprozessen durch natürliche Sprache}}.	
+{{c1::Ein transaktionaler Prozess}} ist {{c2::ein Prozess, der Prozessschritte in diskrete Schritte als aktive und passive Elemente unterscheidet}}.	
+{{c1::Concept Drift}} ist {{c2::ein langsamer, aber kontinuierlicher Wandel von Verhalten gegenüber Prozessen}}.	
+"Beispiel:<br />
+Faktoren der Geschäftsprozessmanagement-Kultur"	"<ul>
+<li>Einstellung und Verhalten gegenüber Geschäftsprozessmanagement</li>
+<li>Erwartungen und erwarteter Nutzen durch Geschäftsprozessmanagement</li>
+<li>Führungsverantwortung zu Geschäftsprozessmanagement</li>
+<li>Reaktion und Reaktionsfähigkeit gegenüber Prozessänderungen</li>
+</ul>"
+{{c1::Geschäftsprozessmanagement-Kultur}} ist {{c2::die Kultur und das Verhalten einer Organisation gegenüber Geschäftsprozessmanagement}}.	
+"Frage:<br />
+Welche Rolle spielen Menschen im Geschäftsprozessmanagement?"	Menschen im Geschäftsprozessmanagement bringen Fähigkeiten und Wissen ein, kooperieren und kommunizieren zur Erreichung von Prozessergebnissen und müssen gegebenenfalls geschult werden.
+"Frage:<br />
+Wie unterstützt Information Technology das Geschäftsprozessmanagement im Prozesslebenszyklus?"	Information Technology unterstützt das Geschäftsprozessmanagement durch Lösungen und Werkzeuge für Prozessdesign und Prozessmodellierung, IT-gestützte Prozessimplementierung durch Automatisierung und Workflow-Engines sowie automatisierte Prozesskontrolle.
+"Frage:<br />
+Welche Phasen umfasst der Prozesslebenszyklus?"	Der Prozesslebenszyklus umfasst Prozessdesign und Prozessmodellierung, Prozessimplementierung und Prozessdurchführung, Prozesskontrolle sowie Prozessverbesserung und Prozessinnovation.
+{{c1::Methoden des Geschäftsprozessmanagements}} sind {{c2::Fähigkeiten, Werkzeuge und Techniken zur Erfüllung von Geschäftsprozessmanagement und zum Management des Prozesslebenszyklus}}.	
+{{c1::Prozessmanagement-Kontrolle}} ist {{c2::ein Bestandteil der Governance von Geschäftsprozessmanagement zur Kontrolle der Qualität von Prozessen}}.	
+"wahr oder falsch:<br />
+Prozessmanagement-Standards können informell bleiben, solange sie lokal verstanden werden."	"falsch:<br />
+Prozessmanagement-Standards müssen klar definiert, dokumentiert und in der Organisation koordiniert sein."
+{{c1::Prozessmanagement-Standards}} sind {{c2::Standards für Prozessmanagement als Bestandteil der Governance von Geschäftsprozessmanagement}}.	
+"Frage:<br />
+Was muss für die Governance von Geschäftsprozessmanagement definiert werden?"	Für die Governance von Geschäftsprozessmanagement müssen Entscheidungsprozesse definiert und konsequent durchgesetzt werden.
+{{c1::Governance von Geschäftsprozessmanagement}} ist {{c2::die Verteilung von Verantwortlichkeiten und Rollen für Geschäftsprozessmanagement}}.	
+{{c1::Eine Enterprise Process Architecture}} ist {{c2::die höchste Abstraktionsebene einer Wertschöpfungskette von Geschäftsprozessen}}.	
+"wahr oder falsch:<br />
+Unternehmensstrategie und Geschäftsprozesse sind im BPM Strategy Alignment nur einseitig verbunden."	"falsch:<br />
+Unternehmensstrategie und Geschäftsprozesse sind bidirektional miteinander verbunden und werden durch Stakeholder und Kundengruppen beeinflusst."
+{{c1::Strategy Alignment von Geschäftsprozessmanagement}} ist {{c2::die Verbindung von Organisationszielen mit Geschäftsprozessen zur Verbesserung der Unternehmensleistung}}.	
+"Beispiel:<br />
+Eigenschaften von Prozessbewusstsein"	"<ul>
+<li>Bewusstsein für den Full Stack</li>
+<li>Bewusstsein für Änderungen und Dynamik von Prozessen</li>
+<li>Bewusstsein für die Ende-zu-Ende-Betrachtung des Prozesses</li>
+<li>Bewusstsein für die Wertschöpfung für Nutzende</li>
+</ul>"
+{{c1::Prozessbewusstsein}} ist {{c2::die Wahrnehmung eines auszuführenden Prozesses durch Software oder Hardware}}.	
+{{c1::Ein Capability Maturity Model}} ist {{c2::ein Maturity Model zur Identifikation des Reifegrades reifer und unreifer Software-Organisationen}}.	
+"Frage:<br />
+Welche Phasen umfasst der Lebenszyklus von Geschäftsprozessmanagement?"	Der Lebenszyklus von Geschäftsprozessmanagement umfasst Identify, Model, Analyze, Improve, Implement, Execute, Monitor und Change.
+"Beispiel:<br />
+Gründe für Geschäftsprozessmanagement"	"<ul>
+<li>Komplexitätsmanagement</li>
+<li>Projektmanagement und Programmmanagement</li>
+<li>Standardisierungsmanagement</li>
+<li>strategisches Management</li>
+<li>Vendor Management</li>
+</ul>"
+"Frage:<br />
+Aus welchen Bestandteilen besteht ein Interview-Leitfaden?"	Ein Interview-Leitfaden besteht aus Einführung, Erlaubnis zur Aufnahme, Hintergrundinformationen zur Person, generellen Fragen, fokussierten Fragen und Abschluss.
+"Frage:<br />
+Welche Schritte umfasst die Durchführung von Interviews?"	Die Durchführung von Interviews umfasst die Erstellung eines Interview-Leitfadens, das Kontaktieren der Teilnehmenden, die Durchführung des Interviews, die Transkription, die Analyse und die Herausarbeitung von Ergebnissen.
+"wahr oder falsch:<br />
+Ein semi-strukturiertes Interview kombiniert strukturierte und unstrukturierte Interviewelemente."	"wahr:<br />
+Es verbindet vorbereitete Themen mit situativer Flexibilität in der Interaktion."
+{{c1::Ein semi-strukturiertes Interview}} ist {{c2::ein Interview mit einer spezifischen Themenmenge und zugleich Flexibilität in der Interaktion}}.	
+{{c1::Eine Observation}} ist {{c2::eine qualitative Methode zur Beobachtung von Subjekten in einer Umwelt}}.	
+{{c1::Feldforschung}} ist {{c2::eine qualitative Methode zur Beobachtung von Menschen, um ein Verständnis über sie und ihre Umwelt aufzubauen}}.	
+{{c1::Eine Case Study}} ist {{c2::eine qualitative Methode zur Beschreibung einer Person, Gruppe oder Organisation}}.	
+{{c1::Action Research}} ist {{c2::eine qualitative Methode zur Ermächtigung von Personen, kollaborativ an einer Veränderung oder Problemlösung zu arbeiten}}.	
+{{c1::Narrative Inquiry}} ist {{c2::eine qualitative Methode zur Entdeckung und Analyse bestehender und neuer Perspektiven}}.	
+{{c1::Ethnographie}} ist {{c2::eine qualitative Methode zur Analyse charakteristischer Eigenschaften von Personen mit bestimmtem kulturellen Hintergrund}}.	
+{{c1::Grounded Theory}} ist {{c2::eine qualitative Methode zur Entwicklung einer Analyse aus dem empirischen Material heraus}}.	
+{{c1::Phänomenologie}} ist {{c2::eine qualitative Methode zur Analyse von Erfahrungen, die Individuen erlebt haben}}.	
+"Beispiel:<br />
+Perspektiven der qualitativen Forschung"	"<ul>
+<li>Interpretation: Realität wird durch soziale Konstrukte vermittelt und über Phänomene beschrieben.</li>
+<li>Kritizismus: Soziale Konstrukte werden historisch vererbt und über Konflikte und Widersprüche beschrieben.</li>
+<li>Positivismus: Realität kann und soll gemessen und beschrieben werden.</li>
+<li>Pragmatismus: Realität ist vielfältig und im Wandel und wird über Problemlösung, Wissen und Konsequenzen beschrieben.</li>
+</ul>"
+"Frage:<br />
+Wozu wird ein Mixed-Methods-Ansatz genutzt?"	Ein Mixed-Methods-Ansatz wird genutzt, um Ergebnisse zu generalisieren, zu kontextualisieren oder die Glaubwürdigkeit der Forschungsergebnisse zu erhöhen.
+{{c1::Mixed-Methods-Forschung}} ist {{c2::die Verbindung von quantitativer und qualitativer Forschung}}.	
+"Beispiel:<br />
+Arten der qualitativen Forschung"	"<ul>
+<li>Dokumentenanalyse</li>
+<li>Focus Groups</li>
+<li>Interviews</li>
+<li>Observation</li>
+<li>Umfragen</li>
+</ul>"
+{{c1::Ein Management Process}} ist {{c2::ein Prozess zum Management von Prozessen}}.	
+{{c1::Ein Support Process}} ist {{c2::ein Prozess, der den Core Process unterstützt}}.	
+{{c1::Ein Core Process}} ist {{c2::der intentionelle und wertschaffende Prozess einer Organisation oder eines Systems}}.	
+"Frage:<br />
+Welche Schritte umfasst Process Science?"	Process Science umfasst Discovery zur Identifikation des Phänomens, Explanation zur Untersuchung der zugrundeliegenden sozio-technischen Prozessdynamik und Intervention zur Beeinflussung dieser Prozesse.
+"Beispiel:<br />
+Eigenschaften von Process Science"	"<ul>
+<li>Fokus auf sozio-technische Prozesse</li>
+<li>interdisziplinäre Sichtweise</li>
+<li>wissenschaftliche Untersuchung</li>
+<li>Änderung von Prozessen zur Schaffung praktischer Erkenntnisse</li>
+</ul>"
+{{c1::Process Science}} ist {{c2::die Wissenschaft über Prozesse und Veränderungen sozio-technischer Systeme über die Zeit}}.	
+"Frage:<br />
+Wodurch entsteht die Notwendigkeit für agile Prozesse?"	Die Notwendigkeit für agile Prozesse entsteht durch ökonomische und politische Instabilität, weil Prozessgestaltung dadurch schneller auf veränderte Umweltbedingungen reagieren muss.
+"Frage:<br />
+Welche Elemente umfasst das BPM Billboard?"	Das BPM Billboard umfasst Strategie, Kontext, Fähigkeiten, Projekte und Programme sowie Resultate, um BPM-Initiativen systematisch mit organisationalen Zielen zu verbinden.
+{{c1::Das BPM Billboard}} ist {{c2::ein Framework zur Planung, zum Scoping und zur Integration von BPM-Projekten}}.	
+{{c1::Die Interpretation von Datenanalysen}} ist {{c2::das Prozessieren, Auswerten, Interpretieren und Integrieren von Daten aus verschiedenen Datenquellen}}.	
+"Frage:<br />
+Was erfordert die Kultivierung von Business Process Management in Organisationen?"	Die Kultivierung von Business Process Management erfordert die Adaption und Akzeptanz von BPM durch die Menschen einer Organisation sowie Modellierungssprachen, die unterschiedliche Paradigmen und Konstruktionen unterstützen.
+"Frage:<br />
+Warum ist die Operationalisierung von Smart Devices durch BPM sicherheitskritisch?"	Sie ist sicherheitskritisch, weil Smart Devices im Unterschied zu rein digitalen Umgebungen auf die physische Umwelt einwirken und fehlerhafte Prozesskoordination daher reale Auswirkungen haben kann.
+"wahr oder falsch:<br />
+Smart Devices verstärken im BPM nur die Automatisierung, aber nicht die Unvorhersehbarkeit von Prozessänderungen."	"falsch:<br />
+Smart Devices agieren als künstliche Akteure in verteiltem BPM und können dadurch die Unvorhersehbarkeit von Prozessänderungen verstärken."
+"Frage:<br />
+Was bedeutet die Operationalisierung von Business Process Management?"	Die Operationalisierung von Business Process Management bedeutet, BPM trotz dauerhafter Ungewissheit, fehlender Daten, heterogener Technologien und unbekannter Herausforderungen praktisch auf Technologien, Daten und organisationale Bestandteile anzuwenden.
+"wahr oder falsch:<br />
+Für die Operationalisierung von BPM genügt eine einzelne, stabile Datenquelle."	"falsch:<br />
+Für die Operationalisierung müssen viele verschiedene Datenquellen, Geräte und Kanäle in Prozesse eingebunden werden."
+"Frage:<br />
+Was erfordert die Demokratisierung von Business Process Management?"	Die Demokratisierung von Business Process Management erfordert eine quantitative Skalierung und qualitative Verbesserung von BPM, damit viele Prozesse beherrschbar bleiben und der Prozess-Lifecycle schneller durchlaufen werden kann.
+{{c1::Big Data Analytics}} ist {{c2::die automatisierte Analyse großer und komplexer Datenmengen aus Geschäftsprozessen und ihren Umgebungen, um Muster, Trends und Zusammenhänge zu erkennen}}.	
+{{c1::Real-Time Computing}} ist {{c2::die Fähigkeit, Daten nahezu in Echtzeit zu verarbeiten und zu analysieren}}.	
+{{c1::Social Computing}} ist {{c2::ein Paradigma, das digitale Vernetzung und Zusammenarbeit von Individuen über soziale Plattformen und Technologien ermöglicht}}.	
+"wahr oder falsch:<br />
+Eine Hyper-Connected World reduziert die Komplexität der Ressourcenallokation automatisch."	"falsch:<br />
+Eine Hyper-Connected World entsteht durch digitale Transformation und erzeugt zusätzliche Komplexität in der Ressourcenallokation."
+{{c1::Eine Hyper-Connected World}} ist {{c2::eine Gesellschaft, in der menschliche und künstliche Akteure über verschiedene Kommunikationskanäle vernetzt sind}}.	
+"Frage:<br />
+Welche Faktoren prägen die Kultivierung von Business Process Management?"	Die Kultivierung von Business Process Management wird durch Organisation und Governance von BPM sowie durch psychologische Effekte geprägt.
+{{c1::Die Skalierung von Business Process Management}} erreicht ihren Höhepunkt, wenn {{c2::eine Organisation alle ihre Operationen mit Prozessmanagement-Lösungen verwaltet}}.	
+"Beispiel:<br />
+Herausforderungen von Business Process Management"	"<ul>
+<li>Demokratisierung von Business Process Management</li>
+<li>Kultivierung von Business Process Management</li>
+<li>Finanzierung von Business Process Management als Investition mit monetären und nicht-monetären Effekten</li>
+<li>Operationalisierung von Business Process Management</li>
+</ul>"
+"Frage:<br />
+Was unterscheidet qualitative Forschung von quantitativer Forschung nach Adler und Adler?"	Qualitative Forschung untersucht weniger Personen, Settings oder Subkulturen dafür tiefer, um subjektiv zu verstehen, wie Akteure wahrnehmen, interpretieren und interagieren, während quantitative Forschung breitere Datenausschnitte objektivierend auswertet.
+"Frage:<br />
+Welche Schritte umfasst die SPSS-Formel zur Erstellung eines Interview-Leitfadens?"	Die SPSS-Formel umfasst Sammeln, Prüfen, Sortieren und Subsumieren, sodass aus gesammelten Fragen ein geprüfter, geordneter und argumentativ gebündelter Interview-Leitfaden entsteht.
+"wahr oder falsch:<br />
+Ein Interview-Leitfaden sollte abrupte Sprünge zwischen Perspektiven oder Themen vermeiden."	"wahr:<br />
+Ein Interview-Leitfaden sollte übersichtlich sein und einem nachvollziehbaren Argumentationsfluss folgen."
+"Frage:<br />
+Wie beeinflusst die Moderation die Erkenntnistiefe einer Focus Group?"	Eine geringere thematische Moderation öffnet ein breiteres Themenfeld, während eine strikte Moderation eine tiefere Diskussion innerhalb eines engeren Themenraums ermöglicht.
+"Frage:<br />
+Wie sollte die Gruppengröße einer Focus Group an das Thema angepasst werden?"	Bei neutralen Themen kann eine größere Gruppe viele Perspektiven sichtbar machen, während emotionale Themen eher in kleineren Gruppen intensiv und kontrolliert diskutiert werden sollten.
+{{c1::Eine Focus Group}} ist {{c2::eine Methode zur Datenerhebung durch Gruppeninteraktion, die durch einen Gruppenleiter thematisch moderiert wird}}.	
+{{c1::Ein strukturiertes Interview}} ist {{c2::ein Interview mit einer spezifischen Menge an Fragen}}.	
+{{c1::Ein unstrukturiertes Interview}} ist {{c2::ein Interview, in welchem der Interviewer nur begrenze Kontrolle über die Richtung des Interviews besitzt}}.	
+"{{c1::Eine Prozesslandschaft}} ist {{c2::eine visuelle Repräsentation des Flows von Geschäftsprozessen in Prozessbereiche, Kernprozesse, Sub-Prozesse und individuelle Aktivitäten}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Vom_Brocke-Kurihara-Mueller-Process_Map.png"" alt=""""><br />
+Prozesslandschaft}}}}"	
+"wahr oder falsch:<br />
+Ein Smart Device ist ein Gerät, welches Daten über Nutzer und dessen Umgebung erfassen kann."	"wahr:<br />
+Ein Smart Device kann Daten über Nutzende und deren Umgebung erfassen und dadurch als künstlicher Akteur agieren."
+{{c1::Ein Smart Device}} ist {{c2::ein Gerät, welches durch bestimmte Fähigkeiten seine physischen Eigenschaften erweitern kann und als künstlicher Akteur agiert}}.	
+"Frage:<br />
+Welche Methoden können für die Prozessmodellierung genutzt werden?"	Für die Prozessmodellierung können informelle Methoden oder formale Modellierungsnotationen genutzt werden, sofern die modellierten Prozesse effizient operationalisierbar und wiederverwendbar gestaltet sind.
+{{c1::Prozessautomatisierung}} ist {{c2::die Fähigkeit, Geschäftsprozesse so zu nutzen, dass sie eigenständig definierte Entscheidungen und Ziele erfüllen}}.	
+"Beispiel:<br />
+Kernelemente des Geschäftsprozessmanagements"	"<ul>
+<li>Governance</li>
+<li>Kultur</li>
+<li>Menschen</li>
+<li>Methoden</li>
+<li>Strategy Alignment</li>
+<li>Information Technology</li>
+</ul>"
+"{{c1::Das Geschäftsprozessmanagement (BPM, Business Process Management, GPM)}} ist {{c2::ein disziplinübergreifender Ansatz zur Etablierung organisatorischer Fähigkeiten für das Management und die Gestaltung von Geschäftsprozessen in Organisationen zur Unterstützung bei der Erreichung von Organisationszielen}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Krcmar-BPM_Maturity_Model.png"" alt=""""><br />
+BPM Maturity Model}}}}"	
+"Frage:<br />
+Was ist die Kritik an bestehender Information Systems-Forschung zur digitalen Transformation in Bezug zu Nachhaltigkeit?"	Dass sie zu stark auf wirtschaftliche Nachhaltigkeit fokussiert ist und soziale sowie ökologische Nachhaltigkeit vernachlässigt, obwohl diese für eine ganzheitliche Transformation entscheidend sind.
+{{c1::Die digitale Transformation}} ist {{c2::die Nutzung neuer digitaler Technologien, um wesentliche organisatorische Verbesserungen zu ermöglichen}}.	
+"Frage:<br />
+Welche Schritte umfasst ein Prozess in einer Input-Transformation-Output-Perspektive?"	Ein Prozess umfasst Input, Transformation und Output, wodurch Eingaben in ein Ergebnis überführt werden.
+"Beispiel:<br />
+Eigenschaften eines Prozesses"	"<ul>
+<li>Flexibilität</li>
+<li>Kapazität</li>
+<li>Kosten</li>
+<li>Qualität</li>
+<li>Zeit</li>
+</ul>"
+"{{c1::Ein Prozess}} ist {{c2::eine inhaltlich abgeschlossene, zeitlich-sachlogische Abfolge von Einzelfunktionen, zwischen denen Verbindungen aufgrund von Logik, Kausalität oder temporären Relationen bestehen und die der Erreichung eines definierten Ziels dienen}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Krcmar-Prozess.png"" alt=""""><br />
+Schematische Darstellung eines Prozesses}}}}"	
+{{c1::Ein Prozess}} besteht aus einem {{c2::Hauptprozess}}, welcher aus einer Menge an {{c2::Teilprozessen}} besteht, die aus einer Menge an {{c2::Subprozessen}} bestehen, welche aus einer Menge an {{c2::Aktivitäten}} bestehen.	
+"Frage:<br />
+Welche Herausforderung besteht bei Geschäftsprozessmanagement und digitalen Technologien?"	Im Geschäftsprozessmanagement ist häufig unklar, wie digitale Technologien in Prozesse, Organisationsstrukturen und Managementpraktiken integriert werden sollen.

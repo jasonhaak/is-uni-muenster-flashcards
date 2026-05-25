@@ -1,0 +1,212 @@
+#separator:tab
+#html:true
+"Beispiel:<br />
+Best Practices für Wandelanleihen"	"<ul>
+<li>Höhe des potenziellen Unternehmensanteils sorgfältig auswählen</li>
+<li>einen Anwalt konsultieren</li>
+<li>keine Sonderrechte wie Vetorechte oder Informationsprivilegien mitgeben</li>
+<li>Folgen eines Exit vorab berücksichtigen</li>
+</ul>"
+{{c1::Ein Unternehmensstipendium}} ist {{c2::eine Zulage im Rahmen einer Gründung durch eine öffentliche Institution}}.	
+"Beispiel:<br />
+Formen von Non-Dilutive Financing"	"<ul>
+<li>Bankenkredit</li>
+<li>Kredit durch eine öffentliche Bank</li>
+<li>Mezzanine-Kapital</li>
+<li>Unternehmensstipendium</li>
+<li>Venture Debt</li>
+</ul>"
+{{c1::Non-Dilutive Financing}} ist {{c2::nicht-verwässernde Finanzierung}}.	
+"Beispiel:<br />
+Vorteile von Bootstrapping"	"<ul>
+<li>keine Abhängigkeit von Banken, Investoren oder Dritten</li>
+<li>Förderung von Kreativität</li>
+<li>bewusste Entscheidungen und bewusster Umgang mit Ressourcen</li>
+</ul>"
+"Frage:<br />
+Was ist Seed-Strapping im Finanzierungskontext von Start-Ups?"	Seed-Strapping bezeichnet eine frühe Finanzierungslogik, bei der ein Start-Up seine Seed-Phase möglichst ressourcenschonend und mit begrenzter externer Abhängigkeit überbrückt.
+{{c1::Bootstrapping}} ist {{c2::die Finanzierung eines Unternehmens durch Eigenkapital statt durch Fremdkapital}}.	
+"Beispiel:<br />
+Prinzipien von Kompensation"	"<ul>
+<li>Belohnung für Leistung</li>
+<li>Fairness und Gerechtigkeit</li>
+<li>Fokus auf Langfristigkeit</li>
+<li>Wettbewerbsfähigkeit</li>
+<li>steueroptimierte und verständliche Ausgestaltung</li>
+</ul>"
+"wahr oder falsch:<br />
+Die Managerial Power-Theorie erklärt einen fehlenden Zusammenhang zwischen Leistung und Managementkompensation."	"wahr:<br />
+Die Theorie erklärt, warum es häufiger zu einem fehlenden Zusammenhang zwischen Leistung und Kompensation im Management kommt."
+{{c1::Die Managerial Power-Theorie}} ist {{c2::eine Theorie, nach der das Management die eigene Kompensation bei mangelhaften Kontrollstrukturen zu eigenen Gunsten beeinflussen kann}}.	
+{{c1::Die Diskrepanz-Theorie}} ist {{c2::eine Theorie, nach der Fairness der Kompensation durch den Vergleich von erwartetem und tatsächlichem Lohn bewertet wird}}.	
+{{c1::Die Equity-Theorie}} ist {{c2::eine Theorie, nach der Fairness innerhalb der Kompensation durch den Vergleich von Input und Output bewertet wird und bei Unfairness Spannung entsteht}}.	
+"Beispiel:<br />
+Intrinsische Motivatoren"	"<ul>
+<li>Arbeitszufriedenheit</li>
+<li>Lernmöglichkeiten</li>
+<li>Karrierepfad</li>
+<li>Unternehmenskultur</li>
+</ul>"
+"Beispiel:<br />
+Extrinsische Motivatoren"	"<ul>
+<li>Bonus</li>
+<li>finanzielle Langzeit-Anreize</li>
+<li>Lohn</li>
+<li>Unternehmensfahrzeug</li>
+</ul>"
+"Beispiel:<br />
+Bestandteile eines Gesellschaftervertrags"	"<ul>
+<li>Details zur Organisation wie Name oder Rechtsform</li>
+<li>Satzungssitz der Organisation</li>
+<li>Unternehmensanteile</li>
+<li>Unternehmensgegenstand</li>
+</ul>"
+{{c1::Die Geschäftsanschrift}} ist {{c2::die Anschrift einer Organisation, unter der die Gesellschaft erreichbar ist}}.	
+{{c1::Der Verwaltungssitz}} ist {{c2::der Sitz der tatsächlichen Geschäftsleitung einer Organisation}}.	
+{{c1::Der Satzungssitz}} ist {{c2::der im Gesellschaftervertrag festgelegte Sitz einer Organisation, der für die Zuständigkeit des Registergerichts entscheidend ist}}.	
+"Frage:<br />
+Welche Hauptphasen umfasst der Gründungsprozess?"	Der Gründungsprozess umfasst Vorbereitung, Gründung und Management.
+"Beispiel:<br />
+Schritte der Gründungsphase"	"<ul>
+<li>Gründung mit dem Notar</li>
+<li>Bankkonto eröffnen und Stammkapital bezahlen</li>
+<li>Registrierung im Handelsregister durch den Notar</li>
+<li>Anmeldung beim Gewerbeamt und Beantragung der Steuernummer</li>
+</ul>"
+"wahr oder falsch:<br />
+Notarberatungen sind meistens kostenlos, weil sie mit der Erstellung eines Notarentwurfs oder der Beurkundung einer Urkunde abgegolten sind."	"wahr:<br />
+Das gilt unabhängig von Schwierigkeit, Aufwand und der Anzahl der Besprechungstermine."
+"wahr oder falsch:<br />
+Die Gewerbesteuer ist in Deutschland unabhängig von der jeweiligen Gemeinde einheitlich."	"falsch:<br />
+Die Gewerbesteuer ist in Deutschland von der jeweiligen Gemeinde abhängig."
+{{c1::Gewerbesteuer}} ist {{c2::eine Steuer auf Unternehmen, die auf den Gewerbeertrag berechnet wird}}.	
+"Frage:<br />
+Wie hoch beträgt die Solidaritätssteuer in Deutschland maximal?"	Die Solidaritätssteuer in Deutschland beträgt bis zu 5,5 Prozent.
+{{c1::Solidaritätssteuer}} ist {{c2::eine Steuer für natürliche Personen und Unternehmen}}.	
+"wahr oder falsch:<br />
+Die meisten Start-Ups wählen als Gewerbeform eine Kapitalgesellschaft, insbesondere GmbH oder UG."	"wahr:<br />
+Die meisten Start-Ups wählen eine Kapitalgesellschaft, spezifisch eine GmbH oder UG."
+"Frage:<br />
+Wie erfolgt die Versteuerung von Kapitalgesellschaften?"	Die Versteuerung von Kapitalgesellschaften erfolgt auf Unternehmensebene anhand der Gewerbesteuer, während Shareholder Einkommen oder Dividenden über die Einkommenssteuer versteuern.
+"Frage:<br />
+Wie erfolgt die Versteuerung von Personengesellschaften?"	Die Versteuerung von Personengesellschaften erfolgt auf individueller Ebene der natürlichen Personen anhand der Einkommenssteuer.
+"Frage:<br />
+Aus welchen Motivatorentypen besteht Kompensation?"	Kompensation besteht aus extrinsischen und intrinsischen Motivatoren.
+"Beispiel:<br />
+Faktoren der Kompensation"	"<ul>
+<li>feste oder variable Kompensation</li>
+<li>individuelle oder organisationsweite Kompensation</li>
+<li>kurzfristige oder langfristige Kompensation</li>
+<li>monetäre oder anteilsbasierte Kompensation</li>
+</ul>"
+{{c1::Kompensation}} ist {{c2::ein System von Belohnungen, um Mitarbeitende zu motivieren, ein gemeinsames Ziel zu erreichen}}.	
+"Beispiel:<br />
+Gründe gegen eine D&amp;O-Versicherung"	"<ul>
+<li>Beibehaltung der Verantwortlichkeit der Geschäftsführung</li>
+<li>falsche Sicherheit trotz möglicher Haftungsdurchgreifung und Reputationsschäden</li>
+<li>Kosten der Versicherung</li>
+<li>Limitationen der D&amp;O-Versicherung bei nicht gedeckten Geschäftsfällen</li>
+</ul>"
+"wahr oder falsch:<br />
+Eine D&amp;O-Versicherung deckt grundsätzlich auch Betrug und illegale Geschäfte ab."	"falsch:<br />
+Eine D&amp;O-Versicherung schließt Betrug und illegale Geschäfte grundsätzlich aus."
+{{c1::Eine D&amp;O-Versicherung}} ist {{c2::eine Versicherung, die das Management, insbesondere die Geschäftsführung, gegen Managementfehler absichert}}.	
+"Frage:<br />
+Wie häufig muss eine Gesellschafterversammlung mindestens einberufen werden?"	Eine Gesellschafterversammlung muss mindestens einmal im Jahr einberufen werden.
+{{c1::Die Gesellschafterversammlung}} ist {{c2::das oberste Entscheidungsorgan einer GmbH, in dem die Gesellschafter über zentrale Angelegenheiten der Gesellschaft beschließen}}.	
+"Frage:<br />
+Wann ist die Geschäftsführung persönlich haftbar?"	Die Geschäftsführung ist persönlich haftbar, wenn sie Führungspflichten vernachlässigt, sorgfaltswidrig handelt oder Entscheidungen trifft, die dem Gesellschaftszweck entgegenstehen.
+"wahr oder falsch:<br />
+Die Haftbarkeit der Geschäftsführung ist bereits vor Gründung und während der Gründungsphase vollständig beschränkt."	"falsch:<br />
+Vor Gründung und während der Gründungsphase ist die Haftbarkeit der Geschäftsführung nicht beschränkt."
+"Beispiel:<br />
+Pflichten der Geschäftsführung"	"<ul>
+<li>finanzielle Angelegenheiten wie Jahresabschlüsse, Buchführung und Liquiditätsprüfung</li>
+<li>rechtliche Angelegenheiten wie Insolvenzanmeldung, Unternehmensregistrierung und Vertragsüberwachung</li>
+<li>Shareholder-Management wie Entscheidungsdokumentation, Gesellschafterversammlungen und Informationspflichten</li>
+</ul>"
+{{c1::Die Upper Echelons Theory}} ist {{c2::eine Theorie, nach der das Management den Erfolg einer Unternehmung durch Entscheidungen besonders stark beeinflusst}}.	
+"wahr oder falsch:<br />
+Das Durchschnittsalter einer Start-Up-Gründungen beträgt ca. 25 Jahre."	"falsch:<br />
+Das Durchschnittsalter beträgt ca. 38 Jahre."
+"wahr oder falsch:<br />
+Die meisten Start-Ups werden durch eine einzige Person gegründet."	"falsch:<br />
+Sie werden zu ca. 80 % in Team durch ca. 2-3 Personen im Durchschnitt gegründet."
+"wahr oder falsch:<br />
+Die meisten Start-Ups werden durch ein großes Team von mehr als 5 Personen gegründet."	"falsch:<br />
+Sie werden zu ca. 80 % in Team durch ca. 2-3 Personen im Durchschnitt gegründet."
+"Frage:<br />
+Innerhalb welcher Frist muss eine Überschuldung angemeldet werden?"	Eine Überschuldung muss innerhalb von sechs Wochen angemeldet werden.
+{{c1::Überschuldung}} ist {{c2::die Situation eines Unternehmens, in der das Vermögen die bestehenden Verbindlichkeiten nicht mehr decken kann}}.	
+"Frage:<br />
+Innerhalb welcher Frist muss eine Insolvenz angemeldet werden?"	Eine Insolvenz muss innerhalb von drei Wochen angemeldet werden.
+{{c1::Insolvenz}} ist {{c2::die Situation eines Unternehmens, in der es seinen Zahlungsverpflichtungen nicht mehr nachgehen kann}}.	
+"Frage:<br />
+Wie hoch liegt die Körperschaftssteuer in Deutschland ungefähr?"	Die Körperschaftssteuer in Deutschland liegt ungefähr bei 15 Prozent.
+{{c1::Körperschaftssteuer}} ist {{c2::eine Steuer auf den Profit eines Unternehmens}}.	
+{{c1::Einkommenssteuer}} ist {{c2::eine Steuer auf das Einkommen einer natürlichen Person}}.	
+"Frage:<br />
+Wie wird eine Geschäftsführung angestellt und beendet?"	Die Geschäftsführung wird durch die Gesellschafterversammlung im Rahmen eines Anstellungsvertrages angestellt und durch Kündigung des Vertrages oder Abberufung beendet.
+{{c1::Die Geschäftsführung}} ist {{c2::der rechtliche Repräsentant einer Gesellschaft und wird in das Handelsregister eingetragen}}.	
+"wahr oder falsch:<br />
+Der Lohn wird maßgeblich durch Gesetze beeinflusst."	"wahr:<br />
+Mindestlohn und weitere Gesetze beeinflussen den Lohn."
+"wahr oder falsch:<br />
+Eine Wandelanleihe unterscheidet sich von einer Optionsanleihe dadurch, dass sie keine Option, sondern grundsätzlich eine Verpflichtung zur Wandlung in Aktien beinhaltet."	"falsch:<br />
+Eine Wandelanleihe enthält ein Wandlungsrecht des Gläubigers, aber keine grundsätzliche Verpflichtung zur Wandlung in Aktien."
+"wahr oder falsch:<br />
+Eine Wandelanleihe unterscheidet sich von einer Optionsanleihe dadurch, dass sie nur dann gewandelt werden darf, wenn der Aktienkurs seit der Emission nicht gestiegen ist."	"falsch:<br />
+Eine Wandelanleihe kann innerhalb der Laufzeit nach dem vorher festgelegten Umtauschverhältnis gewandelt werden; die Aussage über einen nicht gestiegenen Aktienkurs ist keine definierende Abgrenzung."
+"{{c1::Eine Wandelanleihe (Convertible Bond)}} ist {{c2::eine Mischform einer Schuldverschreibung aus Eigenkapital und Fremdkapital, bei welcher der Gläubiger innerhalb der Schuldlaufzeit die Möglichkeit besitzt, in einem vorher festgelegten Umtauschverhältnis die Schulden in Aktien umzuwandeln}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Branger-Wandelanleihe.png"" alt=""""><br />
+Schematische Darstellung des Verlaufes einer Wandelanleihe}}}}"	
+"Wird {{c1::eine Wandelanleihe}} nicht {{c2::umgewandelt}}, wird {{c1::die Wandelanleihe}} wie {{c2::eine Anleihe ausgezahlt}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Branger-Wandelanleihe.png"" alt=""""><br />
+Schematische Darstellung des Verlaufes einer Wandelanleihe}}}}"	
+Bei der Ausgabe von {{c1::Wandelanleihen}} handelt es sich um {{c2::eine bedingte Kapitalerhöhung}}, weshalb {{c3::Bezugsrechte für Altaktionäre}} entstehen.	
+"Frage:<br />
+Welche Eigenschaften besitzt ein Einzelunternehmen?"	Ein Einzelunternehmen hat einen Eigentümer, wird über die Einkommenssteuer besteuert, haftet mit dem Privatvermögen des Eigentümers, wird durch den Inhaber geleitet und benötigt kein Mindestkapital.
+"wahr oder falsch:<br />
+Bei der Gründung eines Einzelunternehmens gibt es kein vorgeschriebenes Haftungskapital, weil die Aufnahme stiller Gesellschafter möglich ist."	"falsch:<br />
+Bei einem Einzelunternehmen gibt es kein vorgeschriebenes Mindestkapital, weil der Eigentümer mit seinem Privatvermögen haftet; die mögliche Aufnahme stiller Gesellschafter begründet nicht die Haftungslogik."
+"Frage:<br />
+Welche Probleme umfasst die Prinzipal-Agent-Theorie?"	Die Prinzipal-Agent-Theorie umfasst adverse Selektion, Hold-Up und moralisches Risiko als zentrale Informations- und Anreizprobleme.
+"Beispiel:<br />
+Prinzipal-Agent-Theorie"	"<ul>
+<li>Beziehung zwischen Arzt und Patient</li>
+<li>Beziehung zwischen Eigentümer und Geschäftsführung</li>
+</ul>"
+Die {{c1::Prinzipal-Agent-Theorie}} ist eine Theorie über die Betrachtung der Beziehung zwischen zwei Subjekten, spezifisch zwischen dem Prinzipal und Agent bei vorliegendem Interessenskonflikt und einer asymmetrischen Informationsverteilung.	
+"Frage:<br />
+Welche Eigenschaften besitzt eine Unternehmensgesellschaft?"	Eine Unternehmensgesellschaft hat mindestens einen Eigentümer, wird mit Körperschaftssteuer besteuert, ist haftungsbeschränkt, wird durch die Geschäftsführung geleitet und benötigt kein Mindestkapital.
+"wahr oder falsch:<br />
+Die Unternehmensgesellschaft ist eine eigenständige Rechtsform neben der GmbH."	"falsch:<br />
+Die Unternehmensgesellschaft ist keine eigenständige Rechtsform, sondern ein Spezialfall der Gesellschaft mit beschränkter Haftung."
+"Frage:<br />
+Welche Folge hat das fehlende Mindestkapital bei der Unternehmensgesellschaft?"	Da kein Mindestkapital benötigt wird, muss ein Viertel des Gewinns für den Kapitalaufbau verwendet werden.
+{{c1::Eine Unternehmensgesellschaft (UG)}} ist {{c2::eine haftungsbeschränkte Kapitalgesellschaft und ein Spezialfall der Gesellschaft mit beschränkter Haftung}}.	
+"wahr oder falsch:<br />
+Haftungsbeschränkung kann Verluste auf die Volkswirtschaft abwälzen."	"wahr:<br />
+Die Haftungsbeschränkung schützt das Privatvermögen, kann aber Verluste auf die Volkswirtschaft verlagern."
+{{c1::Die Haftungsbeschränkung}} ist {{c2::die Verhinderung von Verlust des Privatvermögens in Unternehmungen bei Einhaltung von Pflichten der Geschäftsführung}}.	
+"Frage:<br />
+Welche Informations- und Anreizprobleme treten bei einer idealtypischen Kapitalgesellschaft auf und wie werden sie entschärft?"	Bei einer idealtypischen Kapitalgesellschaft entstehen Qualitätsunsicherheit vor Eintritt in die Gesellschaft und Verhaltensunsicherheit gegenüber neuen Gesellschaftern; sie werden durch Haftungsbegrenzung und Kontrollsysteme zur Überwachung entschärft.
+"Frage:<br />
+Wie hoch ist die Sekundärmarktliquidität für eine idealtypische Kapitalgesellschaft?"	Es besteht eine hohe Sekundärmarktliquidität: Bei einer idealtypischen Kapitalgesellschaft besteht eine schwach asymmetrische Informationsverteilung zwischen Folge- und Ersterwerber und damit kaum (diesbezügliche) Qualitätsunsicherheit. Zusätzlich schwächen Publizitätsmaßnahmen die Asymmetrie der Informationsverteilung weiter ab. Ein Markt zum Handel von bereits emittierten Titeln auf Sekundärmärkten würde daher zustande kommen.
+{{c1::Eine idealtypische Kapitalgesellschaft}} dient {{c2::der Reduktion des Informationsbedarf und Koordinierungsaufwand zwischen Gesellschaftern und Kapitalgebern}}.	
+"Frage:<br />
+Was ist ein zentraler Nachteil einer idealtypischen Personengesellschaft?"	Ein hoher Koordinationsaufwand zwischen mehreren Gesellschaftern.
+"Frage:<br />
+Wie hoch ist die Sekundärmarktliquidität für eine idealtypische Personengesellschaft?"	Es besteht kaum bzw. nur wenig Sekundärmarktliquidität: Bei der idealtypischen Personengesellschaft besteht eine stark asymmetrische Informationsverteilung zwischen Folge- und Ersterwerber und damit eine erhebliche Qualitätsunsicherheit. Der Markt zum Handel von bereits emittierten Titeln auf Sekundärmärkten würde daher aufgrund von adverser Selektion nicht zustande kommen.
+"wahr oder falsch:<br />
+Wenn eine idealtypische Personengesellschaft um viele Gesellschafter erweitert werden soll, bietet es sich an, die Geschäftsführung an ein professionelles Management zu delegieren."	"wahr:<br />
+Die Koordinationskosten der Vielzahl an Gesellschaftern würden die Kosten, die durch Beauftragung eines professionellen Managements entstehen, übersteigen."
+{{c1::Eine idealtypische Personengesellschaft}} dient {{c2::der Einräumung umfassender Rechte, insbesondere dem Informations-, Mitwirkungs- und Kündigungsrecht}}.	
+"Beispiel:<br />
+Bestandteile des Growth Canvas"	"<ul>
+<li>1-HAG und 3-HAG</li>
+<li>90-Day Plan und Annual Priorities</li>
+<li>Core Competence und Core Customers</li>
+<li>KPI, OKR und Value Proposition</li>
+<li>Purpose und Vivid Vision</li>
+</ul>"
