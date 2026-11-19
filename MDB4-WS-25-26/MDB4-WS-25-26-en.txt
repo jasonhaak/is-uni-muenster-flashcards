@@ -9,9 +9,6 @@ What is the Political Arena Theory according to Gorgiou (1973)?"	[Organisations 
 "true or false:<br />
 From the perspective of Political Arena Theory, organizations are goal-directed actors that act uniformly."	"false:<br />
 Organizations are arenas of divergent interests in which goals emerge through negotiations."
-{{c1::Political Arena Theory}} is {{c2::a theory about organizations stating that organizations cannot have their own goals and are arenas for negotiations and interests between actors}}.	
-{{c1::Coalition Theory}} is {{c2::a theory of organizations stating that an organization consists of a group of participants, specifically a coalition, which is part of the decision-making process}}. In {{c1::Coalition Theory}}, goals are not the result of the power of individual units, but arise through {{c3::negotiations within the coalition}}.	
-{{c1::Satisfaction}} is {{c2::a theory of organizations and their goals stating that these should not be maximized, but weighed against one another and that a solution must be sufficiently good for everyone}}.	
 "Example:<br />
 Equilibrium Theory"	"<ul>
 <li>investors invest money for dividends</li>
@@ -19,10 +16,8 @@ Equilibrium Theory"	"<ul>
 </ul>"
 "Question:<br />
 What is the Equilibrium Theory according to March, Simon (1968)?"	Each sought inducements in return for their contributions; for example, employees contributed work in return for wages and other gratuities, investors contributed funds in return for financial returns and certain levels of security.
-{{c1::Equilibrium Theory}} is {{c2::a theory about organizations stating that an organization can only be effective if there is an equilibrium between the contributions of participants and the compensation to participants}}. In {{c1::Equilibrium Theory}}, there is also a Peak Coordinator, usually management, who depends on the consent and participation of other actors.	
 "Question:<br />
 What is a Peak Coordinator according to Papandreou (1952)?"	"The Peak Coordinator is conceived as performing the integrating function; he is conceived as formulating the preference system of the enterprise. He does so, however, under the ""weight"" of the unconscious and conscious influences exerted upon him."
-{{c1::A Peak Coordinator}} is {{c2::a model of a unit in which a unit is influenced by different goals in order to reach a goal to be maximized}}. {{c1::A Peak Coordinator}} therefore classically represents {{c3::management}}.	
 "Question:<br />
 What is the criticism of the Rational Actor Model?"	"<ul>
 <li>the lack of concretization with regard to short-term or long-term profit maximization</li>
@@ -33,13 +28,10 @@ What is the criticism of the Rational Actor Model?"	"<ul>
 Why is the Rational Actor Model only limitedly realistic for organizations?"	Because organizations consist of multiple actors with different interests and decisions are made under uncertainty.
 "true or false:<br />
 The Rational Actor Model is an early model of organizational theory."	true
-{{c1::The Rational Actor Model}} is {{c2::a model of an organization in which the organization is seen as a rational individual in order to achieve its goal of profit maximization}}.	
-{{c1::A System of Systems}} is {{c2::a set of different product systems as well as external information that are coordinated and optimized with one another in order to create an ecosystem}}.	
 "Example:<br />
 Product system"	"<ul>
 <li>integration and connection of Smart Connected Products in agriculture: tractors, rotary tiller, planter</li>
 </ul>"
-{{c1::A product system}} is {{c2::a set of interconnected products in order to satisfy a need}}.	
 "Question:<br />
 What does the technology-driven extension of products consist of?"	"<ol>
 <li>product</li>
@@ -50,31 +42,16 @@ What does the technology-driven extension of products consist of?"	"<ol>
 <img src=""2022-Bild-Stockhinger-Erweiterung_von_Produkten_durch_Technologie.png"" alt=""""><br />
 Extension of products through technology</li>
 </ol>"
-"<p>Capabilities of Smart Connected Products are:</p>
-<ol>
-<li>{{c1::Monitoring}}: {{c1::sensors and external data}}</li>
-<li>{{c2::Controlling}}: {{c2::control and personalization}}</li>
-<li>{{c3::Optimization}}: {{c3::use of algorithms and analyses in combination with real-time monitoring to improve efficiency and output}}</li>
-<li>{{c4::Autonomy}}: {{c4::combination of monitoring, controlling, and optimization to achieve autonomy}}</li>
-</ol>"	
 "true or false:<br />
 Due to the commoditization of IT, competitive advantages from IT can only be realized with greater difficulty, which is why IT/IS budgeting is necessary."	true
-{{c1::Cultural pluralism}} is {{c2::a view of culture that sees culture as an integral part of an organization that cannot be influenced}}.	
 "Question:<br />
 What are tools of Cultural Engineering?"	"<ul>
 <li>compensation and remuneration</li>
 <li>recruiting</li>
 <li>personnel development</li>
 </ul>"
-{{c1::Cultural Engineering}} is {{c2::the influencing of organizational culture through the management of identity and behavior through control and power}}.	
-{{c1::The fragmentation perspective}} is {{c2::a perspective on culture in which culture is seen as ambiguous, so consensus can only be reached within a specific situation for a specific time in a specific context}}. In {{c1::the fragmentation perspective}}, culture is therefore seen as {{c3::a task for sensemaking}}.	
 "Question:<br />
 What is a subculture according to Hatch (2012)?"	A subculture is a subset of an organization‘s members that identifies itself as a distinct group within the organization based either on similarity or familarity.
-{{c1::A subculture}} is {{c2::a set of members who identify themselves as their own group within a culture}}. {{c1::Subculture}} arises from {{c3::similarity and homogeneity or from frequent interaction}}.	
-{{c1::The differentiation perspective}} is {{c2::a perspective on culture with a heterogeneous view as well as internal and external influences, in which different subcultures with different values exist}}. In {{c1::the differentiation perspective}}, culture is therefore seen as {{c3::a navigation tool for recognizing resistance}}.	
-"{{c1::The integration perspective}} is {{c2::a perspective on culture with a homogeneous view and homogeneous values within the culture}}. In {{c1::the integration perspective}}, culture is therefore seen as {{c3::a management tool}}.<br />
-{{c1::{{c2::{{c3::<img src=""2026-Bild-Schellhammer-Integrationsperspektive_auf_Kultur.png"" alt=""""><br />
-Integration perspective on culture}}}}}}"	
 "Question:<br />
 What does a high-performance culture consist of?"	"<ul>
 <li>high employee engagement</li>
@@ -88,7 +65,6 @@ What is Forced Ranking according to Cooper, Argyris (1998)?"	Forced ranking (FR)
 "true or false:<br />
 Forced Ranking serves the individual development of all employees."	"false:<br />
 Forced Ranking primarily serves the identification of performance differences and decision support, not individual development."
-{{c1::Forced Ranking}} is {{c2::performance management based on the bell curve or a distribution in which employees are classified into limited categories}}.	
 "Question:<br />
 What are disadvantages of performance management systems?"	"<ul>
 <li>when categorizing and filtering untalented employees, continuous evaluation is distorted</li>
@@ -101,8 +77,6 @@ What are advantages of Forced Ranking?"	"<ul>
 <li>identification of particularly talented employees</li>
 <li>pressure to evaluate employees</li>
 </ul>"
-{{c1::Performance Management}} is {{c2::personnel development through monitoring and controlling performance standards of employees in order to develop them and enable feedback}}.	
-{{c1::A Performance Management System}} is {{c2::a system for performance management}}.	
 "Question:<br />
 What is the Scanlon Plan according to Schuster (1983)?"	The average worker is able to make and, given the right kind of circumstances wants to make important contributions to the solution of production problems […] the present work force is a reservoir of creativity and experience that, it properly tapped, has the potential to greatly increase productivity.
 "Question:<br />
@@ -111,26 +85,15 @@ What does the Scanlon Plan consist of?"	"<ul>
 <li>corporate culture of partnership</li>
 <li>negotiation process through management and employees</li>
 </ul>"
-The Scanlon Plan is {{c1::a method for personnel development and compensation through employees and management}}.	
-{{c1::Bonus compensation}} is {{c2::compensation in the form of a one-time payment based on specific metrics}}.	
 "Example:<br />
 Employee Benefit"	"<ul>
 <li>company pension scheme</li>
 <li>health insurance</li>
 </ul>"
-{{c1::An Employee Benefit}} is {{c2::non-monetary compensation for employees}}.	
-{{c1::Gainsharing}} is {{c2::compensation in the form of employee participation in the company's profit}}.	
-{{c1::Piece-rate compensation (performance bonus, Merit Pay)}} is {{c2::compensation measured according to work results}}.	
-{{c1::Base compensation}} is {{c2::compensation in the form of an hourly wage}}.	
-{{c1::An Applicant Tracking System}} is {{c2::a system for automatically sorting and filtering applications within personnel recruiting}}.	
-{{c1::Demand-Skills Profiling}} is {{c2::the mapping of the requirements and capabilities of a candidate in order to select the candidate for personnel selection}}.	
-{{c1::Personnel selection}} includes {{c2::all tools, methods, and criteria by which a person is selected for a vacant position}}.	
-{{c1::Personnel recruiting}} is {{c2::the search for qualified applicants for a job in order to fill a vacant position with a suitable person}}.	
 "true or false:<br />
 Employee engagement promotes how productive employees are. In addition, engaged employees tend less often to experience negative emotions."	true
 "true or false:<br />
 Management engagement is important because it influences how engaged their team is. For this reason, the highest possible management engagement should be promoted."	true
-{{c1::A STAR (Skilled Through Alternative Routes)}} is {{c2::a person who has acquired skills through non-conventional paths and corresponds to a career changer}}.	
 "Question:<br />
 What are motivators for changing employers among actively searching employees?"	desired higher seniority or more responsibility
 "Question:<br />
@@ -165,7 +128,6 @@ What is a culture with low performance orientation?"	"<ul>
 </ul>"
 "Question:<br />
 What is uncertainty avoidance according to Hofstede, Peterson (2000)?"	assertiveness and competitiveness versus modesty and caring
-{{c1::Performance orientation}} is {{c2::a cultural factor that describes how oriented toward success a culture is}}.	
 "Question:<br />
 Why is uncertainty avoidance not the same as risk aversion?"	Uncertainty avoidance describes dealing with ambiguity and lack of clarity, not the rejection of risks as such.
 "Question:<br />
@@ -181,7 +143,6 @@ What is a culture with low uncertainty avoidance?"	"<ul>
 "true or false:<br />
 High uncertainty avoidance favors innovation and experimentation."	"false:<br />
 High uncertainty avoidance favors rules, standardization, and planning and makes experimentation more difficult."
-{{c1::Uncertainty avoidance}} is {{c2::a cultural dimension that describes how open a culture is to new ideas and risks}}.	
 "Question:<br />
 What does the cultural dimension Power Distance describe?"	The degree to which unequal distribution of power, status, and authority is accepted and expected by less powerful members.
 "Question:<br />
@@ -199,7 +160,6 @@ What is Power Distance according to Hofstede, Peterson (2000)?"	the extent to wh
 "true or false:<br />
 High Power Distance typically leads to open criticism of superiors."	"false:<br />
 High power distance favors acceptance of hierarchy and restraint toward authorities, especially in public situations."
-{{c1::Power Distance}} is {{c2::a cultural factor that describes how strongly a discrepancy in power is accepted in a culture}}.	
 "Question:<br />
 What does mental programming consist of?"	"<ul>
 <li>participating in rituals</li>
@@ -207,7 +167,6 @@ What does mental programming consist of?"	"<ul>
 <li>perceiving role models</li>
 <li>learning values</li>
 </ul>"
-{{c1::Mental programming}} is {{c2::the learning of culture in a society}}.	
 "Question:<br />
 Culture influences how management decisions are interpreted. Management must therefore consider cultural aspects of responsibility and authority in order to bring about change."	true
 "Question:<br />
@@ -221,7 +180,6 @@ What creates Psychological Safety?"	"<ul>
 "true or false:<br />
 Psychological Safety is a stable personality trait of teams."	"false:<br />
 It is created or destroyed situationally and continuously through leadership behavior and interaction."
-{{c1::Psychological Safety}} is {{c2::the individual perception of being able to take risks without fear of negative consequences}}. High {{c1::Psychological Safety}} leads to {{c3::mistakes being admitted, risks being taken, and new ideas being voiced}}.	
 "Question:<br />
 What is the central idea behind Belbin's team role model?"	Effective teams need a balanced combination of complementary behavioral roles, not only high individual performance.
 "true or false:<br />
@@ -230,26 +188,6 @@ Belbin's roles describe observable team behavior in specific contexts, not stabl
 "true or false:<br />
 A team with many Plants is particularly good at implementing complex tasks."	"false:<br />
 Plants generate creative ideas, but need Implementers and Completer Finishers for structured implementation."
-"<p>Belbin's team roles consist of:</p>
-<ul>
-<li>{{c1::Co-Ordinator}}: aligns the team with common goals, recognizes members' strengths, and delegates tasks purposefully</li>
-<li>{{c2::Completer Finisher}}: ensures the quality of work by carefully checking results, uncovering errors, and perfecting tasks</li>
-<li>{{c3::Implementer}}: translates ideas into practicable plans and implements them in a structured, reliable, and efficient way</li>
-<li>{{c4::Monitor Evaluator}}: analyzes options soberly and logically, evaluates alternatives objectively, and supports well-founded decisions</li>
-<li>{{c5::Plant}}: develops creative, unconventional ideas and solution approaches for complex or novel problems</li>
-<li>{{c6::Resource Investigator}}: actively establishes external contacts, explores opportunities, and brings new ideas and impulses from outside into the team</li>
-<li>{{c7::Shaper}}: drives the team forward with energy and assertiveness and ensures that focus and momentum are maintained</li>
-<li>{{c8::Specialist}}: provides in-depth expertise and specific competencies in a clearly delimited subject area</li>
-<li>{{c9::Teamworker}}: promotes cohesion in the team, flexibly supports others, and ensures a cooperative working climate through diplomacy</li>
-</ul>"	
-"<p>Phases of team development are:</p>
-<ol>
-<li>{{c1::Forming}}: {{c1::getting to know each other; avoiding conflicts; clarifying status, power, and roles}}</li>
-<li>{{c2::Storming}}: {{c2::tensions arise due to tasks; coalition building; efforts to reconcile team goals and individual needs and working styles}}</li>
-<li>{{c3::Norming}}: {{c3::development of a shared understanding of roles, responsibilities, and norms}}</li>
-<li>{{c4::Performing}}: {{c4::functioning as a unit with a clear and stable structure}}</li>
-<li>{{c5::Adjourning}}: {{c5::dissolution of the team; completion of tasks; exchange of ideas; celebration of success}}</li>
-</ol>"	
 "Question:<br />
 What are characteristics of dysfunctional teams?"	"<ul>
 <li>fear of conflict</li>
@@ -263,7 +201,6 @@ Successful teams usually fail because of a lack of technical competence."	"false
 Frequent causes are lack of trust, fear of conflict, and insufficient psychological safety."
 "Question:<br />
 Why is Distributed Leadership gaining importance in knowledge-intensive organizations?"	Because knowledge is distributed and leadership cannot be effectively centralized.
-{{c1::Distributed Leadership}} is {{c2::the collective leadership of a group}}.	
 "Question:<br />
 What is the central legitimating principle of Servant Leadership?"	Legitimacy arises through service to employees, not through formal power.
 "Question:<br />
@@ -271,11 +208,9 @@ What is Servant Leadership according to Greenleaf (1970)."	A servant-leader focu
 "true or false:<br />
 Servant Leadership primarily focuses on control and goal achievement through authority."	"false:<br />
 Servant Leadership centers service, empowerment, and the development of others."
-{{c1::Servant Leadership}} is {{c2::leadership that is oriented toward serving employees, customers, and the company, who are to be helped in professional and personal contexts}}.	
 "true or false:<br />
 Postmodern leadership theories replace leadership with formal rules and processes."	"false:<br />
 They replace the person of the leader with processes such as sensemaking, language, negotiation, and interpretation."
-{{c1::Postmodern leadership}} is {{c2::leadership in which leadership does not necessarily lie in one person and is given by authority or hierarchies, but is defined by processes}}.	
 "Question:<br />
 Which two main dimensions does the Situational Leadership Model include?"	Leadership style and maturity level of employees.
 "Question:<br />
@@ -325,9 +260,6 @@ In the Situational Leadership Model, there is a fixed leadership style that is o
 The leadership style must be adapted situationally to the maturity level."
 "true or false:<br />
 ""Selling"" in the Situational Leadership Model means that leaders make decisions and actively justify them."	true
-"{{c1::The Situational Leadership Model}} is {{c2::a model about leadership and leadership style that depends on the maturity level of the people being led}}.<br />
-{{c1::{{c2::<img src=""2026-Schellhammer-Situational_Leadership_Model.png"" alt=""""><br />
-Situational Leadership Model}}}}"	
 "Question:<br />
 What does contingency theory consist of?"	"<ul>
 <li>the leadership style</li>
@@ -338,10 +270,6 @@ Contingency theory assumes that leaders should flexibly adapt their style."	"fal
 Contingency theory assumes a relatively stable leadership style; the situation must fit the leader."
 "true or false:<br />
 In particularly favorable and particularly unfavorable leadership situations in contingency theory, a task-oriented leadership style leads to higher success, while in situations of medium favorability the person-oriented leadership style is more suitable."	true
-{{c1::Contingency theory (Contingency Model)}} is {{c2::a theory and model in which the effectiveness of leadership depends on the situation}}.	
-{{c1::Authoritarian leadership}} is {{c2::leadership in which a leader delegates tasks}}.	
-{{c1::Democratic leadership}} is {{c2::leadership in which a leader allows a group of people to organize themselves and form and solve goals and tasks within this group}}.	
-{{c1::Leadership as behavior}} is {{c2::leadership characterized by what the leader does. Leadership can therefore be learned and acquired}}.	
 "Question:<br />
 Why are trait theories of leadership considered problematic today?"	They provide low predictive power, ignore situational influences, and underestimate organizational and cultural contexts.
 "true or false:<br />
@@ -349,7 +277,6 @@ Leadership as a character trait is difficult to study because different factors,
 "true or false:<br />
 Trait theories assume that universal leadership traits exist that are effective independently of context."	"false:<br />
 Empirical studies show low consistency; leadership effectiveness is highly context-dependent."
-{{c1::Leadership as a character trait}} is {{c2::leadership that is deeply rooted in the personality of the leader}}.	
 "true or false:<br />
 Organizational culture influences corporate performance in many different ways that are complex and difficult to grasp."	true
 "Question.<br />
@@ -364,12 +291,10 @@ What are perspectives on organizational culture?"	"<ul>
 Behavior patterns are stabilized by culture."	true
 "Question:<br />
 Is there a strong or weak connection between symbolic outcomes and substantive outcomes?"	There is only a weak connection between symbolic outcomes such as culture, expectations, values, and perception and substantive outcomes such as budget, wage, and profit.
-{{c1::Organizational culture management}} is {{c2::the management of organizational culture and the development of consensus around the definition of activities in the workplace}}.	
 "Question:<br />
 How are organizational culture and corporate ideology evaluated in relation to each other? Are they equated or differentiated?"	Organizational culture and corporate ideology are often equated by management, but must be differentiated because the corporate vision is usually only a description of the targeted organizational culture.
 "Question:<br />
 What is a good culture according to Baker (1980)?"	Good cultures are characterized by norms and values supportive of excellence, teamwork, profitability, honesty, a customer service orientation, pride in one’s work, and commitment to the organization. Most of all, they are supportive of adaptability – the capacity to thrive over the long run despite new competition, new regulations, new technological developments, and the strains of growth.
-{{c1::A good culture}} is {{c2::a culture that unifies good and positive values, attitudes, and behaviors into peaceful coexistence}}.	
 "Question:<br />
 What are problems of organizational cultures?"	"<ul>
 <li>limitation of organizational culture through categorization into good properties and bad properties</li>
@@ -381,20 +306,11 @@ A strong organizational culture is always inclusive."	"false:<br />
 A strong culture can also have an excluding effect and reinforce existing power or bias structures."
 "Question:<br />
 Why is interpretation central for cultural dynamics?"	Because only through interpretation do symbols receive meaning and assumptions can be confirmed or changed.
-{{c1::Interpretation}} in {{c2::culture is a process through which experiences, events, or artifacts are endowed with meaning}}.	
-{{c1::Retroactive symbolization}} is {{c2::the process of symbolization in which an existing symbol influences an artifact and emphasizes the symbolic meaning}}.	
-{{c1::Proactive symbolization}} is {{c2::the process of symbolization in which artifacts with significant meaning create a symbol}}.	
 "true or false:<br />
 Retroactive realization exists when cultural values are not only thought or shared, but actively implemented in actions that leave visible and lasting traces in the organization."	"false:<br />
 Proactive realization exists."
-{{c1::Retroactive realization}} is {{c2::the process of realization in which already created artifacts retrospectively affect values and expectations}}.	
 "true or false:<br />
 Proactive realization exists when cultural values are not only thought or shared, but actively implemented in actions that leave visible and lasting traces in the organization."	true
-{{c1::Proactive realization}} is {{c2::the process of realization in which cultural assumptions, expectations, and values are materialized through concrete action}}.	
-{{c1::Realization}} is {{c2::the process of transforming values into expectations that take shape in reality}}.	
-{{c1::Retroactive manifestation}} is {{c2::a manifestation through which values feed back onto existing assumptions and confirm or change them}}.	
-{{c1::Proactive manifestation}} is {{c2::a manifestation through which assumptions generate certain expectations that shape perception, thoughts, and feelings}}. {{c1::This proactive manifestation}} thereby creates values that are perceived as {{c3::desirable}}.	
-{{c1::Manifestation}} is {{c2::a process in which an initially non-perceptible component, usually assumptions, can be perceived}}.	
 "Question:<br />
 What creates cultural dynamics?"	"<ul>
 <li>interpretation processes</li>
@@ -409,9 +325,6 @@ What does cultural dynamics consist of?"	"<ul>
 <li>symbols</li>
 <li>values</li>
 </ul>"
-"{{c1::Cultural Dynamics}} is {{c2::the evolution of cultures and cultural processes with regard to stability}}.<br />
-{{c1::{{c2::<img src=""1993-Bild-Hatch-Kulturelle_Dynamik.png"" alt=""""><br />
-Model of cultural dynamics}}}}"	
 "Question:<br />
 What does the Garbage Can Model consist of?"	"<ul>
 <li>solutions</li>
@@ -422,17 +335,6 @@ What does the Garbage Can Model consist of?"	"<ul>
 "true or false:<br />
 The Garbage Can Model describes decision-making as linear and rational."	"false:<br />
 The model describes decisions as the random coupling of problems, solutions, participants, and opportunities."
-{{c1::The Garbage Can Model}} is a {{c2::model in which decision-making is the outcome of an interpretation of several unclear goals and uncertain environmental influences}}.	
-{{c1::Rational Decision Making}} is {{c2::decision-making within a structured process with a safely predictable environment that can be supported by assumptions}}.	
-"<p>Rational Decision Making consists of several steps:</p>
-<ol>
-<li>{{c1::problem definition}}</li>
-<li>{{c2::search for alternatives}}</li>
-<li>{{c3::identification of decision criteria}}</li>
-<li>{{c4::allocation of weightings to the decision criteria}}</li>
-<li>{{c5::evaluation of alternatives}}</li>
-<li>{{c6::selection of the best alternative}}</li>
-</ol>"	
 "Question:<br />
 What are strategies for developing power?"	"<ul>
 <li>develop dependencies and interdependencies</li>
@@ -451,7 +353,6 @@ What creates power?"	"<ul>
 <li>control over scarce goods</li>
 <li>personal network</li>
 </ul>"
-{{c1::Authority}} is {{c2::the acceptance and expectation of an actor's use of power}}.	
 "Question:<br />
 What is power according to Dahl (1957)?"	A has power over B to the extent that he can get B to do something that B would not otherwise do.
 "Question:<br />
@@ -465,21 +366,6 @@ What does power consist of?"	"<ul>
 "true or false:<br />
 Power is exclusively tied to formal hierarchical positions."	"false:<br />
 Power can also arise from expertise, networks, control over resources, or reduction of uncertainty."
-{{c1::Power}} is {{c2::the influence and power over people to move them to do something they otherwise would not do without the power of the commanding actor}}.	
-{{c1::A Whistleblowing Game}} is {{c2::a political game in the form of a conflict that concerns whistleblowing and the intended change of politics and strategy}}.	
-{{c1::A Strategic Candidate Game}} is {{c2::a political game in the form of a conflict that concerns securing people for vacant positions}}.	
-{{c1::An Empire Building Game}} is {{c2::a political game in the form of a conflict that concerns building up and subordinating people}}.	
-{{c1::An Alliance Building Game}} is {{c2::a political game in the form of a conflict that concerns building and securing alliances}}.	
-{{c1::A Budgeting Game}} is {{c2::a political game in the form of a conflict that concerns the allocation of resources}}.	
-{{c1::An Insurgency Game}} is {{c2::a political game in the form of a conflict carried out by executing persons against ruling persons}}.	
-"<p>Types of political systems are:</p>
-<ul>
-<li>autocracy: {{c1::power is exercised by an individual or a small group}}</li>
-<li>bureaucracy: {{c2::power is exercised through rules, knowledge, and influence}}</li>
-<li>democracy: {{c3::power is shared among people}}</li>
-<li>technocracy: {{c4::power is exercised through knowledge and experience}}</li>
-</ul>"	
-{{c1::The dark side of an organization}} is {{c2::a non-public and hidden area}}.	
 "Example:<br />
 Typical organizational decisions with political character"	"<ul>
 <li>promotions</li>
@@ -502,52 +388,33 @@ What creates tensions in organizations?"	"<ul>
 </ul>"
 "true or false:<br />
 Tensions in companies arise from conflicts of interest based on an unequal distribution of power. These tensions in companies are resolved through corporate political measures."	true
-{{c1::A Smart Product}} is {{c2::a product that integrates a Smart Device and expands the possibilities of use through software and electronics}}.	
-{{c1::Value Chain Dispersion and Integration}} is {{c2::the coordination and integration of customers and business partners in the value chain through the Internet}}.	
 "true or false:<br />
 Value Chain Automation makes it possible to build and strengthen connections inside and outside an organization."	true
-{{c1::Value Chain Automation}} is {{c2::the automation of the value chain through the automated collection and processing of information by IT}}.	
-"<p>The stages of IT-driven competition are:</p>
-<ol>
-<li>1960 - 1980: {{c1::Value Chain Automation}}</li>
-<li>1980 - 2000: {{c2::Value Chain Dispersion and Integration}}</li>
-<li>Since 2000: {{c3::Smart Connected Products}}</li>
-</ol>"	
 "true or false:<br />
 According to Theory Y, people work because of money."	false
 "true or false:<br />
 According to Theory Y, people work because of interest and enjoyment."	true
-{{c1::Theory Y}} is {{c2::a theory of human behavior within X-Y Theory stating that people are influenced by intrinsic factors}}. According to {{c1::Theory Y}}, {{c2::people want to work and are motivated}}, which is why {{c3::they must be empowered and supported within the framework of empowerment}}.	
 "true or false:<br />
 According to Theory X, people work because of money."	true
 "true or false:<br />
 According to Theory X, people work because of interest and enjoyment."	false
-{{c1::Theory X}} is {{c2::a theory of human behavior within X-Y Theory stating that people are influenced by extrinsic factors}}. According to {{c1::Theory X}}, {{c2::people fundamentally avoid work and are not motivated}}, which is why {{c3::they must be directed and controlled}}.	
 "true or false:<br />
 Theory X and Theory Y are objective descriptions of human behavior."	"false:<br />
 They are fundamental management assumptions that can have self-fulfilling effects."
-{{c1::X-Y Theory}} is {{c2::a motivation theory stating that people see work as a reward or as a burden}}.	
-{{c1::Expectancy theory}} is {{c2::a motivation theory stating that motivation is linked to expectations about the ability to fulfill tasks and the associated reward}}.	
-"{{c1::Motivation theory}} is {{c2::a theory that employees become productive through motivation}}.<br />
-{{c1::{{c2::<img src=""2025-Bild-Schellhammer-Motivationstheory.png"" alt=""""><br />
-Motivation theory}}}}"	
 "Question:<br />
 How many people have no motivational connection to work and therefore fall under Quiet Quitting?"	approx. 72 %
 "true or false:<br />
 Quiet Quitting is the connection of work with no remaining relation to motivation."	true
-{{c1::The War for Talent}} is {{c2::a gap between the available number of people working and the necessary employees}} due to {{c3::a lack of people, skills, or talents}}.	
 "true or false:<br />
 There is a trade-off and tension between individual autonomy and control."	true
 "true or false:<br />
 Organizations are social spaces because they are shaped by collaboration, identity, motivation, symbols, and relationships of and between employees. People within an organization are not only motivated by money, but also by other elements."	true
-{{c1::Personnel acquisition}} is {{c2::personnel recruiting and personnel selection}}.	
 "true or false:<br />
 Leadership primarily means assertiveness and control."	"false:<br />
 Leadership means sensemaking, orientation under uncertainty, and responsible shaping of tensions."
 "true or false:<br />
 Leadership is primarily a question of formal authority and hierarchical position."	"false:<br />
 Postmodern leadership approaches emphasize that leadership can also arise without a formal position and is relational and emergent."
-{{c1::Leadership}} is {{c2::a property and behavior for activating people to stimulate energy, initiative, change, inspiration, or sensemaking}}.	
 "Question:<br />
 Why should management concern itself with organizational culture?"	Culture structures expectations regarding responsibility, authority, risk, communication, and collaboration and thereby influences the effectiveness of leadership, change, and coordination.
 "Question:<br />
@@ -573,10 +440,6 @@ According to the Market Abuse Regulation, cybersecurity incidents must be disclo
 "true or false:<br />
 Within the framework of statutory reporting obligations, data breaches under the General Data Protection Regulation must be reported within 36 hours."	"false:<br />
 They must be reported within 72 hours."
-{{c1::An economic lock-in effect}} is {{c2::a lock-in effect that arises due to satisfaction or financial advantages with products or services}}.	
-{{c1::A brand lock-in effect}} is {{c2::a lock-in effect that arises due to trust, brand preference, or attachment to a brand}}.	
-{{c1::A technical lock-in effect}} is {{c2::a lock-in effect that arises through products or services that are compatible only with certain systems}}.	
-{{c1::A contractual lock-in effect}} is {{c2::a lock-in effect that arises through a contractual commitment}}.	
 "Question:<br />
 What are factors for maintaining the differentiation strategy?"	"<ul>
 <li>creation of ecosystems</li>
@@ -594,21 +457,12 @@ What are factors for maintaining the price leader strategy?"	"<ul>
 </ul>"
 "Question:<br />
 What is a focus strategy according to Scholes et al. (2014)?"	A focus strategy targets a narrow segment and tailors its products or services to the needs of that specific segment to the exclusion of others.
-{{c1::A focus strategy}} is {{c2::a strategy that aims to focus on a market or niche market in order to satisfy specific needs}}.	
 "Question:<br />
 What is a differentiation strategy according to Scholes et al. (2014)?"	Differentation involves uniqueness along some dimension that is sufficiently valued by customers to allow a price premium.
 "true or false:<br />
 The differentiation strategy leads on average to the highest price and highest profit."	true
-{{c1::A differentiation strategy}} is {{c2::a strategy that aims to differentiate products or services through a unique or superior USP in order to achieve a higher price}}.	
 "Question:<br />
 What does the VRIO framework describe in the context of the resource-based view?"	It evaluates resources according to whether they are valuable, rare, difficult to imitate, and organizationally embedded in order to explain sustainable competitive advantages.
-"<p>{{c1::The VRIO Framework}} is {{c2::a framework of the resource-based view according to which resources must have the following characteristics}}:</p>
-<ul>
-<li>{{c3::unique (rare)}}</li>
-<li>{{c3::non-imitable (inimitable)}}</li>
-<li>{{c3::organizational support}}</li>
-<li>{{c3::valuable}}</li>
-</ul>"	
 "Question:<br />
 How is operational effectiveness implemented?"	Operational effectiveness is achieved by implementing best practices within the value chain and by using current technologies.
 "true or false:<br />
@@ -616,20 +470,14 @@ Through operational effectiveness, price leadership or a price premium can be pu
 "true or false:<br />
 Operational effectiveness can lead to a sustainable competitive advantage through best practices alone."	"false:<br />
 Best practices can be imitated; sustainable advantages arise only through strategic positioning and trade-offs."
-{{c1::Operational effectiveness}} is {{c2::the performance of activities that an organization carries out better than its competitors in order to obtain a competitive advantage}}.	
 "true or false:<br />
 Through strategic positioning, competitors can be defended against, one's own positioning can be improved, and market dynamics can be anticipated."	true
 "true or false:<br />
 Strategic positioning consists at its core of trade-offs, that is, the set of activities that is not performed."	true
-{{c1::Strategic positioning}} is {{c2::the unique performance of activities that distinguishes an organization from its competitors}}. Through {{c1::strategic positioning}}, {{c3::quality leadership}} can be pursued.	
-"{{c1::Competitive advantages}} arise through {{c2::the connection between a unique value proposition, alignment with a specific market, related and complementary products and services, and network externalities}}.<br />
-{{c1::{{c2::<img src=""2022-Bild-Stockhinger-Kompetitive_Vorteile.png"" alt=""""><br />
-New ways to develop competitive advantages}}}}"	
 "true or false:<br />
 The implementation of a strategy takes place over time and is subject to continuous change."	"true<br />
 <img src=""2025-Bild-Schellhammer-Umsetzung_einer_Strategie.png"" alt=""""><br />
 Implementation of a strategy"
-{{c1::The Corporate Sustainability Due Diligence Directive (CSDDD)}} is {{c2::a sustainability reporting framework for identifying and avoiding potential and actual negative impacts on the environment and society from a company's value-creation activities}}.	
 "true or false:<br />
 Creating Shared Value influences innovation, global growth, and the welfare of a society."	true
 "true or false:<br />
@@ -642,28 +490,18 @@ How does Creating Shared Value arise?"	"<ul>
 </ul>"
 "Question:<br />
 What is a competitive strategy according to Porter (1996)?"	Competitive strategy is about being different. […] It means deliberately choosing a different set of activities to deliver a unique mix of value.
-{{c1::A competitive strategy}} is {{c2::a strategy through which an organization is more effective than competitors through positioning, capabilities, and resources}}.	
-{{c1::Agility}} is {{c2::an organizational form in which cross-functional, self-organizing teams work iteratively and adaptively on complex problems}}.	
 "true or false:<br />
 Lead links partly resemble a traditional leadership position, but they are subject to the shared governance rules of their circle."	true
-{{c1::A Lead Link}} is {{c2::a role responsible for assigning other roles and allocating resources}}.	
 "true or false:<br />
 Employees in a cabal spontaneously join the teams whose work they consider meaningful."	true
-{{c1::A cabal}} is {{c2::a multidisciplinary project team that forms spontaneously to pursue an important goal}}.	
-{{c1::A circle in Holacracy}} is {{c2::a group of roles that jointly work toward a specific goal or purpose}}. {{c1::Circles}} can form or dissolve again depending on the needs of the organization.	
-"{{c1::A Teal Organization}} is {{c2::an organizational form in which employees organize and steer themselves in order to jointly form an organic, dynamic system with purpose}}.<br />
-In {{c1::a Teal Organization}}, decisions are made {{c3::decentrally, incrementally, and bottom-up}}."	
 "Question:<br />
 What are challenges of self-organization?"	"<ul>
 <li>Payment and compensation of work: different roles and responsibilities that an employee can perform make comparison between them more difficult</li>
 <li>more difficult recruitment of personnel</li>
 <li>On-Product Work: work is fragmented through responsibilities and self-organization</li>
 </ul>"
-{{c1::A Colleague Letter of Understanding (CLOU)}} is {{c2::a formal understanding of activities, goals, and metrics written by employees}}.	
 "true or false:<br />
 Podularity originates from agile software development."	true
-{{c1::Podularity}} is {{c2::an organizational form for self-organization in which pods create and fulfill specific tasks in small increments with minimal planning effort}}.	
-{{c1::Holacracy}} is {{c2::an organizational form of self-organization in which authority and decision-making powers are distributed across circles}}. Governance in {{c1::Holacracy}} is regulated by {{c3::a defined constitution}} that {{c3::precisely describes roles, decision-making processes, and responsibilities}}.	
 "true or false:<br />
 In self-organized organizations, hierarchy no longer exists."	"false:<br />
 Hierarchy continues to exist, but it is defined through roles rather than fixed persons."
@@ -676,14 +514,6 @@ Self-organized organizations usually also have clearly demarcated higher-level a
 "true or false:<br />
 An overemphasis on exploitation can lead to a failure trap."	"false:<br />
 An overemphasis on exploitation can lead to a competency trap; failure traps arise from an overemphasis on exploration."
-{{c1::A failure trap}} is {{c2::a challenge in excessive exploration that leads to increased risk and the neglect of core competencies}}.	
-{{c1::A competency trap}} is {{c2::a challenge in excessive exploitation that leads to stagnation and creates difficulties when markets change or technologies shift}}.	
-"<p>{{c1::Digital innovation}} is driven by {{c2::generativity}}, which requires the following characteristics:</p>
-<ul>
-<li>{{c3::homogeneity of data}}</li>
-<li>{{c3::programmability and modifiability}}</li>
-<li>{{c3::self-referential and cumulative, usually in layers, processes, products, and services}}</li>
-</ul>"	
 "true or false:<br />
 Standardization provides the foundation for innovation, which can improve existing standardization. Nevertheless, standardization and innovation are in a goal conflict."	true
 "Question:<br />
@@ -712,10 +542,6 @@ What are disadvantages of a matrix structure?"	"<ul>
 "true or false:<br />
 In the matrix structure, responsibilities can always be assigned unambiguously."	"false:<br />
 Responsibility and accountability are often diffuse and difficult to control."
-"{{c1::The matrix structure}} is {{c2::an organizational form that combines functional structure and divisional structures}}. Employees in {{c1::the matrix structure}} are {{c3::simultaneously subordinate to a functional manager and a project or product manager}}.<br />
-{{c1::{{c2::{{c3::<img src=""2025-Bild-Schellhamer-Matrixstruktur.png"" alt=""""><br />
-Matrix structure}}}}}}"	
-{{c1::The chain of command}} is {{c2::a continuous line of authority from the highest to the lowest level of an organization}}. {{c1::The chain of command}} specifies {{c3::who reports to whom and thereby defines duties and responsibilities}}.	
 "Question:<br />
 What are disadvantages of a divisional structure?"	"<ul>
 <li>information barriers between divisions</li>
@@ -737,9 +563,6 @@ The subdivision of divisional structures usually takes place according to produc
 "true or false:<br />
 The divisional structure groups tasks according to inputs and competencies."	"false:<br />
 Divisional structures group according to outputs such as products, markets, or regions."
-"{{c1::A divisional structure}} is {{c2::an organizational form in which the company is divided into largely autonomous so-called divisions}}. {{c1::Each division}} has {{c3::its own resources and functions}}, which allows {{c4::decisions to be made closer to the market}}.<br />
-{{c1::{{c2::{{c3::{{c4::<img src=""2025-Bild-Schellhammer-Divisionale_Struktur.png"" alt=""""><br />
-Divisional structure}}}}}}}}"	
 "Example:<br />
 Boundary Spanner"	"<ul>
 <li>horizontally cross-cutting organizational units</li>
@@ -758,7 +581,6 @@ Boundary spanners complement existing structures by bridging informational and i
 "true or false:<br />
 Boundary spanners are necessary primarily in small, homogeneous organizations."	"false:<br />
 Boundary spanners are especially important in large, differentiated organizations with communication and coordination problems."
-{{c1::A boundary spanner}} is {{c2::a person who works between two or more organizational units and acts as a bridge between them}}.	
 "Question:<br />
 What are disadvantages of a functional structure?"	"<ul>
 <li>low adaptability in cross-departmental tasks</li>
@@ -778,42 +600,25 @@ An informal structure influences information flows, collaboration, and decision-
 "true or false:<br />
 An informal structure is permanently suitable for growing organizations."	"false:<br />
 Informal structures are helpful in early phases, but during growth they lead to ambiguity, inefficiency, and coordination problems."
-{{c1::An informal structure}} is {{c2::an unofficial organizational structure that is not formally defined. It emerges spontaneously through personal contacts, social interactions, and mutual trust}}.	
-{{c1::Formalization in management}} is {{c2::the degree to which workflows, tasks, and behaviors are defined and standardized through rules, procedures, and standards}}.	
-{{c1::Decentralization in management}} is {{c2::the degree to which decision-making authority is transferred to lower levels of the organization}}.	
-{{c1::Centralization in management}} is {{c2::the degree to which decision-making authority is concentrated in central units}}.	
 "true or false:<br />
 Departmentalization is the grouping and integration of tasks and people into departments and into the organization."	true
 "true or false:<br />
 Bimodal IT is often understood as a state of transition in which Mode 1 IT and Mode 2 IT are reintegrated into a shared agile department. This allows knowledge to be shared and ambidexterity to be increased."	true
-{{c1::IT agility}} is {{c2::the ability of IT to recognize innovation opportunities and to use them quickly and effectively}}.	
 "Question:<br />
 What are reasons for Bimodal IT?"	"<ul>
 <li>need for IT agility to reduce cycle time</li>
 <li>growing internal and external pressure for innovation</li>
 </ul>"
-{{c1::A digital lab}} is {{c2::an environment in which employees can focus on entrepreneurship and innovation}}.	
 "true or false:<br />
 An organizational chart serves to orient internal and external stakeholders with respect to tasks, responsibilities, and areas."	true
 "true or false:<br />
 Organizational design concerns only formal organization charts."	"false:<br />
 Organizational design also includes decision rights, coordination mechanisms, control systems, and role distributions."
-{{c1::Organizational design}} is {{c2::the process of structuring an organization into an organizational structure}}.	
-"<p>Organizational design consists of:</p>
-<ul>
-<li>{{c1::work specialization}}</li>
-<li>{{c1::chain of command}}</li>
-<li>{{c1::departmentalization}}</li>
-<li>{{c1::formalization}}</li>
-<li>{{c1::span of control}}</li>
-<li>{{c1::centralization and decentralization}}</li>
-</ul>"	
 "Question:<br />
 What is adhocracy according to Lunding et al. (2015)?"	The projectification of business and working life is ongoing and strong. […] Not only do people relate to projects and to project organizing in their working lifes, but they even speak and think of their daily activities in project terms.
 "true or false:<br />
 Adhocracy is especially suitable for stable, highly standardized environments."	"false:<br />
 Adhocracy is suitable for dynamic, knowledge-intensive, and innovation-driven environments."
-{{c1::An adhocracy}} is {{c2::an organizational form in which temporary structures are formed for a specific goal}}. In {{c1::adhocracy}}, this creates fluid relationships.	
 "Question:<br />
 What view of human beings underlies classical organization theories?"	People are understood as rational-economic, interchangeable parts of a production system.
 "true or false:<br />
@@ -821,7 +626,6 @@ Classical organization theories assume that organizations should primarily satis
 Classical organization theories understand organizations primarily as instruments for efficiently achieving goals and production."
 "true or false:<br />
 Coordination in classical organization theory takes place top-down."	true
-{{c1::Classical organization theory}} is {{c2::a theory about organizations according to which, following Scientific Management, there is one best universal approach through which production can be maximized}}.	
 "Question:<br />
 What are three central characteristics of bureaucratic organizations?"	"<ul>
 <li>formalized rules</li>
@@ -831,7 +635,6 @@ What are three central characteristics of bureaucratic organizations?"	"<ul>
 "true or false:<br />
 Bureaucratic rules generally promote innovation."	"false:<br />
 Rules increase efficiency and predictability, but they can limit adaptation and innovation."
-{{c1::Bureaucracy}} refers to {{c2::all organizational functions and organizational forms that have standardized and formal rules}}.	
 "Question:<br />
 What is the central principle of Scientific Management?"	The separation of planning (management) and execution (workers) on the basis of scientifically defined work standards.
 "Question:<br />
@@ -841,14 +644,6 @@ What is Scientific Management according to Wren, Bedeian (2009)?"	"<blockquote>
 "true or false:<br />
 Scientific Management according to Taylor assumes that workers are fundamentally intrinsically motivated."	"false:<br />
 Taylor assumed a natural tendency to avoid performance (soldiering) and relied on control and incentive systems."
-{{c1::Scientific Management}} is {{c2::a structured approach to the management of people and machines based on data}}. {{c1::Scientific Management}} separates planning and execution.	
-"<p>Scientific Management consists of:</p>
-<ol>
-<li>{{c1::development of a methodological approach}}</li>
-<li>{{c1::methodical selection and training of employees}}</li>
-<li>{{c1::connecting method and employees}}</li>
-<li>{{c1::specialization and cooperation between management and the work to be performed}}</li>
-</ol>"	
 "Question:<br />
 Why is it difficult for organizations to pursue standardization and innovation at the same time?"	Because standardization reduces variance, minimizes risks, and optimizes existing capabilities, whereas innovation increases variance, takes risks, and challenges existing capabilities.
 "true or false:<br />
@@ -859,16 +654,10 @@ Standardization and innovation pursue identical cultural and organizational goal
 Standardization focuses on efficiency, risk minimization, and stability, whereas innovation is oriented toward adaptability, growth, and risk readiness."
 "true or false:<br />
 There is a goal conflict and tension between control and efficiency as well as adaptivity and innovation."	true
-{{c1::An entrepreneurial start-up plan}} is {{c2::a plan for entrepreneurship}}.	
-{{c1::Intrapreneurship}} is {{c2::entrepreneurship within an existing organization in order to develop new products, services, or business fields and to drive innovation from within}}.	
-{{c1::Classical entrepreneurship}} is {{c2::entrepreneurship with new ideas, products, or technologies}}.	
-{{c1::Serial entrepreneurship}} is {{c2::entrepreneurship in which multiple organizations are founded while leadership is handed over in the long term}}.	
-{{c1::Monopreneurship}} is {{c2::entrepreneurship in which one organization is founded and managed over the long term}}.	
 "Example:<br />
 Micropreneurship"	"<ul>
 <li>microbreweries</li>
 </ul>"
-{{c1::Micropreneurship}} is {{c2::entrepreneurship aimed at creating a small and viable organization without the intention of growing it}}.	
 "Example:<br />
 growth-oriented entrepreneurship"	"<ul>
 <li>Google</li>
@@ -876,35 +665,8 @@ growth-oriented entrepreneurship"	"<ul>
 <li>Tesla</li>
 <li>Uber</li>
 </ul>"
-{{c1::Growth-oriented entrepreneurship}} is {{c2::entrepreneurship aimed at growing an organization and achieving significant influence in the industry or society}}.	
-"<p>Reasons for entrepreneurship are:</p>
-<ul>
-<li>{{c1::autonomy and self-determination}}</li>
-<li>{{c1::financial motivation}}</li>
-<li>{{c1::meaning and impact}}</li>
-</ul>"	
-{{c1::An entrepreneur}} is {{c2::a person who develops new or improved products or services and takes the initiative to turn this idea into reality through planning and the use of the required resources}}.	
 "Question:<br />
 What is criticism of the financial bottom line?"	Criticism of the financial bottom line is especially the lack of consideration of potential externalities that can influence value as capital. Potentially, an attempted increase in value in the form of capital can therefore even lead to negative welfare.
-The financial bottom line follows utilitarianism because {{c1::in the financial bottom line, an attempt is made to maximize value as capital}}.	
-"<p>Functions of management are:</p>
-<ol>
-<li>{{c1::planning}}</li>
-<li>{{c1::organizing}}</li>
-<li>{{c1::leadership}}</li>
-<li>{{c1::control}}</li>
-</ol>"	
-"<p>Roles of managers are:</p>
-<ul>
-<li>{{c1::decision-maker}}: {{c1::entrepreneur, resource allocation, negotiator}}</li>
-<li>{{c2::informant}}: {{c2::monitoring, spokesperson, disseminator}}</li>
-<li>{{c3::contact person}}: {{c3::leader, liaison, role model}}<br />
-{{c1::{{c2::{{c3::<img src=""2025-Bild-Dyck-Caza-Aure-Leaman-Marcus-Jimenez-Management-Funktionen_und_Rollen_von_Managern.png"" alt=""""><br />
-Functions of management and roles of managers}}}}}}</li>
-</ul>"	
-{{c1::A B Corp}} is {{c2::a company that can demonstrate, through independent certification, high standards in the areas of social and environmental performance, transparency, and accountability}}.	
-{{c1::Social and Ecological Thought Management (SET)}} is {{c2::management for achieving sustainable profit while reducing negative externalities and creating positive externalities}}.	
-{{c1::Triple Bottom Line Management}} is {{c2::the management of the triple bottom line to promote financial impacts and reduce socio-ecological externalities}}.	
 "Question:<br />
 Reasons for responsible behavior are relationships with stakeholders and the reduction of tensions within those relationships, moral motives, and economic motives."	true
 "Question:<br />
@@ -919,13 +681,10 @@ The basis of the financial bottom line is that every maximization of economic va
 "true or false:<br />
 According to financial-bottom-line logic, profit maximization automatically maximizes social welfare."	"true:<br />
 This applies under the assumption of functioning market rules and absent or correctly internalized externalities."
-{{c1::The financial bottom line}} is {{c2::a concept according to which an organization must maximize its financial value and should therefore be measured only by its economic impact}}.	
 "true or false:<br />
 The result of a market economy depends on the rules of the market, not on the motives of the results."	true
 "true or false:<br />
 Traditional ethics fails because of technosocial opacity due to the speed of technological developments. Since clear rules and predictable consequences are lacking, moral action must be based on character formation and technomoral virtues."	true
-{{c1::Technosocial opacity}} is {{c2::the difficulty of recognizing and understanding how complex technologies influence social outcomes and ethical consequences}}.	
-{{c1::Legitimacy}} is {{c2::the assumed acceptance and validity of an action}}.	
 "Question:<br />
 How does Corporate Social Responsibility reduce risk?"	Corporate Social Responsibility reduces both direct risks (e.g., through environmental programs) and indirect risks through trusting stakeholder relationships and improved early-warning systems.
 "true or false:<br />
@@ -938,25 +697,15 @@ Why are Global Reporting Initiative standards considered a central instrument of
 "true or false:  <br />
 The Global Reporting Initiative is a law and not a voluntary initiative."	"false:  <br />
 The GRI is a voluntary reporting framework that provides standards for sustainability reporting, but is not itself a legal regulation."
-{{c1::The Global Reporting Initiative}} is {{c2::a reporting framework for standards related to sustainability reporting}}.	
 "true or false:  <br />
 The Corporate Sustainability Reporting Directive applies only to large companies with more than 500 employees."	"false:  <br />
 The CSRD also applies to medium-sized companies because it expands the scope of the previous Non-Financial Reporting Directive."
-{{c1::The Corporate Sustainability Reporting Directive (CSRD)}} is {{c2::an EU law on the mandatory submission of a sustainability report}}. {{c1::The CSRD}} includes the impacts of a company on {{c3::the environment}}, {{c3::climate change}}, {{c3::society}}, and {{c3::sustainability governance}}. Conversely, {{c1::the CSRD}} also includes {{c4::the impacts of the environment on the company}}.	
 "Question:<br />
 How can AI be used for sustainable reporting?"	AI can be used to predefine specific reporting requirements. This saves time before and during interaction with different stakeholders.
 "true or false:<br />
 Due to a lack of standards for sustainability reports, many of these reports are inconsistent."	true
-{{c1::A sustainability report}} is {{c2::a non-financial, transparent report on ESG performance for shareholders}}. Through {{c1::a sustainability report}}, an understanding of {{c3::the impacts of business activities on the environment and society}} can be created.	
 "Question:<br />
 What is social entrepreneurship according to Saebi et al. (2019)?"	It’s the dual mission of the social enterprise, or as an entrepreneurial process or activity that creates social value.
-{{c1::Social entrepreneurship}} is {{c2::entrepreneurial thinking and action for the benefit of society}}. The success of {{c1::social entrepreneurship}} is not evaluated solely on the basis of financial profits, but rather on the basis of {{c3::social benefit}}.	
-"<p>Characteristics of self-organization are:</p>
-<ul>
-<li>{{c1::contextual leadership}}: {{c2::leadership is carried out through multiple roles, not by specific persons}}</li>
-<li>{{c1::teams design and manage themselves}}: {{c3::teams are nested within one another and organize themselves within them}}</li>
-<li>{{c1::teams are the structures}}: {{c4::teams are the central building blocks of organizations in which roles, responsibilities, and roles are defined}}</li>
-</ul>"	
 "Question:<br />
 What is the central idea of the triple bottom line?"	Entrepreneurial success should be evaluated and managed simultaneously along economic, social, and ecological dimensions.
 "true or false:<br />
@@ -964,9 +713,6 @@ In the triple bottom line, business cases are formed that connect financial as w
 "true or false:<br />
 Economic sustainability is the most important dimension for the success of digital transformation."	"false:<br />
 Not only economic sustainability, but an evaluation along the triple bottom line (economic, social, ecological) is necessary."
-{{c1::The triple bottom line}} is {{c2::a concept according to which organizations should be measured not only by economic impact, but also by social impact and ecological impact}}. Within {{c1::the triple bottom line}}, {{c3::socio-ecological externalities}} should be reduced	
-Within the framework of {{c1::the triple bottom line}}, organizations must integrate {{c2::CO2 neutrality}}, {{c2::the protection of biodiversity}}, and {{c2::principles of the circular economy}} into their business model.	
-{{c1::An interest}} is {{c2::a predisposition toward a goal, value, need, expectation, or another intention}}.	
 "Example:<br />
 Symbol"	"<ul>
 <li>logos</li>
@@ -974,39 +720,14 @@ Symbol"	"<ul>
 <li>metaphors</li>
 <li>rituals</li>
 </ul>"
-{{c1::A symbol}} is {{c2::a representation of a conscious association or subconscious association that gives an element a further and more abstract meaning}}.	
-{{c1::The IoT (Internet of Things)}} is {{c2::a network of smart connected products that can digitally capture the physical world through sensors and transfer impulses into the physical world via actuators}}.	
 "true or false:<br />
 A smart device is a device that can collect data about users and their environment."	true
-{{c1::A smart device}} is {{c2::a device that can extend its physical properties through specific capabilities and act as an artificial actor}}.	
 "Question:<br />
 What is the goal of Human Resource Management?"	The acquisition, development, retention, and responsible deployment of employees to achieve organizational goals.
-{{c1::Human Resource Management (HRM)}} is {{c2::the process and management of personnel recruitment, personnel development, and employee retention}}.	
-{{c1::Interpretation (interpretability) in logic}} is {{c2::the understanding of the relationships between input and output}}.	
-{{c1::A conflict}} is {{c2::the manifestation of different interests that stand in tension with one another}}.	
 "Example:<br />
 Franchising"	"<ul>
 <li>McDonald's</li>
 </ul>"
-{{c1::Franchising}} is {{c2::a business model in which a franchisor offers a franchisee a complete package for founding a company, including brand, services, and technologies}}.	
-{{c1::Management}} is {{c2::the allocation and use of human labor, material resources, information, and other resources for goal-oriented steering}} toward {{c3::an organizational goal}}.	
-"<p>Management consists of:</p>
-<ul>
-<li>{{c1::deciding}}</li>
-<li>{{c1::controlling}}</li>
-<li>{{c1::developing and supporting people}}</li>
-<li>{{c1::organizing}}</li>
-<li>{{c1::planning}}</li>
-<li>{{c1::setting goals and visions}}</li>
-</ul>"	
-{{c1::Standardization}} is {{c2::consensus-building with all relevant stakeholders for formulation in a concrete, technically usable way}}.	
-"<p>Characteristics of standardization are:</p>
-<ul>
-<li>{{c1::building on existing corporate structures}}</li>
-<li>{{c1::costs and profit}}</li>
-<li>{{c1::operational efficiency}}</li>
-<li>{{c1::risk-averse}}</li>
-</ul>"	
 "Question:<br />
 How does organizational culture influence the effectiveness of formal structures?"	Culture shapes how rules are interpreted, roles are filled, and decision-making authority is actually exercised.
 "true or false:<br />
@@ -1017,13 +738,10 @@ Organizations must adapt their structures over time to growth, technology, marke
 "true or false:<br />
 Organizational structures are value-neutral and independent of culture."	"false:<br />
 Organizational structures are culturally embedded and reflect assumptions, values, and power relations."
-{{c1::An organizational structure}} is {{c2::the formal structure of people and tasks in an organization}}.	
 "Question:<br />
 What is a corporate culture according to Bain?"	Company culture is at the heart of competitive advantage, because it determines how things are done and how people behave; it is the hardest thing for competitors to copy. High performers create an environment with a unique personality and soul, and with a passion for performances - so that people make the right decisions and do the right thing wherever they are in the business.
-{{c1::A corporate culture}} is {{c2::a culture created by management on the basis of power}}.	
 "Question:<br />
 What is the criticism of existing Information Systems research on digital transformation in relation to sustainability?"	That it focuses too strongly on economic sustainability and neglects social and ecological sustainability, even though these are crucial for a holistic transformation.
-{{c1::Digital transformation}} is {{c2::the use of new digital technologies to enable substantial organizational improvements}}.	
 "Example:<br />
 Artifact (culture)"	"<ul>
 <li>gestures</li>
@@ -1032,13 +750,8 @@ Artifact (culture)"	"<ul>
 <li>language</li>
 <li>ceremonies</li>
 </ul>"
-{{c1::An artifact in culture}} is {{c2::a manifest and observable expression of a culture that is based on values and assumptions}}.	
 "Question:<br />
 What is politics according to Morgan (1997)?"	[…] politics provides a means of creating order out of diversity while avoiding forms of totalitarian rule.
-{{c1::Politics}} is {{c2::the bringing together of conflicting interests to achieve a higher goal}}.	
-{{c1::A product}} is {{c2::a physical or any other material composition that can be used economically}}.	
-{{c1::Control}} is {{c2::ensuring the alignment of actions and results with the planned goals, values, and standards of an organization}}. {{c1::Control}} includes both {{c3::detecting and correcting deviations}} and {{c3::reinforcing positive performance}}.	
-{{c1::Leadership}} is {{c2::influencing, motivating, and guiding employees so that their actions are aligned with organizational goals}}.	
 "Question:<br />
 What is an organization according to Mintzberg (1983)?"	Organizations are arbitrary focusses of interests, marketplaces whose structures and processes are the outcomes of the complex accommodations made by actors exchanging a variety of incentives and pursuing a diversity of goals.
 "true or false:<br />
@@ -1046,16 +759,6 @@ An organization normally offers specific outputs in the form of products or serv
 "true or false:<br />
 Organizations are primarily rational systems in which decisions are made objectively along shared goals."	"false:<br />
 Organizations are pluralistic systems with divergent interests in which decisions often arise through power, negotiation, and politics."
-{{c1::An organization}} is {{c2::an open sociotechnical system for forming organizational structures and achieving goals}}.	
-"<p>Organizations consist of:</p>
-<ul>
-<li>{{c1::division of labor}}</li>
-<li>{{c1::their own identity and organizational culture}}</li>
-<li>{{c1::formal rules and informal rules}}</li>
-<li>{{c1::hierarchies as well as superordination and subordination relationships}}</li>
-<li>{{c1::coordination of relationships}}</li>
-<li>{{c1::responsibilities and accountabilities}}</li>
-</ul>"	
 "Question:<br />
 What distinguishes individualistic from collectivistic cultures?"	Individualistic cultures emphasize personal responsibility and direct communication; collectivistic cultures prioritize group harmony, relationships, and context.
 "true or false:<br />
@@ -1063,7 +766,6 @@ Individualism as a cultural factor means that teamwork hardly functions in such 
 Individualistic cultures work effectively in teams, but emphasize personal responsibility and individual contributions."
 "true or false:<br />
 Cultures with low individualism are China and Mexico. Cultures with high individualism are the USA and Canada."	true
-{{c1::Individualism}} is a {{c2::cultural factor that describes how strongly people in a culture are embedded in a collective}}.	
 "Example:<br />
 Assumption"	"<ul>
 <li>basic attitude toward reality</li>
@@ -1072,45 +774,24 @@ Assumption"	"<ul>
 </ul>"
 "true or false:<br />
 Assumptions are formed as a reaction to problems from the external environment."	true
-{{c1::An assumption}} is {{c2::a fundamentally subconscious and self-evident statement}} about {{c2::an environment}}.	
-{{c1::An assumption}} presupposes {{c2::a causal relationship}} within a system.	
 "Question:<br />
 What is the long-term goal of Reintegrated Bimodal IT?"	The integration of both IT modes into an apparently unified IT function with high agility and innovation capability while maintaining stability in the background.
-"{{c1::A Reintegrated Bimodal IT}} is a Bimodal IT that {{c2::carries out its projects in Digital IT and uses Traditional IT as the backend}}.<br />
-{{c1::{{c2::<img src=""2023-Bild-Stockhinger-Bimodal_IT.png"" alt=""""><br />
-Types of Bimodal IT}}}}"	
 "Question:<br />
 When is a Subdivisional Bimodal IT especially suitable?"	When organizations need both stability and innovation and both modes are to be coordinated under shared IT leadership.
-"{{c1::A Subdivisional Bimodal IT}} is a Bimodal IT that {{c2::brings Traditional IT and Digital IT together in one department}}.<br />
-{{c1::{{c2::<img src=""2023-Bild-Stockhinger-Bimodal_IT.png"" alt=""""><br />
-Types of Bimodal IT}}}}"	
 "true or false:<br />
 Divisionally Separated Bimodal IT causes the least organizational disruption."	"false:<br />
 It causes the highest organizational disruption because a separate digital unit is built outside traditional IT."
-"{{c1::A Divisionally Separated Bimodal IT}} is a Bimodal IT that {{c2::divides Traditional IT and Digital IT into separate divisions}}.<br />
-{{c1::{{c2::<img src=""2023-Bild-Stockhinger-Bimodal_IT.png"" alt=""""><br />
-Types of Bimodal IT}}}}"	
 "true or false:<br />
 A Project-By-Project Bimodal IT is good for companies that react sluggishly to changes."	true
 "Question:<br />
 What is the goal of Project-by-Project Bimodal IT?"	To implement innovative projects selectively in an agile way while other projects continue to follow traditional governance structures.
-"{{c1::A Project-By-Project Bimodal IT}} is a Bimodal IT that {{c2::divides Traditional IT and Digital IT into projects}}.<br />
-{{c1::{{c2::<img src=""2023-Bild-Stockhinger-Bimodal_IT.png"" alt=""""><br />
-Types of Bimodal IT}}}}"	
 "true or false:<br />
 Bimodal IT is introduced primarily to reduce IT costs."	"false:<br />
 Bimodal IT is introduced to enable both stability and innovation capability in IT."
-"{{c1::A Bimodal IT}} is {{c2::the establishment of a digital IT in parallel to an existing traditional IT}} in order to {{c3::enable innovation}}.<br />
-{{c1::{{c2::{{c3::<img src=""2023-Bild-Stockhinger-Bimodal_IT.png"" alt=""""><br />
-Types of Bimodal IT}}}}}}"	
 "true or false:<br />
 Traditional IT is developed through typical waterfall approaches in order to reduce risks."	true
-"{{c1::A Traditional IT (Core IT, Industrial IT, Mode 1 IT)}} is an IT that focuses on {{c2::performance}}, {{c2::security}}, and {{c2::stability}}.<br />
-{{c1::A Traditional IT}} is used for {{c3::IT-centered services}}."	
 "Question:<br />
 For an investment, either a profit or a loss can occur. Is this a certain expectation, expectation with risk, or expectation with uncertainty?"	Expectation with uncertainty
-{{c1::Uncertainty}} is {{c2::an information situation in which no information about a set of states is known}}. Therefore, it is not clear which state will occur.	
-{{c1::The values of a culture}} are {{c2::fundamental and ethical attitudes, expectations, principles, goals, and standards of a culture}}.	
 "Question:<br />
 What is culture according to Louis (1985)?"	a set of understandings or meanings shared by a group of people. The meanings are largely tacit among members, are clearly relevant to the particular group, and are distinctive to the group. Meanings are passed on to new group members […] [culture’s content is] the totality of socially transmitted behavior patterns, a style of social and artistic expression, a set of common understandings.
 "Question:<br />
@@ -1123,7 +804,6 @@ Culture influences performance indirectly through coordination, motivation, deci
 "true or false:<br />
 Culture is directly observable and objectively measurable."	"false:<br />
 Culture is a theoretical construct that is not directly observable, but is inferred from behaviors, symbols, and statements."
-{{c1::Culture}} is {{c2::a construct concerning the set of behaviors, artifacts, values, norms, assumptions, knowledge, and goals of a society}}.	
 "Example:<br />
 price leader strategy"	"<ul>
 <li>one-euro stores</li>
@@ -1143,24 +823,8 @@ A price leader strategy requires a high degree of efficiency on the demand side 
 Temporally stable and economic price leadership generally requires either elements of a cost-based price leader strategy or elements of an evaluation-oriented price leader strategy. Elements of both strategies are not combined."	false
 "true or false:<br />
 To realize a price leader strategy, exploiting experience curve effects can be dispensed with."	false
-{{c1::A price leader strategy (price-based competitive advantage, price leadership)}} is {{c2::a competitive advantage dimension that achieves a competitive advantage through a cost-based price leader strategy and an evaluation-oriented price leader strategy}}.	
 "true or false:<br />
 A competitive advantage is difficult to imitate because it consists of a system of activities."	true
-{{c1::A competitive advantage}} is {{c2::an advantage that arises through the development of a USP from core activities and capabilities}}. {{c1::A competitive advantage}} arises through {{c2::operational effectiveness and strategic positioning}}.	
-{{c1::An operational organization}} is the structuring of a company into {{c2::organizational subunits}} that are classified according to {{c3::the sequence of business operations}}.	
-{{c1::A structural organization}} is the structuring of a company into {{c2::organizational subunits}} that are classified according to {{c3::the tasks and competencies of the individual subunits}}.	
-In {{c1::the structural organization}}, a distinction is made between {{c2::management positions}} and {{c2::execution positions}}.	
-{{c1::Planning}} consists of {{c2::all measures and considerations}} that make it possible to find, from {{c2::a number of alternatives for solving a problem, the alternative that is more favorable with respect to a goal}}.	
-{{c1::Planning}} is carried out {{c2::through scenario techniques}} with corresponding definitions and probabilities of occurrence.	
-"<p>Planning consists of:</p>
-<ul>
-<li>{{c1::coordination of activities}}</li>
-<li>{{c1::definition of strategies and goals}}</li>
-<li>{{c1::setting priorities}}</li>
-<li>{{c1::making decisions}}</li>
-</ul>"	
-"Planning is usually a process of several steps:<br />
-{{c1::goal formation}} -&gt; {{c2::problem analysis}} -&gt; {{c3::search for and evaluation of alternatives (iterative)}} -&gt; {{c4::decision}} -&gt; {{c5::realization}} -&gt; {{c6::control}}"	
 "Question:<br />
 What does projectification of work mean?"	That work is increasingly organized in temporary projects and is also mentally understood as a project.
 "Example:<br />
@@ -1170,18 +834,6 @@ Externality"	"<ul>
 <li>greenhouse gas: negative externality</li>
 <li>cigarette smoke: negative externality</li>
 </ul>"
-"{{c1::An externality}} is {{c2::costs or benefits}} of {{c2::the decisions of one party}} that influence {{c2::the welfare}} of {{c2::uninvolved third parties}}.<br />
-{{c1::{{c2::<img src=""2021-Bild-Sieg-Wohlfahrtsverlust.png"" alt=""""><br />
-Welfare loss}}}}"	
-"{{c1::Externalities}} can {{c2::lead to market failure}} if the costs generated by the {{c1::externality}} are {{c3::not borne by the seller}}, because a welfare loss arises.<br />
-{{c1::{{c2::{{c3::<img src=""2021-Bild-Sieg-Wohlfahrtsverlust.png"" alt=""""><br />
-Welfare loss}}}}}}"	
-An externality can be positive or negative. Positive externalities lead to {{c1::self-fulfilling expectations}}, whereas negative externalities lead to {{c1::self-defeating expectations}}.	
-{{c1::An individualization lock-in effect}} is {{c2::a lock-in effect that arises through a high degree of personalization or individualization of services for customers}}.	
-There is a correlation between {{c1::environmental performance}} and {{c2::financial success}}, in which {{c3::a lower CO2 balance}} leads to a {{c3::higher return on assets and Tobin's Q}}.	
-{{c1::The span of control}} is {{c2::the factor of levels that indicates the number of positions on the second level}}.	
-"{{c1::A Digital IT (Agile IT, Mode 2 IT)}} is an IT that focuses on {{c2::agility}}, {{c2::speed}}, and {{c2::innovation}}.<br />
-{{c1::A Digital IT}} is used for {{c3::customer-centered services}}."	
 "Question:  <br />
 What does generativity describe in the context of digital innovation?"	Generativity describes the ability of digital technologies to be used in versatile and unpredictable ways for innovations, e.g., through programmability, modifiability, and layered architectures.
 "Question:<br />
@@ -1193,24 +845,9 @@ How can a digital technology such as blockchain technology in supply chain manag
 "true or false:<br />
 Digital innovation necessarily presupposes that the underlying technology is completely new."	"false:<br />
 A digital innovation can also arise through new combinations of existing digital properties if it creates social or ecological added value."
-"{{c1::Digital innovation}} is {{c2::a good, process, or business model}} that {{c3::is perceived as new}}, {{c3::contains fundamental changes}}, and {{c3::is embodied in or through IT}}. {{c1::Digital innovation}} creates a new form of value through {{c4::digitalization}}.<br />
-{{c1::{{c2::{{c3::{{c4::<img src=""2025-Bild-Schellhammer-Digital_Innovation.png"" alt=""""><br />
-Digital innovation}}}}}}}}"	
-{{c1::Human capital}} is {{c2::a production factor}} in the form of {{c2::skills, knowledge, ideas, and commitment of the workforce}}.	
-"{{c1::A lock-in effect (vendor lock-in)}} is {{c2::the difficult system switch caused by product-policy or marketing-based measures}} through {{c3::the increase in the costs of switching systems}}.<br />
-{{c1::{{c2::{{c3::<img src=""2022-Bild-Stockhinger-Microsoft_Windows_business_canvas.png"" alt=""""><br />
-Lock-in effect using Microsoft Windows as an example}}}}}}"	
-{{c1::Expectancy theory}} is a theory for explaining {{c2::work motivation}}, according to which {{c3::human behavior is influenced by positive and negative gratification, which is why people are motivated to pursue positive and desirable goals}}.	
-"{{c1::Maslow's hierarchy of needs}} is {{c2::a hierarchical arrangement of needs}} in which {{c2::the next higher need can only be satisfied once the hierarchically subordinate need has been satisfied}}.<br />
-{{c1::{{c2::<img src=""2023-Bild-Wikipedia-Dynamische_Beduerfnishierarchie_nach_Abraham_Maslow.svg"" alt=""""><br />
-Dynamic representation of the hierarchy of needs}}}}"	
-Maslow's hierarchy of needs is {{c1::theoretically}} grounded and empirically {{c1::only insufficiently}} verifiable.	
 "true or false:<br />
 Functional structures are especially adaptable in dynamic and heterogeneous markets."	"false:<br />
 They often react slowly to environmental changes and promote silo thinking."
-"{{c1::A functional structure}} is {{c2::an organizational form in which employees are grouped according to similar tasks, functions, or fields of expertise}}. {{c1::A functional structure}} connects {{c3::expertise and knowledge in one area with decision-making about it}}.<br />
-{{c1::{{c2::{{c3::<img src=""2025-Bild-Schellhammer-Funktionale_Struktur.png"" alt=""""><br />
-Functional structure}}}}}}"	
 "Question:<br />
 What is a responsible leadership response to cultural differences in a team?"	Creating shared frames of meaning, explicitly clarifying expectations, combining structure and flexibility, and promoting mutual understanding.
 "Question:<br />
@@ -1245,9 +882,6 @@ Why does the commoditization of IT according to Carr (2003) lead to a strategic 
 Through commoditization, IT is seen as a transport route like electricity and the rail network, through which certain goods, specifically information, can be transported faster."	"true<br />
 <img src=""2003-Bild-Carr-Commoditization_von_IT.png"" alt=""""><br />
 Commoditization of the rail network, electricity, and computers"
-"{{c1::The commoditization of IT}} is {{c2::the ubiquity, omnipresence, high capacity, and availability of IT}}. Due to omnipresence and availability, an individual organization can no longer create a competitive advantage through IT.<br />
-{{c1::{{c2::<img src=""2003-Bild-Carr-Commoditization_von_IT.png"" alt=""""><br />
-Commoditization of the rail network, electricity, and computers}}}}"	
 "Example:<br />
 Smart Connected Product"	"<ul>
 <li>autonomous wind turbines</li>
@@ -1272,29 +906,16 @@ Smart Connected Products reduce the power of IT providers within the value chain
 They often increase the power of IT providers through software, platform, and data dependencies."
 "true or false:<br />
 Smart Connected Products primarily shift competition from price competition toward system and ecosystem competition."	true
-"{{c1::A Smart Connected Product}} is {{c2::a smart product that enables external connectivity in order to exchange data and thus enables new capabilities outside the physical product}}. {{c1::Smart Connected Products}} extend {{c3::the value chain of a product}}.<br />
-{{c1::{{c2::{{c3::<img src=""2014-Bild-Porter-Heppelman-Technology_Stack_von_Smart_Connected_Products.png"" alt=""""><br />
-Technology stack of Smart Connected Products}}}}}}"	
 "Question:<br />
 Which areas are affected by IT/IS strategy implementation?"	IT/IS strategy implementation affects the IT/IS architecture through the IT/IS strategy, through which IT/IS programs and IT/IS projects can be formed, which influence the information infrastructure and thus the information functions.
 "true or false:<br />
 An IT/IS strategy implementation must be broken down into concrete, measurable, and resource-based tasks in order to be operationalized."	true
-"<p>IT/IS strategy implementation consists of several steps:</p>
-<ol>
-<li>{{c1::definition of strategic goals}}</li>
-<li>{{c1::translation of strategic goals into business requirements}}</li>
-<li>{{c1::development of an architecture}}</li>
-<li>{{c1::derivation of the information infrastructure through the architecture}}</li>
-</ol>"	
 "Question:<br />
 Which is not a component of the Transformational Leadership model?<br />
 a) Idealized Influence<br />
 b) Inspirational Motivation<br />
 c) Intellectual Stimulation<br />
 d) Collective Consideration"	d)
-{{c1::Transformational leadership}} is {{c2::proactive leadership in which a leader changes existing organizational structures and encourages employees to achieve goals together}}. {{c1::Transformational leadership}} inspires employees and supports them individually.	
-{{c1::Work specialization (job design)}} is {{c2::the extent to which tasks can be broken down into individual activities and assigned to individual employees as specific responsibilities}}. {{c1::Work specialization}} leads to {{c3::employees performing highly specialized tasks and activities}}.	
-{{c1::Sequential ambidexterity (temporal ambidexterity)}} is {{c2::ambidexterity in which an organization can switch between exploration and exploitation}}. In {{c1::sequential ambidexterity}}, {{c3::exploration and exploitation are separated by time}}.	
 "Question:<br />
 Why is ambidexterity especially challenging for established organizations?"	Because existing structures, incentive systems, and cultures often favor exploitation over exploration.
 "Question:<br />
@@ -1302,7 +923,6 @@ How does the concept of ambidexterity help in analyzing organizational dilemmas?
 "true or false:<br />
 Ambidexterity describes the ability to avoid exploration and exploitation at the same time."	"false:<br />
 Ambidexterity describes the ability to manage exploration and exploitation simultaneously."
-{{c1::Ambidexterity}} is {{c2::a dynamic capability for enabling exploration and exploitation simultaneously through existing resources}}. {{c1::Ambidexterity}} combines {{c3::the adaptation of solutions and the improvement of existing solutions}}.	
 "Question:<br />
 Under what condition can IT nevertheless be strategically effective?"	IT becomes strategically effective when it is combined with specific organizational capabilities, processes, knowledge, and management competencies, thereby creating resource bundles that are difficult to imitate.
 "Question:<br />
@@ -1315,16 +935,6 @@ Why are competitive advantages through IT often only short-term?"	New technologi
 Which IT-related resources can, according to the resource-based view, create a competitive advantage?"	Information infrastructure, information systems, IT personnel, and IT-related knowledge can create competitive advantages if they are valuable, rare, difficult to imitate, and organizationally embedded.
 "Question:<br />
 Which two basic types of competitive advantages does Porter distinguish?"	Cost leadership and differentiation
-"{{c1::Porter's Generic Strategies}} is {{c2::an opportunity framework for classifying value with respect to the source and scope of competitive advantage}}.<br />
-{{c1::{{c2::<img src=""2025-Bild-Teubner-Porter's_Generic_Strategies.png"" alt=""""><br />
-Porter's Generic Strategies}}}}"	
-"<p>Porter's Generic Strategies consists of:</p>
-<ul>
-<li>{{c1::Cost Focus}}: {{c1::differentiated market coverage and cost leadership as a competitive advantage}}</li>
-<li>{{c1::Cost Leadership}}: {{c1::undifferentiated market coverage and cost leadership as a competitive advantage}}</li>
-<li>{{c1::Differentiation}}: {{c1::undifferentiated market coverage and differentiation as a competitive advantage}}</li>
-<li>{{c1::Differentiation Focus}}: {{c1::differentiated market coverage and differentiation as a competitive advantage}}</li>
-</ul>"	
 "Question:<br />
 Which five forces determine the attractiveness of an industry according to Porter?"	"<ul>
 <li>threat of new entrants</li>
@@ -1333,32 +943,18 @@ Which five forces determine the attractiveness of an industry according to Porte
 <li>bargaining power of suppliers</li>
 <li>bargaining power of buyers</li>
 </ul>"
-{{c1::Porter's Five Forces}} is {{c2::an opportunity framework for analyzing market positioning within the market-based view}}.	
-"<p>Porter's Five Forces consists of:</p>
-<ul>
-<li>{{c1::customers and their bargaining power}}</li>
-<li>{{c1::suppliers and their bargaining power}}</li>
-<li>{{c1::barriers to market entry and potential market entrants}}</li>
-<li>{{c1::rivalry from competitors with similar products and services}}</li>
-<li>{{c1::substitution by other products and services}}</li>
-</ul>"	
 "true or false:<br />
 A business case should be based exclusively on quantifiable, certain benefit assumptions."	"false:<br />
 A well-founded business case also considers uncertain, qualitative, and strategic effects as well as scenario analyses."
-{{c1::A business case}} is {{c2::a justified decision template that shows how a planned organizational measure or initiative contributes to improving a company's financial performance}}.	
 "Question:<br />
 What is a service according to ITIL (2019)?"	[A Service is a] means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks.
 "Question:<br />
 What is a service according to The Open Group (2023)?"	A service is the externally visible behavior of the providing system from the perspective of systems that use that service. For the users, only this exposed behavior and the offered value, together with non-functional aspects, are relevant.
 "true or false:<br />
 A service is used to realize state changes."	true
-"{{c1::A service}} is {{c2::a set of functions and the resulting behavior that an object provides to its environment and thereby creates value}}.<br />
-{{c1::{{c2::<img src=""2024-Bild-Schoenberger-Service-Definition.png"" alt=""""><br />
-Service Definition}}}}"	
 "true or false:<br />
 When an organization begins to adopt an agile approach, managers should protect Scrum teams from changes and uncertainties caused by those who do not yet understand agile approaches."	"false:<br />
 Change and uncertainty are part of life. Instead of resisting these influences, agile leadership should help teams develop the ability to deal with change and uncertainty. Agile leaders should support teams in collaborating with their environment so that the people in the value chain pursue a shared goal."
-{{c1::Agility is the ability}} {{c2::to recognize a changing environment and the resulting innovation opportunities and to use them quickly, but also effectively}}	
 "Question:<br />
 What is contextual ambidexterity according to Birkinshaw, Gibson (2004)?"	Contextual ambidexterity is viewed as a meta-level capacity where the simultaneous pursuing of exploration and exploitation is built on the processes or systems that encourage individuals to divide their time between activities.
 "true or false:<br />
@@ -1366,15 +962,12 @@ Contextual ambidexterity builds on the behavior, sociological processes, and rel
 "true or false:<br />
 Contextual ambidexterity primarily requires formal structural separation."	"false:<br />
 Contextual ambidexterity is based primarily on cultural, social, and behavioral mechanisms, not on formal separation."
-{{c1::Contextual ambidexterity}} is {{c2::the integration of exploration and exploitation into the processes and systems of an organization, specifically into an organizational unit}}.	
 "Question:<br />
 What is structural ambidexterity according to Birkinshaw, Gibson (2004)?"	Structurally ambidextrous firms separate the explorative from the exploitative unit, each with different management, processes, structures, and cultures.
-{{c1::Structural ambidexterity}} is {{c2::the separation of exploration and exploitation into individual organizational units}}.	
 "Question:<br />
 What is organizational ambidexterity according to Tushman, O’Reilly (1996)?"	Organizational ambidexterity is the ability of an organization to manage both incremental, continuous improvements and radical, discontinuous challenges at the same time.
 "true or false:<br />
 Organizational ambidexterity describes the ability of an organization to carry out exploration and exploitation simultaneously."	true
-{{c1::Organizational ambidexterity}} is {{c2::the ability of an organization to use the dynamics between exploration and exploitation}}.	
 "Question:<br />
 At which competitive level does the market-based view focus?"	at the strategic business unit
 "Question:<br />
@@ -1417,8 +1010,6 @@ The market-based view explains competitive advantages primarily through industry
 "true or false:<br />
 Strategic advantages of the market-based view are rather long-lived and difficult to imitate."	"false:<br />
 they are time-limited, business-specific, and readily observable"
-{{c1::The market-based view}} is {{c2::a view of strategy which assumes that a competitive advantage is created through adaptability, market positioning, and timing within a market as well as strategic positioning in that market}}.	
-A {{c1::competitive advantage}} in {{c2::the market-based view}} can be created through price positioning.	
 "Question:<br />
 What is the overarching goal of the resource-based view?"	sustainable growth through the development, use, and transfer of core competencies
 "Question:<br />
@@ -1449,7 +1040,6 @@ The resource-based view follows a rather defensive strategic focus and primarily
 It is rather offensive and uses internal competencies for expansion."
 "true or false:<br />
 Strategic advantages of the resource-based view are considered long-lived, difficult to attack, and often based on hidden knowledge."	true
-{{c1::The resource-based view}} is {{c2::a view of strategy which assumes that a competitive advantage is created through unique, valuable, non-imitable, and non-substitutable resources according to the VRIN framework or VRIO framework}}.	
 "Question:<br />
 What is the central difference between strategy as plan and strategy as pattern?"	Strategy as plan describes intended actions, whereas strategy as pattern denotes the actually realized behavior of a company that becomes recognizable over time.
 "Question:<br />
@@ -1467,26 +1057,6 @@ Strategies provide a rigid framework and cannot be adapted when environmental co
 Strategies are the link between goals and operational decisions."	true
 "true or false:<br />
 Goals are an integral part of a strategy."	false
-"{{c1::A strategy}} is {{c2::a long-term flexible orientation framework for future actions and planning for achieving goals and advantages in a changing environment through the use of resources in operational measures in order to fulfill stakeholder expectations}}.<br />
-{{c1::{{c2::<img src=""2022-Bild-Wiesel-Ziele_Strategien_Massnahmen.png"" alt=""""><br />
-Goals, strategies, and measures in context}}}}"	
-"<p>A strategy is:</p>
-<ul>
-<li>{{c1::pattern of activities}}</li>
-<li>{{c1::perspective, vision, and orientation}}</li>
-<li>{{c1::plan for implementation}}</li>
-<li>{{c1::ploy to outsmart competitors}}</li>
-<li>{{c1::position consisting of products and services in a market}}</li>
-</ul>"	
-"<p>{{c1::A strategy}} has the following characteristics:</p>
-<ul>
-<li>{{c2::influenced by external influences and competition of an organization}}</li>
-<li>{{c2::relation to the survival and profitability of the company}}</li>
-<li>{{c2::set of activities}}</li>
-<li>{{c2::includes major decisions for broad areas of an enterprise}}</li>
-<li>{{c2::future-oriented}}</li>
-</ul>"	
-{{c1::A value chain}} is {{c2::the sum of all technological and economic activities of an enterprise for conducting business and creating value}}.	
 "Question:<br />
 Why are patents only a limited indicator of innovation?"	Because they primarily represent innovation input, but not successful application or value creation.
 "Question:<br />
@@ -1507,6 +1077,436 @@ Innovation can also arise through new combinations of existing technologies, pro
 "true or false:<br />
 Patents are a good indicator of innovation."	"false:<br />
 They are a good indicator of innovation input."
+{{c1::Political Arena Theory}} is {{c2::a theory about organizations stating that organizations cannot have their own goals and are arenas for negotiations and interests between actors}}.	
+{{c1::Coalition Theory}} is {{c2::a theory of organizations stating that an organization consists of a group of participants, specifically a coalition, which is part of the decision-making process}}. In {{c1::Coalition Theory}}, goals are not the result of the power of individual units, but arise through {{c3::negotiations within the coalition}}.	
+{{c1::Satisfaction}} is {{c2::a theory of organizations and their goals stating that these should not be maximized, but weighed against one another and that a solution must be sufficiently good for everyone}}.	
+{{c1::Equilibrium Theory}} is {{c2::a theory about organizations stating that an organization can only be effective if there is an equilibrium between the contributions of participants and the compensation to participants}}. In {{c1::Equilibrium Theory}}, there is also a Peak Coordinator, usually management, who depends on the consent and participation of other actors.	
+{{c1::A Peak Coordinator}} is {{c2::a model of a unit in which a unit is influenced by different goals in order to reach a goal to be maximized}}. {{c1::A Peak Coordinator}} therefore classically represents {{c3::management}}.	
+{{c1::The Rational Actor Model}} is {{c2::a model of an organization in which the organization is seen as a rational individual in order to achieve its goal of profit maximization}}.	
+{{c1::A System of Systems}} is {{c2::a set of different product systems as well as external information that are coordinated and optimized with one another in order to create an ecosystem}}.	
+{{c1::A product system}} is {{c2::a set of interconnected products in order to satisfy a need}}.	
+"<p>Capabilities of Smart Connected Products are:</p>
+<ol>
+<li>{{c1::Monitoring}}: {{c1::sensors and external data}}</li>
+<li>{{c2::Controlling}}: {{c2::control and personalization}}</li>
+<li>{{c3::Optimization}}: {{c3::use of algorithms and analyses in combination with real-time monitoring to improve efficiency and output}}</li>
+<li>{{c4::Autonomy}}: {{c4::combination of monitoring, controlling, and optimization to achieve autonomy}}</li>
+</ol>"	
+{{c1::Cultural pluralism}} is {{c2::a view of culture that sees culture as an integral part of an organization that cannot be influenced}}.	
+{{c1::Cultural Engineering}} is {{c2::the influencing of organizational culture through the management of identity and behavior through control and power}}.	
+{{c1::The fragmentation perspective}} is {{c2::a perspective on culture in which culture is seen as ambiguous, so consensus can only be reached within a specific situation for a specific time in a specific context}}. In {{c1::the fragmentation perspective}}, culture is therefore seen as {{c3::a task for sensemaking}}.	
+{{c1::A subculture}} is {{c2::a set of members who identify themselves as their own group within a culture}}. {{c1::Subculture}} arises from {{c3::similarity and homogeneity or from frequent interaction}}.	
+{{c1::The differentiation perspective}} is {{c2::a perspective on culture with a heterogeneous view as well as internal and external influences, in which different subcultures with different values exist}}. In {{c1::the differentiation perspective}}, culture is therefore seen as {{c3::a navigation tool for recognizing resistance}}.	
+"{{c1::The integration perspective}} is {{c2::a perspective on culture with a homogeneous view and homogeneous values within the culture}}. In {{c1::the integration perspective}}, culture is therefore seen as {{c3::a management tool}}.<br>
+{{c1::{{c2::{{c3::<img src=""2026-Bild-Schellhammer-Integrationsperspektive_auf_Kultur.png"" alt=""""><br>
+Integration perspective on culture}}}}}}"	
+{{c1::Forced Ranking}} is {{c2::performance management based on the bell curve or a distribution in which employees are classified into limited categories}}.	
+{{c1::Performance Management}} is {{c2::personnel development through monitoring and controlling performance standards of employees in order to develop them and enable feedback}}.	
+{{c1::A Performance Management System}} is {{c2::a system for performance management}}.	
+The Scanlon Plan is {{c1::a method for personnel development and compensation through employees and management}}.	
+{{c1::Bonus compensation}} is {{c2::compensation in the form of a one-time payment based on specific metrics}}.	
+{{c1::An Employee Benefit}} is {{c2::non-monetary compensation for employees}}.	
+{{c1::Gainsharing}} is {{c2::compensation in the form of employee participation in the company's profit}}.	
+{{c1::Piece-rate compensation (performance bonus, Merit Pay)}} is {{c2::compensation measured according to work results}}.	
+{{c1::Base compensation}} is {{c2::compensation in the form of an hourly wage}}.	
+{{c1::An Applicant Tracking System}} is {{c2::a system for automatically sorting and filtering applications within personnel recruiting}}.	
+{{c1::Demand-Skills Profiling}} is {{c2::the mapping of the requirements and capabilities of a candidate in order to select the candidate for personnel selection}}.	
+{{c1::Personnel selection}} includes {{c2::all tools, methods, and criteria by which a person is selected for a vacant position}}.	
+{{c1::Personnel recruiting}} is {{c2::the search for qualified applicants for a job in order to fill a vacant position with a suitable person}}.	
+{{c1::A STAR (Skilled Through Alternative Routes)}} is {{c2::a person who has acquired skills through non-conventional paths and corresponds to a career changer}}.	
+{{c1::Performance orientation}} is {{c2::a cultural factor that describes how oriented toward success a culture is}}.	
+{{c1::Uncertainty avoidance}} is {{c2::a cultural dimension that describes how open a culture is to new ideas and risks}}.	
+{{c1::Power Distance}} is {{c2::a cultural factor that describes how strongly a discrepancy in power is accepted in a culture}}.	
+{{c1::Mental programming}} is {{c2::the learning of culture in a society}}.	
+{{c1::Psychological Safety}} is {{c2::the individual perception of being able to take risks without fear of negative consequences}}. High {{c1::Psychological Safety}} leads to {{c3::mistakes being admitted, risks being taken, and new ideas being voiced}}.	
+"<p>Belbin's team roles consist of:</p>
+<ul>
+<li>{{c1::Co-Ordinator}}: aligns the team with common goals, recognizes members' strengths, and delegates tasks purposefully</li>
+<li>{{c2::Completer Finisher}}: ensures the quality of work by carefully checking results, uncovering errors, and perfecting tasks</li>
+<li>{{c3::Implementer}}: translates ideas into practicable plans and implements them in a structured, reliable, and efficient way</li>
+<li>{{c4::Monitor Evaluator}}: analyzes options soberly and logically, evaluates alternatives objectively, and supports well-founded decisions</li>
+<li>{{c5::Plant}}: develops creative, unconventional ideas and solution approaches for complex or novel problems</li>
+<li>{{c6::Resource Investigator}}: actively establishes external contacts, explores opportunities, and brings new ideas and impulses from outside into the team</li>
+<li>{{c7::Shaper}}: drives the team forward with energy and assertiveness and ensures that focus and momentum are maintained</li>
+<li>{{c8::Specialist}}: provides in-depth expertise and specific competencies in a clearly delimited subject area</li>
+<li>{{c9::Teamworker}}: promotes cohesion in the team, flexibly supports others, and ensures a cooperative working climate through diplomacy</li>
+</ul>"	
+"<p>Phases of team development are:</p>
+<ol>
+<li>{{c1::Forming}}: {{c1::getting to know each other; avoiding conflicts; clarifying status, power, and roles}}</li>
+<li>{{c2::Storming}}: {{c2::tensions arise due to tasks; coalition building; efforts to reconcile team goals and individual needs and working styles}}</li>
+<li>{{c3::Norming}}: {{c3::development of a shared understanding of roles, responsibilities, and norms}}</li>
+<li>{{c4::Performing}}: {{c4::functioning as a unit with a clear and stable structure}}</li>
+<li>{{c5::Adjourning}}: {{c5::dissolution of the team; completion of tasks; exchange of ideas; celebration of success}}</li>
+</ol>"	
+{{c1::Distributed Leadership}} is {{c2::the collective leadership of a group}}.	
+{{c1::Servant Leadership}} is {{c2::leadership that is oriented toward serving employees, customers, and the company, who are to be helped in professional and personal contexts}}.	
+{{c1::Postmodern leadership}} is {{c2::leadership in which leadership does not necessarily lie in one person and is given by authority or hierarchies, but is defined by processes}}.	
+"{{c1::The Situational Leadership Model}} is {{c2::a model about leadership and leadership style that depends on the maturity level of the people being led}}.<br />
+{{c1::{{c2::<img src=""2026-Schellhammer-Situational_Leadership_Model.png"" alt=""""><br />
+Situational Leadership Model}}}}"	
+{{c1::Contingency theory (Contingency Model)}} is {{c2::a theory and model in which the effectiveness of leadership depends on the situation}}.	
+{{c1::Authoritarian leadership}} is {{c2::leadership in which a leader delegates tasks}}.	
+{{c1::Democratic leadership}} is {{c2::leadership in which a leader allows a group of people to organize themselves and form and solve goals and tasks within this group}}.	
+{{c1::Leadership as behavior}} is {{c2::leadership characterized by what the leader does. Leadership can therefore be learned and acquired}}.	
+{{c1::Leadership as a character trait}} is {{c2::leadership that is deeply rooted in the personality of the leader}}.	
+{{c1::Organizational culture management}} is {{c2::the management of organizational culture and the development of consensus around the definition of activities in the workplace}}.	
+{{c1::A good culture}} is {{c2::a culture that unifies good and positive values, attitudes, and behaviors into peaceful coexistence}}.	
+{{c1::Interpretation}} in {{c2::culture is a process through which experiences, events, or artifacts are endowed with meaning}}.	
+{{c1::Retroactive symbolization}} is {{c2::the process of symbolization in which an existing symbol influences an artifact and emphasizes the symbolic meaning}}.	
+{{c1::Proactive symbolization}} is {{c2::the process of symbolization in which artifacts with significant meaning create a symbol}}.	
+{{c1::Retroactive realization}} is {{c2::the process of realization in which already created artifacts retrospectively affect values and expectations}}.	
+{{c1::Proactive realization}} is {{c2::the process of realization in which cultural assumptions, expectations, and values are materialized through concrete action}}.	
+{{c1::Realization}} is {{c2::the process of transforming values into expectations that take shape in reality}}.	
+{{c1::Retroactive manifestation}} is {{c2::a manifestation through which values feed back onto existing assumptions and confirm or change them}}.	
+{{c1::Proactive manifestation}} is {{c2::a manifestation through which assumptions generate certain expectations that shape perception, thoughts, and feelings}}. {{c1::This proactive manifestation}} thereby creates values that are perceived as {{c3::desirable}}.	
+{{c1::Manifestation}} is {{c2::a process in which an initially non-perceptible component, usually assumptions, can be perceived}}.	
+"{{c1::Cultural Dynamics}} is {{c2::the evolution of cultures and cultural processes with regard to stability}}.<br />
+{{c1::{{c2::<img src=""1993-Bild-Hatch-Kulturelle_Dynamik.png"" alt=""""><br />
+Model of cultural dynamics}}}}"	
+{{c1::The Garbage Can Model}} is a {{c2::model in which decision-making is the outcome of an interpretation of several unclear goals and uncertain environmental influences}}.	
+{{c1::Rational Decision Making}} is {{c2::decision-making within a structured process with a safely predictable environment that can be supported by assumptions}}.	
+"<p>Rational Decision Making consists of several steps:</p>
+<ol>
+<li>{{c1::problem definition}}</li>
+<li>{{c2::search for alternatives}}</li>
+<li>{{c3::identification of decision criteria}}</li>
+<li>{{c4::allocation of weightings to the decision criteria}}</li>
+<li>{{c5::evaluation of alternatives}}</li>
+<li>{{c6::selection of the best alternative}}</li>
+</ol>"	
+{{c1::Authority}} is {{c2::the acceptance and expectation of an actor's use of power}}.	
+{{c1::Power}} is {{c2::the influence and power over people to move them to do something they otherwise would not do without the power of the commanding actor}}.	
+{{c1::A Whistleblowing Game}} is {{c2::a political game in the form of a conflict that concerns whistleblowing and the intended change of politics and strategy}}.	
+{{c1::A Strategic Candidate Game}} is {{c2::a political game in the form of a conflict that concerns securing people for vacant positions}}.	
+{{c1::An Empire Building Game}} is {{c2::a political game in the form of a conflict that concerns building up and subordinating people}}.	
+{{c1::An Alliance Building Game}} is {{c2::a political game in the form of a conflict that concerns building and securing alliances}}.	
+{{c1::A Budgeting Game}} is {{c2::a political game in the form of a conflict that concerns the allocation of resources}}.	
+{{c1::An Insurgency Game}} is {{c2::a political game in the form of a conflict carried out by executing persons against ruling persons}}.	
+"<p>Types of political systems are:</p>
+<ul>
+<li>autocracy: {{c1::power is exercised by an individual or a small group}}</li>
+<li>bureaucracy: {{c2::power is exercised through rules, knowledge, and influence}}</li>
+<li>democracy: {{c3::power is shared among people}}</li>
+<li>technocracy: {{c4::power is exercised through knowledge and experience}}</li>
+</ul>"	
+{{c1::The dark side of an organization}} is {{c2::a non-public and hidden area}}.	
+{{c1::A Smart Product}} is {{c2::a product that integrates a Smart Device and expands the possibilities of use through software and electronics}}.	
+{{c1::Value Chain Dispersion and Integration}} is {{c2::the coordination and integration of customers and business partners in the value chain through the Internet}}.	
+{{c1::Value Chain Automation}} is {{c2::the automation of the value chain through the automated collection and processing of information by IT}}.	
+"<p>The stages of IT-driven competition are:</p>
+<ol>
+<li>1960 - 1980: {{c1::Value Chain Automation}}</li>
+<li>1980 - 2000: {{c2::Value Chain Dispersion and Integration}}</li>
+<li>Since 2000: {{c3::Smart Connected Products}}</li>
+</ol>"	
+{{c1::Theory Y}} is {{c2::a theory of human behavior within X-Y Theory stating that people are influenced by intrinsic factors}}. According to {{c1::Theory Y}}, {{c2::people want to work and are motivated}}, which is why {{c3::they must be empowered and supported within the framework of empowerment}}.	
+{{c1::Theory X}} is {{c2::a theory of human behavior within X-Y Theory stating that people are influenced by extrinsic factors}}. According to {{c1::Theory X}}, {{c2::people fundamentally avoid work and are not motivated}}, which is why {{c3::they must be directed and controlled}}.	
+{{c1::X-Y Theory}} is {{c2::a motivation theory stating that people see work as a reward or as a burden}}.	
+{{c1::Expectancy theory}} is {{c2::a motivation theory stating that motivation is linked to expectations about the ability to fulfill tasks and the associated reward}}.	
+"{{c1::Motivation theory}} is {{c2::a theory that employees become productive through motivation}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Schellhammer-Motivationstheory.png"" alt=""""><br />
+Motivation theory}}}}"	
+{{c1::The War for Talent}} is {{c2::a gap between the available number of people working and the necessary employees}} due to {{c3::a lack of people, skills, or talents}}.	
+{{c1::Personnel acquisition}} is {{c2::personnel recruiting and personnel selection}}.	
+{{c1::Leadership}} is {{c2::a property and behavior for activating people to stimulate energy, initiative, change, inspiration, or sensemaking}}.	
+{{c1::An economic lock-in effect}} is {{c2::a lock-in effect that arises due to satisfaction or financial advantages with products or services}}.	
+{{c1::A brand lock-in effect}} is {{c2::a lock-in effect that arises due to trust, brand preference, or attachment to a brand}}.	
+{{c1::A technical lock-in effect}} is {{c2::a lock-in effect that arises through products or services that are compatible only with certain systems}}.	
+{{c1::A contractual lock-in effect}} is {{c2::a lock-in effect that arises through a contractual commitment}}.	
+{{c1::A focus strategy}} is {{c2::a strategy that aims to focus on a market or niche market in order to satisfy specific needs}}.	
+{{c1::A differentiation strategy}} is {{c2::a strategy that aims to differentiate products or services through a unique or superior USP in order to achieve a higher price}}.	
+"<p>{{c1::The VRIO Framework}} is {{c2::a framework of the resource-based view according to which resources must have the following characteristics}}:</p>
+<ul>
+<li>{{c3::unique (rare)}}</li>
+<li>{{c3::non-imitable (inimitable)}}</li>
+<li>{{c3::organizational support}}</li>
+<li>{{c3::valuable}}</li>
+</ul>"	
+{{c1::Operational effectiveness}} is {{c2::the performance of activities that an organization carries out better than its competitors in order to obtain a competitive advantage}}.	
+{{c1::Strategic positioning}} is {{c2::the unique performance of activities that distinguishes an organization from its competitors}}. Through {{c1::strategic positioning}}, {{c3::quality leadership}} can be pursued.	
+"{{c1::Competitive advantages}} arise through {{c2::the connection between a unique value proposition, alignment with a specific market, related and complementary products and services, and network externalities}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Stockhinger-Kompetitive_Vorteile.png"" alt=""""><br />
+New ways to develop competitive advantages}}}}"	
+{{c1::The Corporate Sustainability Due Diligence Directive (CSDDD)}} is {{c2::a sustainability reporting framework for identifying and avoiding potential and actual negative impacts on the environment and society from a company's value-creation activities}}.	
+{{c1::A competitive strategy}} is {{c2::a strategy through which an organization is more effective than competitors through positioning, capabilities, and resources}}.	
+{{c1::Agility}} is {{c2::an organizational form in which cross-functional, self-organizing teams work iteratively and adaptively on complex problems}}.	
+{{c1::A Lead Link}} is {{c2::a role responsible for assigning other roles and allocating resources}}.	
+{{c1::A cabal}} is {{c2::a multidisciplinary project team that forms spontaneously to pursue an important goal}}.	
+{{c1::A circle in Holacracy}} is {{c2::a group of roles that jointly work toward a specific goal or purpose}}. {{c1::Circles}} can form or dissolve again depending on the needs of the organization.	
+"{{c1::A Teal Organization}} is {{c2::an organizational form in which employees organize and steer themselves in order to jointly form an organic, dynamic system with purpose}}.<br />
+In {{c1::a Teal Organization}}, decisions are made {{c3::decentrally, incrementally, and bottom-up}}."	
+{{c1::A Colleague Letter of Understanding (CLOU)}} is {{c2::a formal understanding of activities, goals, and metrics written by employees}}.	
+{{c1::Podularity}} is {{c2::an organizational form for self-organization in which pods create and fulfill specific tasks in small increments with minimal planning effort}}.	
+{{c1::Holacracy}} is {{c2::an organizational form of self-organization in which authority and decision-making powers are distributed across circles}}. Governance in {{c1::Holacracy}} is regulated by {{c3::a defined constitution}} that {{c3::precisely describes roles, decision-making processes, and responsibilities}}.	
+{{c1::A failure trap}} is {{c2::a challenge in excessive exploration that leads to increased risk and the neglect of core competencies}}.	
+{{c1::A competency trap}} is {{c2::a challenge in excessive exploitation that leads to stagnation and creates difficulties when markets change or technologies shift}}.	
+"<p>{{c1::Digital innovation}} is driven by {{c2::generativity}}, which requires the following characteristics:</p>
+<ul>
+<li>{{c3::homogeneity of data}}</li>
+<li>{{c3::programmability and modifiability}}</li>
+<li>{{c3::self-referential and cumulative, usually in layers, processes, products, and services}}</li>
+</ul>"	
+"{{c1::The matrix structure}} is {{c2::an organizational form that combines functional structure and divisional structures}}. Employees in {{c1::the matrix structure}} are {{c3::simultaneously subordinate to a functional manager and a project or product manager}}.<br />
+{{c1::{{c2::{{c3::<img src=""2025-Bild-Schellhamer-Matrixstruktur.png"" alt=""""><br />
+Matrix structure}}}}}}"	
+{{c1::The chain of command}} is {{c2::a continuous line of authority from the highest to the lowest level of an organization}}. {{c1::The chain of command}} specifies {{c3::who reports to whom and thereby defines duties and responsibilities}}.	
+"{{c1::A divisional structure}} is {{c2::an organizational form in which the company is divided into largely autonomous so-called divisions}}. {{c1::Each division}} has {{c3::its own resources and functions}}, which allows {{c4::decisions to be made closer to the market}}.<br />
+{{c1::{{c2::{{c3::{{c4::<img src=""2025-Bild-Schellhammer-Divisionale_Struktur.png"" alt=""""><br />
+Divisional structure}}}}}}}}"	
+{{c1::A boundary spanner}} is {{c2::a person who works between two or more organizational units and acts as a bridge between them}}.	
+{{c1::An informal structure}} is {{c2::an unofficial organizational structure that is not formally defined. It emerges spontaneously through personal contacts, social interactions, and mutual trust}}.	
+{{c1::Formalization in management}} is {{c2::the degree to which workflows, tasks, and behaviors are defined and standardized through rules, procedures, and standards}}.	
+{{c1::Decentralization in management}} is {{c2::the degree to which decision-making authority is transferred to lower levels of the organization}}.	
+{{c1::Centralization in management}} is {{c2::the degree to which decision-making authority is concentrated in central units}}.	
+{{c1::IT agility}} is {{c2::the ability of IT to recognize innovation opportunities and to use them quickly and effectively}}.	
+{{c1::A digital lab}} is {{c2::an environment in which employees can focus on entrepreneurship and innovation}}.	
+{{c1::Organizational design}} is {{c2::the process of structuring an organization into an organizational structure}}.	
+"<p>Organizational design consists of:</p>
+<ul>
+<li>{{c1::work specialization}}</li>
+<li>{{c1::chain of command}}</li>
+<li>{{c1::departmentalization}}</li>
+<li>{{c1::formalization}}</li>
+<li>{{c1::span of control}}</li>
+<li>{{c1::centralization and decentralization}}</li>
+</ul>"	
+{{c1::An adhocracy}} is {{c2::an organizational form in which temporary structures are formed for a specific goal}}. In {{c1::adhocracy}}, this creates fluid relationships.	
+{{c1::Classical organization theory}} is {{c2::a theory about organizations according to which, following Scientific Management, there is one best universal approach through which production can be maximized}}.	
+{{c1::Bureaucracy}} refers to {{c2::all organizational functions and organizational forms that have standardized and formal rules}}.	
+{{c1::Scientific Management}} is {{c2::a structured approach to the management of people and machines based on data}}. {{c1::Scientific Management}} separates planning and execution.	
+"<p>Scientific Management consists of:</p>
+<ol>
+<li>{{c1::development of a methodological approach}}</li>
+<li>{{c1::methodical selection and training of employees}}</li>
+<li>{{c1::connecting method and employees}}</li>
+<li>{{c1::specialization and cooperation between management and the work to be performed}}</li>
+</ol>"	
+{{c1::An entrepreneurial start-up plan}} is {{c2::a plan for entrepreneurship}}.	
+{{c1::Intrapreneurship}} is {{c2::entrepreneurship within an existing organization in order to develop new products, services, or business fields and to drive innovation from within}}.	
+{{c1::Classical entrepreneurship}} is {{c2::entrepreneurship with new ideas, products, or technologies}}.	
+{{c1::Serial entrepreneurship}} is {{c2::entrepreneurship in which multiple organizations are founded while leadership is handed over in the long term}}.	
+{{c1::Monopreneurship}} is {{c2::entrepreneurship in which one organization is founded and managed over the long term}}.	
+{{c1::Micropreneurship}} is {{c2::entrepreneurship aimed at creating a small and viable organization without the intention of growing it}}.	
+{{c1::Growth-oriented entrepreneurship}} is {{c2::entrepreneurship aimed at growing an organization and achieving significant influence in the industry or society}}.	
+"<p>Reasons for entrepreneurship are:</p>
+<ul>
+<li>{{c1::autonomy and self-determination}}</li>
+<li>{{c1::financial motivation}}</li>
+<li>{{c1::meaning and impact}}</li>
+</ul>"	
+{{c1::An entrepreneur}} is {{c2::a person who develops new or improved products or services and takes the initiative to turn this idea into reality through planning and the use of the required resources}}.	
+The financial bottom line follows utilitarianism because {{c1::in the financial bottom line, an attempt is made to maximize value as capital}}.	
+"<p>Functions of management are:</p>
+<ol>
+<li>{{c1::planning}}</li>
+<li>{{c1::organizing}}</li>
+<li>{{c1::leadership}}</li>
+<li>{{c1::control}}</li>
+</ol>"	
+"<p>Roles of managers are:</p>
+<ul>
+<li>{{c1::decision-maker}}: {{c1::entrepreneur, resource allocation, negotiator}}</li>
+<li>{{c2::informant}}: {{c2::monitoring, spokesperson, disseminator}}</li>
+<li>{{c3::contact person}}: {{c3::leader, liaison, role model}}<br />
+{{c1::{{c2::{{c3::<img src=""2025-Bild-Dyck-Caza-Aure-Leaman-Marcus-Jimenez-Management-Funktionen_und_Rollen_von_Managern.png"" alt=""""><br />
+Functions of management and roles of managers}}}}}}</li>
+</ul>"	
+{{c1::A B Corp}} is {{c2::a company that can demonstrate, through independent certification, high standards in the areas of social and environmental performance, transparency, and accountability}}.	
+{{c1::Social and Ecological Thought Management (SET)}} is {{c2::management for achieving sustainable profit while reducing negative externalities and creating positive externalities}}.	
+{{c1::Triple Bottom Line Management}} is {{c2::the management of the triple bottom line to promote financial impacts and reduce socio-ecological externalities}}.	
+{{c1::The financial bottom line}} is {{c2::a concept according to which an organization must maximize its financial value and should therefore be measured only by its economic impact}}.	
+{{c1::Technosocial opacity}} is {{c2::the difficulty of recognizing and understanding how complex technologies influence social outcomes and ethical consequences}}.	
+{{c1::Legitimacy}} is {{c2::the assumed acceptance and validity of an action}}.	
+{{c1::The Global Reporting Initiative}} is {{c2::a reporting framework for standards related to sustainability reporting}}.	
+{{c1::The Corporate Sustainability Reporting Directive (CSRD)}} is {{c2::an EU law on the mandatory submission of a sustainability report}}. {{c1::The CSRD}} includes the impacts of a company on {{c3::the environment}}, {{c3::climate change}}, {{c3::society}}, and {{c3::sustainability governance}}. Conversely, {{c1::the CSRD}} also includes {{c4::the impacts of the environment on the company}}.	
+{{c1::A sustainability report}} is {{c2::a non-financial, transparent report on ESG performance for shareholders}}. Through {{c1::a sustainability report}}, an understanding of {{c3::the impacts of business activities on the environment and society}} can be created.	
+{{c1::Social entrepreneurship}} is {{c2::entrepreneurial thinking and action for the benefit of society}}. The success of {{c1::social entrepreneurship}} is not evaluated solely on the basis of financial profits, but rather on the basis of {{c3::social benefit}}.	
+"<p>Characteristics of self-organization are:</p>
+<ul>
+<li>{{c1::contextual leadership}}: {{c2::leadership is carried out through multiple roles, not by specific persons}}</li>
+<li>{{c1::teams design and manage themselves}}: {{c3::teams are nested within one another and organize themselves within them}}</li>
+<li>{{c1::teams are the structures}}: {{c4::teams are the central building blocks of organizations in which roles, responsibilities, and roles are defined}}</li>
+</ul>"	
+{{c1::The triple bottom line}} is {{c2::a concept according to which organizations should be measured not only by economic impact, but also by social impact and ecological impact}}. Within {{c1::the triple bottom line}}, {{c3::socio-ecological externalities}} should be reduced	
+Within the framework of {{c1::the triple bottom line}}, organizations must integrate {{c2::CO2 neutrality}}, {{c2::the protection of biodiversity}}, and {{c2::principles of the circular economy}} into their business model.	
+{{c1::An interest}} is {{c2::a predisposition toward a goal, value, need, expectation, or another intention}}.	
+{{c1::A symbol}} is {{c2::a representation of a conscious association or subconscious association that gives an element a further and more abstract meaning}}.	
+{{c1::The IoT (Internet of Things)}} is {{c2::a network of smart connected products that can digitally capture the physical world through sensors and transfer impulses into the physical world via actuators}}.	
+{{c1::A smart device}} is {{c2::a device that can extend its physical properties through specific capabilities and act as an artificial actor}}.	
+{{c1::Human Resource Management (HRM)}} is {{c2::the process and management of personnel recruitment, personnel development, and employee retention}}.	
+{{c1::Interpretation (interpretability) in logic}} is {{c2::the understanding of the relationships between input and output}}.	
+{{c1::A conflict}} is {{c2::the manifestation of different interests that stand in tension with one another}}.	
+{{c1::Franchising}} is {{c2::a business model in which a franchisor offers a franchisee a complete package for founding a company, including brand, services, and technologies}}.	
+{{c1::Management}} is {{c2::the allocation and use of human labor, material resources, information, and other resources for goal-oriented steering}} toward {{c3::an organizational goal}}.	
+"<p>Management consists of:</p>
+<ul>
+<li>{{c1::deciding}}</li>
+<li>{{c1::controlling}}</li>
+<li>{{c1::developing and supporting people}}</li>
+<li>{{c1::organizing}}</li>
+<li>{{c1::planning}}</li>
+<li>{{c1::setting goals and visions}}</li>
+</ul>"	
+{{c1::Standardization}} is {{c2::consensus-building with all relevant stakeholders for formulation in a concrete, technically usable way}}.	
+"<p>Characteristics of standardization are:</p>
+<ul>
+<li>{{c1::building on existing corporate structures}}</li>
+<li>{{c1::costs and profit}}</li>
+<li>{{c1::operational efficiency}}</li>
+<li>{{c1::risk-averse}}</li>
+</ul>"	
+{{c1::An organizational structure}} is {{c2::the formal structure of people and tasks in an organization}}.	
+{{c1::A corporate culture}} is {{c2::a culture created by management on the basis of power}}.	
+{{c1::Digital transformation}} is {{c2::the use of new digital technologies to enable substantial organizational improvements}}.	
+{{c1::An artifact in culture}} is {{c2::a manifest and observable expression of a culture that is based on values and assumptions}}.	
+{{c1::Politics}} is {{c2::the bringing together of conflicting interests to achieve a higher goal}}.	
+{{c1::A product}} is {{c2::a physical or any other material composition that can be used economically}}.	
+{{c1::Control}} is {{c2::ensuring the alignment of actions and results with the planned goals, values, and standards of an organization}}. {{c1::Control}} includes both {{c3::detecting and correcting deviations}} and {{c3::reinforcing positive performance}}.	
+{{c1::Leadership}} is {{c2::influencing, motivating, and guiding employees so that their actions are aligned with organizational goals}}.	
+{{c1::An organization}} is {{c2::an open sociotechnical system for forming organizational structures and achieving goals}}.	
+"<p>Organizations consist of:</p>
+<ul>
+<li>{{c1::division of labor}}</li>
+<li>{{c1::their own identity and organizational culture}}</li>
+<li>{{c1::formal rules and informal rules}}</li>
+<li>{{c1::hierarchies as well as superordination and subordination relationships}}</li>
+<li>{{c1::coordination of relationships}}</li>
+<li>{{c1::responsibilities and accountabilities}}</li>
+</ul>"	
+{{c1::Individualism}} is a {{c2::cultural factor that describes how strongly people in a culture are embedded in a collective}}.	
+{{c1::An assumption}} is {{c2::a fundamentally subconscious and self-evident statement}} about {{c2::an environment}}.	
+{{c1::An assumption}} presupposes {{c2::a causal relationship}} within a system.	
+"{{c1::A Reintegrated Bimodal IT}} is a Bimodal IT that {{c2::carries out its projects in Digital IT and uses Traditional IT as the backend}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Stockhinger-Bimodal_IT.png"" alt=""""><br />
+Types of Bimodal IT}}}}"	
+"{{c1::A Subdivisional Bimodal IT}} is a Bimodal IT that {{c2::brings Traditional IT and Digital IT together in one department}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Stockhinger-Bimodal_IT.png"" alt=""""><br />
+Types of Bimodal IT}}}}"	
+"{{c1::A Divisionally Separated Bimodal IT}} is a Bimodal IT that {{c2::divides Traditional IT and Digital IT into separate divisions}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Stockhinger-Bimodal_IT.png"" alt=""""><br />
+Types of Bimodal IT}}}}"	
+"{{c1::A Project-By-Project Bimodal IT}} is a Bimodal IT that {{c2::divides Traditional IT and Digital IT into projects}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Stockhinger-Bimodal_IT.png"" alt=""""><br />
+Types of Bimodal IT}}}}"	
+"{{c1::A Bimodal IT}} is {{c2::the establishment of a digital IT in parallel to an existing traditional IT}} in order to {{c3::enable innovation}}.<br />
+{{c1::{{c2::{{c3::<img src=""2023-Bild-Stockhinger-Bimodal_IT.png"" alt=""""><br />
+Types of Bimodal IT}}}}}}"	
+"{{c1::A Traditional IT (Core IT, Industrial IT, Mode 1 IT)}} is an IT that focuses on {{c2::performance}}, {{c2::security}}, and {{c2::stability}}.<br />
+{{c1::A Traditional IT}} is used for {{c3::IT-centered services}}."	
+{{c1::Uncertainty}} is {{c2::an information situation in which no information about a set of states is known}}. Therefore, it is not clear which state will occur.	
+{{c1::The values of a culture}} are {{c2::fundamental and ethical attitudes, expectations, principles, goals, and standards of a culture}}.	
+{{c1::Culture}} is {{c2::a construct concerning the set of behaviors, artifacts, values, norms, assumptions, knowledge, and goals of a society}}.	
+{{c1::A price leader strategy (price-based competitive advantage, price leadership)}} is {{c2::a competitive advantage dimension that achieves a competitive advantage through a cost-based price leader strategy and an evaluation-oriented price leader strategy}}.	
+{{c1::A competitive advantage}} is {{c2::an advantage that arises through the development of a USP from core activities and capabilities}}. {{c1::A competitive advantage}} arises through {{c2::operational effectiveness and strategic positioning}}.	
+{{c1::An operational organization}} is the structuring of a company into {{c2::organizational subunits}} that are classified according to {{c3::the sequence of business operations}}.	
+{{c1::A structural organization}} is the structuring of a company into {{c2::organizational subunits}} that are classified according to {{c3::the tasks and competencies of the individual subunits}}.	
+In {{c1::the structural organization}}, a distinction is made between {{c2::management positions}} and {{c2::execution positions}}.	
+{{c1::Planning}} consists of {{c2::all measures and considerations}} that make it possible to find, from {{c2::a number of alternatives for solving a problem, the alternative that is more favorable with respect to a goal}}.	
+{{c1::Planning}} is carried out {{c2::through scenario techniques}} with corresponding definitions and probabilities of occurrence.	
+"<p>Planning consists of:</p>
+<ul>
+<li>{{c1::coordination of activities}}</li>
+<li>{{c1::definition of strategies and goals}}</li>
+<li>{{c1::setting priorities}}</li>
+<li>{{c1::making decisions}}</li>
+</ul>"	
+"Planning is usually a process of several steps:<br />
+{{c1::goal formation}} -&gt; {{c2::problem analysis}} -&gt; {{c3::search for and evaluation of alternatives (iterative)}} -&gt; {{c4::decision}} -&gt; {{c5::realization}} -&gt; {{c6::control}}"	
+"{{c1::An externality}} is {{c2::costs or benefits}} of {{c2::the decisions of one party}} that influence {{c2::the welfare}} of {{c2::uninvolved third parties}}.<br />
+{{c1::{{c2::<img src=""2021-Bild-Sieg-Wohlfahrtsverlust.png"" alt=""""><br />
+Welfare loss}}}}"	
+"{{c1::Externalities}} can {{c2::lead to market failure}} if the costs generated by the {{c1::externality}} are {{c3::not borne by the seller}}, because a welfare loss arises.<br />
+{{c1::{{c2::{{c3::<img src=""2021-Bild-Sieg-Wohlfahrtsverlust.png"" alt=""""><br />
+Welfare loss}}}}}}"	
+An externality can be positive or negative. Positive externalities lead to {{c1::self-fulfilling expectations}}, whereas negative externalities lead to {{c1::self-defeating expectations}}.	
+{{c1::An individualization lock-in effect}} is {{c2::a lock-in effect that arises through a high degree of personalization or individualization of services for customers}}.	
+There is a correlation between {{c1::environmental performance}} and {{c2::financial success}}, in which {{c3::a lower CO2 balance}} leads to a {{c3::higher return on assets and Tobin's Q}}.	
+{{c1::The span of control}} is {{c2::the factor of levels that indicates the number of positions on the second level}}.	
+"{{c1::A Digital IT (Agile IT, Mode 2 IT)}} is an IT that focuses on {{c2::agility}}, {{c2::speed}}, and {{c2::innovation}}.<br />
+{{c1::A Digital IT}} is used for {{c3::customer-centered services}}."	
+"{{c1::Digital innovation}} is {{c2::a good, process, or business model}} that {{c3::is perceived as new}}, {{c3::contains fundamental changes}}, and {{c3::is embodied in or through IT}}. {{c1::Digital innovation}} creates a new form of value through {{c4::digitalization}}.<br />
+{{c1::{{c2::{{c3::{{c4::<img src=""2025-Bild-Schellhammer-Digital_Innovation.png"" alt=""""><br />
+Digital innovation}}}}}}}}"	
+{{c1::Human capital}} is {{c2::a production factor}} in the form of {{c2::skills, knowledge, ideas, and commitment of the workforce}}.	
+"{{c1::A lock-in effect (vendor lock-in)}} is {{c2::the difficult system switch caused by product-policy or marketing-based measures}} through {{c3::the increase in the costs of switching systems}}.<br />
+{{c1::{{c2::{{c3::<img src=""2022-Bild-Stockhinger-Microsoft_Windows_business_canvas.png"" alt=""""><br />
+Lock-in effect using Microsoft Windows as an example}}}}}}"	
+{{c1::Expectancy theory}} is a theory for explaining {{c2::work motivation}}, according to which {{c3::human behavior is influenced by positive and negative gratification, which is why people are motivated to pursue positive and desirable goals}}.	
+"{{c1::Maslow's hierarchy of needs}} is {{c2::a hierarchical arrangement of needs}} in which {{c2::the next higher need can only be satisfied once the hierarchically subordinate need has been satisfied}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Wikipedia-Dynamische_Beduerfnishierarchie_nach_Abraham_Maslow.svg"" alt=""""><br />
+Dynamic representation of the hierarchy of needs}}}}"	
+Maslow's hierarchy of needs is {{c1::theoretically}} grounded and empirically {{c1::only insufficiently}} verifiable.	
+"{{c1::A functional structure}} is {{c2::an organizational form in which employees are grouped according to similar tasks, functions, or fields of expertise}}. {{c1::A functional structure}} connects {{c3::expertise and knowledge in one area with decision-making about it}}.<br />
+{{c1::{{c2::{{c3::<img src=""2025-Bild-Schellhammer-Funktionale_Struktur.png"" alt=""""><br />
+Functional structure}}}}}}"	
+"{{c1::The commoditization of IT}} is {{c2::the ubiquity, omnipresence, high capacity, and availability of IT}}. Due to omnipresence and availability, an individual organization can no longer create a competitive advantage through IT.<br />
+{{c1::{{c2::<img src=""2003-Bild-Carr-Commoditization_von_IT.png"" alt=""""><br />
+Commoditization of the rail network, electricity, and computers}}}}"	
+"{{c1::A Smart Connected Product}} is {{c2::a smart product that enables external connectivity in order to exchange data and thus enables new capabilities outside the physical product}}. {{c1::Smart Connected Products}} extend {{c3::the value chain of a product}}.<br />
+{{c1::{{c2::{{c3::<img src=""2014-Bild-Porter-Heppelman-Technology_Stack_von_Smart_Connected_Products.png"" alt=""""><br />
+Technology stack of Smart Connected Products}}}}}}"	
+"<p>IT/IS strategy implementation consists of several steps:</p>
+<ol>
+<li>{{c1::definition of strategic goals}}</li>
+<li>{{c1::translation of strategic goals into business requirements}}</li>
+<li>{{c1::development of an architecture}}</li>
+<li>{{c1::derivation of the information infrastructure through the architecture}}</li>
+</ol>"	
+{{c1::Transformational leadership}} is {{c2::proactive leadership in which a leader changes existing organizational structures and encourages employees to achieve goals together}}. {{c1::Transformational leadership}} inspires employees and supports them individually.	
+{{c1::Work specialization (job design)}} is {{c2::the extent to which tasks can be broken down into individual activities and assigned to individual employees as specific responsibilities}}. {{c1::Work specialization}} leads to {{c3::employees performing highly specialized tasks and activities}}.	
+{{c1::Sequential ambidexterity (temporal ambidexterity)}} is {{c2::ambidexterity in which an organization can switch between exploration and exploitation}}. In {{c1::sequential ambidexterity}}, {{c3::exploration and exploitation are separated by time}}.	
+{{c1::Ambidexterity}} is {{c2::a dynamic capability for enabling exploration and exploitation simultaneously through existing resources}}. {{c1::Ambidexterity}} combines {{c3::the adaptation of solutions and the improvement of existing solutions}}.	
+"{{c1::Porter's Generic Strategies}} is {{c2::an opportunity framework for classifying value with respect to the source and scope of competitive advantage}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Teubner-Porter's_Generic_Strategies.png"" alt=""""><br />
+Porter's Generic Strategies}}}}"	
+"<p>Porter's Generic Strategies consists of:</p>
+<ul>
+<li>{{c1::Cost Focus}}: {{c1::differentiated market coverage and cost leadership as a competitive advantage}}</li>
+<li>{{c1::Cost Leadership}}: {{c1::undifferentiated market coverage and cost leadership as a competitive advantage}}</li>
+<li>{{c1::Differentiation}}: {{c1::undifferentiated market coverage and differentiation as a competitive advantage}}</li>
+<li>{{c1::Differentiation Focus}}: {{c1::differentiated market coverage and differentiation as a competitive advantage}}</li>
+</ul>"	
+{{c1::Porter's Five Forces}} is {{c2::an opportunity framework for analyzing market positioning within the market-based view}}.	
+"<p>Porter's Five Forces consists of:</p>
+<ul>
+<li>{{c1::customers and their bargaining power}}</li>
+<li>{{c1::suppliers and their bargaining power}}</li>
+<li>{{c1::barriers to market entry and potential market entrants}}</li>
+<li>{{c1::rivalry from competitors with similar products and services}}</li>
+<li>{{c1::substitution by other products and services}}</li>
+</ul>"	
+{{c1::A business case}} is {{c2::a justified decision template that shows how a planned organizational measure or initiative contributes to improving a company's financial performance}}.	
+"{{c1::A service}} is {{c2::a set of functions and the resulting behavior that an object provides to its environment and thereby creates value}}.<br />
+{{c1::{{c2::<img src=""2024-Bild-Schoenberger-Service-Definition.png"" alt=""""><br />
+Service Definition}}}}"	
+{{c1::Agility is the ability}} {{c2::to recognize a changing environment and the resulting innovation opportunities and to use them quickly, but also effectively}}	
+{{c1::Contextual ambidexterity}} is {{c2::the integration of exploration and exploitation into the processes and systems of an organization, specifically into an organizational unit}}.	
+{{c1::Structural ambidexterity}} is {{c2::the separation of exploration and exploitation into individual organizational units}}.	
+{{c1::Organizational ambidexterity}} is {{c2::the ability of an organization to use the dynamics between exploration and exploitation}}.	
+{{c1::The market-based view}} is {{c2::a view of strategy which assumes that a competitive advantage is created through adaptability, market positioning, and timing within a market as well as strategic positioning in that market}}.	
+A {{c1::competitive advantage}} in {{c2::the market-based view}} can be created through price positioning.	
+{{c1::The resource-based view}} is {{c2::a view of strategy which assumes that a competitive advantage is created through unique, valuable, non-imitable, and non-substitutable resources according to the VRIN framework or VRIO framework}}.	
+"{{c1::A strategy}} is {{c2::a long-term flexible orientation framework for future actions and planning for achieving goals and advantages in a changing environment through the use of resources in operational measures in order to fulfill stakeholder expectations}}.<br />
+{{c1::{{c2::<img src=""2022-Bild-Wiesel-Ziele_Strategien_Massnahmen.png"" alt=""""><br />
+Goals, strategies, and measures in context}}}}"	
+"<p>A strategy is:</p>
+<ul>
+<li>{{c1::pattern of activities}}</li>
+<li>{{c1::perspective, vision, and orientation}}</li>
+<li>{{c1::plan for implementation}}</li>
+<li>{{c1::ploy to outsmart competitors}}</li>
+<li>{{c1::position consisting of products and services in a market}}</li>
+</ul>"	
+"<p>{{c1::A strategy}} has the following characteristics:</p>
+<ul>
+<li>{{c2::influenced by external influences and competition of an organization}}</li>
+<li>{{c2::relation to the survival and profitability of the company}}</li>
+<li>{{c2::set of activities}}</li>
+<li>{{c2::includes major decisions for broad areas of an enterprise}}</li>
+<li>{{c2::future-oriented}}</li>
+</ul>"	
+{{c1::A value chain}} is {{c2::the sum of all technological and economic activities of an enterprise for conducting business and creating value}}.	
 "{{c1::An innovation}} is {{c2::the invention and application of a good}} as well as the intersection of {{c3::technologies, enterprises, and values}}. {{c1::Innovation}} is also understood as {{c4::a new idea, a new practice, or a new object that is perceived as new by an adopter}}.<br />
 {{c1::{{c2::{{c3::<img src=""2022-Bild-Stockhinger-Erfindung_und_Innovation.png"" alt=""""><br />
 Invention and Innovation}}}}}}"	

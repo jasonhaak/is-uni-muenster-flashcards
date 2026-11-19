@@ -1,17 +1,11 @@
 #separator:tab
 #html:true
 "true or false:<br />
-Business process management can prevent innovation when it primarily supports exploitation instead of exploration."	"true:<br />
+Business process management can prevent innovation when it primarily supports exploitation instead of exploration."	"true:<br>
 Business process management often prevents innovation because it frequently prioritizes exploitation over exploration."
 "true or false:<br />
 Digital Traces are only relevant for Process Science if they do not contain temporal information."	"false:<br />
 Digital Traces contain time-related information that can be analyzed and enable the analysis of socio-technical phenomena."
-{{c1::A Digital Trace}} is {{c2::a recorded activity that is generated and left behind when people use digital technologies in socio-technical systems}}.	
-{{c1::Process Sophistication}} is {{c2::the use of a variety of process design methods to create experiences that go beyond customer requirements}}.	
-{{c1::The automation of Control Flow}} is {{c2::the automation of multiple processes orchestrated by a Workflow Management System}}.	
-{{c1::Conversational Business Process Management}} is {{c2::the management of business processes through natural language}}.	
-{{c1::A transactional process}} is {{c2::a process that distinguishes process steps into discrete steps as active elements and passive elements}}.	
-{{c1::Concept Drift}} is {{c2::a slow but continuous change in behavior toward processes}}.	
 "Example:<br />
 Factors of business process management culture"	"<ul>
 <li>attitude and behavior toward business process management</li>
@@ -19,27 +13,20 @@ Factors of business process management culture"	"<ul>
 <li>leadership responsibility for business process management</li>
 <li>reaction and responsiveness to process changes</li>
 </ul>"
-{{c1::Business process management culture}} is {{c2::the culture and behavior of an organization toward business process management}}.	
 "Question:<br />
 What role do people play in business process management?"	People in business process management contribute skills and knowledge, cooperate and communicate to achieve process outcomes, and may need to be trained.
 "Question:<br />
 How does Information Technology support business process management in the process lifecycle?"	Information Technology supports business process management through solutions and tools for process design and process modeling, IT-supported process implementation through automation and workflow engines, and automated process control.
 "Question:<br />
 Which phases does the process lifecycle include?"	The process lifecycle includes process design and process modeling, process implementation and process execution, process control, and process improvement and process innovation.
-{{c1::Methods of business process management}} are {{c2::capabilities, tools, and techniques for performing business process management and managing the process lifecycle}}.	
-{{c1::Process management control}} is {{c2::a component of business process management governance for controlling the quality of processes}}.	
 "true or false:<br />
 Process management standards can remain informal as long as they are understood locally."	"false:<br />
 Process management standards must be clearly defined, documented, and coordinated within the organization."
-{{c1::Process management standards}} are {{c2::standards for process management as a component of business process management governance}}.	
 "Question:<br />
 What must be defined for the governance of business process management?"	Decision-making processes must be defined and consistently enforced for the governance of business process management.
-{{c1::Governance of business process management}} is {{c2::the distribution of responsibilities and roles for business process management}}.	
-{{c1::An Enterprise Process Architecture}} is {{c2::the highest abstraction level of a value chain of business processes}}.	
 "true or false:<br />
 Corporate strategy and business processes are connected only one-way in BPM Strategy Alignment."	"false:<br />
 Corporate strategy and business processes are connected bidirectionally and are influenced by stakeholders and customer groups."
-{{c1::Strategy Alignment of business process management}} is {{c2::the connection of organizational goals with business processes to improve corporate performance}}.	
 "Example:<br />
 Properties of process awareness"	"<ul>
 <li>awareness of the Full Stack</li>
@@ -47,8 +34,6 @@ Properties of process awareness"	"<ul>
 <li>awareness of the end-to-end view of the process</li>
 <li>awareness of value creation for users</li>
 </ul>"
-{{c1::Process awareness}} is {{c2::the perception of a process to be executed by software or hardware}}.	
-{{c1::A Capability Maturity Model}} is {{c2::a Maturity Model for identifying the maturity level of mature and immature software organizations}}.	
 "Question:<br />
 Which phases does the lifecycle of business process management include?"	The lifecycle of business process management includes Identify, Model, Analyze, Improve, Implement, Execute, Monitor, and Change.
 "Example:<br />
@@ -66,15 +51,6 @@ Which steps does conducting interviews include?"	Conducting interviews includes 
 "true or false:<br />
 A semi-structured interview combines structured and unstructured interview elements."	"true:<br />
 It combines prepared topics with situational flexibility in the interaction."
-{{c1::A semi-structured interview}} is {{c2::an interview with a specific set of topics and, at the same time, flexibility in the interaction}}.	
-{{c1::An Observation}} is {{c2::a qualitative method for observing subjects in an environment}}.	
-{{c1::Field research}} is {{c2::a qualitative method for observing people in order to build an understanding of them and their environment}}.	
-{{c1::A Case Study}} is {{c2::a qualitative method for describing a person, group, or organization}}.	
-{{c1::Action Research}} is {{c2::a qualitative method for empowering people to work collaboratively on a change or problem solution}}.	
-{{c1::Narrative Inquiry}} is {{c2::a qualitative method for discovering and analyzing existing and new perspectives}}.	
-{{c1::Ethnography}} is {{c2::a qualitative method for analyzing characteristic properties of people with a specific cultural background}}.	
-{{c1::Grounded Theory}} is {{c2::a qualitative method for developing an analysis from the empirical material}}.	
-{{c1::Phenomenology}} is {{c2::a qualitative method for analyzing experiences that individuals have had}}.	
 "Example:<br />
 Perspectives of qualitative research"	"<ul>
 <li>Interpretation: Reality is mediated through social constructs and described through phenomena.</li>
@@ -84,7 +60,6 @@ Perspectives of qualitative research"	"<ul>
 </ul>"
 "Question:<br />
 What is a Mixed-Methods approach used for?"	A Mixed-Methods approach is used to generalize results, contextualize them, or increase the credibility of the research findings.
-{{c1::Mixed-Methods research}} is {{c2::the combination of quantitative and qualitative research}}.	
 "Example:<br />
 Types of qualitative research"	"<ul>
 <li>document analysis</li>
@@ -93,9 +68,6 @@ Types of qualitative research"	"<ul>
 <li>Observation</li>
 <li>surveys</li>
 </ul>"
-{{c1::A Management Process}} is {{c2::a process for managing processes}}.	
-{{c1::A Support Process}} is {{c2::a process that supports the Core Process}}.	
-{{c1::A Core Process}} is {{c2::the intentional and value-creating process of an organization or system}}.	
 "Question:<br />
 Which steps does Process Science include?"	Process Science includes Discovery for identifying the phenomenon, Explanation for examining the underlying socio-technical process dynamics, and Intervention for influencing these processes.
 "Example:<br />
@@ -105,19 +77,16 @@ Properties of Process Science"	"<ul>
 <li>scientific investigation</li>
 <li>changing processes to create practical insights</li>
 </ul>"
-{{c1::Process Science}} is {{c2::the science of processes and changes in socio-technical systems over time}}.	
 "Question:<br />
 What creates the need for agile processes?"	The need for agile processes arises from economic and political instability, because process design must therefore respond more quickly to changing environmental conditions.
 "Question:<br />
 Which elements does the BPM Billboard include?"	The BPM Billboard includes strategy, context, capabilities, projects and programs, and results in order to systematically connect BPM initiatives with organizational goals.
-{{c1::The BPM Billboard}} is {{c2::a framework for planning, scoping, and integrating BPM projects}}.	
-{{c1::The interpretation of data analyses}} is {{c2::the processing, evaluation, interpretation, and integration of data from different data sources}}.	
 "Question:<br />
 What does the cultivation of Business Process Management require in organizations?"	The cultivation of Business Process Management requires adaptation and acceptance of BPM by the people of an organization as well as modeling languages that support different paradigms and constructs.
 "Question:<br />
 Why is the operationalization of Smart Devices through BPM safety-critical?"	It is safety-critical because Smart Devices, unlike purely digital environments, affect the physical environment and faulty process coordination can therefore have real effects.
 "true or false:<br />
-Smart Devices in BPM only increase automation, but not the unpredictability of process changes."	"false:<br />
+Smart Devices in BPM only increase automation, but not the unpredictability of process changes."	"false:<br>
 Smart Devices act as artificial actors in distributed BPM and can thereby increase the unpredictability of process changes."
 "Question:<br />
 What does the operationalization of Business Process Management mean?"	The operationalization of Business Process Management means applying BPM in practice despite persistent uncertainty, missing data, heterogeneous technologies, and unknown challenges to technologies, data, and organizational components.
@@ -126,16 +95,11 @@ A single stable data source is sufficient for the operationalization of BPM."	"f
 For operationalization, many different data sources, devices, and channels must be integrated into processes."
 "Question:<br />
 What does the democratization of Business Process Management require?"	The democratization of Business Process Management requires quantitative scaling and qualitative improvement of BPM so that many processes remain manageable and the process lifecycle can be run through faster.
-{{c1::Big Data Analytics}} is {{c2::the automated analysis of large and complex data sets from business processes and their environments in order to identify patterns, trends, and relationships}}.	
-{{c1::Real-Time Computing}} is {{c2::the ability to process and analyze data almost in real time}}.	
-{{c1::Social Computing}} is {{c2::a paradigm that enables digital networking and collaboration among individuals via social platforms and technologies}}.	
 "true or false:<br />
 A Hyper-Connected World automatically reduces the complexity of resource allocation."	"false:<br />
 A Hyper-Connected World arises through digital transformation and creates additional complexity in resource allocation."
-{{c1::A Hyper-Connected World}} is {{c2::a society in which human and artificial actors are connected through different communication channels}}.	
 "Question:<br />
 Which factors shape the cultivation of Business Process Management?"	The cultivation of Business Process Management is shaped by organization and governance of BPM as well as psychological effects.
-{{c1::The scaling of Business Process Management}} reaches its peak when {{c2::an organization manages all of its operations with process management solutions}}.	
 "Example:<br />
 Challenges of Business Process Management"	"<ul>
 <li>democratization of Business Process Management</li>
@@ -154,19 +118,11 @@ An interview guide should be clear and follow a comprehensible argumentative flo
 How does moderation influence the depth of insight of a Focus Group?"	Less thematic moderation opens a broader topic area, while strict moderation enables a deeper discussion within a narrower topic area.
 "Question:<br />
 How should the group size of a Focus Group be adapted to the topic?"	For neutral topics, a larger group can make many perspectives visible, whereas emotional topics should rather be discussed intensively and in a controlled way in smaller groups.
-{{c1::A Focus Group}} is {{c2::a method for collecting data through group interaction that is thematically moderated by a group leader}}.	
-{{c1::A structured interview}} is {{c2::an interview with a specific set of questions}}.	
-{{c1::An unstructured interview}} is {{c2::an interview in which the interviewer has only limited control over the direction of the interview}}.	
-"{{c1::A process map}} is {{c2::a visual representation of the flow of business processes into process areas, core processes, sub-processes, and individual activities}}.<br />
-{{c1::{{c2::<img src=""2025-Bild-Vom_Brocke-Kurihara-Mueller-Process_Map.png"" alt=""""><br />
-Process map}}}}"	
 "true or false:<br />
 A Smart Device is a device that can collect data about users and their environment."	"true:<br />
 A Smart Device can collect data about users and their environment and thereby act as an artificial actor."
-{{c1::A Smart Device}} is {{c2::a device that can extend its physical properties through specific capabilities and acts as an artificial actor}}.	
 "Question:<br />
 Which methods can be used for process modeling?"	Informal methods or formal modeling notations can be used for process modeling, provided that the modeled processes are designed efficiently so they can be operationalized and reused.
-{{c1::Process automation}} is {{c2::the ability to use business processes in such a way that they independently fulfill defined decisions and goals}}.	
 "Example:<br />
 Core elements of business process management"	"<ul>
 <li>Governance</li>
@@ -176,12 +132,8 @@ Core elements of business process management"	"<ul>
 <li>Strategy Alignment</li>
 <li>Information Technology</li>
 </ul>"
-"{{c1::Business process management (BPM)}} is {{c2::an interdisciplinary approach to establishing organizational capabilities for the management and design of business processes in organizations to support the achievement of organizational goals}}.<br />
-{{c1::{{c2::<img src=""2023-Bild-Krcmar-BPM_Maturity_Model.png"" alt=""""><br />
-BPM Maturity Model}}}}"	
 "Question:<br />
 What is the criticism of existing Information Systems research on digital transformation with regard to sustainability?"	That it focuses too strongly on economic sustainability and neglects social and ecological sustainability, even though these are crucial for a holistic transformation.
-{{c1::Digital transformation}} is {{c2::the use of new digital technologies to enable substantial organizational improvements}}.	
 "Question:<br />
 Which steps does a process include from an input-transformation-output perspective?"	A process includes input, transformation, and output, whereby inputs are converted into an outcome.
 "Example:<br />
@@ -192,9 +144,57 @@ Properties of a process"	"<ul>
 <li>quality</li>
 <li>time</li>
 </ul>"
+"Question:<br />
+What challenge exists in business process management and digital technologies?"	In business process management, it is often unclear how digital technologies should be integrated into processes, organizational structures, and management practices.
+{{c1::A Digital Trace}} is {{c2::a recorded activity that is generated and left behind when people use digital technologies in socio-technical systems}}.	
+{{c1::Process Sophistication}} is {{c2::the use of a variety of process design methods to create experiences that go beyond customer requirements}}.	
+{{c1::The automation of Control Flow}} is {{c2::the automation of multiple processes orchestrated by a Workflow Management System}}.	
+{{c1::Conversational Business Process Management}} is {{c2::the management of business processes through natural language}}.	
+{{c1::A transactional process}} is {{c2::a process that distinguishes process steps into discrete steps as active elements and passive elements}}.	
+{{c1::Concept Drift}} is {{c2::a slow but continuous change in behavior toward processes}}.	
+{{c1::Business process management culture}} is {{c2::the culture and behavior of an organization toward business process management}}.	
+{{c1::Methods of business process management}} are {{c2::capabilities, tools, and techniques for performing business process management and managing the process lifecycle}}.	
+{{c1::Process management control}} is {{c2::a component of business process management governance for controlling the quality of processes}}.	
+{{c1::Process management standards}} are {{c2::standards for process management as a component of business process management governance}}.	
+{{c1::Governance of business process management}} is {{c2::the distribution of responsibilities and roles for business process management}}.	
+{{c1::An Enterprise Process Architecture}} is {{c2::the highest abstraction level of a value chain of business processes}}.	
+{{c1::Strategy Alignment of business process management}} is {{c2::the connection of organizational goals with business processes to improve corporate performance}}.	
+{{c1::Process awareness}} is {{c2::the perception of a process to be executed by software or hardware}}.	
+{{c1::A Capability Maturity Model}} is {{c2::a Maturity Model for identifying the maturity level of mature and immature software organizations}}.	
+{{c1::A semi-structured interview}} is {{c2::an interview with a specific set of topics and, at the same time, flexibility in the interaction}}.	
+{{c1::An Observation}} is {{c2::a qualitative method for observing subjects in an environment}}.	
+{{c1::Field research}} is {{c2::a qualitative method for observing people in order to build an understanding of them and their environment}}.	
+{{c1::A Case Study}} is {{c2::a qualitative method for describing a person, group, or organization}}.	
+{{c1::Action Research}} is {{c2::a qualitative method for empowering people to work collaboratively on a change or problem solution}}.	
+{{c1::Narrative Inquiry}} is {{c2::a qualitative method for discovering and analyzing existing and new perspectives}}.	
+{{c1::Ethnography}} is {{c2::a qualitative method for analyzing characteristic properties of people with a specific cultural background}}.	
+{{c1::Grounded Theory}} is {{c2::a qualitative method for developing an analysis from the empirical material}}.	
+{{c1::Phenomenology}} is {{c2::a qualitative method for analyzing experiences that individuals have had}}.	
+{{c1::Mixed-Methods research}} is {{c2::the combination of quantitative and qualitative research}}.	
+{{c1::A Management Process}} is {{c2::a process for managing processes}}.	
+{{c1::A Support Process}} is {{c2::a process that supports the Core Process}}.	
+{{c1::A Core Process}} is {{c2::the intentional and value-creating process of an organization or system}}.	
+{{c1::Process Science}} is {{c2::the science of processes and changes in socio-technical systems over time}}.	
+{{c1::The BPM Billboard}} is {{c2::a framework for planning, scoping, and integrating BPM projects}}.	
+{{c1::The interpretation of data analyses}} is {{c2::the processing, evaluation, interpretation, and integration of data from different data sources}}.	
+{{c1::Big Data Analytics}} is {{c2::the automated analysis of large and complex data sets from business processes and their environments in order to identify patterns, trends, and relationships}}.	
+{{c1::Real-Time Computing}} is {{c2::the ability to process and analyze data almost in real time}}.	
+{{c1::Social Computing}} is {{c2::a paradigm that enables digital networking and collaboration among individuals via social platforms and technologies}}.	
+{{c1::A Hyper-Connected World}} is {{c2::a society in which human and artificial actors are connected through different communication channels}}.	
+{{c1::The scaling of Business Process Management}} reaches its peak when {{c2::an organization manages all of its operations with process management solutions}}.	
+{{c1::A Focus Group}} is {{c2::a method for collecting data through group interaction that is thematically moderated by a group leader}}.	
+{{c1::A structured interview}} is {{c2::an interview with a specific set of questions}}.	
+{{c1::An unstructured interview}} is {{c2::an interview in which the interviewer has only limited control over the direction of the interview}}.	
+"{{c1::A process map}} is {{c2::a visual representation of the flow of business processes into process areas, core processes, sub-processes, and individual activities}}.<br />
+{{c1::{{c2::<img src=""2025-Bild-Vom_Brocke-Kurihara-Mueller-Process_Map.png"" alt=""""><br />
+Process map}}}}"	
+{{c1::A Smart Device}} is {{c2::a device that can extend its physical properties through specific capabilities and acts as an artificial actor}}.	
+{{c1::Process automation}} is {{c2::the ability to use business processes in such a way that they independently fulfill defined decisions and goals}}.	
+"{{c1::Business process management (BPM)}} is {{c2::an interdisciplinary approach to establishing organizational capabilities for the management and design of business processes in organizations to support the achievement of organizational goals}}.<br />
+{{c1::{{c2::<img src=""2023-Bild-Krcmar-BPM_Maturity_Model.png"" alt=""""><br />
+BPM Maturity Model}}}}"	
+{{c1::Digital transformation}} is {{c2::the use of new digital technologies to enable substantial organizational improvements}}.	
 "{{c1::A process}} is {{c2::a substantively complete, temporally and logically ordered sequence of elementary functions, between which connections exist due to logic, causality, or temporal relations and which serve the achievement of a defined goal}}.<br />
 {{c1::{{c2::<img src=""2023-Bild-Krcmar-Prozess.png"" alt=""""><br />
 Schematic representation of a process}}}}"	
 {{c1::A process}} consists of a {{c2::main process}}, which consists of a set of {{c2::subprocesses}}, which consist of a set of {{c2::lower-level subprocesses}}, which consist of a set of {{c2::activities}}.	
-"Question:<br />
-What challenge exists in business process management and digital technologies?"	In business process management, it is often unclear how digital technologies should be integrated into processes, organizational structures, and management practices.
